@@ -1,40 +1,74 @@
-"""淘宝/天猫适配器（enricher）—— 真实「销量/评价」，接入后并入综合榜（待激活）。
+"""淘宝/天猫适配器（enricher）—— 用登录态 Playwright 抓真实价格/销量/评价，并入综合榜。
 
-目标：给每款机型补 it.platforms["taobao"] = {"price","reviews","sales","sales_rank",...}，
-管线会把它与 Amazon/京东 归一化平均，得出「综合最火 / 综合最畅销」。
+激活步骤同京东：
+  1) playwright 安装；2) python3 scripts/login_cn.py taobao（扫码登录）；
+  3) 在 TAOBAO_ITEM 里登记 机型id -> 商品 URL（或留空走搜索兜底）；4) 跑 crawler。
 
-⚠️ 淘宝/天猫的销量与评价基本都在**登录态 + 强风控**之后，裸 HTTP 不可得。激活方式：
-  A. 淘宝开放平台 / 淘宝客 API（需 appkey 与备案，最合规）；
-  B. Playwright 带登录 Cookie 抓商品页（storage_state 预登录）；
-  C. 人工导出。
-拿到后写入 it.platforms["taobao"]，并追加 it.sources 一条来源。
+写入 it.platforms["taobao"] = {"price","sales","reviews","currency":"CNY"}。
+淘宝风控更严，登录态下也可能需要人机验证；抓不到一律跳过，不影响其他平台。
+选择器为最佳努力版，按实际 DOM 微调。
 """
 
 from __future__ import annotations
 
-from schema import Item
+import re
+from pathlib import Path
+
+from schema import Item, Source
 from .base import Adapter
 
-TAOBAO_ITEM: dict[str, str] = {}   # id -> 商品 itemId 或 URL（接入时填）
+SESSION = Path(__file__).resolve().parent.parent / ".cn_session" / "taobao.json"
+TAOBAO_ITEM: dict[str, str] = {
+    # "汉印-z6": "https://item.taobao.com/item.htm?id=<id>",
+}
+
+
+def _num(s: str):
+    m = re.search(r"([\d.]+)\s*万", s or "")
+    if m:
+        return int(float(m.group(1)) * 10000)
+    m = re.search(r"([\d,]+)", s or "")
+    return int(m.group(1).replace(",", "")) if m else None
 
 
 class TaobaoAdapter(Adapter):
     name = "淘宝"
 
     def enrich(self, category_id: str, items: list[Item]) -> None:
-        if not TAOBAO_ITEM:
-            print("  · 淘宝: 未配置商品/接入方式，跳过（待接入；见 taobao.py 顶部）")
+        if not SESSION.exists():
+            print("  · 淘宝: 未发现登录会话，跳过（先跑 scripts/login_cn.py taobao）")
             return
-        for it in items:
-            iid = TAOBAO_ITEM.get(it.id)
-            if not iid:
-                continue
-            try:
-                data = self._fetch(iid)
-                if data:
-                    it.platforms["taobao"] = data
-            except Exception as e:
-                print(f"  ! 淘宝抓取失败 {it.id}: {e}")
+        try:
+            from playwright.sync_api import sync_playwright
+        except ImportError:
+            print("  · 淘宝: 未装 playwright，跳过")
+            return
 
-    def _fetch(self, item_id: str) -> dict | None:
-        raise NotImplementedError("淘宝真实数据接入见本文件顶部 A/B/C 方案")
+        ok = 0
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            ctx = browser.new_context(storage_state=str(SESSION))
+            page = ctx.new_page()
+            for it in items:
+                url = TAOBAO_ITEM.get(it.id)
+                if not url:
+                    continue
+                try:
+                    page.goto(url, timeout=25000)
+                    page.wait_for_timeout(2500)
+                    txt = page.inner_text("body")
+                    price = re.search(r'¥\s*([\d]+\.?\d*)', txt)
+                    sales = re.search(r'(\d[\d.,]*\s*万?)\s*(?:人付款|人收货|月销|已售)', txt)
+                    reviews = re.search(r'累计评价\D*?([\d,]+)', txt) or re.search(r'(\d[\d.,]*\s*万?)\s*条评价', txt)
+                    it.platforms["taobao"] = {
+                        "currency": "CNY",
+                        "price": float(price.group(1)) if price else None,
+                        "sales": _num(sales.group(1)) if sales else None,
+                        "reviews": _num(reviews.group(1)) if reviews else None,
+                    }
+                    it.sources.append(Source(name="淘宝", url=url))
+                    ok += 1
+                except Exception as e:
+                    print(f"  ! 淘宝抓取失败 {it.id}: {str(e)[:50]}")
+            browser.close()
+        print(f"  · 淘宝: {ok}/{len(items)} 款拿到真实数据（登录态）")

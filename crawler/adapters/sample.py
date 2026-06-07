@@ -42,7 +42,7 @@ ASIN = {
     "fujifilm-instax-mini-41": "B0F2V7RKXH", "polaroid-now-gen2": "B0BVNMQ2XL",
     "polaroid-go-gen2": "B0CG7P9KTH", "polaroid-i-2": "B0D4RC69HB",
     "polaroid-now-plus-gen3": "B0DTTPR5T3", "polaroid-flip": "B0F993TYR9",
-    "kodak-smile-plus": "B0CQMNDL59",
+    "kodak-smile-plus": "B0CQMNDL59", "leica-sofort-2": "B0CNDBT3NX",
 }
 # 官方 MSRP（USD）作为价格兜底；amazon 适配器会用实时价覆盖。
 MSRP_USD = {
@@ -54,7 +54,8 @@ MSRP_USD = {
     "polaroid-i-2": 599.99, "fujifilm-instax-mini-12": 79.95,
     "polaroid-now-gen2": 99.99, "polaroid-go-gen2": 79.99,
     "fujifilm-instax-mini-evo": 199.95, "fujifilm-instax-mini-liplay": 159.95,
-    "kodak-smile-plus": 99.99,
+    "kodak-smile-plus": 99.99, "leica-sofort-2": 389.00,
+    "insta360-pocket-printer": 599.99, "hprt-z6-pro": 89.00, "canon-zoemini-s2": 149.99,
 }
 
 
@@ -328,6 +329,64 @@ _CAMERAS = [
         ],
         "pros": ["四镜头自动对焦很准", "暗光/强光都稳", "做工质感好"],
         "cons": ["比 Now 系列贵", "机身偏大"],
+    },
+    # ===== 非银盐：混合 / ZINK 免墨 / 热升华（品类不止富士宝丽来）=====
+    {
+        "id": "leica-sofort-2", "name": "Leica Sofort 2", "brand": "Leica",
+        "release": "2023-11-10", "tags": ["混合", "徕卡", "可选打印"],
+        "summary": "徕卡混合式拍立得：数码取景先看后印，用 instax mini 相纸，徕卡调性 + FOTOS App。",
+        "specs": [
+            ("成像技术", "混合式（数码 + instax mini 打印）", ["Leica 官网", "DPReview"]),
+            ("相纸", "instax mini", ["Leica 官网"]),
+            ("屏幕", "3.0 英寸 LCD", ["Leica 官网"]),
+            ("特效", "10 种镜头效果", ["Leica 官网"]),
+            ("App", "Leica FOTOS（可印手机/徕卡相机照片）", ["Leica 官网"]),
+            ("上市", "2023 年 11 月", ["Leica 新闻稿"]),
+        ],
+        "pros": ["徕卡质感与调色", "先看后印不浪费相纸", "能印其它徕卡机的片子"],
+        "cons": ["很贵", "本质仍是低像素数码"],
+    },
+    {
+        "id": "insta360-pocket-printer", "name": "Insta360 Ace Pro 2 即拍即打套装", "brand": "Insta360",
+        "release": "2025-11-12", "tags": ["ZINK 免墨", "运动相机", "新品"],
+        "summary": "Insta360 给 Ace Pro 2 运动相机配的 ZINK 口袋打印模块，拍完蓝牙即出 2×3 英寸免墨照片。",
+        "specs": [
+            ("成像技术", "ZINK 免墨热敏打印", ["Insta360 官网", "媒体评测"]),
+            ("相纸", "ZINK 2×3 英寸免墨相纸", ["Insta360 官网"]),
+            ("形态", "Ace Pro 2 运动相机 + 口袋打印机模块", ["Insta360 官网"]),
+            ("连接", "蓝牙快拆", ["Insta360 官网"]),
+            ("上市", "2025 年 11 月", ["Insta360 / 媒体"]),
+        ],
+        "pros": ["运动相机也能即拍即打", "ZINK 免墨、出片干燥防蹭"],
+        "cons": ["要先有 Ace Pro 2", "套装较贵"],
+    },
+    {
+        "id": "hprt-z6-pro", "name": "汉印 Z6 Pro", "brand": "汉印",
+        "release": "", "tags": ["热升华", "国产", "高画质"],
+        "summary": "国产热升华拍立得旗舰：1/3 英寸传感器 + 1.8 英寸触屏先看后印，热升华出片色彩细腻。汉印 2025 年拿下国内拍立得销量第一。",
+        "specs": [
+            ("成像技术", "热升华（染料升华）", ["汉印官网"]),
+            ("传感器", "1/3 英寸", ["汉印官网"]),
+            ("屏幕", "1.8 英寸触控预览", ["汉印官网"]),
+            ("特色", "一体式相纸/色带 + 5 款滤镜 + 蓝牙 App", ["汉印官网"]),
+            ("上市", "约 2025（以官方为准）", ["汉印官网"]),
+        ],
+        "pros": ["热升华画质细腻、色彩还原好", "一体式耗材好换", "国产价格友好"],
+        "cons": ["品牌海外认知度低", "耗材生态不如富士"],
+    },
+    {
+        "id": "canon-zoemini-s2", "name": "Canon Zoemini S2", "brand": "Canon",
+        "release": "2021-10-15", "tags": ["ZINK 免墨", "2合1", "便携"],
+        "summary": "佳能 2 合 1 ZINK 拍立得：自带补光环 + 自拍镜，支持圆形相纸打印，口袋便携。",
+        "specs": [
+            ("成像技术", "ZINK 免墨热敏打印", ["Canon 官网", "DPReview"]),
+            ("相纸", "ZINK 2×3 英寸（支持圆形相纸）", ["Canon 官网"]),
+            ("自拍", "自拍镜 + LED 补光环", ["Canon 官网"]),
+            ("形态", "相机 + 打印机 2 合 1", ["Canon 官网"]),
+            ("上市", "2021 年 10 月", ["Canon 新闻稿"]),
+        ],
+        "pros": ["自带补光环自拍友好", "圆形相纸有创意", "口袋便携"],
+        "cons": ["ZINK 画质一般", "已属旧款"],
     },
 ]
 

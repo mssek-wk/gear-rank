@@ -118,6 +118,15 @@
     "price": 99.99,
     "bsr": 12315
    }
+  },
+  "leica-sofort-2": {
+   "amazon": {
+    "asin": "B0CNDBT3NX",
+    "rating": 4.3,
+    "reviews": 17,
+    "price": 398.34,
+    "bsr": 150468
+   }
   }
  }
 }

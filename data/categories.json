@@ -8,7 +8,8 @@
       "icon": "camera",
       "enabled": true,
       "order": 1,
-      "description": "即时成像相机 —— 拍完即出片",
+      "description": "即拍即得相机 —— 拍完当场出片。不限成像技术：银盐(富士/宝丽来/徕卡)、ZINK 免墨(柯达/Insta360/佳能)、热升华(汉印/初照等) 均含在内。",
+      "scope": ["银盐", "ZINK 免墨", "热升华", "混合式"],
       "adapters": ["sample", "wikimedia", "official", "amazon", "jd", "taobao"],
       "currency": "CNY"
     }
