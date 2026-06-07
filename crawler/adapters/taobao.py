@@ -46,7 +46,8 @@ class TaobaoAdapter(Adapter):
 
         ok = 0
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
+            # 用「完整 chromium + --headless=new」无窗口运行，免去单独的 headless-shell 依赖
+            browser = p.chromium.launch(headless=False, args=["--headless=new"])
             ctx = browser.new_context(storage_state=str(SESSION))
             page = ctx.new_page()
             for it in items:
