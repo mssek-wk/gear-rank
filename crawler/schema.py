@@ -90,6 +90,11 @@ class Item:
     hot_score: float = 0.0
     sales_score: float = 0.0
 
+    # ---- 历史留存（pipeline 维护）----
+    first_seen: str = ""      # 首次进入榜单的日期 YYYY-MM-DD
+    last_seen: str = ""       # 最近一次被数据源抓到的日期
+    active: bool = True        # 本次更新是否仍在榜（False = 历史机型，仍展示）
+
     sources: list[Source] = field(default_factory=list)
 
     # ---- helpers ----

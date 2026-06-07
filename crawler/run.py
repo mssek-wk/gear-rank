@@ -59,12 +59,16 @@ def update_category(cat: dict) -> dict:
         print(f"  · 图片保鲜：{kept} 件沿用上次抓取的真实图")
 
     pipeline.score(items)
-    boards = pipeline.build_boards(items)
-    pipeline.write_category(cid, items, boards)
-    print(f"  ✓ 合并后 {len(items)} 件，已写入 data/{cid}/")
+    boards = pipeline.build_boards(items)              # 三榜：仅当前在榜机型
+    run_date = pipeline.now_iso()[:10]
+    merged = pipeline.merge_history(cid, items, run_date)  # 全部机型：累积保留历史
+    pipeline.write_category(cid, merged, boards)
+    active = sum(1 for d in merged if d.get("active"))
+    print(f"  ✓ 全部机型 {len(merged)} 件（在榜 {active} · 历史 {len(merged) - active}），已写入 data/{cid}/")
     return {"id": cid, "name": cat.get("name", cid),
             "name_en": cat.get("name_en", ""), "icon": cat.get("icon", ""),
-            "description": cat.get("description", ""), "count": len(items)}
+            "description": cat.get("description", ""),
+            "count": active, "total": len(merged)}
 
 
 def main() -> int:

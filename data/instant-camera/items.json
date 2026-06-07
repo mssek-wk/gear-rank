@@ -318,21 +318,24 @@
     "latest_score": 0.7147,
     "hot_score": 0.8919,
     "sales_score": 1.0,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 12",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥499"
@@ -617,16 +620,19 @@
     "latest_score": 0.9107,
     "hot_score": 1.0,
     "sales_score": 0.6364,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥899"
@@ -848,16 +854,19 @@
     "latest_score": 0.962,
     "hot_score": 0.8108,
     "sales_score": 0.3636,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥899"
@@ -1169,21 +1178,24 @@
     "latest_score": 0.4934,
     "hot_score": 0.9459,
     "sales_score": 0.8182,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥1099"
@@ -1400,16 +1412,19 @@
     "latest_score": 0.8093,
     "hot_score": 0.4054,
     "sales_score": 0.5455,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥799"
@@ -1691,21 +1706,24 @@
     "latest_score": 0.8278,
     "hot_score": 0.6216,
     "sales_score": 0.7273,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥499"
@@ -1967,21 +1985,24 @@
     "latest_score": 0.0,
     "hot_score": 0.2703,
     "sales_score": 0.9091,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥849"
@@ -2240,21 +2261,24 @@
     "latest_score": 1.0,
     "hot_score": 0.6757,
     "sales_score": 0.2727,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥1099"
@@ -2477,21 +2501,24 @@
     "latest_score": 0.7956,
     "hot_score": 0.3514,
     "sales_score": 0.4545,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥899"
@@ -2774,21 +2801,24 @@
     "latest_score": 0.8077,
     "hot_score": 0.5405,
     "sales_score": 0.0,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥4499"
@@ -3010,21 +3040,19 @@
     "latest_score": 0.6809,
     "hot_score": 0.1351,
     "sales_score": 0.1818,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥629"
@@ -3238,16 +3266,19 @@
     "latest_score": 0.5568,
     "hot_score": 0.0,
     "sales_score": 0.0909,
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
     "sources": [
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-06T15:26:38+00:00"
+        "fetched_at": "2026-06-07T04:48:00+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-06T15:27:05+00:00"
+        "fetched_at": "2026-06-07T04:48:49+00:00"
       }
     ],
     "price_display": "¥699"

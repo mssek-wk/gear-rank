@@ -380,3 +380,20 @@ body.viewing-detail #all { display: none; }
   .dhero { grid-template-columns: 1fr; }
   .reviews__cols { grid-template-columns: 1fr; gap: 1rem; }
 }
+
+/* ================= 全部机型：历史留存 ================= */
+.allctrls { display: flex; align-items: center; gap: 1.2rem; flex-wrap: wrap; }
+.histbox { display: inline-flex; align-items: center; gap: .45rem; font-size: .85rem; color: var(--text-secondary); cursor: pointer; user-select: none; }
+.histbox input { width: 16px; height: 16px; accent-color: var(--text); cursor: pointer; }
+
+.card--hist { opacity: .66; }
+.card--hist:hover { opacity: 1; }
+.card--hist .card__media { filter: grayscale(.35); }
+.card--hist:hover .card__media { filter: none; }
+.hist-flag {
+  position: absolute; top: .7rem; left: .7rem; z-index: 2;
+  font: 600 .66rem/1 var(--sans); letter-spacing: .04em;
+  color: var(--text-secondary); background: rgba(var(--surface-rgb), .92);
+  border: 1px solid var(--border); border-radius: 999px; padding: .28rem .5rem;
+  backdrop-filter: blur(4px);
+}

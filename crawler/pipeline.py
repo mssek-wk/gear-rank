@@ -128,12 +128,51 @@ def carry_over_images(category_id: str, items: list[Item]) -> int:
     return n
 
 
+# ---------- 历史留存（累积式，绝不删除老机型）----------
+
+def merge_history(category_id: str, items: list[Item], run_date: str) -> list[dict]:
+    """把本次抓到的商品与历史 items.json 做并集，实现「全部机型」累积保留：
+
+    - 本次抓到的：active=True，刷新 last_seen；first_seen 沿用历史首见日期（没有则今天）。
+    - 历史里有、本次没抓到的：保留整条，标 active=False（= 历史/已下架，仍在「全部机型」展示）。
+    返回合并后的 dict 列表（fresh 在前、历史在后）。
+    """
+    prev_file = DATA_DIR / category_id / "items.json"
+    prev: dict[str, dict] = {}
+    if prev_file.exists():
+        try:
+            prev = {p["id"]: p for p in json.loads(prev_file.read_text(encoding="utf-8"))}
+        except Exception:
+            prev = {}
+
+    out: list[dict] = []
+    fresh_ids = set()
+    for it in items:
+        fresh_ids.add(it.id)
+        it.active = True
+        it.last_seen = run_date
+        it.first_seen = (prev.get(it.id) or {}).get("first_seen") or run_date
+        out.append(it.to_dict())
+
+    carried = 0
+    for pid, pd in prev.items():
+        if pid in fresh_ids:
+            continue
+        pd = dict(pd)
+        pd["active"] = False           # 历史机型：保留展示，但不在本次榜单
+        out.append(pd)
+        carried += 1
+    if carried:
+        print(f"  · 历史留存：{carried} 件本次未上榜的老机型仍保留在「全部机型」")
+    return out
+
+
 # ---------- 落盘 ----------
 
-def write_category(category_id: str, items: list[Item], boards: dict) -> dict:
+def write_category(category_id: str, items_dicts: list[dict], boards: dict) -> dict:
+    """写入已合并好的 dict 列表（含历史机型）+ 三榜。"""
     out_dir = DATA_DIR / category_id
     out_dir.mkdir(parents=True, exist_ok=True)
-    items_dicts = [it.to_dict() for it in items]
     (out_dir / "items.json").write_text(
         json.dumps(items_dicts, ensure_ascii=False, indent=2), encoding="utf-8")
     (out_dir / "boards.json").write_text(

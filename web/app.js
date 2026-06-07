@@ -125,12 +125,26 @@
     'price-desc': (a, b) => (b.price_value ?? -1) - (a.price_value ?? -1),
   };
   function renderAll() {
-    const items = [...bucket(activeCat).items];
+    const all = bucket(activeCat).items;
+    const isActive = (it) => it.active !== false;          // 缺字段视为在榜（向后兼容）
+    const activeN = all.filter(isActive).length;
+    const histN = all.length - activeN;
+
+    const showHist = $('#histToggle') ? $('#histToggle').checked : true;
+    let items = showHist ? [...all] : all.filter(isActive);
+
     const mode = $('#sortSelect').value;
-    items.sort(SORTERS[mode] || SORTERS.sales);
-    $('#allDesc').textContent = `${items.length} 款${catName(activeCat)}，数据本地留存，每次更新自动重排。`;
+    const sorter = SORTERS[mode] || SORTERS.sales;
+    // 在榜机型永远排在历史机型前面；组内再按所选维度排
+    items.sort((a, b) => (isActive(b) - isActive(a)) || sorter(a, b));
+
+    $('#allDesc').textContent =
+      `共 ${all.length} 款${catName(activeCat)}（在榜 ${activeN}` +
+      (histN ? ` · 历史 ${histN}` : '') + `）—— 全部历史机型永久留存，本地存档。`;
+
     $('#allGrid').innerHTML = items.map(it => `
-      <a class="card" href="#item=${it.id}" data-reveal>
+      <a class="card ${isActive(it) ? '' : 'card--hist'}" href="#item=${it.id}" data-reveal>
+        ${isActive(it) ? '' : '<span class="hist-flag">历史</span>'}
         <div class="card__media">${mediaHTML(it)}</div>
         <span class="card__brand">${it.brand}</span>
         <span class="card__name">${it.name}</span>
@@ -430,6 +444,7 @@
 
   /* ---------- init ---------- */
   $('#sortSelect').addEventListener('change', renderAll);
+  if ($('#histToggle')) $('#histToggle').addEventListener('change', renderAll);
   renderHeader();
   renderPills();
   splitHero();

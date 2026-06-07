@@ -70,16 +70,22 @@
             <h2 class="scroll-float">全部机型</h2>
             <p class="section__desc" id="allDesc"></p>
           </div>
-          <label class="sortbox">
-            <span>排序</span>
-            <select id="sortSelect" aria-label="排序方式">
-              <option value="sales">最畅销</option>
-              <option value="hot">最火</option>
-              <option value="latest">最新</option>
-              <option value="price-asc">价格 低→高</option>
-              <option value="price-desc">价格 高→低</option>
-            </select>
-          </label>
+          <div class="allctrls">
+            <label class="histbox">
+              <input type="checkbox" id="histToggle" checked>
+              <span>含历史机型</span>
+            </label>
+            <label class="sortbox">
+              <span>排序</span>
+              <select id="sortSelect" aria-label="排序方式">
+                <option value="sales">最畅销</option>
+                <option value="hot">最火</option>
+                <option value="latest">最新</option>
+                <option value="price-asc">价格 低→高</option>
+                <option value="price-desc">价格 高→低</option>
+              </select>
+            </label>
+          </div>
         </header>
         <div class="grid grid--cards" id="allGrid"></div>
       </div>
