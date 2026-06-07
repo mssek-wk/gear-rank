@@ -3,6 +3,8 @@
 每日抓取硬件的「最新 / 最火 / 最畅销」，分类排布，**数据全部留存在本地**。
 当前品类：**拍立得**。结构按可扩展设计，后续加品类只改一个配置文件。
 
+🌐 **在线 Demo**：https://mssek-wk.github.io/gear-rank/ （推送到 `main` 后由 GitHub Actions 自动发布 `web/`）
+
 项目路径：`~/Desktop/gear-rank`
 
 ```
