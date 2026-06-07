@@ -127,6 +127,24 @@
     "price": 398.34,
     "bsr": 150468
    }
+  },
+  "fujifilm-instax-mini-13": {
+   "amazon": {
+    "asin": "B0GRHR77S3",
+    "rating": 4.1,
+    "reviews": 10,
+    "price": 93.95,
+    "bsr": 36995
+   }
+  },
+  "fujifilm-instax-mini-liplay-plus": {
+   "amazon": {
+    "asin": "B0FT92QK3L",
+    "rating": 4.2,
+    "reviews": 9,
+    "price": 227.0,
+    "bsr": 41975
+   }
   }
  }
 }

@@ -43,6 +43,8 @@ ASIN = {
     "polaroid-go-gen2": "B0CG7P9KTH", "polaroid-i-2": "B0D4RC69HB",
     "polaroid-now-plus-gen3": "B0DTTPR5T3", "polaroid-flip": "B0F993TYR9",
     "kodak-smile-plus": "B0CQMNDL59", "leica-sofort-2": "B0CNDBT3NX",
+    "fujifilm-instax-mini-13": "B0GRHR77S3", "fujifilm-instax-mini-liplay-plus": "B0FT92QK3L",
+    "canon-zoemini-s2": "B09HMTKRYG",
 }
 # 官方 MSRP（USD）作为价格兜底；amazon 适配器会用实时价覆盖。
 MSRP_USD = {

@@ -28,6 +28,22 @@
     "polaroid-now-plus-gen3": {
       "images": ["images/polaroid-now-plus-gen3/1.jpg", "images/polaroid-now-plus-gen3/2.jpg"],
       "credit": {"source": "Polaroid 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "fujifilm-instax-mini-41": {
+      "images": ["images/fujifilm-instax-mini-41/1.jpg", "images/fujifilm-instax-mini-41/2.jpg"],
+      "credit": {"source": "Fujifilm 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "fujifilm-instax-mini-13": {
+      "images": ["images/fujifilm-instax-mini-13/1.jpg", "images/fujifilm-instax-mini-13/2.jpg"],
+      "credit": {"source": "Fujifilm 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "fujifilm-instax-mini-liplay-plus": {
+      "images": ["images/fujifilm-instax-mini-liplay-plus/1.jpg", "images/fujifilm-instax-mini-liplay-plus/2.jpg"],
+      "credit": {"source": "Fujifilm 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "leica-sofort-2": {
+      "images": ["images/leica-sofort-2/1.jpg", "images/leica-sofort-2/2.jpg", "images/leica-sofort-2/3.jpg"],
+      "credit": {"source": "Leica 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
     }
   }
 }

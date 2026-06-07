@@ -339,17 +339,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 12",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$79.95"
@@ -666,12 +661,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$207.58"
@@ -926,12 +921,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$168"
@@ -1264,17 +1259,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -1523,12 +1518,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$269.94"
@@ -1831,17 +1826,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$38.25"
@@ -2116,17 +2111,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$159.95"
@@ -2407,17 +2402,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$179.99"
@@ -2664,17 +2659,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$101.99"
@@ -2684,21 +2679,14 @@
     "category": "instant-camera",
     "name": "Polaroid I-2",
     "brand": "Polaroid",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg/960px-2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polaroid_Go_-_2.jpg/960px-Polaroid_Go_-_2.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg/960px-2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polaroid_Go_-_2.jpg/960px-Polaroid_Go_-_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Polaroid_I-Zone_Camera_%2851879223860%29.jpg/960px-Polaroid_I-Zone_Camera_%2851879223860%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Polaroid_Now%2B_-_2.jpg/960px-Polaroid_Now%2B_-_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polaroid_Now_-_2.jpg/960px-Polaroid_Now_-_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Polaroid_camera_gen_2.jpg/960px-Polaroid_camera_gen_2.jpg"
     ],
     "image_credits": [
-      {
-        "title": "2023 Aparat Polaroid Land Camera Supercolor 1000 (2).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_(2).jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Jacek Halicki"
-      },
       {
         "title": "Polaroid Go - 2.jpg",
         "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Go_-_2.jpg",
@@ -2706,10 +2694,10 @@
         "artist": "Kyu3a"
       },
       {
-        "title": "Polaroid I-Zone Camera (51879223860).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_I-Zone_Camera_(51879223860).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Joost J. Bakker  IJmuiden"
+        "title": "Polaroid Now+ - 2.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now%2B_-_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Kyu3a"
       },
       {
         "title": "Polaroid Now - 2.jpg",
@@ -2978,17 +2966,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -3233,17 +3221,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$79.99"
@@ -3488,12 +3471,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$99.99"
@@ -3503,30 +3486,17 @@
     "category": "instant-camera",
     "name": "Instax Mini 13",
     "brand": "Fujifilm",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg/960px-Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg",
+    "image": "images/fujifilm-instax-mini-13/1.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg/960px-Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fujifilm_Instax_Mini_Link_on_the_ground_at_WirForce_Shop_20221105.jpg/960px-Fujifilm_Instax_Mini_Link_on_the_ground_at_WirForce_Shop_20221105.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/INSTAX_MINI_26.jpg/960px-INSTAX_MINI_26.jpg"
+      "images/fujifilm-instax-mini-13/1.jpg",
+      "images/fujifilm-instax-mini-13/2.jpg"
     ],
     "image_credits": [
       {
-        "title": "Fujifilm Instax Mini Link 2 and powerbank on the table at WirForce 20231126.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Solomon203"
-      },
-      {
-        "title": "Fujifilm Instax Mini Link on the ground at WirForce Shop 20221105.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_Link_on_the_ground_at_WirForce_Shop_20221105.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Solomon203"
-      },
-      {
-        "title": "INSTAX MINI 26.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:INSTAX_MINI_26.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "LaneXYZ"
+        "title": "Fujifilm 官方 Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -3704,14 +3674,22 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 1.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
-    "asin": "",
-    "platforms": {},
-    "rating": null,
-    "reviews": null,
-    "bsr": null,
-    "data_as_of": "",
+    "hot_score": 0.0012,
+    "sales_score": 0.9321,
+    "asin": "B0GRHR77S3",
+    "platforms": {
+      "amazon": {
+        "asin": "B0GRHR77S3",
+        "rating": 4.1,
+        "reviews": 10,
+        "price": 93.95,
+        "bsr": 36995
+      }
+    },
+    "rating": 4.1,
+    "reviews": 10,
+    "bsr": 36995,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -3719,12 +3697,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$93.95"
@@ -3953,17 +3931,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo Cinema",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$409.95"
@@ -3973,29 +3951,23 @@
     "category": "instant-camera",
     "name": "Instax Mini LiPlay+",
     "brand": "Fujifilm",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fuji_Instax_mini_LiPlay_instant_camera.jpg/960px-Fuji_Instax_mini_LiPlay_instant_camera.jpg",
+    "image": "images/fujifilm-instax-mini-liplay-plus/1.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fuji_Instax_mini_LiPlay_instant_camera.jpg/960px-Fuji_Instax_mini_LiPlay_instant_camera.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Firmware_update_Fuji_Instax_Liplay.jpg/960px-Firmware_update_Fuji_Instax_Liplay.jpg"
+      "images/fujifilm-instax-mini-liplay-plus/1.jpg",
+      "images/fujifilm-instax-mini-liplay-plus/2.jpg"
     ],
     "image_credits": [
       {
-        "title": "Fuji Instax mini LiPlay instant camera.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_LiPlay_instant_camera.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Sgroey"
-      },
-      {
-        "title": "Firmware update Fuji Instax Liplay.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Firmware_update_Fuji_Instax_Liplay.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Sgroey"
+        "title": "Fujifilm 官方 Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "LiPlay 换代：双摄（主摄 + 广角自拍），声音二维码升级。",
-    "price_value": 234.95,
+    "price_value": 227.0,
     "currency": "USD",
     "tags": [
       "混合",
@@ -4163,14 +4135,22 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.9044,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
-    "asin": "",
-    "platforms": {},
-    "rating": null,
-    "reviews": null,
-    "bsr": null,
-    "data_as_of": "",
+    "hot_score": 0.001,
+    "sales_score": 0.9229,
+    "asin": "B0FT92QK3L",
+    "platforms": {
+      "amazon": {
+        "asin": "B0FT92QK3L",
+        "rating": 4.2,
+        "reviews": 9,
+        "price": 227.0,
+        "bsr": 41975
+      }
+    },
+    "rating": 4.2,
+    "reviews": 9,
+    "bsr": 41975,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -4178,64 +4158,37 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay+",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
-    "price_display": "$234.95"
+    "price_display": "$227"
   },
   {
     "id": "fujifilm-instax-mini-41",
     "category": "instant-camera",
     "name": "Instax Mini 41",
     "brand": "Fujifilm",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuji_Instax_mini_8_%2816453678341%29.jpg/960px-Fuji_Instax_mini_8_%2816453678341%29.jpg",
+    "image": "images/fujifilm-instax-mini-41/1.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuji_Instax_mini_8_%2816453678341%29.jpg/960px-Fuji_Instax_mini_8_%2816453678341%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fujifilm_Instax_Mini_25_Camera_Rear.jpg/960px-Fujifilm_Instax_Mini_25_Camera_Rear.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sakana_sitting_at_her_booth%2C_Fujifilm_Instax_Mini_25_on_the_table_20190518.jpg/960px-Sakana_sitting_at_her_booth%2C_Fujifilm_Instax_Mini_25_on_the_table_20190518.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fuji_Instax_mini_8_%2816269512837%29.jpg/960px-Fuji_Instax_mini_8_%2816269512837%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Granite_Springs_Reservoir_-_Curt_Gowdy_State_Park_%28Instax_Mini%29_%2852849505863%29.jpg/960px-Granite_Springs_Reservoir_-_Curt_Gowdy_State_Park_%28Instax_Mini%29_%2852849505863%29.jpg"
+      "images/fujifilm-instax-mini-41/1.jpg",
+      "images/fujifilm-instax-mini-41/2.jpg"
     ],
     "image_credits": [
       {
-        "title": "Fuji Instax mini 8 (16453678341).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_8_(16453678341).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Kārlis Dambrāns"
-      },
-      {
-        "title": "Fujifilm Instax Mini 25 Camera Rear.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_25_Camera_Rear.jpg",
-        "license": "CC BY 2.0",
-        "artist": "Lordcolus"
-      },
-      {
-        "title": "Sakana sitting at her booth, Fujifilm Instax Mini 25 on the table 20190518.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Sakana_sitting_at_her_booth,_Fujifilm_Instax_Mini_25_on_the_table_20190518.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Solomon203"
-      },
-      {
-        "title": "Fuji Instax mini 8 (16269512837).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_8_(16269512837).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Kārlis Dambrāns"
-      },
-      {
-        "title": "Granite Springs Reservoir - Curt Gowdy State Park (Instax Mini) (52849505863).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Granite_Springs_Reservoir_-_Curt_Gowdy_State_Park_(Instax_Mini)_(52849505863).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Tony Webster"
+        "title": "Fujifilm 官方 Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -4439,17 +4392,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 41",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$100.92"
@@ -4728,17 +4676,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Flip",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T11:53:21+00:00"
+        "fetched_at": "2026-06-07T12:14:25+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -4748,23 +4696,18 @@
     "category": "instant-camera",
     "name": "Leica Sofort 2",
     "brand": "Leica",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Leica_Sofort_%2851143901921%29.jpg/960px-Leica_Sofort_%2851143901921%29.jpg",
+    "image": "images/leica-sofort-2/1.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Leica_Sofort_%2851143901921%29.jpg/960px-Leica_Sofort_%2851143901921%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leica_Sofort_2_box_with_Love_Digital_e-invoice_at_CK_Camera_20251005.jpg/960px-Leica_Sofort_2_box_with_Love_Digital_e-invoice_at_CK_Camera_20251005.jpg"
+      "images/leica-sofort-2/1.jpg",
+      "images/leica-sofort-2/2.jpg",
+      "images/leica-sofort-2/3.jpg"
     ],
     "image_credits": [
       {
-        "title": "Leica Sofort (51143901921).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Leica_Sofort_(51143901921).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Garry Knight from London, England"
-      },
-      {
-        "title": "Leica Sofort 2 box with Love Digital e-invoice at CK Camera 20251005.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Leica_Sofort_2_box_with_Love_Digital_e-invoice_at_CK_Camera_20251005.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Solomon203"
+        "title": "Leica 官方 Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -5013,12 +4956,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Leica+Leica Sofort 2",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       }
     ],
     "price_display": "$398.34"
@@ -5238,7 +5176,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -5480,7 +5418,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       }
     ],
     "price_display": "$89"
@@ -5714,7 +5652,7 @@
     "latest_score": 0.3281,
     "hot_score": 0.0,
     "sales_score": 0.0,
-    "asin": "",
+    "asin": "B09HMTKRYG",
     "platforms": {},
     "rating": null,
     "reviews": null,
@@ -5727,7 +5665,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T11:51:57+00:00"
+        "fetched_at": "2026-06-07T12:13:08+00:00"
       }
     ],
     "price_display": "$149.99"
