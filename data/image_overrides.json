@@ -16,6 +16,18 @@
     "kodak-smile-plus": {
       "images": ["images/kodak-smile-plus/1.jpg", "images/kodak-smile-plus/2.jpg"],
       "credit": {"source": "Kodak 官方商店 (Shopify)", "note": "厂商产品图，仅供设计参考"}
+    },
+    "polaroid-now-gen2": {
+      "images": ["images/polaroid-now-gen2/1.jpg", "images/polaroid-now-gen2/2.jpg", "images/polaroid-now-gen2/3.jpg", "images/polaroid-now-gen2/4.jpg"],
+      "credit": {"source": "Polaroid 官方 Amazon 商品页", "note": "厂商产品图（正面/3-4视角/侧面/顶部），仅供设计参考"}
+    },
+    "polaroid-go-gen2": {
+      "images": ["images/polaroid-go-gen2/1.jpg", "images/polaroid-go-gen2/2.jpg", "images/polaroid-go-gen2/3.jpg"],
+      "credit": {"source": "Polaroid 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "polaroid-now-plus-gen3": {
+      "images": ["images/polaroid-now-plus-gen3/1.jpg", "images/polaroid-now-plus-gen3/2.jpg"],
+      "credit": {"source": "Polaroid 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
     }
   }
 }

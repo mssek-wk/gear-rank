@@ -325,17 +325,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 12",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥499"
@@ -638,12 +638,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥899"
@@ -884,12 +884,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥899"
@@ -1208,17 +1208,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥1099"
@@ -1453,12 +1453,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥799"
@@ -1747,17 +1747,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥499"
@@ -2026,17 +2026,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥849"
@@ -2046,16 +2046,17 @@
     "category": "instant-camera",
     "name": "Polaroid Now+ Gen 3",
     "brand": "Polaroid",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Polaroid_Now_Gen_3_Black_Camera.jpg/960px-Polaroid_Now_Gen_3_Black_Camera.jpg",
+    "image": "images/polaroid-now-plus-gen3/1.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Polaroid_Now_Gen_3_Black_Camera.jpg/960px-Polaroid_Now_Gen_3_Black_Camera.jpg"
+      "images/polaroid-now-plus-gen3/1.jpg",
+      "images/polaroid-now-plus-gen3/2.jpg"
     ],
     "image_credits": [
       {
-        "title": "Polaroid Now Gen 3 Black Camera.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now_Gen_3_Black_Camera.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "TaurusEmerald"
+        "title": "Polaroid 官方 Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -2302,17 +2303,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥1099"
@@ -2322,16 +2323,19 @@
     "category": "instant-camera",
     "name": "Polaroid Now Gen 2",
     "brand": "Polaroid",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Polaroid_camera_gen_2.jpg/960px-Polaroid_camera_gen_2.jpg",
+    "image": "images/polaroid-now-gen2/1.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Polaroid_camera_gen_2.jpg/960px-Polaroid_camera_gen_2.jpg"
+      "images/polaroid-now-gen2/1.jpg",
+      "images/polaroid-now-gen2/2.jpg",
+      "images/polaroid-now-gen2/3.jpg",
+      "images/polaroid-now-gen2/4.jpg"
     ],
     "image_credits": [
       {
-        "title": "Polaroid camera gen 2.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_camera_gen_2.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Marietto il maghetto.angino"
+        "title": "Polaroid 官方 Amazon 商品页",
+        "license": "厂商产品图（正面/3-4视角/侧面/顶部），仅供设计参考",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -2542,17 +2546,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥899"
@@ -2567,8 +2571,8 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg/960px-2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polaroid_Go_-_2.jpg/960px-Polaroid_Go_-_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Polaroid_I-Zone_Camera_%2851879223860%29.jpg/960px-Polaroid_I-Zone_Camera_%2851879223860%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polaroid_Now_-_2.jpg/960px-Polaroid_Now_-_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Polaroid_camera_gen_2.jpg/960px-Polaroid_camera_gen_2.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Polaroid_Now%2B_-_2.jpg/960px-Polaroid_Now%2B_-_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polaroid_Now_-_2.jpg/960px-Polaroid_Now_-_2.jpg"
     ],
     "image_credits": [
       {
@@ -2590,16 +2594,16 @@
         "artist": "Joost J. Bakker  IJmuiden"
       },
       {
-        "title": "Polaroid Now - 2.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now_-_2.jpg",
+        "title": "Polaroid Now+ - 2.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now%2B_-_2.jpg",
         "license": "CC BY-SA 4.0",
         "artist": "Kyu3a"
       },
       {
-        "title": "Polaroid camera gen 2.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_camera_gen_2.jpg",
+        "title": "Polaroid Now - 2.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now_-_2.jpg",
         "license": "CC BY-SA 4.0",
-        "artist": "Marietto il maghetto.angino"
+        "artist": "Kyu3a"
       }
     ],
     "url": "",
@@ -2842,17 +2846,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥4499"
@@ -2862,16 +2866,18 @@
     "category": "instant-camera",
     "name": "Polaroid Go Gen 2",
     "brand": "Polaroid",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Polaroid_Go_Gen_2_Camera.jpg/960px-Polaroid_Go_Gen_2_Camera.jpg",
+    "image": "images/polaroid-go-gen2/1.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Polaroid_Go_Gen_2_Camera.jpg/960px-Polaroid_Go_Gen_2_Camera.jpg"
+      "images/polaroid-go-gen2/1.jpg",
+      "images/polaroid-go-gen2/2.jpg",
+      "images/polaroid-go-gen2/3.jpg"
     ],
     "image_credits": [
       {
-        "title": "Polaroid Go Gen 2 Camera.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Go_Gen_2_Camera.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "TaurusEmerald"
+        "title": "Polaroid 官方 Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -3081,12 +3087,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥629"
@@ -3317,12 +3328,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:39:16+00:00"
+        "fetched_at": "2026-06-07T07:02:50+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-07T05:40:02+00:00"
+        "fetched_at": "2026-06-07T07:03:16+00:00"
       }
     ],
     "price_display": "¥699"
