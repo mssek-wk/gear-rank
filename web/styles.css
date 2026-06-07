@@ -418,3 +418,10 @@ body.viewing-detail #all { display: none; }
 .market__src { font-size: .74rem; color: var(--text-tertiary); margin-top: .5rem; }
 .market--new { font-size: .82rem; color: var(--text-secondary); background: var(--surface-alt);
   border: 1px solid var(--border); border-radius: 10px; padding: .6rem .8rem; margin: 1rem 0 .2rem; }
+
+/* 多平台真实市场数据 */
+.market__title { font: 600 .8rem/1 var(--sans); color: var(--text-secondary); margin-bottom: .6rem; }
+.market__plat { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem; margin-bottom: .5rem; }
+.market__platname { font: 600 .72rem/1 var(--sans); color: #fff; background: var(--text); border-radius: 5px; padding: .25rem .5rem; }
+.market__chip--price { font-weight: 700; color: var(--text); }
+.market__chip--hot { color: var(--rank-hot); border-color: rgba(var(--rank-hot-rgb), .35); }

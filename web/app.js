@@ -413,14 +413,23 @@
     if (!plats.length) {
       return `<div class="market market--new">📅 ${esc((it.release_date || '').slice(0,7))} 新上市 · 暂无电商热度/销量数据（太新）</div>`;
     }
-    const chips = [];
-    if (it.rating != null) chips.push(`<span class="market__chip">★ ${it.rating}</span>`);
-    if (it.reviews != null) chips.push(`<span class="market__chip">${it.reviews.toLocaleString()} 评价</span>`);
-    if (it.bsr != null) chips.push(`<span class="market__chip">畅销榜 #${it.bsr.toLocaleString()}</span>`);
+    const cur = p => (p.currency === 'CNY' ? '¥' : '$');
+    const groups = plats.map(p => {
+      const d = it.platforms[p] || {}, c = [];
+      if (d.price != null) c.push(`<span class="market__chip market__chip--price">${cur(d)}${d.price}</span>`);
+      if (d.rating != null) c.push(`<span class="market__chip">★ ${d.rating}</span>`);
+      if (d.reviews != null) c.push(`<span class="market__chip">${(+d.reviews).toLocaleString()} 评价</span>`);
+      if (d.good_rate != null) c.push(`<span class="market__chip">好评 ${d.good_rate}%</span>`);
+      if (d.sales != null) c.push(`<span class="market__chip">月销 ${(+d.sales).toLocaleString()}</span>`);
+      if (d.bsr != null) c.push(`<span class="market__chip">Amazon 畅销榜 #${(+d.bsr).toLocaleString()}</span>`);
+      if (d.jd_rank != null) c.push(`<span class="market__chip market__chip--hot">京东拍立得榜 #${d.jd_rank}</span>`);
+      return `<div class="market__plat"><span class="market__platname">${PLAT_LABEL[p] || p}</span>${c.join('')}</div>`;
+    }).join('');
     const src = plats.map(p => PLAT_LABEL[p] || p).join(' / ');
     return `<div class="market">
-      <div class="market__chips">${chips.join('')}</div>
-      <div class="market__src">综合自 ${esc(src)}${it.data_as_of ? ` · 截至 ${esc(it.data_as_of)}` : ''}</div>
+      <div class="market__title">真实市场数据</div>
+      ${groups}
+      <div class="market__src">综合自 ${esc(src)} · 截至 ${esc(it.data_as_of || '—')}</div>
     </div>`;
   }
 

@@ -90,6 +90,9 @@ class JdAdapter(Adapter):
                 it.platforms["jd"] = jd
                 if not it.data_as_of:
                     it.data_as_of = jd.get("as_of", "")
+                # 无 Amazon 价时用京东价(¥)展示
+                if it.price_value is None and jd.get("price") is not None:
+                    it.price_value, it.currency = jd["price"], jd.get("currency", "CNY")
                 n += 1
         return n
 
