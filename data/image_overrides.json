@@ -1,0 +1,21 @@
+{
+  "_note": "本地自托管产品图覆盖表。Commons 没有收录的机型（多为新/小众），从厂商官网/电商商品页取真实多视角产品图，下载存于 web/images/<id>/，在此登记。pipeline 会以此覆盖该机型的 images。新增/补图：把图片放进 web/images/<id>/ 再在这里登记路径即可。",
+  "overrides": {
+    "fujifilm-instax-mini-99": {
+      "images": ["images/fujifilm-instax-mini-99/1.png", "images/fujifilm-instax-mini-99/2.jpg", "images/fujifilm-instax-mini-99/3.png"],
+      "credit": {"source": "Fujifilm 官网 / Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "fujifilm-instax-wide-400": {
+      "images": ["images/fujifilm-instax-wide-400/1.jpg", "images/fujifilm-instax-wide-400/2.jpg", "images/fujifilm-instax-wide-400/3.jpg", "images/fujifilm-instax-wide-400/4.png"],
+      "credit": {"source": "Fujifilm 官网 / Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "fujifilm-instax-square-sq40": {
+      "images": ["images/fujifilm-instax-square-sq40/1.jpg", "images/fujifilm-instax-square-sq40/2.png", "images/fujifilm-instax-square-sq40/3.jpg"],
+      "credit": {"source": "Fujifilm 官网 / Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "kodak-smile-plus": {
+      "images": ["images/kodak-smile-plus/1.jpg", "images/kodak-smile-plus/2.jpg"],
+      "credit": {"source": "Kodak 官方商店 (Shopify)", "note": "厂商产品图，仅供设计参考"}
+    }
+  }
+}

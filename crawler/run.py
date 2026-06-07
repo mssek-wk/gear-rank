@@ -58,6 +58,9 @@ def update_category(cat: dict) -> dict:
     if kept:
         print(f"  · 图片保鲜：{kept} 件沿用上次抓取的真实图")
 
+    # 本地自托管图片覆盖（Commons 没收录的机型用厂商/电商真实多视角图）
+    pipeline.apply_image_overrides(items)
+
     pipeline.score(items)
     boards = pipeline.build_boards(items)              # 三榜：仅当前在榜机型
     run_date = pipeline.now_iso()[:10]

@@ -128,6 +128,36 @@ def carry_over_images(category_id: str, items: list[Item]) -> int:
     return n
 
 
+# ---------- 本地自托管图片覆盖 ----------
+
+def apply_image_overrides(items: list[Item]) -> int:
+    """把 data/image_overrides.json 里登记的本地产品图覆盖到对应商品。
+    用于 Commons 没收录的机型（从厂商/电商取真实多视角图，自托管在 web/images/）。"""
+    f = DATA_DIR / "image_overrides.json"
+    if not f.exists():
+        return 0
+    try:
+        ov = (json.loads(f.read_text(encoding="utf-8")) or {}).get("overrides", {})
+    except Exception:
+        return 0
+    n = 0
+    by_id = {it.id: it for it in items}
+    for iid, spec in ov.items():
+        it = by_id.get(iid)
+        imgs = (spec or {}).get("images") or []
+        if not it or not imgs:
+            continue
+        it.images = imgs
+        it.image = imgs[0]
+        cr = (spec or {}).get("credit") or {}
+        it.image_credits = [{"title": cr.get("source", "厂商产品图"),
+                             "license": cr.get("note", ""), "artist": "", "descurl": ""}]
+        n += 1
+    if n:
+        print(f"  · 本地图片覆盖：{n} 件机型使用自托管真实产品图")
+    return n
+
+
 # ---------- 历史留存（累积式，绝不删除老机型）----------
 
 def merge_history(category_id: str, items: list[Item], run_date: str) -> list[dict]:

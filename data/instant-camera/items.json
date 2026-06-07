@@ -325,17 +325,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 12",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥499"
@@ -345,9 +345,20 @@
     "category": "instant-camera",
     "name": "Instax Mini 99",
     "brand": "Fujifilm",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "images/fujifilm-instax-mini-99/1.png",
+    "images": [
+      "images/fujifilm-instax-mini-99/1.png",
+      "images/fujifilm-instax-mini-99/2.jpg",
+      "images/fujifilm-instax-mini-99/3.png"
+    ],
+    "image_credits": [
+      {
+        "title": "Fujifilm 官网 / Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "可玩性最高的 mini 机型，多色温滤镜 + 手动亮度，出片有氛围。",
@@ -627,12 +638,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥899"
@@ -642,9 +653,21 @@
     "category": "instant-camera",
     "name": "Instax Wide 400",
     "brand": "Fujifilm",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "images/fujifilm-instax-wide-400/1.jpg",
+    "images": [
+      "images/fujifilm-instax-wide-400/1.jpg",
+      "images/fujifilm-instax-wide-400/2.jpg",
+      "images/fujifilm-instax-wide-400/3.jpg",
+      "images/fujifilm-instax-wide-400/4.png"
+    ],
+    "image_credits": [
+      {
+        "title": "Fujifilm 官网 / Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "时隔多年的宽幅新机，画面是 mini 的两倍，适合合影与风景。",
@@ -861,12 +884,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥899"
@@ -1185,17 +1208,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥1099"
@@ -1205,9 +1228,20 @@
     "category": "instant-camera",
     "name": "Instax Square SQ40",
     "brand": "Fujifilm",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "images/fujifilm-instax-square-sq40/1.jpg",
+    "images": [
+      "images/fujifilm-instax-square-sq40/1.jpg",
+      "images/fujifilm-instax-square-sq40/2.png",
+      "images/fujifilm-instax-square-sq40/3.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Fujifilm 官网 / Amazon 商品页",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "复古皮革质感方画幅机，构图更经典，ins 风首选。",
@@ -1419,12 +1453,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥799"
@@ -1713,17 +1747,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥499"
@@ -1992,17 +2026,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥849"
@@ -2268,17 +2302,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥1099"
@@ -2508,17 +2542,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥899"
@@ -2533,8 +2567,8 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg/960px-2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polaroid_Go_-_2.jpg/960px-Polaroid_Go_-_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Polaroid_I-Zone_Camera_%2851879223860%29.jpg/960px-Polaroid_I-Zone_Camera_%2851879223860%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Polaroid_Now%2B_-_2.jpg/960px-Polaroid_Now%2B_-_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polaroid_Now_-_2.jpg/960px-Polaroid_Now_-_2.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polaroid_Now_-_2.jpg/960px-Polaroid_Now_-_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Polaroid_camera_gen_2.jpg/960px-Polaroid_camera_gen_2.jpg"
     ],
     "image_credits": [
       {
@@ -2556,16 +2590,16 @@
         "artist": "Joost J. Bakker  IJmuiden"
       },
       {
-        "title": "Polaroid Now+ - 2.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now%2B_-_2.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kyu3a"
-      },
-      {
         "title": "Polaroid Now - 2.jpg",
         "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now_-_2.jpg",
         "license": "CC BY-SA 4.0",
         "artist": "Kyu3a"
+      },
+      {
+        "title": "Polaroid camera gen 2.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_camera_gen_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Marietto il maghetto.angino"
       }
     ],
     "url": "",
@@ -2808,17 +2842,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥4499"
@@ -3047,17 +3081,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥629"
@@ -3067,9 +3096,19 @@
     "category": "instant-camera",
     "name": "Kodak Smile+",
     "brand": "Kodak",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "images/kodak-smile-plus/1.jpg",
+    "images": [
+      "images/kodak-smile-plus/1.jpg",
+      "images/kodak-smile-plus/2.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Kodak 官方商店 (Shopify)",
+        "license": "厂商产品图，仅供设计参考",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.kodak.com/",
     "summary": "用 ZINK 免墨贴纸相纸，配 App 玩 AR 滤镜，年轻人玩具。",
@@ -3278,12 +3317,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T05:01:44+00:00"
+        "fetched_at": "2026-06-07T05:39:16+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-07T05:02:10+00:00"
+        "fetched_at": "2026-06-07T05:40:02+00:00"
       }
     ],
     "price_display": "¥699"
