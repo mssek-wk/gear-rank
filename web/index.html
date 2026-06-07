@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>器材榜 · 拍立得 — 最新 / 最火 / 最畅销</title>
+  <meta name="description" content="每日更新的硬件榜单：最新、最火、最畅销，先从拍立得开始。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- 导航 -->
+  <header class="nav" id="nav">
+    <a class="brand" href="#top" aria-label="器材榜首页">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span class="brand__name">器材榜 <em>Gear&nbsp;Rank</em></span>
+    </a>
+    <nav class="nav__links" aria-label="主导航">
+      <a class="link" href="#boards">榜单</a>
+      <a class="link" href="#all">全部机型</a>
+      <span class="nav__meta" id="navUpdated" title="数据最近更新时间"></span>
+    </nav>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero" id="hero">
+      <div class="hero__grid" id="dotgrid" aria-hidden="true"></div>
+      <div class="container hero__inner">
+        <p class="eyebrow" data-reveal><span class="eyebrow__dot"></span>每日更新 · 数据本地留存</p>
+        <h1 id="heroTitle" data-split>发现当下最值得入手的拍立得</h1>
+        <p class="hero__sub" data-reveal>
+          全网「最新 · 最火 · 最畅销」自动汇总、分类排布。今天先从拍立得开始，
+          榜单结构可随时扩展到更多硬件品类。
+        </p>
+        <div class="hero__cta" data-reveal>
+          <a class="btn magnet" href="#boards">看今天的榜单</a>
+          <a class="btn btn--ghost" href="#all">浏览全部机型</a>
+        </div>
+
+        <div class="stats" id="stats" data-reveal aria-label="数据概览"></div>
+      </div>
+    </section>
+
+    <!-- 品类切换 + 本周焦点 -->
+    <section class="section" id="focus">
+      <div class="container">
+        <div class="pills" id="pills" role="tablist" aria-label="硬件品类"></div>
+        <div class="focus" id="focusCard"></div>
+      </div>
+    </section>
+
+    <!-- 三榜 -->
+    <section class="section" id="boards">
+      <div class="container">
+        <header class="section__head" data-reveal>
+          <h2 class="scroll-float">三张榜单，一眼看懂</h2>
+          <p class="section__desc">按上市时间、讨论热度、销量排名分别排序，数据每次更新自动重算。</p>
+        </header>
+        <div class="boards" id="boardsGrid"></div>
+      </div>
+    </section>
+
+    <!-- 全部机型 -->
+    <section class="section section--alt" id="all">
+      <div class="container">
+        <header class="section__head section__head--row" data-reveal>
+          <div>
+            <h2 class="scroll-float">全部机型</h2>
+            <p class="section__desc" id="allDesc"></p>
+          </div>
+          <label class="sortbox">
+            <span>排序</span>
+            <select id="sortSelect" aria-label="排序方式">
+              <option value="sales">最畅销</option>
+              <option value="hot">最火</option>
+              <option value="latest">最新</option>
+              <option value="price-asc">价格 低→高</option>
+              <option value="price-desc">价格 高→低</option>
+            </select>
+          </label>
+        </header>
+        <div class="grid grid--cards" id="allGrid"></div>
+      </div>
+    </section>
+
+    <!-- 详情页（hash 路由 #item=<id> 时显示，原生 SPA） -->
+    <section class="section detail" id="detail" hidden></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <p class="footer__line">器材榜 · 数据每日抓取并<strong>留存在本地</strong>（<code>data/</code> 目录）。当前品类：拍立得，结构支持扩展。</p>
+      <p class="footer__sub">
+        Motion 思路 derived from
+        <a class="link" href="https://github.com/DavidHDev/vue-bits" target="_blank" rel="noopener">vue-bits / react-bits</a>
+        by DavidHDev (MIT)，本站以原生 CSS/JS 重写。
+      </p>
+    </div>
+  </footer>
+
+  <!-- 数据由 crawler 生成；先于 app.js 加载 -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

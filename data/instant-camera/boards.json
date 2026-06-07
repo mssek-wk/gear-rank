@@ -1,0 +1,32 @@
+{
+  "latest": [
+    "polaroid-now-plus-gen3",
+    "fujifilm-instax-wide-400",
+    "fujifilm-instax-mini-99",
+    "fujifilm-instax-pal",
+    "fujifilm-instax-square-sq40",
+    "polaroid-i-2",
+    "polaroid-now-gen2",
+    "fujifilm-instax-mini-12"
+  ],
+  "hottest": [
+    "fujifilm-instax-mini-99",
+    "fujifilm-instax-mini-evo",
+    "fujifilm-instax-mini-12",
+    "fujifilm-instax-wide-400",
+    "polaroid-now-plus-gen3",
+    "fujifilm-instax-pal",
+    "polaroid-i-2",
+    "fujifilm-instax-square-sq40"
+  ],
+  "bestselling": [
+    "fujifilm-instax-mini-12",
+    "fujifilm-instax-mini-liplay",
+    "fujifilm-instax-mini-evo",
+    "fujifilm-instax-pal",
+    "fujifilm-instax-mini-99",
+    "fujifilm-instax-square-sq40",
+    "polaroid-now-gen2",
+    "fujifilm-instax-wide-400"
+  ]
+}

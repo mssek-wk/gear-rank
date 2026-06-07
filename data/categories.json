@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "instant-camera",
+      "name": "拍立得",
+      "name_en": "Instant Camera",
+      "icon": "camera",
+      "enabled": true,
+      "order": 1,
+      "description": "即时成像相机 —— 拍完即出片",
+      "adapters": ["sample", "ecommerce", "media", "wikimedia", "official"],
+      "currency": "CNY"
+    }
+  ],
+  "_note": "新增品类只需在此追加一项并把 enabled 设为 true；前端品类标签与爬虫调度都由本文件驱动，无需改动其他代码。adapters 数组声明该品类启用哪些数据源适配器。"
+}

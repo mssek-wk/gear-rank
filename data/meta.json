@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-06-06T23:27:36+08:00",
+  "generator": "hardware-rank crawler",
+  "board_size": 8,
+  "categories": [
+    {
+      "id": "instant-camera",
+      "name": "拍立得",
+      "name_en": "Instant Camera",
+      "icon": "camera",
+      "description": "即时成像相机 —— 拍完即出片",
+      "count": 12
+    }
+  ]
+}
