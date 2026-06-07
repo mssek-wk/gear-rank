@@ -82,11 +82,15 @@
       </div>`;
   }
 
-  /* ---------- 渲染：三榜 ---------- */
+  /* ---------- 渲染：三榜（真实数据驱动）---------- */
+  // metric(it) 返回该榜单这一行要展示的「真实依据值」
   const BOARD_DEFS = [
-    { key: 'latest', cls: 'latest', title: '最新', sub: '按上市时间' },
-    { key: 'hottest', cls: 'hot', title: '最火', sub: '按讨论热度' },
-    { key: 'bestselling', cls: 'sales', title: '最畅销', sub: '按销量排名' },
+    { key: 'latest', cls: 'latest', title: '最新', sub: '官方上市日期',
+      metric: it => (it.release_date || '').slice(0, 7) },
+    { key: 'hottest', cls: 'hot', title: '最火', sub: '综合·按评价数',
+      metric: it => it.reviews != null ? it.reviews.toLocaleString() + ' 评价' : '' },
+    { key: 'bestselling', cls: 'sales', title: '最畅销', sub: '综合·按畅销榜排名',
+      metric: it => it.bsr != null ? '榜 #' + it.bsr.toLocaleString() : '' },
   ];
   function renderBoards() {
     const b = bucket(activeCat);
@@ -102,7 +106,7 @@
             <span class="row__name">${it.name}</span><br>
             <span class="row__brand">${it.brand}</span>
           </span>
-          <span class="row__price">${it.price_display || ''}</span>
+          <span class="row__metric">${def.metric(it)}</span>
         </a>`;
       }).join('');
       return `<div class="board board--${def.cls}" data-reveal>
@@ -149,6 +153,7 @@
         <span class="card__brand">${it.brand}</span>
         <span class="card__name">${it.name}</span>
         <div class="tags">${(it.tags || []).slice(0, 2).map(t => `<span class="tag">${t}</span>`).join('')}</div>
+        ${it.rating != null ? `<div class="card__rate">★ ${it.rating}${it.reviews != null ? ` <span>· ${it.reviews.toLocaleString()} 评价</span>` : ''}</div>` : ''}
         <div class="card__foot">
           <span class="card__price">${it.price_display || '—'}</span>
         </div>
@@ -179,6 +184,15 @@
       { n: brands.size, l: '覆盖品牌' },
       { n: 3, l: '榜单维度' },
     ].map(s => `<div class="stat"><div class="stat__num" data-count="${s.n}">0</div><div class="stat__label">${s.l}</div></div>`).join('');
+
+    // 数据来源透明标注
+    const prov = $('#provenance');
+    if (prov) {
+      const srcs = (meta.platform_sources || ['Amazon US']).join(' / ');
+      const asof = meta.platform_as_of || dstr;
+      prov.innerHTML = `数据来源：官方上市日期（厂商）＋ <strong>${srcs}</strong> 真实评分/评价数/畅销榜排名 · 截至 ${asof}`
+        + ` ｜ 综合多平台框架，<span class="prov-pending">京东 / 淘宝待接入</span>`;
+    }
   }
 
   function countUp() {
@@ -392,6 +406,24 @@
     </div>`;
   }
 
+  // 市场数据面板：真实评分/评价/畅销榜 + 参与平台 + 截至日期
+  const PLAT_LABEL = { amazon: 'Amazon', jd: '京东', taobao: '淘宝' };
+  function marketHTML(it) {
+    const plats = Object.keys(it.platforms || {});
+    if (!plats.length) {
+      return `<div class="market market--new">📅 ${esc((it.release_date || '').slice(0,7))} 新上市 · 暂无电商热度/销量数据（太新）</div>`;
+    }
+    const chips = [];
+    if (it.rating != null) chips.push(`<span class="market__chip">★ ${it.rating}</span>`);
+    if (it.reviews != null) chips.push(`<span class="market__chip">${it.reviews.toLocaleString()} 评价</span>`);
+    if (it.bsr != null) chips.push(`<span class="market__chip">畅销榜 #${it.bsr.toLocaleString()}</span>`);
+    const src = plats.map(p => PLAT_LABEL[p] || p).join(' / ');
+    return `<div class="market">
+      <div class="market__chips">${chips.join('')}</div>
+      <div class="market__src">综合自 ${esc(src)}${it.data_as_of ? ` · 截至 ${esc(it.data_as_of)}` : ''}</div>
+    </div>`;
+  }
+
   function renderDetail(id) {
     const found = findItem(id);
     const el = $('#detail');
@@ -409,6 +441,7 @@
             <div class="dhero__badges">${boardBadges(it, cid)}</div>
             <p class="dhero__summary">${esc(it.summary)}</p>
             <div class="tags">${(it.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>
+            ${marketHTML(it)}
             <div class="dhero__buy">
               <span class="focus__price">${it.price_display || '—'}</span>
               ${it.official_url ? `<a class="btn" href="${esc(it.official_url)}" target="_blank" rel="noopener">前往官网</a>` : ''}

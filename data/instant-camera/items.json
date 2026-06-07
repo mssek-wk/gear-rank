@@ -47,8 +47,8 @@
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "最好上手的拍立得，自动曝光、近拍模式，新手闭眼买。",
-    "price_value": 499.0,
-    "currency": "CNY",
+    "price_value": 79.95,
+    "currency": "USD",
     "tags": [
       "入门",
       "自动曝光",
@@ -95,7 +95,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -103,10 +103,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%2012",
         "is_official": false,
-        "price_value": 499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.6,
-        "review_count": 3720,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -170,10 +170,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%2012",
         "is_official": false,
-        "price_value": 499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.6,
-        "review_count": 3720,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -237,10 +237,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%2012",
         "is_official": false,
-        "price_value": 499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.6,
-        "review_count": 3720,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -313,11 +313,25 @@
       }
     ],
     "release_date": "2023-03-15",
-    "sales_rank": 1,
-    "hot_index": 88.0,
-    "latest_score": 0.7147,
-    "hot_score": 0.8919,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.5304,
+    "hot_score": 1.0,
     "sales_score": 1.0,
+    "asin": "B0BWNYBRNL",
+    "platforms": {
+      "amazon": {
+        "asin": "B0BWNYBRNL",
+        "rating": 4.6,
+        "reviews": 6068,
+        "price": 79.95,
+        "bsr": 219
+      }
+    },
+    "rating": 4.6,
+    "reviews": 6068,
+    "bsr": 219,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -325,20 +339,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 12",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥499"
+    "price_display": "$79.95"
   },
   {
     "id": "fujifilm-instax-mini-99",
@@ -362,8 +376,8 @@
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "可玩性最高的 mini 机型，多色温滤镜 + 手动亮度，出片有氛围。",
-    "price_value": 899.0,
-    "currency": "CNY",
+    "price_value": 207.58,
+    "currency": "USD",
     "tags": [
       "进阶",
       "手动控光",
@@ -408,7 +422,7 @@
         "Fujifilm 官网"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -416,10 +430,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%2099",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2600,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -483,10 +497,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%2099",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2600,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -550,10 +564,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%2099",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2600,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -626,11 +640,25 @@
       }
     ],
     "release_date": "2024-03-20",
-    "sales_rank": 5,
-    "hot_index": 92.0,
-    "latest_score": 0.9107,
-    "hot_score": 1.0,
-    "sales_score": 0.6364,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6758,
+    "hot_score": 0.0256,
+    "sales_score": 0.9502,
+    "asin": "B0CXZQGL2D",
+    "platforms": {
+      "amazon": {
+        "asin": "B0CXZQGL2D",
+        "rating": 4.6,
+        "reviews": 158,
+        "price": 207.58,
+        "bsr": 27200
+      }
+    },
+    "rating": 4.6,
+    "reviews": 158,
+    "bsr": 27200,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -638,15 +666,15 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥899"
+    "price_display": "$207.58"
   },
   {
     "id": "fujifilm-instax-wide-400",
@@ -671,8 +699,8 @@
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "时隔多年的宽幅新机，画面是 mini 的两倍，适合合影与风景。",
-    "price_value": 899.0,
-    "currency": "CNY",
+    "price_value": 168.0,
+    "currency": "USD",
     "tags": [
       "宽幅",
       "新品",
@@ -708,7 +736,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -716,10 +744,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Wide%20400",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 1760,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -765,10 +793,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Wide%20400",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 1760,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -814,10 +842,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Wide%20400",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 1760,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -872,11 +900,25 @@
       }
     ],
     "release_date": "2024-06-25",
-    "sales_rank": 8,
-    "hot_index": 85.0,
-    "latest_score": 0.962,
-    "hot_score": 0.8108,
-    "sales_score": 0.3636,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.7138,
+    "hot_score": 0.0503,
+    "sales_score": 0.9906,
+    "asin": "B0D6WXV3MF",
+    "platforms": {
+      "amazon": {
+        "asin": "B0D6WXV3MF",
+        "rating": 3.8,
+        "reviews": 308,
+        "price": 168.0,
+        "bsr": 5311
+      }
+    },
+    "rating": 3.8,
+    "reviews": 308,
+    "bsr": 5311,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -884,15 +926,15 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥899"
+    "price_display": "$168"
   },
   {
     "id": "fujifilm-instax-mini-evo",
@@ -935,8 +977,8 @@
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "数码+拍立得混合机，100 种滤镜组合，先看后印不浪费相纸。",
-    "price_value": 1099.0,
-    "currency": "CNY",
+    "price_value": 219.99,
+    "currency": "USD",
     "tags": [
       "混合",
       "可选打印",
@@ -978,7 +1020,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -986,10 +1028,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%20Evo",
         "is_official": false,
-        "price_value": 1099.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 3160,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1053,10 +1095,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%20Evo",
         "is_official": false,
-        "price_value": 1099.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 3160,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1120,10 +1162,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%20Evo",
         "is_official": false,
-        "price_value": 1099.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 3160,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1196,11 +1238,25 @@
       }
     ],
     "release_date": "2022-01-20",
-    "sales_rank": 3,
-    "hot_index": 90.0,
-    "latest_score": 0.4934,
-    "hot_score": 0.9459,
-    "sales_score": 0.8182,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.3661,
+    "hot_score": 0.3232,
+    "sales_score": 0.9941,
+    "asin": "B09M4DKBQ9",
+    "platforms": {
+      "amazon": {
+        "asin": "B09M4DKBQ9",
+        "rating": 4.7,
+        "reviews": 1963,
+        "price": 219.99,
+        "bsr": 3438
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1963,
+    "bsr": 3438,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -1208,20 +1264,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥1099"
+    "price_display": "$219.99"
   },
   {
     "id": "fujifilm-instax-square-sq40",
@@ -1245,8 +1301,8 @@
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "复古皮革质感方画幅机，构图更经典，ins 风首选。",
-    "price_value": 799.0,
-    "currency": "CNY",
+    "price_value": 269.94,
+    "currency": "USD",
     "tags": [
       "方画幅",
       "复古"
@@ -1277,7 +1333,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -1285,10 +1341,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Square%20SQ40",
         "is_official": false,
-        "price_value": 799.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2320,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1334,10 +1390,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Square%20SQ40",
         "is_official": false,
-        "price_value": 799.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2320,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1383,10 +1439,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Square%20SQ40",
         "is_official": false,
-        "price_value": 799.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2320,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1441,11 +1497,25 @@
       }
     ],
     "release_date": "2023-09-10",
-    "sales_rank": 6,
-    "hot_index": 70.0,
-    "latest_score": 0.8093,
-    "hot_score": 0.4054,
-    "sales_score": 0.5455,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6005,
+    "hot_score": 0.0284,
+    "sales_score": 0.945,
+    "asin": "B0C7KFDKCJ",
+    "platforms": {
+      "amazon": {
+        "asin": "B0C7KFDKCJ",
+        "rating": 4.4,
+        "reviews": 175,
+        "price": 269.94,
+        "bsr": 30011
+      }
+    },
+    "rating": 4.4,
+    "reviews": 175,
+    "bsr": 30011,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -1453,15 +1523,15 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥799"
+    "price_display": "$269.94"
   },
   {
     "id": "fujifilm-instax-pal",
@@ -1511,8 +1581,8 @@
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "乒乓球大小的数码小相机，拍完连手机选片再打印。",
-    "price_value": 499.0,
-    "currency": "CNY",
+    "price_value": 38.25,
+    "currency": "USD",
     "tags": [
       "数码",
       "迷你",
@@ -1544,7 +1614,7 @@
         "Fujifilm 官网"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -1552,10 +1622,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Pal",
         "is_official": false,
-        "price_value": 499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 2880,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1610,10 +1680,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Pal",
         "is_official": false,
-        "price_value": 499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 2880,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1668,10 +1738,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Pal",
         "is_official": false,
-        "price_value": 499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 2880,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1735,11 +1805,25 @@
       }
     ],
     "release_date": "2023-10-15",
-    "sales_rank": 4,
-    "hot_index": 78.0,
-    "latest_score": 0.8278,
-    "hot_score": 0.6216,
-    "sales_score": 0.7273,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6143,
+    "hot_score": 0.0048,
+    "sales_score": 0.9322,
+    "asin": "B0DGYZFXML",
+    "platforms": {
+      "amazon": {
+        "asin": "B0DGYZFXML",
+        "rating": 4.5,
+        "reviews": 32,
+        "price": 38.25,
+        "bsr": 36970
+      }
+    },
+    "rating": 4.5,
+    "reviews": 32,
+    "bsr": 36970,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -1747,20 +1831,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥499"
+    "price_display": "$38.25"
   },
   {
     "id": "fujifilm-instax-mini-liplay",
@@ -1789,8 +1873,8 @@
     "url": "",
     "official_url": "https://instax.com/",
     "summary": "能把声音做成二维码印在照片上的混合机，长青畅销款。",
-    "price_value": 849.0,
-    "currency": "CNY",
+    "price_value": 159.95,
+    "currency": "USD",
     "tags": [
       "混合",
       "录音",
@@ -1823,7 +1907,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -1831,10 +1915,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%20LiPlay",
         "is_official": false,
-        "price_value": 849.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 3440,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1889,10 +1973,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%20LiPlay",
         "is_official": false,
-        "price_value": 849.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 3440,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -1947,10 +2031,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%20LiPlay",
         "is_official": false,
-        "price_value": 849.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.5,
-        "review_count": 3440,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2014,11 +2098,17 @@
       }
     ],
     "release_date": "2019-07-01",
-    "sales_rank": 2,
-    "hot_index": 65.0,
+    "sales_rank": null,
+    "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.2703,
-    "sales_score": 0.9091,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -2026,20 +2116,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥849"
+    "price_display": "$159.95"
   },
   {
     "id": "polaroid-now-plus-gen3",
@@ -2062,8 +2152,8 @@
     "url": "",
     "official_url": "https://www.polaroid.com/",
     "summary": "经典白边宝丽来，配 App 解锁多重曝光等创意镜头滤镜。",
-    "price_value": 1099.0,
-    "currency": "CNY",
+    "price_value": 179.99,
+    "currency": "USD",
     "tags": [
       "经典宝丽来",
       "App 控制",
@@ -2100,7 +2190,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -2108,10 +2198,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Polaroid%20Polaroid%20Now%2B%20Gen%203",
         "is_official": false,
-        "price_value": 1099.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 1480,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2166,10 +2256,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Polaroid%20Polaroid%20Now%2B%20Gen%203",
         "is_official": false,
-        "price_value": 1099.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 1480,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2224,10 +2314,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Polaroid%20Polaroid%20Now%2B%20Gen%203",
         "is_official": false,
-        "price_value": 1099.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 1480,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2291,11 +2381,25 @@
       }
     ],
     "release_date": "2024-09-05",
-    "sales_rank": 9,
-    "hot_index": 80.0,
-    "latest_score": 1.0,
-    "hot_score": 0.6757,
-    "sales_score": 0.2727,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.7421,
+    "hot_score": 0.081,
+    "sales_score": 0.9876,
+    "asin": "B0DTTPR5T3",
+    "platforms": {
+      "amazon": {
+        "asin": "B0DTTPR5T3",
+        "rating": 4.4,
+        "reviews": 494,
+        "price": 179.99,
+        "bsr": 6935
+      }
+    },
+    "rating": 4.4,
+    "reviews": 494,
+    "bsr": 6935,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -2303,20 +2407,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥1099"
+    "price_display": "$179.99"
   },
   {
     "id": "polaroid-now-gen2",
@@ -2341,8 +2445,8 @@
     "url": "",
     "official_url": "https://www.polaroid.com/",
     "summary": "宝丽来标志性方形白边，双镜头自动对焦，氛围感拉满。",
-    "price_value": 899.0,
-    "currency": "CNY",
+    "price_value": 101.99,
+    "currency": "USD",
     "tags": [
       "经典宝丽来",
       "自动对焦"
@@ -2370,7 +2474,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -2378,10 +2482,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Polaroid%20Polaroid%20Now%20Gen%202",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2040,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2427,10 +2531,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Polaroid%20Polaroid%20Now%20Gen%202",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2040,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2476,10 +2580,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Polaroid%20Polaroid%20Now%20Gen%202",
         "is_official": false,
-        "price_value": 899.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.4,
-        "review_count": 2040,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2534,11 +2638,25 @@
       }
     ],
     "release_date": "2023-08-15",
-    "sales_rank": 7,
-    "hot_index": 68.0,
-    "latest_score": 0.7956,
-    "hot_score": 0.3514,
-    "sales_score": 0.4545,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.5904,
+    "hot_score": 0.2379,
+    "sales_score": 0.9832,
+    "asin": "B0BVNMQ2XL",
+    "platforms": {
+      "amazon": {
+        "asin": "B0BVNMQ2XL",
+        "rating": 4.4,
+        "reviews": 1446,
+        "price": 101.99,
+        "bsr": 9316
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1446,
+    "bsr": 9316,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -2546,20 +2664,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥899"
+    "price_display": "$101.99"
   },
   {
     "id": "polaroid-i-2",
@@ -2571,8 +2689,8 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg/960px-2023_Aparat_Polaroid_Land_Camera_Supercolor_1000_%282%29.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polaroid_Go_-_2.jpg/960px-Polaroid_Go_-_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Polaroid_I-Zone_Camera_%2851879223860%29.jpg/960px-Polaroid_I-Zone_Camera_%2851879223860%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Polaroid_Now%2B_-_2.jpg/960px-Polaroid_Now%2B_-_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polaroid_Now_-_2.jpg/960px-Polaroid_Now_-_2.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polaroid_Now_-_2.jpg/960px-Polaroid_Now_-_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Polaroid_camera_gen_2.jpg/960px-Polaroid_camera_gen_2.jpg"
     ],
     "image_credits": [
       {
@@ -2594,23 +2712,23 @@
         "artist": "Joost J. Bakker  IJmuiden"
       },
       {
-        "title": "Polaroid Now+ - 2.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now%2B_-_2.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kyu3a"
-      },
-      {
         "title": "Polaroid Now - 2.jpg",
         "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Now_-_2.jpg",
         "license": "CC BY-SA 4.0",
         "artist": "Kyu3a"
+      },
+      {
+        "title": "Polaroid camera gen 2.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_camera_gen_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Marietto il maghetto.angino"
       }
     ],
     "url": "",
     "official_url": "https://www.polaroid.com/",
     "summary": "宝丽来旗舰，连续自动对焦 + 全手动光圈快门，拍立得里的天花板。",
-    "price_value": 4499.0,
-    "currency": "CNY",
+    "price_value": 599.99,
+    "currency": "USD",
     "tags": [
       "旗舰",
       "手动",
@@ -2643,7 +2761,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -2651,10 +2769,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Polaroid%20Polaroid%20I-2",
         "is_official": false,
-        "price_value": 4499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.2,
-        "review_count": 640,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2709,10 +2827,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Polaroid%20Polaroid%20I-2",
         "is_official": false,
-        "price_value": 4499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.2,
-        "review_count": 640,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2767,10 +2885,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Polaroid%20Polaroid%20I-2",
         "is_official": false,
-        "price_value": 4499.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.2,
-        "review_count": 640,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2834,11 +2952,25 @@
       }
     ],
     "release_date": "2023-09-07",
-    "sales_rank": 12,
-    "hot_index": 75.0,
-    "latest_score": 0.8077,
-    "hot_score": 0.5405,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.5994,
+    "hot_score": 0.0,
     "sales_score": 0.0,
+    "asin": "B0D4RC69HB",
+    "platforms": {
+      "amazon": {
+        "asin": "B0D4RC69HB",
+        "rating": 3.6,
+        "reviews": 3,
+        "price": null,
+        "bsr": 541918
+      }
+    },
+    "rating": 3.6,
+    "reviews": 3,
+    "bsr": 541918,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -2846,20 +2978,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥4499"
+    "price_display": "$599.99"
   },
   {
     "id": "polaroid-go-gen2",
@@ -2883,8 +3015,8 @@
     "url": "",
     "official_url": "https://www.polaroid.com/",
     "summary": "全世界最小的模拟拍立得，口袋机，出片是迷你白边方块。",
-    "price_value": 629.0,
-    "currency": "CNY",
+    "price_value": 79.99,
+    "currency": "USD",
     "tags": [
       "迷你",
       "便携"
@@ -2911,7 +3043,7 @@
         "DPReview"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -2919,10 +3051,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Polaroid%20Polaroid%20Go%20Gen%202",
         "is_official": false,
-        "price_value": 629.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 1200,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -2968,10 +3100,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Polaroid%20Polaroid%20Go%20Gen%202",
         "is_official": false,
-        "price_value": 629.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 1200,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -3017,10 +3149,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Polaroid%20Polaroid%20Go%20Gen%202",
         "is_official": false,
-        "price_value": 629.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 1200,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -3075,11 +3207,25 @@
       }
     ],
     "release_date": "2023-01-10",
-    "sales_rank": 10,
-    "hot_index": 60.0,
-    "latest_score": 0.6809,
-    "hot_score": 0.1351,
-    "sales_score": 0.1818,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.5053,
+    "hot_score": 0.1937,
+    "sales_score": 0.9993,
+    "asin": "B0CG7P9KTH",
+    "platforms": {
+      "amazon": {
+        "asin": "B0CG7P9KTH",
+        "rating": 4.4,
+        "reviews": 1178,
+        "price": 79.99,
+        "bsr": 623
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1178,
+    "bsr": 623,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -3087,20 +3233,20 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥629"
+    "price_display": "$79.99"
   },
   {
     "id": "kodak-smile-plus",
@@ -3123,8 +3269,8 @@
     "url": "",
     "official_url": "https://www.kodak.com/",
     "summary": "用 ZINK 免墨贴纸相纸，配 App 玩 AR 滤镜，年轻人玩具。",
-    "price_value": 699.0,
-    "currency": "CNY",
+    "price_value": 99.99,
+    "currency": "USD",
     "tags": [
       "数码",
       "贴纸相纸",
@@ -3152,7 +3298,7 @@
         "京东参数"
       ],
       "上市时间": [
-        "示例数据"
+        "官方"
       ]
     },
     "sellers": [
@@ -3160,10 +3306,10 @@
         "name": "京东",
         "url": "https://search.jd.com/Search?keyword=Kodak%20Kodak%20Smile%2B",
         "is_official": false,
-        "price_value": 699.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 920,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -3209,10 +3355,10 @@
         "name": "天猫",
         "url": "https://list.tmall.com/search_product.htm?q=Kodak%20Kodak%20Smile%2B",
         "is_official": false,
-        "price_value": 699.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 920,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -3258,10 +3404,10 @@
         "name": "Amazon",
         "url": "https://www.amazon.com/s?k=Kodak%20Kodak%20Smile%2B",
         "is_official": false,
-        "price_value": 699.0,
+        "price_value": null,
         "currency": "CNY",
-        "rating": 4.3,
-        "review_count": 920,
+        "rating": null,
+        "review_count": null,
         "reviews_pos": [
           {
             "rating": 5.0,
@@ -3316,11 +3462,25 @@
       }
     ],
     "release_date": "2022-05-20",
-    "sales_rank": 11,
-    "hot_index": 55.0,
-    "latest_score": 0.5568,
-    "hot_score": 0.0,
-    "sales_score": 0.0909,
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.4132,
+    "hot_score": 0.0397,
+    "sales_score": 0.9777,
+    "asin": "B0CQMNDL59",
+    "platforms": {
+      "amazon": {
+        "asin": "B0CQMNDL59",
+        "rating": 4.2,
+        "reviews": 244,
+        "price": 99.99,
+        "bsr": 12315
+      }
+    },
+    "rating": 4.2,
+    "reviews": 244,
+    "bsr": 12315,
+    "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
     "active": true,
@@ -3328,14 +3488,1264 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-07T07:02:50+00:00"
+        "fetched_at": "2026-06-07T10:31:29+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-07T07:03:16+00:00"
+        "fetched_at": "2026-06-07T10:32:20+00:00"
       }
     ],
-    "price_display": "¥699"
+    "price_display": "$99.99"
+  },
+  {
+    "id": "fujifilm-instax-mini-13",
+    "category": "instant-camera",
+    "name": "Instax Mini 13",
+    "brand": "Fujifilm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg/960px-Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg/960px-Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fujifilm_Instax_Mini_Link_on_the_ground_at_WirForce_Shop_20221105.jpg/960px-Fujifilm_Instax_Mini_Link_on_the_ground_at_WirForce_Shop_20221105.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/INSTAX_MINI_26.jpg/960px-INSTAX_MINI_26.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Fujifilm Instax Mini Link 2 and powerbank on the table at WirForce 20231126.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_Link_2_and_powerbank_on_the_table_at_WirForce_20231126.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Solomon203"
+      },
+      {
+        "title": "Fujifilm Instax Mini Link on the ground at WirForce Shop 20221105.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_Link_on_the_ground_at_WirForce_Shop_20221105.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Solomon203"
+      },
+      {
+        "title": "INSTAX MINI 26.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:INSTAX_MINI_26.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "LaneXYZ"
+      }
+    ],
+    "url": "",
+    "official_url": "https://instax.com/",
+    "summary": "Mini 12 继任者，柔和雕塑造型 + 金属银 logo，2026 最新入门款。",
+    "price_value": 93.95,
+    "currency": "USD",
+    "tags": [
+      "入门",
+      "新品",
+      "最新"
+    ],
+    "specs": {
+      "类型": "模拟即时成像",
+      "相纸": "instax mini",
+      "曝光": "自动",
+      "自拍镜": "有 + 近拍模式",
+      "上市": "2026 年 6 月",
+      "上市时间": "2026-06-25"
+    },
+    "spec_sources": {
+      "类型": [
+        "Fujifilm 官网"
+      ],
+      "相纸": [
+        "Fujifilm 官网"
+      ],
+      "曝光": [
+        "Fujifilm 官网"
+      ],
+      "自拍镜": [
+        "Fujifilm 官网"
+      ],
+      "上市": [
+        "Fujifilm 官方新闻稿"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%2013",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "造型更精致",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "延续 Mini 12 的易用",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "刚上市，渠道与评价还少",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%2013",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "造型更精致",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "延续 Mini 12 的易用",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "刚上市，渠道与评价还少",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%2013",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "造型更精致",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "延续 Mini 12 的易用",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "刚上市，渠道与评价还少",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026-06-25",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 1.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 13",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "fetched_at": "2026-06-07T10:32:20+00:00"
+      }
+    ],
+    "price_display": "$93.95"
+  },
+  {
+    "id": "fujifilm-instax-evo-cinema",
+    "category": "instant-camera",
+    "name": "Instax Mini Evo Cinema",
+    "brand": "Fujifilm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fujifilm_Instax_mini_Evo_Cinema_-_2.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fujifilm_Instax_mini_Evo_Cinema_-_3.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fujifilm_Instax_mini_Evo_Cinema_-_4.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_4.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Fujifilm Instax mini Evo Cinema - 1.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Kyu3a"
+      },
+      {
+        "title": "Fujifilm Instax mini Evo Cinema - 2.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Kyu3a"
+      },
+      {
+        "title": "Fujifilm Instax mini Evo Cinema - 3.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_3.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Kyu3a"
+      },
+      {
+        "title": "Fujifilm Instax mini Evo Cinema - 4.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_4.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Kyu3a"
+      }
+    ],
+    "url": "",
+    "official_url": "https://instax.com/",
+    "summary": "Evo 影院版：Gen Dial 一键套用 10 个年代的影像质感，混合式先看后印。",
+    "price_value": 409.95,
+    "currency": "USD",
+    "tags": [
+      "混合",
+      "新品",
+      "影像质感"
+    ],
+    "specs": {
+      "类型": "混合式（数码+打印）",
+      "相纸": "instax mini",
+      "特效": "Gen Dial · 10 个年代效果",
+      "上市": "2026 年 2 月",
+      "上市时间": "2026-02-05"
+    },
+    "spec_sources": {
+      "类型": [
+        "Fujifilm 官网"
+      ],
+      "相纸": [
+        "Fujifilm 官网"
+      ],
+      "特效": [
+        "Fujifilm 官网"
+      ],
+      "上市": [
+        "Fujifilm 官方新闻稿"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%20Evo%20Cinema",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "年代效果很有创意",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "延续 Evo 的高颜值",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "价格偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%20Evo%20Cinema",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "年代效果很有创意",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "延续 Evo 的高颜值",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "价格偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%20Evo%20Cinema",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "年代效果很有创意",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "延续 Evo 的高颜值",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "价格偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026-02-05",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.9451,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo Cinema",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "fetched_at": "2026-06-07T10:32:20+00:00"
+      }
+    ],
+    "price_display": "$409.95"
+  },
+  {
+    "id": "fujifilm-instax-mini-liplay-plus",
+    "category": "instant-camera",
+    "name": "Instax Mini LiPlay+",
+    "brand": "Fujifilm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fuji_Instax_mini_LiPlay_instant_camera.jpg/960px-Fuji_Instax_mini_LiPlay_instant_camera.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fuji_Instax_mini_LiPlay_instant_camera.jpg/960px-Fuji_Instax_mini_LiPlay_instant_camera.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Firmware_update_Fuji_Instax_Liplay.jpg/960px-Firmware_update_Fuji_Instax_Liplay.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Fuji Instax mini LiPlay instant camera.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_LiPlay_instant_camera.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Sgroey"
+      },
+      {
+        "title": "Firmware update Fuji Instax Liplay.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Firmware_update_Fuji_Instax_Liplay.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Sgroey"
+      }
+    ],
+    "url": "",
+    "official_url": "https://instax.com/",
+    "summary": "LiPlay 换代：双摄（主摄 + 广角自拍），声音二维码升级。",
+    "price_value": 234.95,
+    "currency": "USD",
+    "tags": [
+      "混合",
+      "双摄",
+      "录音"
+    ],
+    "specs": {
+      "类型": "混合式（数码+打印）",
+      "相纸": "instax mini",
+      "特色": "双摄（含广角自拍）+ 录音转二维码",
+      "上市": "2025 年 10 月",
+      "上市时间": "2025-10-24"
+    },
+    "spec_sources": {
+      "类型": [
+        "Fujifilm 官网"
+      ],
+      "相纸": [
+        "Fujifilm 官网"
+      ],
+      "特色": [
+        "Fujifilm 官网"
+      ],
+      "上市": [
+        "Fujifilm 官方新闻稿"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%20LiPlay%2B",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "双摄自拍更方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "声音二维码有记忆点",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "相纸成本仍在",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%20LiPlay%2B",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "双摄自拍更方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "声音二维码有记忆点",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "相纸成本仍在",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%20LiPlay%2B",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "双摄自拍更方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "声音二维码有记忆点",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "相纸成本仍在",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-10-24",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.9044,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay+",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "fetched_at": "2026-06-07T10:32:20+00:00"
+      }
+    ],
+    "price_display": "$234.95"
+  },
+  {
+    "id": "fujifilm-instax-mini-41",
+    "category": "instant-camera",
+    "name": "Instax Mini 41",
+    "brand": "Fujifilm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuji_Instax_mini_8_%2816453678341%29.jpg/960px-Fuji_Instax_mini_8_%2816453678341%29.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuji_Instax_mini_8_%2816453678341%29.jpg/960px-Fuji_Instax_mini_8_%2816453678341%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fujifilm_Instax_Mini_25_Camera_Rear.jpg/960px-Fujifilm_Instax_Mini_25_Camera_Rear.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sakana_sitting_at_her_booth%2C_Fujifilm_Instax_Mini_25_on_the_table_20190518.jpg/960px-Sakana_sitting_at_her_booth%2C_Fujifilm_Instax_Mini_25_on_the_table_20190518.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fuji_Instax_mini_8_%2816269512837%29.jpg/960px-Fuji_Instax_mini_8_%2816269512837%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Granite_Springs_Reservoir_-_Curt_Gowdy_State_Park_%28Instax_Mini%29_%2852849505863%29.jpg/960px-Granite_Springs_Reservoir_-_Curt_Gowdy_State_Park_%28Instax_Mini%29_%2852849505863%29.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Fuji Instax mini 8 (16453678341).jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_8_(16453678341).jpg",
+        "license": "CC BY 2.0",
+        "artist": "Kārlis Dambrāns"
+      },
+      {
+        "title": "Fujifilm Instax Mini 25 Camera Rear.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_25_Camera_Rear.jpg",
+        "license": "CC BY 2.0",
+        "artist": "Lordcolus"
+      },
+      {
+        "title": "Sakana sitting at her booth, Fujifilm Instax Mini 25 on the table 20190518.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Sakana_sitting_at_her_booth,_Fujifilm_Instax_Mini_25_on_the_table_20190518.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Solomon203"
+      },
+      {
+        "title": "Fuji Instax mini 8 (16269512837).jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_8_(16269512837).jpg",
+        "license": "CC BY 2.0",
+        "artist": "Kārlis Dambrāns"
+      },
+      {
+        "title": "Granite Springs Reservoir - Curt Gowdy State Park (Instax Mini) (52849505863).jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Granite_Springs_Reservoir_-_Curt_Gowdy_State_Park_(Instax_Mini)_(52849505863).jpg",
+        "license": "CC BY 2.0",
+        "artist": "Tony Webster"
+      }
+    ],
+    "url": "",
+    "official_url": "https://instax.com/",
+    "summary": "Mini 11/40 一脉的换代款，经典造型 + 自动闪光控制、视差校正改进。",
+    "price_value": 100.92,
+    "currency": "USD",
+    "tags": [
+      "入门",
+      "自动曝光"
+    ],
+    "specs": {
+      "类型": "模拟即时成像",
+      "相纸": "instax mini",
+      "镜头": "60mm f/12.7",
+      "曝光": "自动 + 自动闪光控制",
+      "电源": "2 节 AA 电池",
+      "上市": "2025 年 4 月",
+      "上市时间": "2025-04-25"
+    },
+    "spec_sources": {
+      "类型": [
+        "Fujifilm 官网"
+      ],
+      "相纸": [
+        "Fujifilm 官网"
+      ],
+      "镜头": [
+        "Fujifilm 官网"
+      ],
+      "曝光": [
+        "Fujifilm 官网"
+      ],
+      "电源": [
+        "Fujifilm 官网"
+      ],
+      "上市": [
+        "Fujifilm 官方新闻稿"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Instax%20Mini%2041",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "自动曝光省心",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "经典商务造型",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "功能基础，可玩性一般",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Instax%20Mini%2041",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "自动曝光省心",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "经典商务造型",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "功能基础，可玩性一般",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Instax%20Mini%2041",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "自动曝光省心",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "经典商务造型",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "功能基础，可玩性一般",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-04-25",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.833,
+    "hot_score": 0.0414,
+    "sales_score": 0.9919,
+    "asin": "B0F2V7RKXH",
+    "platforms": {
+      "amazon": {
+        "asin": "B0F2V7RKXH",
+        "rating": 4.6,
+        "reviews": 254,
+        "price": 100.92,
+        "bsr": 4618
+      }
+    },
+    "rating": 4.6,
+    "reviews": 254,
+    "bsr": 4618,
+    "data_as_of": "2026-06-07",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini 41",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "fetched_at": "2026-06-07T10:32:20+00:00"
+      }
+    ],
+    "price_display": "$100.92"
+  },
+  {
+    "id": "polaroid-flip",
+    "category": "instant-camera",
+    "name": "Polaroid Flip",
+    "brand": "Polaroid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Polaroid_Flip_Camera.jpg/960px-Polaroid_Flip_Camera.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Polaroid_Flip_Camera.jpg/960px-Polaroid_Flip_Camera.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Polaroid Flip Camera.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Polaroid_Flip_Camera.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "TaurusEmerald"
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.polaroid.com/",
+    "summary": "Polaroid 迄今最先进：声呐自动对焦 + 超焦四镜头系统 + 可变亮度强力闪光。",
+    "price_value": 219.99,
+    "currency": "USD",
+    "tags": [
+      "旗舰",
+      "声呐对焦",
+      "新品"
+    ],
+    "specs": {
+      "类型": "模拟即时成像",
+      "相纸": "i-Type / 600",
+      "对焦": "声呐自动对焦 · 超焦四镜头",
+      "闪光": "可变亮度强力闪光",
+      "App": "蓝牙连 App（遥控/多重曝光等）",
+      "上市": "2025 年 4 月 29 日",
+      "上市时间": "2025-04-29"
+    },
+    "spec_sources": {
+      "类型": [
+        "Polaroid 官网"
+      ],
+      "相纸": [
+        "Polaroid 官网"
+      ],
+      "对焦": [
+        "Polaroid 官网",
+        "DPReview"
+      ],
+      "闪光": [
+        "Polaroid 官网"
+      ],
+      "App": [
+        "Polaroid 官网"
+      ],
+      "上市": [
+        "Polaroid 新闻稿"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Polaroid%20Polaroid%20Flip",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "四镜头自动对焦很准",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "暗光/强光都稳",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "做工质感好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "比 Now 系列贵",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "机身偏大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Polaroid%20Polaroid%20Flip",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "四镜头自动对焦很准",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "暗光/强光都稳",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "做工质感好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "比 Now 系列贵",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "机身偏大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Polaroid%20Polaroid%20Flip",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "四镜头自动对焦很准",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "暗光/强光都稳",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "做工质感好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "比 Now 系列贵",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "机身偏大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Polaroid 官网",
+        "url": "https://www.polaroid.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-04-29",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.8346,
+    "hot_score": 0.0005,
+    "sales_score": 0.7819,
+    "asin": "B0F993TYR9",
+    "platforms": {
+      "amazon": {
+        "asin": "B0F993TYR9",
+        "rating": 4.6,
+        "reviews": 6,
+        "price": 219.99,
+        "bsr": 118349
+      }
+    },
+    "rating": 4.6,
+    "reviews": 6,
+    "bsr": 118349,
+    "data_as_of": "2026-06-07",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Flip",
+        "fetched_at": "2026-06-07T10:31:29+00:00"
+      },
+      {
+        "name": "Polaroid 官网",
+        "url": "https://www.polaroid.com/",
+        "fetched_at": "2026-06-07T10:32:20+00:00"
+      }
+    ],
+    "price_display": "$219.99"
   }
 ]

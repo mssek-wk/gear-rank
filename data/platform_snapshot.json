@@ -1,0 +1,123 @@
+{
+ "as_of": "2026-06-07",
+ "source": "Amazon US",
+ "items": {
+  "fujifilm-instax-mini-12": {
+   "amazon": {
+    "asin": "B0BWNYBRNL",
+    "rating": 4.6,
+    "reviews": 6068,
+    "price": 79.95,
+    "bsr": 219
+   }
+  },
+  "fujifilm-instax-wide-400": {
+   "amazon": {
+    "asin": "B0D6WXV3MF",
+    "rating": 3.8,
+    "reviews": 308,
+    "price": 168.0,
+    "bsr": 5311
+   }
+  },
+  "fujifilm-instax-mini-99": {
+   "amazon": {
+    "asin": "B0CXZQGL2D",
+    "rating": 4.6,
+    "reviews": 158,
+    "price": 207.58,
+    "bsr": 27200
+   }
+  },
+  "fujifilm-instax-square-sq40": {
+   "amazon": {
+    "asin": "B0C7KFDKCJ",
+    "rating": 4.4,
+    "reviews": 175,
+    "price": 269.94,
+    "bsr": 30011
+   }
+  },
+  "fujifilm-instax-mini-evo": {
+   "amazon": {
+    "asin": "B09M4DKBQ9",
+    "rating": 4.7,
+    "reviews": 1963,
+    "price": 219.99,
+    "bsr": 3438
+   }
+  },
+  "fujifilm-instax-pal": {
+   "amazon": {
+    "asin": "B0DGYZFXML",
+    "rating": 4.5,
+    "reviews": 32,
+    "price": 38.25,
+    "bsr": 36970
+   }
+  },
+  "fujifilm-instax-mini-41": {
+   "amazon": {
+    "asin": "B0F2V7RKXH",
+    "rating": 4.6,
+    "reviews": 254,
+    "price": 100.92,
+    "bsr": 4618
+   }
+  },
+  "polaroid-now-gen2": {
+   "amazon": {
+    "asin": "B0BVNMQ2XL",
+    "rating": 4.4,
+    "reviews": 1446,
+    "price": 101.99,
+    "bsr": 9316
+   }
+  },
+  "polaroid-go-gen2": {
+   "amazon": {
+    "asin": "B0CG7P9KTH",
+    "rating": 4.4,
+    "reviews": 1178,
+    "price": 79.99,
+    "bsr": 623
+   }
+  },
+  "polaroid-i-2": {
+   "amazon": {
+    "asin": "B0D4RC69HB",
+    "rating": 3.6,
+    "reviews": 3,
+    "price": null,
+    "bsr": 541918
+   }
+  },
+  "polaroid-now-plus-gen3": {
+   "amazon": {
+    "asin": "B0DTTPR5T3",
+    "rating": 4.4,
+    "reviews": 494,
+    "price": 179.99,
+    "bsr": 6935
+   }
+  },
+  "polaroid-flip": {
+   "amazon": {
+    "asin": "B0F993TYR9",
+    "rating": 4.6,
+    "reviews": 6,
+    "price": 219.99,
+    "bsr": 118349
+   }
+  },
+  "kodak-smile-plus": {
+   "amazon": {
+    "asin": "B0CQMNDL59",
+    "rating": 4.2,
+    "reviews": 244,
+    "price": 99.99,
+    "bsr": 12315
+   }
+  }
+ }
+}

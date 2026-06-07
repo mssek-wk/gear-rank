@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-06-07T15:03:28+08:00",
+  "updated_at": "2026-06-07T18:32:39+08:00",
   "generator": "hardware-rank crawler",
   "board_size": 8,
+  "platform_as_of": "2026-06-07",
+  "platform_sources": [
+    "Amazon US"
+  ],
   "categories": [
     {
       "id": "instant-camera",
@@ -9,8 +13,8 @@
       "name_en": "Instant Camera",
       "icon": "camera",
       "description": "即时成像相机 —— 拍完即出片",
-      "count": 12,
-      "total": 12
+      "count": 17,
+      "total": 17
     }
   ]
 }

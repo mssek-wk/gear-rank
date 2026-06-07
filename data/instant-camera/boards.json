@@ -1,32 +1,32 @@
 {
   "latest": [
+    "fujifilm-instax-mini-13",
+    "fujifilm-instax-evo-cinema",
+    "fujifilm-instax-mini-liplay-plus",
+    "polaroid-flip",
+    "fujifilm-instax-mini-41",
     "polaroid-now-plus-gen3",
     "fujifilm-instax-wide-400",
-    "fujifilm-instax-mini-99",
-    "fujifilm-instax-pal",
-    "fujifilm-instax-square-sq40",
-    "polaroid-i-2",
-    "polaroid-now-gen2",
-    "fujifilm-instax-mini-12"
+    "fujifilm-instax-mini-99"
   ],
   "hottest": [
-    "fujifilm-instax-mini-99",
-    "fujifilm-instax-mini-evo",
     "fujifilm-instax-mini-12",
-    "fujifilm-instax-wide-400",
+    "fujifilm-instax-mini-evo",
+    "polaroid-now-gen2",
+    "polaroid-go-gen2",
     "polaroid-now-plus-gen3",
-    "fujifilm-instax-pal",
-    "polaroid-i-2",
-    "fujifilm-instax-square-sq40"
+    "fujifilm-instax-wide-400",
+    "fujifilm-instax-mini-41",
+    "kodak-smile-plus"
   ],
   "bestselling": [
     "fujifilm-instax-mini-12",
-    "fujifilm-instax-mini-liplay",
+    "polaroid-go-gen2",
     "fujifilm-instax-mini-evo",
-    "fujifilm-instax-pal",
-    "fujifilm-instax-mini-99",
-    "fujifilm-instax-square-sq40",
+    "fujifilm-instax-mini-41",
+    "fujifilm-instax-wide-400",
+    "polaroid-now-plus-gen3",
     "polaroid-now-gen2",
-    "fujifilm-instax-wide-400"
+    "kodak-smile-plus"
   ]
 }

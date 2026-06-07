@@ -33,6 +33,30 @@ _OFFICIAL = {
     "Kodak": "https://www.kodak.com/",
 }
 
+# Amazon ASIN（用于 amazon 适配器实时抓 真实评分/评价数/畅销榜排名）。
+# 没有 ASIN 的（如刚上市的新机型）= 暂无电商指标，只按官方上市日期进「最新」。
+ASIN = {
+    "fujifilm-instax-mini-12": "B0BWNYBRNL", "fujifilm-instax-mini-99": "B0CXZQGL2D",
+    "fujifilm-instax-wide-400": "B0D6WXV3MF", "fujifilm-instax-square-sq40": "B0C7KFDKCJ",
+    "fujifilm-instax-mini-evo": "B09M4DKBQ9", "fujifilm-instax-pal": "B0DGYZFXML",
+    "fujifilm-instax-mini-41": "B0F2V7RKXH", "polaroid-now-gen2": "B0BVNMQ2XL",
+    "polaroid-go-gen2": "B0CG7P9KTH", "polaroid-i-2": "B0D4RC69HB",
+    "polaroid-now-plus-gen3": "B0DTTPR5T3", "polaroid-flip": "B0F993TYR9",
+    "kodak-smile-plus": "B0CQMNDL59",
+}
+# 官方 MSRP（USD）作为价格兜底；amazon 适配器会用实时价覆盖。
+MSRP_USD = {
+    "fujifilm-instax-mini-13": 93.95, "fujifilm-instax-evo-cinema": 409.95,
+    "fujifilm-instax-mini-liplay-plus": 234.95, "polaroid-flip": 199.99,
+    "fujifilm-instax-mini-41": 99.95, "fujifilm-instax-wide-400": 149.95,
+    "fujifilm-instax-mini-99": 199.95, "polaroid-now-plus-gen3": 159.99,
+    "fujifilm-instax-square-sq40": 119.95, "fujifilm-instax-pal": 99.95,
+    "polaroid-i-2": 599.99, "fujifilm-instax-mini-12": 79.95,
+    "polaroid-now-gen2": 99.99, "polaroid-go-gen2": 79.99,
+    "fujifilm-instax-mini-evo": 199.95, "fujifilm-instax-mini-liplay": 159.95,
+    "kodak-smile-plus": 99.99,
+}
+
 
 def _reviews(seller: str, pros: list[str], cons: list[str]) -> tuple[list[Review], list[Review]]:
     """把 pros/cons 短语合成「代表性」评价对象（标注来源为示例）。
@@ -234,6 +258,77 @@ _CAMERAS = [
         "pros": ["免墨贴纸很方便", "AR 滤镜小朋友喜欢"],
         "cons": ["打印质量一般", "塑料感强"],
     },
+    # ===== 2025–2026 新机型（官方上市日期已核验）=====
+    {
+        "id": "fujifilm-instax-mini-13", "name": "Instax Mini 13", "brand": "Fujifilm",
+        "release": "2026-06-25", "tags": ["入门", "新品", "最新"],
+        "summary": "Mini 12 继任者，柔和雕塑造型 + 金属银 logo，2026 最新入门款。",
+        "specs": [
+            ("类型", "模拟即时成像", ["Fujifilm 官网"]),
+            ("相纸", "instax mini", ["Fujifilm 官网"]),
+            ("曝光", "自动", ["Fujifilm 官网"]),
+            ("自拍镜", "有 + 近拍模式", ["Fujifilm 官网"]),
+            ("上市", "2026 年 6 月", ["Fujifilm 官方新闻稿"]),
+        ],
+        "pros": ["造型更精致", "延续 Mini 12 的易用"],
+        "cons": ["刚上市，渠道与评价还少"],
+    },
+    {
+        "id": "fujifilm-instax-evo-cinema", "name": "Instax Mini Evo Cinema", "brand": "Fujifilm",
+        "release": "2026-02-05", "tags": ["混合", "新品", "影像质感"],
+        "summary": "Evo 影院版：Gen Dial 一键套用 10 个年代的影像质感，混合式先看后印。",
+        "specs": [
+            ("类型", "混合式（数码+打印）", ["Fujifilm 官网"]),
+            ("相纸", "instax mini", ["Fujifilm 官网"]),
+            ("特效", "Gen Dial · 10 个年代效果", ["Fujifilm 官网"]),
+            ("上市", "2026 年 2 月", ["Fujifilm 官方新闻稿"]),
+        ],
+        "pros": ["年代效果很有创意", "延续 Evo 的高颜值"],
+        "cons": ["价格偏高"],
+    },
+    {
+        "id": "fujifilm-instax-mini-liplay-plus", "name": "Instax Mini LiPlay+", "brand": "Fujifilm",
+        "release": "2025-10-24", "tags": ["混合", "双摄", "录音"],
+        "summary": "LiPlay 换代：双摄（主摄 + 广角自拍），声音二维码升级。",
+        "specs": [
+            ("类型", "混合式（数码+打印）", ["Fujifilm 官网"]),
+            ("相纸", "instax mini", ["Fujifilm 官网"]),
+            ("特色", "双摄（含广角自拍）+ 录音转二维码", ["Fujifilm 官网"]),
+            ("上市", "2025 年 10 月", ["Fujifilm 官方新闻稿"]),
+        ],
+        "pros": ["双摄自拍更方便", "声音二维码有记忆点"],
+        "cons": ["相纸成本仍在"],
+    },
+    {
+        "id": "fujifilm-instax-mini-41", "name": "Instax Mini 41", "brand": "Fujifilm",
+        "release": "2025-04-25", "tags": ["入门", "自动曝光"],
+        "summary": "Mini 11/40 一脉的换代款，经典造型 + 自动闪光控制、视差校正改进。",
+        "specs": [
+            ("类型", "模拟即时成像", ["Fujifilm 官网"]),
+            ("相纸", "instax mini", ["Fujifilm 官网"]),
+            ("镜头", "60mm f/12.7", ["Fujifilm 官网"]),
+            ("曝光", "自动 + 自动闪光控制", ["Fujifilm 官网"]),
+            ("电源", "2 节 AA 电池", ["Fujifilm 官网"]),
+            ("上市", "2025 年 4 月", ["Fujifilm 官方新闻稿"]),
+        ],
+        "pros": ["自动曝光省心", "经典商务造型"],
+        "cons": ["功能基础，可玩性一般"],
+    },
+    {
+        "id": "polaroid-flip", "name": "Polaroid Flip", "brand": "Polaroid",
+        "release": "2025-04-29", "tags": ["旗舰", "声呐对焦", "新品"],
+        "summary": "Polaroid 迄今最先进：声呐自动对焦 + 超焦四镜头系统 + 可变亮度强力闪光。",
+        "specs": [
+            ("类型", "模拟即时成像", ["Polaroid 官网"]),
+            ("相纸", "i-Type / 600", ["Polaroid 官网"]),
+            ("对焦", "声呐自动对焦 · 超焦四镜头", ["Polaroid 官网", "DPReview"]),
+            ("闪光", "可变亮度强力闪光", ["Polaroid 官网"]),
+            ("App", "蓝牙连 App（遥控/多重曝光等）", ["Polaroid 官网"]),
+            ("上市", "2025 年 4 月 29 日", ["Polaroid 新闻稿"]),
+        ],
+        "pros": ["四镜头自动对焦很准", "暗光/强光都稳", "做工质感好"],
+        "cons": ["比 Now 系列贵", "机身偏大"],
+    },
 ]
 
 
@@ -250,26 +345,25 @@ class SampleAdapter(Adapter):
         for c in rows:
             it = Item(
                 id=c["id"], category=category_id, name=c["name"], brand=c["brand"],
-                summary=c["summary"], price_value=float(c["price"]), currency="CNY",
+                summary=c["summary"],
+                price_value=float(MSRP_USD.get(c["id"], 0)) or None, currency="USD",
+                asin=ASIN.get(c["id"], ""),
                 tags=list(c["tags"]), release_date=c["release"],
-                sales_rank=c["rank"], hot_index=float(c["hot"]),
                 official_url=_OFFICIAL.get(c["brand"], ""),
                 sources=[Source(name=self.name, fetched_at=_NOW)],
             )
+            # 注意：不再使用编造的 rank/hot —— 真实「最火/最畅销」信号由 amazon 适配器实时抓取
             for fld, val, srcs in c["specs"]:
                 for s in srcs:
                     it.add_spec(fld, val, s)
-            it.add_spec("上市时间", c["release"], "示例数据")
+            it.add_spec("上市时间", c["release"], "官方")
+            # 购买渠道：真实搜索/官网链接（评分/评价数由各平台适配器填真实值）
             for sname, url, off in _seller_search_urls(c["name"], c["brand"]):
-                pos, neg = _reviews(sname, c["pros"], c["cons"])
-                it.sellers.append(Seller(
-                    name=sname, url=url, is_official=off, currency="CNY",
-                    price_value=float(c["price"]),
-                    rating=round(4.6 - 0.03 * c["rank"], 1),
-                    review_count=max(50, 4000 - c["rank"] * 280),
-                    reviews_pos=pos, reviews_neg=neg))
+                pos, neg = _reviews(sname, c.get("pros", []), c.get("cons", []))
+                it.sellers.append(Seller(name=sname, url=url, is_official=off,
+                                         reviews_pos=pos, reviews_neg=neg))
             if it.official_url:
                 it.sellers.append(Seller(name=f"{c['brand']} 官网", url=it.official_url, is_official=True))
             out.append(it)
-        print(f"  · sample: 品类 '{category_id}' 提供 {len(out)} 条（含参数/渠道/示例评价）")
+        print(f"  · 目录: 品类 '{category_id}' 提供 {len(out)} 款机型（含官方上市日期/参数/渠道）")
         return out

@@ -9,7 +9,7 @@
       "enabled": true,
       "order": 1,
       "description": "即时成像相机 —— 拍完即出片",
-      "adapters": ["sample", "ecommerce", "media", "wikimedia", "official"],
+      "adapters": ["sample", "wikimedia", "official", "amazon", "jd", "taobao"],
       "currency": "CNY"
     }
   ],

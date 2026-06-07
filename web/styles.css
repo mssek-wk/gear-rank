@@ -397,3 +397,24 @@ body.viewing-detail #all { display: none; }
   border: 1px solid var(--border); border-radius: 999px; padding: .28rem .5rem;
   backdrop-filter: blur(4px);
 }
+
+/* ================= 真实数据：榜单指标 / 评分 / 来源 ================= */
+.row__metric { font: 500 .76rem/1.2 var(--mono); color: var(--text-secondary); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+.board--latest .row__metric { color: var(--rank-latest); }
+.board--hot .row__metric { color: var(--rank-hot); }
+.board--sales .row__metric { color: var(--rank-sales); }
+
+.card__rate { font: 600 .78rem/1 var(--sans); color: var(--warning); margin-top: .5rem; }
+.card__rate span { color: var(--text-tertiary); font-weight: 500; }
+
+.provenance { margin-top: .6rem; font-size: .78rem; color: var(--text-tertiary); line-height: 1.6; }
+.provenance strong { color: var(--text-secondary); }
+.prov-pending { color: var(--text-tertiary); border-bottom: 1px dashed var(--border-hover); }
+
+.market { margin: 1rem 0 .2rem; }
+.market__chips { display: flex; gap: .5rem; flex-wrap: wrap; }
+.market__chip { font: 600 .8rem/1 var(--sans); padding: .4rem .7rem; border-radius: 999px;
+  background: var(--surface-alt); border: 1px solid var(--border); color: var(--text); }
+.market__src { font-size: .74rem; color: var(--text-tertiary); margin-top: .5rem; }
+.market--new { font-size: .82rem; color: var(--text-secondary); background: var(--surface-alt);
+  border: 1px solid var(--border); border-radius: 10px; padding: .6rem .8rem; margin: 1rem 0 .2rem; }

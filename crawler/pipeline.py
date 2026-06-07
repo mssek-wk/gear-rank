@@ -70,38 +70,78 @@ def _normalize(values: dict[str, float]) -> dict[str, float]:
     return out
 
 
+_PLATFORMS = ("amazon", "jd", "taobao")
+
+
+def _platform_signals(items: list[Item], kind: str) -> dict[str, list[float]]:
+    """每个平台各自把信号归一化到 [0,1]，返回 {item_id: [各平台分数]}。
+
+    kind="sales": 用「畅销榜排名/销量排名」越小越好（信号取 -rank）。
+    kind="hot":   用「评价数/销量」越大越好。
+    只纳入该平台真实有数据的机型，实现跨平台口径统一后再合成。
+    """
+    per_item: dict[str, list[float]] = {it.id: [] for it in items}
+    for plat in _PLATFORMS:
+        sig = {}
+        for it in items:
+            d = it.platforms.get(plat) or {}
+            if kind == "sales":
+                v = d.get("bsr") if plat == "amazon" else d.get("sales_rank")
+                sig[it.id] = (-v) if v is not None else None
+            else:  # hot
+                sig[it.id] = d.get("reviews") if plat == "amazon" else d.get("reviews")
+        if not any(v is not None for v in sig.values()):
+            continue                      # 该平台暂无数据，跳过
+        norm = _normalize(sig)
+        for it in items:
+            if sig[it.id] is not None:
+                per_item[it.id].append(norm[it.id])
+    return per_item
+
+
 def score(items: list[Item]) -> None:
-    """就地写入 latest_score / hot_score / sales_score。"""
-    # 最新：发布越近越高 -> 用 -距今天数 作为信号
+    """就地写入 latest_score / hot_score / sales_score（综合多平台真实信号）+ 展示字段。"""
+    # 最新：官方上市日期，越近越高（不依赖平台）
     latest_sig = {it.id: (-d if (d := days_since(it.release_date)) is not None else None)
                   for it in items}
-    # 最畅销：销量排名越小越高 -> 用 -rank 作为信号
-    sales_sig = {it.id: (-it.sales_rank if it.sales_rank is not None else None)
-                 for it in items}
-    # 最火：热度指数直接用
-    hot_sig = {it.id: it.hot_index for it in items}
-
     latest_n = _normalize(latest_sig)
-    sales_n = _normalize(sales_sig)
-    hot_n = _normalize(hot_sig)
+
+    # 最畅销 / 最火：各平台归一化后取平均（综合）。当前有 Amazon；JD/淘宝接入后自动并入。
+    sales_pi = _platform_signals(items, "sales")
+    hot_pi = _platform_signals(items, "hot")
+
     for it in items:
         it.latest_score = latest_n[it.id]
-        it.sales_score = sales_n[it.id]
-        it.hot_score = hot_n[it.id]
+        s = sales_pi[it.id]
+        h = hot_pi[it.id]
+        it.sales_score = round(sum(s) / len(s), 4) if s else 0.0
+        it.hot_score = round(sum(h) / len(h), 4) if h else 0.0
+        # 展示字段：综合评分（各平台均值）、总评价数、最优畅销榜排名、参与平台
+        ratings = [p["rating"] for p in it.platforms.values() if p.get("rating") is not None]
+        revs = [p["reviews"] for p in it.platforms.values() if p.get("reviews") is not None]
+        bsrs = [p["bsr"] for p in it.platforms.values() if p.get("bsr") is not None]
+        it.rating = round(sum(ratings) / len(ratings), 1) if ratings else None
+        it.reviews = sum(revs) if revs else None
+        it.bsr = min(bsrs) if bsrs else None
 
 
 # ---------- 归类 ----------
 
 def build_boards(items: list[Item]) -> dict[str, list[str]]:
-    """返回三榜的有序 id 列表。"""
-    def top(key, tie):
-        ranked = sorted(items, key=lambda it: (getattr(it, key), tie(it)), reverse=True)
+    """返回三榜的有序 id 列表。
+
+    最火/最畅销只纳入「有真实平台信号」的机型（score>0），避免无数据机型滥竽充数；
+    最新纳入全部（人人都有官方上市日期）。
+    """
+    def top(key, tie, require_positive=False):
+        pool = [it for it in items if (getattr(it, key) > 0)] if require_positive else list(items)
+        ranked = sorted(pool, key=lambda it: (getattr(it, key), tie(it)), reverse=True)
         return [it.id for it in ranked[:BOARD_SIZE]]
 
     return {
         "latest": top("latest_score", lambda it: it.hot_score),
-        "hottest": top("hot_score", lambda it: it.sales_score),
-        "bestselling": top("sales_score", lambda it: it.hot_score),
+        "hottest": top("hot_score", lambda it: it.sales_score, require_positive=True),
+        "bestselling": top("sales_score", lambda it: it.hot_score, require_positive=True),
     }
 
 

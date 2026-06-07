@@ -16,6 +16,9 @@ from adapters.ecommerce import EcommerceAdapter
 from adapters.media import MediaAdapter
 from adapters.wikimedia import WikimediaAdapter
 from adapters.official import OfficialAdapter
+from adapters.amazon import AmazonAdapter
+from adapters.jd import JdAdapter
+from adapters.taobao import TaobaoAdapter
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 CATEGORIES_FILE = DATA_DIR / "categories.json"
@@ -24,11 +27,14 @@ CATEGORIES_FILE = DATA_DIR / "categories.json"
 # producer（产出商品）：sample / ecommerce / media
 # enricher（补充字段）：wikimedia（真实图片）/ official（官网确认）
 ADAPTERS: dict[str, type[Adapter]] = {
-    "sample": SampleAdapter,
-    "ecommerce": EcommerceAdapter,
-    "media": MediaAdapter,
-    "wikimedia": WikimediaAdapter,
-    "official": OfficialAdapter,
+    "sample": SampleAdapter,        # producer：机型目录（官方上市日期/参数/渠道）
+    "ecommerce": EcommerceAdapter,  # （旧占位，保留）
+    "media": MediaAdapter,          # （旧占位，保留）
+    "wikimedia": WikimediaAdapter,  # enricher：真实图片
+    "official": OfficialAdapter,    # enricher：官网确认
+    "amazon": AmazonAdapter,        # enricher：真实评分/评价/畅销榜（综合榜数据源）
+    "jd": JdAdapter,                # enricher：京东（综合榜，待接入）
+    "taobao": TaobaoAdapter,        # enricher：淘宝/天猫（综合榜，待接入）
 }
 
 

@@ -90,6 +90,14 @@ class Item:
     hot_score: float = 0.0
     sales_score: float = 0.0
 
+    # ---- 多平台真实指标（amazon/jd/taobao 适配器填）----
+    asin: str = ""                                       # Amazon ASIN
+    platforms: dict[str, Any] = field(default_factory=dict)  # {"amazon":{rating,reviews,price,bsr}, "jd":..., "taobao":...}
+    rating: float | None = None                          # 综合评分（展示用）
+    reviews: int | None = None                           # 综合评价数（展示用）
+    bsr: int | None = None                               # 最佳畅销榜排名（展示用，越小越畅销）
+    data_as_of: str = ""                                 # 平台数据截至日期
+
     # ---- 历史留存（pipeline 维护）----
     first_seen: str = ""      # 首次进入榜单的日期 YYYY-MM-DD
     last_seen: str = ""       # 最近一次被数据源抓到的日期

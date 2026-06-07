@@ -106,10 +106,22 @@ def main() -> int:
                 "boards": json.loads((cdir / "boards.json").read_text(encoding="utf-8")),
             }
 
+    # 平台数据截至日期（来自快照），用于前端透明标注
+    platform_as_of = ""
+    snap = pipeline.DATA_DIR / "platform_snapshot.json"
+    if snap.exists():
+        try:
+            import json as _j
+            platform_as_of = _j.loads(snap.read_text(encoding="utf-8")).get("as_of", "")
+        except Exception:
+            pass
+
     meta = {
         "updated_at": pipeline.now_iso(),
         "generator": "hardware-rank crawler",
         "board_size": pipeline.BOARD_SIZE,
+        "platform_as_of": platform_as_of,
+        "platform_sources": ["Amazon US"],   # JD/淘宝接入后追加
         "categories": summaries,
     }
     pipeline.write_meta(meta)
