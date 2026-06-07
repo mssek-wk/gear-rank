@@ -123,31 +123,24 @@ enricher.enrich() → 在合并结果上补全（wikimedia 真实图片 / offici
 再给该品类喂数据：在 `adapters/sample.py` 的 `_DATASETS` 里加一份数据集（或配置真实适配器），
 重跑 `python3 crawler/run.py` 即可。`wikimedia` 会自动按「品牌+型号」给新品类抓图。
 
-## 让它每天自动跑（macOS）
+## 每天自动更新（已启用）
 
-现在是手动运行。要每天自动更新，把 `run.py` 挂到 launchd。新建
-`~/Library/LaunchAgents/com.gearrank.daily.plist`：
+已配置 launchd 定时任务，**每个工作日（周一至周五）早上 8:00** 自动运行
+`scripts/daily_update.sh`：跑爬虫 → 有变化则自动 `commit + push` → 公网站点随之重新部署。
+（电脑需开着；睡眠错过会在下次唤醒补跑。）
 
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><dict>
-  <key>Label</key><string>com.gearrank.daily</string>
-  <key>ProgramArguments</key>
-  <array>
-    <string>/usr/bin/python3</string>
-    <string>/Users/kan/Desktop/gear-rank/crawler/run.py</string>
-  </array>
-  <key>StartCalendarInterval</key><dict><key>Hour</key><integer>9</integer><key>Minute</key><integer>0</integer></dict>
-  <key>StandardOutPath</key><string>/tmp/gearrank.log</string>
-  <key>StandardErrorPath</key><string>/tmp/gearrank.err</string>
-</dict></plist>
-```
+- 调度文件：`~/Library/LaunchAgents/com.gearrank.daily.plist`（仓库内 `scripts/` 留有副本）
+- 更新日志：`~/Desktop/gear-rank/update.log`
 
 ```bash
-launchctl load ~/Library/LaunchAgents/com.gearrank.daily.plist   # 启用（每天 09:00 跑）
-launchctl unload ~/Library/LaunchAgents/com.gearrank.daily.plist # 停用
+# 立即手动触发一次（测试）
+launchctl kickstart -k gui/$(id -u)/com.gearrank.daily
+# 停用 / 重新启用
+launchctl bootout    gui/$(id -u) ~/Library/LaunchAgents/com.gearrank.daily.plist
+launchctl bootstrap  gui/$(id -u) ~/Library/LaunchAgents/com.gearrank.daily.plist
 ```
+
+改时间：编辑 plist 里的 `Weekday`(1=周一…5=周五) / `Hour` / `Minute` 后重新 bootout+bootstrap。
 
 > 注：项目放在 `~/Desktop`，macOS 会对桌面目录做隐私保护（TCC）。从你自己的终端运行
 > `python3 -m http.server` 没问题；某些受限的自动化沙盒可能无法读取桌面目录——若遇到
