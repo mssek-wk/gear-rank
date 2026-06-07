@@ -10,7 +10,8 @@ LOG="$REPO/update.log"
 cd "$REPO" || exit 1
 {
   echo "===== $(date '+%F %T') 开始每日更新 ====="
-  /usr/bin/python3 crawler/run.py || echo "!! 爬虫执行出错"
+  # GEARRANK_LIVE=1：让 amazon 适配器实时重抓真实评分/评价/畅销榜并刷新快照
+  GEARRANK_LIVE=1 /usr/bin/python3 crawler/run.py || echo "!! 爬虫执行出错"
 
   if [ -n "$(/usr/bin/git status --porcelain)" ]; then
     /usr/bin/git add -A
