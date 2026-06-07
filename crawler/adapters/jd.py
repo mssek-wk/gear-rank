@@ -18,10 +18,13 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
+import json
+
 from schema import Item, Source
 from .base import Adapter
 
 SESSION = Path(__file__).resolve().parent.parent / ".cn_session" / "jd.json"
+SNAPSHOT = Path(__file__).resolve().parent.parent.parent / "data" / "platform_snapshot.json"
 JD_SKU: dict[str, str] = {
     # "汉印-z6": "https://item.jd.com/<sku>.html",
 }
@@ -39,13 +42,17 @@ class JdAdapter(Adapter):
     name = "京东"
 
     def enrich(self, category_id: str, items: list[Item]) -> None:
+        # 1) 先载入快照里已核验的真实京东数据（由真实 Chrome 实时浏览抓取，绕过京东频控）
+        snap_n = self._load_snapshot(items)
+        if snap_n:
+            print(f"  · 京东: {snap_n} 款用真实数据（Chrome 实时浏览抓取，截至快照日期）")
+
+        # 2) 可选：有登录会话时再用 Playwright 尝试实时刷新（京东频控基本会拦，最佳努力，失败保留快照）
         if not SESSION.exists():
-            print("  · 京东: 未发现登录会话，跳过（先跑 scripts/login_cn.py jd）")
             return
         try:
             from playwright.sync_api import sync_playwright
         except ImportError:
-            print("  · 京东: 未装 playwright，跳过（pip install --user playwright）")
             return
 
         ok = 0
@@ -68,6 +75,23 @@ class JdAdapter(Adapter):
                     print(f"  ! 京东抓取失败 {it.id}: {str(e)[:50]}")
             browser.close()
         print(f"  · 京东: {ok}/{len(items)} 款拿到真实数据（登录态）")
+
+    def _load_snapshot(self, items: list[Item]) -> int:
+        if not SNAPSHOT.exists():
+            return 0
+        try:
+            si = (json.loads(SNAPSHOT.read_text(encoding="utf-8")) or {}).get("items", {})
+        except Exception:
+            return 0
+        n = 0
+        for it in items:
+            jd = (si.get(it.id) or {}).get("jd")
+            if jd:
+                it.platforms["jd"] = jd
+                if not it.data_as_of:
+                    it.data_as_of = jd.get("as_of", "")
+                n += 1
+        return n
 
     def _search(self, page, it: Item) -> str | None:
         """无 SKU 时，用搜索取第一个商品链接（兜底，可能不精确）。"""

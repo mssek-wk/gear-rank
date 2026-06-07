@@ -90,7 +90,7 @@ def _platform_signals(items: list[Item], kind: str) -> dict[str, list[float]]:
                     v = d.get("bsr"); sig[it.id] = (-v) if v is not None else None   # 畅销榜，越小越好
                 elif plat == "taobao":
                     sig[it.id] = d.get("sales")                                       # 月销量，越大越好
-                else:  # jd 无公开销量 -> 用评价数作畅销代理
+                else:  # 京东无公开销量 -> 用评价数作畅销代理(同平台内单位一致)；jd_rank 仅作展示徽章
                     sig[it.id] = d.get("reviews")
             else:                          # 热度：各平台评价数
                 sig[it.id] = d.get("reviews")

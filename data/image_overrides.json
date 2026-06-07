@@ -44,6 +44,14 @@
     "leica-sofort-2": {
       "images": ["images/leica-sofort-2/1.jpg", "images/leica-sofort-2/2.jpg", "images/leica-sofort-2/3.jpg"],
       "credit": {"source": "Leica 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+    },
+    "chuzhao-d1-pro": {
+      "images": ["images/chuzhao-d1-pro/1.jpg", "images/chuzhao-d1-pro/2.jpg"],
+      "credit": {"source": "初照京东自营商品页", "note": "京东商品图（含促销角标），仅供设计参考"}
+    },
+    "chuzhao-x1": {
+      "images": ["images/chuzhao-x1/1.jpg", "images/chuzhao-x1/2.jpg"],
+      "credit": {"source": "初照京东自营商品页", "note": "京东商品图（含促销角标），仅供设计参考"}
     }
   }
 }

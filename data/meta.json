@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T20:14:48+08:00",
+  "updated_at": "2026-06-07T22:40:02+08:00",
   "generator": "hardware-rank crawler",
   "board_size": 8,
   "platform_as_of": "2026-06-07",
@@ -13,8 +13,8 @@
       "name_en": "Instant Camera",
       "icon": "camera",
       "description": "即拍即得相机 —— 拍完当场出片。不限成像技术：银盐(富士/宝丽来/徕卡)、ZINK 免墨(柯达/Insta360/佳能)、热升华(汉印/初照等) 均含在内。",
-      "count": 21,
-      "total": 21
+      "count": 23,
+      "total": 23
     }
   ]
 }
