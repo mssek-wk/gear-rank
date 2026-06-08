@@ -76,6 +76,34 @@
     "canon-inspic": {
       "images": ["https://cdn.nlark.com/yuque/0/2024/png/286556/1704270366782-81bfb0b8-3bc2-4200-b20e-9379e2a56f9b.png"],
       "credit": {"source": "语雀竞品分析文档", "note": "真实产品图（已核实：Canon inspic PV-223）"}
+    },
+    "hprt-z1": {
+      "images": ["images/hprt-z1/1.jpg"],
+      "credit": {"source": "汉印京东自营商品页（四平台爬虫）", "note": "京东商品图（含促销角标），已核实：汉印Z1 3英寸照片打印机"}
+    },
+    "hprt-cp2100": {
+      "images": ["images/hprt-cp2100/1.jpg"],
+      "credit": {"source": "汉印京东自营商品页（四平台爬虫）", "note": "京东商品图（含促销角标），已核实：汉印CP2100 AR照片打印机"}
+    },
+    "jiyin-dmp100": {
+      "images": ["images/jiyin-dmp100/1.jpg"],
+      "credit": {"source": "极印XPRINT京东商品页（四平台爬虫）", "note": "京东商品图，已核实：极印XPRINT DMP-100 口袋打印机"}
+    },
+    "canon-selphy-qx20": {
+      "images": ["images/canon-selphy-qx20/1.jpg"],
+      "credit": {"source": "佳能天猫商品页（四平台爬虫）", "note": "天猫商品图（含618角标），已核实：Canon SELPHY QX20"}
+    },
+    "kodak-smile-basic": {
+      "images": ["images/kodak-smile-basic/1.jpg"],
+      "credit": {"source": "柯达京东商品页（四平台爬虫）", "note": "京东商品图，已核实：Kodak Smile 滑盖拍立得"}
+    },
+    "kodak-c210": {
+      "images": ["images/kodak-c210/1.jpg"],
+      "credit": {"source": "柯达京东商品页（四平台爬虫）", "note": "京东商品图，已核实：Kodak C210 Instant 2in1 礼盒"}
+    },
+    "aimoer-c40": {
+      "images": ["images/aimoer-c40/1.jpg"],
+      "credit": {"source": "爱墨AIMO京东商品页（四平台爬虫）", "note": "京东商品图（含促销角标），已核实：爱墨AIMO C40 照片打印机"}
     }
   }
 }
