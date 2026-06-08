@@ -318,12 +318,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$79.95"
@@ -640,12 +640,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$207.58"
@@ -900,12 +900,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$168"
@@ -1238,17 +1238,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -1497,12 +1497,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$269.94"
@@ -1805,12 +1805,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$38.25"
@@ -2085,12 +2090,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$159.95"
@@ -2371,12 +2381,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$179.99"
@@ -2623,17 +2638,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$101.99"
@@ -2930,17 +2945,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -3192,17 +3207,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$79.99"
@@ -3447,12 +3462,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$99.99"
@@ -3673,12 +3688,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$93.95"
@@ -3907,17 +3922,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo Cinema",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$409.95"
@@ -4134,17 +4149,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay+",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$227"
@@ -4375,12 +4390,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$100.92"
@@ -4659,17 +4674,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Flip",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -4939,7 +4954,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "$398.34"
@@ -5177,7 +5192,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -5430,7 +5445,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "$89"
@@ -5676,15 +5691,14 @@
         "price": 644.0,
         "reviews": 5000,
         "good_rate": 98.0,
-        "jd_rank": 23,
-        "as_of": "2026-06-07",
-        "note": "京东拍立得热卖榜#23"
+        "as_of": "2026-06-08",
+        "source": "京东搜索结果(四平台综合爬虫)"
       }
     },
     "rating": null,
     "reviews": 5000,
     "bsr": null,
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-08",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-08",
     "active": true,
@@ -5692,7 +5706,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥644"
@@ -5717,18 +5731,18 @@
     ],
     "url": "",
     "official_url": "",
-    "summary": "初照拍照打印一体拍立得：直接出彩色照片，也能打印手机照片，磁吸礼盒装、可选花边。",
+    "summary": "初照拍照打印一体拍立得：喷墨即时出彩色照片，也能打印手机照片，磁吸礼盒装、可选花边，墨盒约 80 张。",
     "price_value": 499.0,
     "currency": "CNY",
     "tags": [
-      "热升华",
+      "喷墨",
       "国产",
       "拍打一体"
     ],
     "specs": {
-      "成像技术": "热升华即时打印",
+      "成像技术": "喷墨即时打印",
       "特色": "拍照打印一体 + 打印手机照片 + 花边 + AI 图片",
-      "耗材": "墨盒约打 80 张，赠 100 张相纸"
+      "耗材": "一体式喷墨墨盒约打 80 张，赠 100 张相纸"
     },
     "spec_sources": {
       "成像技术": [
@@ -5951,7 +5965,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥499"
@@ -6209,7 +6223,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "$149.99"
@@ -6219,9 +6233,18 @@
     "category": "instant-camera",
     "name": "富士X-E5无反数码相机",
     "brand": "Fujifilm X",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Fujifilm_X-E5_4_jul_2025a.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Fujifilm_X-E5_4_jul_2025a.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Wikimedia Commons (CC BY-SA)",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://fujifilm-x.com/",
     "summary": "富士X系列新一代旁轴风格无反相机，4020万像素APS-C传感器，支持6K 30P视频，搭配可换镜头系统。",
@@ -6538,7 +6561,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥11490"
@@ -6548,9 +6571,18 @@
     "category": "instant-camera",
     "name": "竞墨&奈扣照片打印机",
     "brand": "竞墨&奈扣",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2026/webp/46513062/1778055243136-feba0d84-5aa1-4542-ae1b-f9c53634b3b2.webp",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2026/webp/46513062/1778055243136-feba0d84-5aa1-4542-ae1b-f9c53634b3b2.webp"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "",
     "summary": "竞墨与奈扣联名喷墨照片打印机，蓝牙连接，600dpi分辨率，一体式墨盒约80张，45×60mm相纸，约¥529。",
@@ -6811,7 +6843,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥529"
@@ -6821,9 +6853,18 @@
     "category": "instant-camera",
     "name": "汉印Z1 拍立得",
     "brand": "汉印",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2025/png/286556/1764323591243-696a219a-4a5f-4788-ae21-a8321ec957d8.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2025/png/286556/1764323591243-696a219a-4a5f-4788-ae21-a8321ec957d8.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.hprt.com/",
     "summary": "汉印Z1即拍即打拍立得相机，ZINK免墨打印，2.8英寸预览屏，500万像素，F2.2，蓝牙连手机，约230g轻便。",
@@ -7092,7 +7133,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": ""
@@ -7102,9 +7143,18 @@
     "category": "instant-camera",
     "name": "汉印Z2 拍立得",
     "brand": "汉印",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2024/jpeg/286556/1704682337715-82d99281-7964-4cd4-8489-091d956d3fc7.jpeg",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2024/jpeg/286556/1704682337715-82d99281-7964-4cd4-8489-091d956d3fc7.jpeg"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.hprt.com/",
     "summary": "汉印Z2复古风格拍立得相机，热升华打印，蓝牙连手机，多种滤镜，适合日常随手拍与礼赠场景。",
@@ -7342,7 +7392,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": ""
@@ -7352,9 +7402,18 @@
     "category": "instant-camera",
     "name": "爱国者D9 Pro数码相机",
     "brand": "爱国者",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2026/webp/46513062/1778055243136-feba0d84-5aa1-4542-ae1b-f9c53634b3b2.webp",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2026/webp/46513062/1778055243136-feba0d84-5aa1-4542-ae1b-f9c53634b3b2.webp"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.aigo.com.cn/",
     "summary": "爱国者复古风格数码相机，6400万像素，4K视频，3英寸屏，固定定焦镜头，CMOS传感器，约¥399。",
@@ -7641,7 +7700,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥399"
@@ -7651,9 +7710,18 @@
     "category": "instant-camera",
     "name": "爱墨C40手机照片打印机",
     "brand": "爱墨",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2025/png/46513062/1766375152162-fd359e65-6024-4a47-8cf9-b06bbaef8d19.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2025/png/46513062/1766375152162-fd359e65-6024-4a47-8cf9-b06bbaef8d19.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "",
     "summary": "爱墨C40家用热升华照片打印机，Wi-Fi+蓝牙双连接，打印6英寸（100×150mm），自动覆膜，支持连续进纸，约¥699。",
@@ -7895,7 +7963,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥699"
@@ -7905,9 +7973,18 @@
     "category": "instant-camera",
     "name": "Kodak Smile 拍立得",
     "brand": "Kodak",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2025/png/46513062/1755498581521-32f4326b-bc5a-4944-bcc2-d458566f1917.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2025/png/46513062/1755498581521-32f4326b-bc5a-4944-bcc2-d458566f1917.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.kodak.com/",
     "summary": "柯达Smile 2合1即拍即印相机，ZINK免墨贴纸相纸，1000万像素，LCD取景器，简单易用，注意：无蓝牙功能。",
@@ -8226,12 +8303,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "¥899"
@@ -8241,9 +8318,18 @@
     "category": "instant-camera",
     "name": "汉印CP6000照片打印机",
     "brand": "汉印",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2025/png/46513062/1755498581521-32f4326b-bc5a-4944-bcc2-d458566f1917.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2025/png/46513062/1755498581521-32f4326b-bc5a-4944-bcc2-d458566f1917.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.hprt.com/",
     "summary": "汉印CP6000热升华家用照片打印机，打印6英寸（100×148mm），Wi-Fi连接，15秒AR动态留声，约58秒出片，约¥889。",
@@ -8541,7 +8627,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥889"
@@ -8860,12 +8946,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Fujifilm+Fujifilm QuickSnap",
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": "¥168"
@@ -8875,9 +8966,18 @@
     "category": "instant-camera",
     "name": "极印DMP100照片打印机",
     "brand": "极印",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2024/png/46513062/1732773136898-c4f78c3d-4498-4af0-b1a2-5e0497f3f951.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2024/png/46513062/1732773136898-c4f78c3d-4498-4af0-b1a2-5e0497f3f951.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "",
     "summary": "极印DMP100热升华便携照片打印机，NFC+蓝牙双连接，约237g超轻，约60秒出片，86×54mm标准尺寸，约¥499。",
@@ -9131,7 +9231,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥499"
@@ -9141,9 +9241,18 @@
     "category": "instant-camera",
     "name": "汉印CP2100照片打印机",
     "brand": "汉印",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2024/png/46513062/1732761420919-d5db3d29-a273-456c-a4d1-5abe82e19efc.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2024/png/46513062/1732761420919-d5db3d29-a273-456c-a4d1-5abe82e19efc.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.hprt.com/",
     "summary": "汉印CP2100热升华便携照片打印机，300DPI，蓝牙连接，RFID读写+AR照片功能，自动全切，约280g，约¥699。",
@@ -9431,7 +9540,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥699"
@@ -9441,9 +9550,18 @@
     "category": "instant-camera",
     "name": "Canon SELPHY QX20",
     "brand": "Canon",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2024/jpeg/46513062/1731547099519-b549b4e1-a24a-4322-b180-d2229a49da6f.jpeg",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2024/jpeg/46513062/1731547099519-b549b4e1-a24a-4322-b180-d2229a49da6f.jpeg"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.canon.com.cn/",
     "summary": "佳能SELPHY QX20热升华便携打印机，含保护膜，约40秒快速出片，防尘防水，Wi-Fi，85×54mm卡片/85×72mm方形，带背胶。",
@@ -9743,7 +9861,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": "¥899"
@@ -9753,9 +9871,18 @@
     "category": "instant-camera",
     "name": "Kodak C210拍立得",
     "brand": "Kodak",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2024/jpeg/286556/1704682337715-82d99281-7964-4cd4-8489-091d956d3fc7.jpeg",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2024/jpeg/286556/1704682337715-82d99281-7964-4cd4-8489-091d956d3fc7.jpeg"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.kodak.com/",
     "summary": "柯达C210即拍即印相机，ZINK免墨，内置LCD取景器，蓝牙连手机打印，礼盒含20张相纸+相册+收纳包。",
@@ -10001,12 +10128,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": ""
@@ -10016,9 +10143,18 @@
     "category": "instant-camera",
     "name": "Kodak Mini Shot 2 ERA拍立得",
     "brand": "Kodak",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2024/png/286556/1724816856386-ac59b47b-45bf-4cee-b6b1-0b78655377cc.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2024/png/286556/1724816856386-ac59b47b-45bf-4cee-b6b1-0b78655377cc.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.kodak.com/",
     "summary": "柯达Mini Shot 2 ERA即拍即印，1300万像素，1.77英寸LCD，3×3英寸方形相纸，ZINK免墨+自动覆膜，蓝牙，6滤镜7框架。",
@@ -10304,12 +10440,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-08T10:57:12+00:00"
+        "fetched_at": "2026-06-08T12:29:07+00:00"
       }
     ],
     "price_display": ""
@@ -10319,9 +10455,18 @@
     "category": "instant-camera",
     "name": "佳能INSPIC照片打印机",
     "brand": "Canon",
-    "image": "",
-    "images": [],
-    "image_credits": [],
+    "image": "https://cdn.nlark.com/yuque/0/2024/png/286556/1704270366782-81bfb0b8-3bc2-4200-b20e-9379e2a56f9b.png",
+    "images": [
+      "https://cdn.nlark.com/yuque/0/2024/png/286556/1704270366782-81bfb0b8-3bc2-4200-b20e-9379e2a56f9b.png"
+    ],
+    "image_credits": [
+      {
+        "title": "语雀竞品分析文档 og:image",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
     "url": "",
     "official_url": "https://www.canon.com.cn/",
     "summary": "佳能INSPIC口袋手机照片打印机，ZINK免墨带背胶相纸，蓝牙连接，磁吸上盖可换色，Type-C充电，App支持拼图/模板/标签打印。",
@@ -10567,7 +10712,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T10:54:03+00:00"
+        "fetched_at": "2026-06-08T12:26:27+00:00"
       }
     ],
     "price_display": ""

@@ -56,6 +56,62 @@
     "chuzhao-x1": {
       "images": ["images/chuzhao-x1/1.jpg", "images/chuzhao-x1/2.jpg"],
       "credit": {"source": "初照京东自营商品页", "note": "京东商品图（含促销角标），仅供设计参考"}
+    },
+    "fujifilm-x-e5": {
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/1/19/Fujifilm_X-E5_4_jul_2025a.jpg"],
+      "credit": {"source": "Wikimedia Commons (CC BY-SA)", "note": "真实产品图"}
+    },
+    "jingmo-naike-printer": {
+      "images": ["https://cdn.nlark.com/yuque/0/2026/webp/46513062/1778055243136-feba0d84-5aa1-4542-ae1b-f9c53634b3b2.webp"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "aigo-d9-pro": {
+      "images": ["https://cdn.nlark.com/yuque/0/2026/webp/46513062/1778055243136-feba0d84-5aa1-4542-ae1b-f9c53634b3b2.webp"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "aimoer-c40": {
+      "images": ["https://cdn.nlark.com/yuque/0/2025/png/46513062/1766375152162-fd359e65-6024-4a47-8cf9-b06bbaef8d19.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "hprt-z1": {
+      "images": ["https://cdn.nlark.com/yuque/0/2025/png/286556/1764323591243-696a219a-4a5f-4788-ae21-a8321ec957d8.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "hprt-z2": {
+      "images": ["https://cdn.nlark.com/yuque/0/2024/jpeg/286556/1704682337715-82d99281-7964-4cd4-8489-091d956d3fc7.jpeg"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "kodak-smile-basic": {
+      "images": ["https://cdn.nlark.com/yuque/0/2025/png/46513062/1755498581521-32f4326b-bc5a-4944-bcc2-d458566f1917.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "hprt-cp6000": {
+      "images": ["https://cdn.nlark.com/yuque/0/2025/png/46513062/1755498581521-32f4326b-bc5a-4944-bcc2-d458566f1917.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "jiyin-dmp100": {
+      "images": ["https://cdn.nlark.com/yuque/0/2024/png/46513062/1732773136898-c4f78c3d-4498-4af0-b1a2-5e0497f3f951.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "hprt-cp2100": {
+      "images": ["https://cdn.nlark.com/yuque/0/2024/png/46513062/1732761420919-d5db3d29-a273-456c-a4d1-5abe82e19efc.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "canon-selphy-qx20": {
+      "images": ["https://cdn.nlark.com/yuque/0/2024/jpeg/46513062/1731547099519-b549b4e1-a24a-4322-b180-d2229a49da6f.jpeg"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "kodak-c210": {
+      "images": ["https://cdn.nlark.com/yuque/0/2024/jpeg/286556/1704682337715-82d99281-7964-4cd4-8489-091d956d3fc7.jpeg"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "kodak-minishot2-era": {
+      "images": ["https://cdn.nlark.com/yuque/0/2024/png/286556/1724816856386-ac59b47b-45bf-4cee-b6b1-0b78655377cc.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
+    },
+    "canon-inspic": {
+      "images": ["https://cdn.nlark.com/yuque/0/2024/png/286556/1704270366782-81bfb0b8-3bc2-4200-b20e-9379e2a56f9b.png"],
+      "credit": {"source": "语雀竞品分析文档 og:image", "note": "真实产品图"}
     }
   }
 }
