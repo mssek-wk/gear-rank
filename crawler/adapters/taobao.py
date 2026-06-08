@@ -11,6 +11,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 
@@ -18,6 +19,7 @@ from schema import Item, Source
 from .base import Adapter
 
 SESSION = Path(__file__).resolve().parent.parent / ".cn_session" / "taobao.json"
+SNAPSHOT = Path(__file__).resolve().parent.parent.parent / "data" / "platform_snapshot.json"
 TAOBAO_ITEM: dict[str, str] = {
     # "汉印-z6": "https://item.taobao.com/item.htm?id=<id>",
 }
@@ -34,14 +36,39 @@ def _num(s: str):
 class TaobaoAdapter(Adapter):
     name = "淘宝"
 
+    def _load_snapshot(self, items: list[Item]) -> int:
+        if not SNAPSHOT.exists():
+            return 0
+        try:
+            si = (json.loads(SNAPSHOT.read_text(encoding="utf-8")) or {}).get("items", {})
+        except Exception:
+            return 0
+        n = 0
+        for it in items:
+            blk = si.get(it.id) or {}
+            tb = blk.get("taobao")
+            if tb:
+                it.platforms["taobao"] = tb
+                if not it.data_as_of:
+                    it.data_as_of = tb.get("as_of", "")
+                n += 1
+            # 顺带载入社媒讨论热度 + 广告嫌疑标记（供前端展示/交叉验证）
+            if blk.get("buzz"):
+                it.platforms["buzz"] = blk["buzz"]
+        return n
+
     def enrich(self, category_id: str, items: list[Item]) -> None:
+        # 1) 先载入快照里的真实淘宝数据（由「四平台爬虫」抓取 + import_cn.py 导入）
+        snap_n = self._load_snapshot(items)
+        if snap_n:
+            print(f"  · 淘宝: {snap_n} 款用真实数据（四平台爬虫，截至快照日期）")
+
+        # 2) 可选：有登录会话再用 Playwright 实时刷新（最佳努力，失败保留快照）
         if not SESSION.exists():
-            print("  · 淘宝: 未发现登录会话，跳过（先跑 scripts/login_cn.py taobao）")
             return
         try:
             from playwright.sync_api import sync_playwright
         except ImportError:
-            print("  · 淘宝: 未装 playwright，跳过")
             return
 
         ok = 0

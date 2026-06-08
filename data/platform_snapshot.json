@@ -9,6 +9,13 @@
     "reviews": 6068,
     "price": 79.95,
     "bsr": 219
+   },
+   "taobao": {
+    "currency": "CNY",
+    "price": 389.0,
+    "sales": 10000,
+    "as_of": "2026-06-08",
+    "source": "淘宝(四平台爬虫)"
    }
   },
   "fujifilm-instax-wide-400": {
@@ -63,6 +70,13 @@
     "reviews": 254,
     "price": 100.92,
     "bsr": 4618
+   },
+   "taobao": {
+    "currency": "CNY",
+    "price": 999.0,
+    "sales": 9000,
+    "as_of": "2026-06-08",
+    "source": "淘宝(四平台爬虫)"
    }
   },
   "polaroid-now-gen2": {
@@ -81,6 +95,13 @@
     "reviews": 1178,
     "price": 79.99,
     "bsr": 623
+   },
+   "taobao": {
+    "currency": "CNY",
+    "price": 615.0,
+    "sales": 10000,
+    "as_of": "2026-06-08",
+    "source": "淘宝(四平台爬虫)"
    }
   },
   "polaroid-i-2": {
@@ -164,6 +185,13 @@
     "reviews": 2000,
     "good_rate": 97.0,
     "as_of": "2026-06-07"
+   },
+   "taobao": {
+    "currency": "CNY",
+    "price": 449.0,
+    "sales": 3000,
+    "as_of": "2026-06-08",
+    "source": "淘宝(四平台爬虫)"
    }
   }
  }
