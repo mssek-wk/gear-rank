@@ -1,6 +1,10 @@
 {
   "_note": "本地自托管产品图覆盖表。Commons 没有收录的机型（多为新/小众），从厂商官网/电商商品页取真实多视角产品图，下载存于 web/images/<id>/，在此登记。pipeline 会以此覆盖该机型的 images。新增/补图：把图片放进 web/images/<id>/ 再在这里登记路径即可。",
   "overrides": {
+    "fujifilm-instax-mini-12": {
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg/960px-Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg"],
+      "credit": {"source": "Wikimedia Commons，Tony Webster (CC BY 2.0)", "note": "真实产品图"}
+    },
     "fujifilm-instax-mini-99": {
       "images": ["images/fujifilm-instax-mini-99/1.png", "images/fujifilm-instax-mini-99/2.jpg", "images/fujifilm-instax-mini-99/3.png"],
       "credit": {"source": "Fujifilm 官网 / Amazon 商品页", "note": "厂商产品图，仅供设计参考"}

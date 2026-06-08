@@ -6,42 +6,14 @@
     "brand": "Fujifilm",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg/960px-Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg/960px-Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fujifilm_Instax_Mini_Link_on_the_table_at_WirForce_Shop_20221105.jpg/960px-Fujifilm_Instax_Mini_Link_on_the_table_at_WirForce_Shop_20221105.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fuji_Instax_Mini_40.jpg/960px-Fuji_Instax_Mini_40.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuji_Instax_mini_8_%2815835356393%29.jpg/960px-Fuji_Instax_mini_8_%2815835356393%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fuji_Instax_mini_8_%2816454484482%29.jpg/960px-Fuji_Instax_mini_8_%2816454484482%29.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg/960px-Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg"
     ],
     "image_credits": [
       {
-        "title": "Fujifilm Instax Mini 12 - Instant Film Camera (52950271338).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_(52950271338).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Tony Webster"
-      },
-      {
-        "title": "Fujifilm Instax Mini Link on the table at WirForce Shop 20221105.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_Link_on_the_table_at_WirForce_Shop_20221105.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Solomon203"
-      },
-      {
-        "title": "Fuji Instax Mini 40.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_Mini_40.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Sgroey"
-      },
-      {
-        "title": "Fuji Instax mini 8 (15835356393).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_8_(15835356393).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Kārlis Dambrāns"
-      },
-      {
-        "title": "Fuji Instax mini 8 (16454484482).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fuji_Instax_mini_8_(16454484482).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Kārlis Dambrāns"
+        "title": "Wikimedia Commons，Tony Webster (CC BY 2.0)",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -346,12 +318,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$79.95"
@@ -668,12 +640,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$207.58"
@@ -928,12 +900,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$168"
@@ -1266,17 +1238,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -1525,12 +1497,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$269.94"
@@ -1833,17 +1805,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$38.25"
@@ -2118,17 +2085,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$159.95"
@@ -2409,17 +2371,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$179.99"
@@ -2666,17 +2623,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$101.99"
@@ -2973,17 +2930,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -3235,17 +3192,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$79.99"
@@ -3490,12 +3447,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$99.99"
@@ -3716,12 +3673,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$93.95"
@@ -3950,17 +3907,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo Cinema",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$409.95"
@@ -4177,17 +4134,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay+",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$227"
@@ -4418,12 +4375,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$100.92"
@@ -4702,17 +4659,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Flip",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-08T06:28:53+00:00"
+        "fetched_at": "2026-06-08T10:57:12+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -4982,7 +4939,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       }
     ],
     "price_display": "$398.34"
@@ -4996,7 +4953,7 @@
     "images": [],
     "image_credits": [],
     "url": "",
-    "official_url": "",
+    "official_url": "https://www.insta360.com/",
     "summary": "Insta360 给 Ace Pro 2 运动相机配的 ZINK 口袋打印模块，拍完蓝牙即出 2×3 英寸免墨照片。",
     "price_value": 599.99,
     "currency": "USD",
@@ -5181,6 +5138,17 @@
             "source": "Amazon（示例）"
           }
         ]
+      },
+      {
+        "name": "Insta360 官网",
+        "url": "https://www.insta360.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "2025-11-12",
@@ -5190,11 +5158,18 @@
     "hot_score": 0.0,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 4098.0,
+        "as_of": "2026-06-08",
+        "source": "京东/官网(语雀竞品分析)"
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
-    "data_as_of": "",
+    "data_as_of": "2026-06-08",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-08",
     "active": true,
@@ -5202,7 +5177,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -5216,7 +5191,7 @@
     "images": [],
     "image_credits": [],
     "url": "",
-    "official_url": "",
+    "official_url": "https://www.hprt.com/",
     "summary": "国产热升华拍立得旗舰：1/3 英寸传感器 + 1.8 英寸触屏先看后印，热升华出片色彩细腻。汉印 2025 年拿下国内拍立得销量第一。",
     "price_value": 89.0,
     "currency": "USD",
@@ -5423,6 +5398,17 @@
             "source": "Amazon（示例）"
           }
         ]
+      },
+      {
+        "name": "汉印 官网",
+        "url": "https://www.hprt.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "",
@@ -5444,7 +5430,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       }
     ],
     "price_display": "$89"
@@ -5706,7 +5692,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       }
     ],
     "price_display": "¥644"
@@ -5965,7 +5951,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       }
     ],
     "price_display": "¥499"
@@ -5979,7 +5965,7 @@
     "images": [],
     "image_credits": [],
     "url": "",
-    "official_url": "",
+    "official_url": "https://www.canon.com.cn/",
     "summary": "佳能 2 合 1 ZINK 拍立得：自带补光环 + 自拍镜，支持圆形相纸打印，口袋便携。",
     "price_value": 149.99,
     "currency": "USD",
@@ -6191,6 +6177,17 @@
             "source": "Amazon（示例）"
           }
         ]
+      },
+      {
+        "name": "Canon 官网",
+        "url": "https://www.canon.com.cn/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "2021-10-15",
@@ -6212,9 +6209,4367 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-08T06:27:44+00:00"
+        "fetched_at": "2026-06-08T10:54:03+00:00"
       }
     ],
     "price_display": "$149.99"
+  },
+  {
+    "id": "fujifilm-x-e5",
+    "category": "instant-camera",
+    "name": "富士X-E5无反数码相机",
+    "brand": "Fujifilm X",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://fujifilm-x.com/",
+    "summary": "富士X系列新一代旁轴风格无反相机，4020万像素APS-C传感器，支持6K 30P视频，搭配可换镜头系统。",
+    "price_value": 11490.0,
+    "currency": "CNY",
+    "tags": [
+      "APS-C",
+      "无反",
+      "旁轴风格",
+      "6K视频",
+      "竞品参考"
+    ],
+    "specs": {
+      "类型": "APS-C 无反数码相机（可换镜头）",
+      "传感器": "APS-C CMOS，4020万有效像素",
+      "液晶屏": "3英寸，104万像素",
+      "视频": "6K 30P",
+      "电池": "锂离子电池 NP-W126S",
+      "上市时间": "2025-08-01"
+    },
+    "spec_sources": {
+      "类型": [
+        "富士官方",
+        "京东参数"
+      ],
+      "传感器": [
+        "富士官方",
+        "京东参数"
+      ],
+      "液晶屏": [
+        "富士官方",
+        "京东参数"
+      ],
+      "视频": [
+        "富士官方"
+      ],
+      "电池": [
+        "京东商品页"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20X%20%E5%AF%8C%E5%A3%ABX-E5%E6%97%A0%E5%8F%8D%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "4020万高分辨率，细节丰富",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "6K视频能力强悍",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "经典旁轴造型颜值高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "可换镜头系统可扩展",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "售价偏高（京东¥11490）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "需额外配镜头",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "机身比紧凑机大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20X%20%E5%AF%8C%E5%A3%ABX-E5%E6%97%A0%E5%8F%8D%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "4020万高分辨率，细节丰富",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "6K视频能力强悍",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "经典旁轴造型颜值高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "可换镜头系统可扩展",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "售价偏高（京东¥11490）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "需额外配镜头",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "机身比紧凑机大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20X%20%E5%AF%8C%E5%A3%ABX-E5%E6%97%A0%E5%8F%8D%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "4020万高分辨率，细节丰富",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "6K视频能力强悍",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "经典旁轴造型颜值高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "可换镜头系统可扩展",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "售价偏高（京东¥11490）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "需额外配镜头",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "机身比紧凑机大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm X 官网",
+        "url": "https://fujifilm-x.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-08-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.8714,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 11490.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 9999.0,
+        "as_of": "2026-06-08",
+        "source": "天猫(语雀竞品分析)"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥11490"
+  },
+  {
+    "id": "jingmo-naike-printer",
+    "category": "instant-camera",
+    "name": "竞墨&奈扣照片打印机",
+    "brand": "竞墨&奈扣",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "",
+    "summary": "竞墨与奈扣联名喷墨照片打印机，蓝牙连接，600dpi分辨率，一体式墨盒约80张，45×60mm相纸，约¥529。",
+    "price_value": 529.0,
+    "currency": "CNY",
+    "tags": [
+      "喷墨",
+      "便携",
+      "蓝牙"
+    ],
+    "specs": {
+      "打印方式": "喷墨打印",
+      "接口类型": "蓝牙",
+      "打印分辨率": "600dpi",
+      "打印尺寸": "45×60mm",
+      "墨盒容量": "彩色约80张（5%覆盖率≥100张）",
+      "内置电源": "800mAh",
+      "产品重量": "287g（不含配件）",
+      "机身尺寸": "107.5×128.8×40.8mm",
+      "打印速度": "60mm/s",
+      "耗材": "相纸+一体式墨盒（耗材尺寸52×90mm）",
+      "上市时间": "2024-01-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数"
+      ],
+      "接口类型": [
+        "京东参数"
+      ],
+      "打印分辨率": [
+        "京东参数"
+      ],
+      "打印尺寸": [
+        "京东参数"
+      ],
+      "墨盒容量": [
+        "京东参数"
+      ],
+      "内置电源": [
+        "京东参数"
+      ],
+      "产品重量": [
+        "京东参数"
+      ],
+      "机身尺寸": [
+        "京东参数"
+      ],
+      "打印速度": [
+        "京东参数"
+      ],
+      "耗材": [
+        "京东参数"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%AB%9E%E5%A2%A8%26%E5%A5%88%E6%89%A3%20%E7%AB%9E%E5%A2%A8%26%E5%A5%88%E6%89%A3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "600dpi分辨率清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连接方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格适中",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "喷墨耗材成本较高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "不支持网络打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%AB%9E%E5%A2%A8%26%E5%A5%88%E6%89%A3%20%E7%AB%9E%E5%A2%A8%26%E5%A5%88%E6%89%A3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "600dpi分辨率清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连接方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格适中",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "喷墨耗材成本较高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "不支持网络打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E7%AB%9E%E5%A2%A8%26%E5%A5%88%E6%89%A3%20%E7%AB%9E%E5%A2%A8%26%E5%A5%88%E6%89%A3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "600dpi分辨率清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连接方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格适中",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "喷墨耗材成本较高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "不支持网络打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      }
+    ],
+    "release_date": "2024-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6448,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 529.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥529"
+  },
+  {
+    "id": "hprt-z1",
+    "category": "instant-camera",
+    "name": "汉印Z1 拍立得",
+    "brand": "汉印",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.hprt.com/",
+    "summary": "汉印Z1即拍即打拍立得相机，ZINK免墨打印，2.8英寸预览屏，500万像素，F2.2，蓝牙连手机，约230g轻便。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "ZINK免墨",
+      "国产",
+      "拍立得"
+    ],
+    "specs": {
+      "成像技术": "ZINK 免墨热敏打印",
+      "打印分辨率": "300dpi",
+      "屏幕": "2.8英寸预览屏",
+      "传感器": "500万像素",
+      "镜头": "35mm等效焦距，F2.2",
+      "对焦": "自动对焦，最近30cm",
+      "特效": "8档滤镜，内置补光闪光灯",
+      "连接": "蓝牙（可打印手机照片）",
+      "电池": "680mAh，Type-C充电",
+      "产品重量": "约230g（不含配件）",
+      "机身尺寸": "121×79.5×32.8mm",
+      "上市时间": "2024-01-01"
+    },
+    "spec_sources": {
+      "成像技术": [
+        "汉印官网"
+      ],
+      "打印分辨率": [
+        "汉印官网"
+      ],
+      "屏幕": [
+        "汉印官网"
+      ],
+      "传感器": [
+        "汉印官网"
+      ],
+      "镜头": [
+        "汉印官网"
+      ],
+      "对焦": [
+        "汉印官网"
+      ],
+      "特效": [
+        "汉印官网"
+      ],
+      "连接": [
+        "汉印官网"
+      ],
+      "电池": [
+        "汉印官网"
+      ],
+      "产品重量": [
+        "汉印官网"
+      ],
+      "机身尺寸": [
+        "汉印官网"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0Z1%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "ZINK免墨无耗材焦虑",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "2.8英寸大屏预览",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机印照片",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "500万像素偏低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "ZINK画质不如热升华细腻",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0Z1%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "ZINK免墨无耗材焦虑",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "2.8英寸大屏预览",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机印照片",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "500万像素偏低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "ZINK画质不如热升华细腻",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0Z1%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "ZINK免墨无耗材焦虑",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "2.8英寸大屏预览",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机印照片",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "500万像素偏低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "ZINK画质不如热升华细腻",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "汉印 官网",
+        "url": "https://www.hprt.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6448,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "hprt-z2",
+    "category": "instant-camera",
+    "name": "汉印Z2 拍立得",
+    "brand": "汉印",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.hprt.com/",
+    "summary": "汉印Z2复古风格拍立得相机，热升华打印，蓝牙连手机，多种滤镜，适合日常随手拍与礼赠场景。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "热升华",
+      "国产",
+      "拍立得",
+      "复古"
+    ],
+    "specs": {
+      "成像技术": "热升华（染料升华）",
+      "连接": "蓝牙 App（可打印手机照片）",
+      "风格": "复古拍立得造型",
+      "上市时间": "2024-06-01"
+    },
+    "spec_sources": {
+      "成像技术": [
+        "汉印官网"
+      ],
+      "连接": [
+        "汉印官网"
+      ],
+      "风格": [
+        "汉印官网"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0Z2%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "复古造型吸引眼球",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "热升华色彩细腻",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "固件升级后出现卡死问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "操作复杂度偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0Z2%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "复古造型吸引眼球",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "热升华色彩细腻",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "固件升级后出现卡死问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "操作复杂度偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0Z2%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "复古造型吸引眼球",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "热升华色彩细腻",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "固件升级后出现卡死问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "操作复杂度偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "汉印 官网",
+        "url": "https://www.hprt.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-06-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.7044,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "aigo-d9-pro",
+    "category": "instant-camera",
+    "name": "爱国者D9 Pro数码相机",
+    "brand": "爱国者",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.aigo.com.cn/",
+    "summary": "爱国者复古风格数码相机，6400万像素，4K视频，3英寸屏，固定定焦镜头，CMOS传感器，约¥399。",
+    "price_value": 399.0,
+    "currency": "CNY",
+    "tags": [
+      "数码相机",
+      "复古CCD",
+      "4K"
+    ],
+    "specs": {
+      "类型": "紧凑型数码相机",
+      "像素": "6400万（有效像素1600-2000万）",
+      "视频": "4K（3840×2160）",
+      "屏幕": "3.0英寸",
+      "传感器": "CMOS",
+      "镜头": "固定焦距（定焦）",
+      "防抖": "电子防抖",
+      "上市时间": "2024-03-01"
+    },
+    "spec_sources": {
+      "类型": [
+        "京东参数"
+      ],
+      "像素": [
+        "京东参数"
+      ],
+      "视频": [
+        "京东参数"
+      ],
+      "屏幕": [
+        "京东参数"
+      ],
+      "传感器": [
+        "京东参数"
+      ],
+      "镜头": [
+        "京东参数"
+      ],
+      "防抖": [
+        "京东参数"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%88%B1%E5%9B%BD%E8%80%85%20%E7%88%B1%E5%9B%BD%E8%80%85D9%20Pro%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6400万像素细节丰富",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "4K视频能力",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "复古造型受年轻人喜爱",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格亲民约¥399",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "固定镜头无法更换",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "非即时出片，需配打印机",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%88%B1%E5%9B%BD%E8%80%85%20%E7%88%B1%E5%9B%BD%E8%80%85D9%20Pro%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6400万像素细节丰富",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "4K视频能力",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "复古造型受年轻人喜爱",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格亲民约¥399",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "固定镜头无法更换",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "非即时出片，需配打印机",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E7%88%B1%E5%9B%BD%E8%80%85%20%E7%88%B1%E5%9B%BD%E8%80%85D9%20Pro%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6400万像素细节丰富",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "4K视频能力",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "复古造型受年轻人喜爱",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格亲民约¥399",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "固定镜头无法更换",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "非即时出片，需配打印机",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "爱国者 官网",
+        "url": "https://www.aigo.com.cn/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-03-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6684,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 399.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥399"
+  },
+  {
+    "id": "aimoer-c40",
+    "category": "instant-camera",
+    "name": "爱墨C40手机照片打印机",
+    "brand": "爱墨",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "",
+    "summary": "爱墨C40家用热升华照片打印机，Wi-Fi+蓝牙双连接，打印6英寸（100×150mm），自动覆膜，支持连续进纸，约¥699。",
+    "price_value": 699.0,
+    "currency": "CNY",
+    "tags": [
+      "热升华",
+      "6寸打印",
+      "蓝牙",
+      "自动覆膜"
+    ],
+    "specs": {
+      "打印方式": "热升华",
+      "连接": "Wi-Fi + 蓝牙",
+      "打印尺寸": "6英寸（100×150mm）",
+      "自动覆膜": "支持",
+      "连续进纸": "支持",
+      "上市时间": "2024-01-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数"
+      ],
+      "连接": [
+        "京东参数"
+      ],
+      "打印尺寸": [
+        "京东参数"
+      ],
+      "自动覆膜": [
+        "京东参数"
+      ],
+      "连续进纸": [
+        "京东参数"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%88%B1%E5%A2%A8%20%E7%88%B1%E5%A2%A8C40%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6英寸打印尺寸大更精美",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "自动覆膜防水防刮",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "Wi-Fi+蓝牙双连接灵活",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机器体积相对较大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "热升华纸带耗材成本较高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%88%B1%E5%A2%A8%20%E7%88%B1%E5%A2%A8C40%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6英寸打印尺寸大更精美",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "自动覆膜防水防刮",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "Wi-Fi+蓝牙双连接灵活",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机器体积相对较大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "热升华纸带耗材成本较高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E7%88%B1%E5%A2%A8%20%E7%88%B1%E5%A2%A8C40%E6%89%8B%E6%9C%BA%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6英寸打印尺寸大更精美",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "自动覆膜防水防刮",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "Wi-Fi+蓝牙双连接灵活",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机器体积相对较大",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "热升华纸带耗材成本较高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      }
+    ],
+    "release_date": "2024-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6448,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 699.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥699"
+  },
+  {
+    "id": "kodak-smile-basic",
+    "category": "instant-camera",
+    "name": "Kodak Smile 拍立得",
+    "brand": "Kodak",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.kodak.com/",
+    "summary": "柯达Smile 2合1即拍即印相机，ZINK免墨贴纸相纸，1000万像素，LCD取景器，简单易用，注意：无蓝牙功能。",
+    "price_value": 899.0,
+    "currency": "CNY",
+    "tags": [
+      "ZINK免墨",
+      "2合1",
+      "贴纸相纸"
+    ],
+    "specs": {
+      "打印方式": "ZINK免墨打印（带背胶）",
+      "拍摄像素": "1000万",
+      "对焦": "固定对焦",
+      "打印尺寸": "2英寸×3英寸",
+      "曝光": "自动曝光",
+      "充电": "Micro USB",
+      "取景器": "LCD取景屏",
+      "蓝牙": "无（不支持连手机打印）",
+      "上市时间": "2022-01-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数",
+        "官网"
+      ],
+      "拍摄像素": [
+        "京东参数"
+      ],
+      "对焦": [
+        "京东参数"
+      ],
+      "打印尺寸": [
+        "京东参数"
+      ],
+      "曝光": [
+        "京东参数"
+      ],
+      "充电": [
+        "京东参数"
+      ],
+      "取景器": [
+        "用研报告"
+      ],
+      "蓝牙": [
+        "用研报告"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20Kodak%20Smile%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "ZINK免墨免换耗材",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带背胶相纸可贴",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "操作简单",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "无蓝牙，不支持连手机打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 108,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印画质一般",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "Micro USB接口旧",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "1000万像素偏低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20Kodak%20Smile%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "ZINK免墨免换耗材",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带背胶相纸可贴",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "操作简单",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "无蓝牙，不支持连手机打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 108,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印画质一般",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "Micro USB接口旧",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "1000万像素偏低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20Kodak%20Smile%20%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "ZINK免墨免换耗材",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带背胶相纸可贴",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "操作简单",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "无蓝牙，不支持连手机打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 108,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印画质一般",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "Micro USB接口旧",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "1000万像素偏低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.3587,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 899.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.com/",
+        "fetched_at": "2026-06-08T10:57:12+00:00"
+      }
+    ],
+    "price_display": "¥899"
+  },
+  {
+    "id": "hprt-cp6000",
+    "category": "instant-camera",
+    "name": "汉印CP6000照片打印机",
+    "brand": "汉印",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.hprt.com/",
+    "summary": "汉印CP6000热升华家用照片打印机，打印6英寸（100×148mm），Wi-Fi连接，15秒AR动态留声，约58秒出片，约¥889。",
+    "price_value": 889.0,
+    "currency": "CNY",
+    "tags": [
+      "热升华",
+      "6英寸",
+      "AR留声",
+      "家用"
+    ],
+    "specs": {
+      "打印方式": "热升华",
+      "打印尺寸": "6英寸（100×148mm）",
+      "打印分辨率": "300DPI",
+      "打印速度": "约58秒/张",
+      "连接方式": "Wi-Fi",
+      "机身重量": "1400g（不含配件）",
+      "机身尺寸": "200×130×79mm",
+      "特色功能": "15秒AR动态留声、证件照、自动覆膜、蓝牙音响",
+      "上市时间": "2024-01-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数"
+      ],
+      "打印尺寸": [
+        "京东参数"
+      ],
+      "打印分辨率": [
+        "京东参数"
+      ],
+      "打印速度": [
+        "京东参数"
+      ],
+      "连接方式": [
+        "京东参数"
+      ],
+      "机身重量": [
+        "京东参数"
+      ],
+      "机身尺寸": [
+        "京东参数"
+      ],
+      "特色功能": [
+        "京东参数"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0CP6000%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6英寸大幅打印精美",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "AR留声功能有记忆点",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "证件照功能实用",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机身重（1400g）不便携",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印速度较慢（约58秒）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "售价偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0CP6000%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6英寸大幅打印精美",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "AR留声功能有记忆点",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "证件照功能实用",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机身重（1400g）不便携",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印速度较慢（约58秒）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "售价偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0CP6000%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "6英寸大幅打印精美",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "AR留声功能有记忆点",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "证件照功能实用",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机身重（1400g）不便携",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印速度较慢（约58秒）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "售价偏高",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "汉印 官网",
+        "url": "https://www.hprt.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6448,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 889.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 657.72,
+        "as_of": "2026-06-08",
+        "source": "淘宝(国补后，语雀竞品分析)"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥889"
+  },
+  {
+    "id": "fujifilm-quicksnap",
+    "category": "instant-camera",
+    "name": "Fujifilm QuickSnap",
+    "brand": "Fujifilm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fujifilm_QuickSnap_%288374200504%29.jpg/960px-Fujifilm_QuickSnap_%288374200504%29.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fujifilm_QuickSnap_%288374200504%29.jpg/960px-Fujifilm_QuickSnap_%288374200504%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fujifilm_QuickSnap_Camera.jpg/960px-Fujifilm_QuickSnap_Camera.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fujifilm_QuickSnap_Flash.jpg/960px-Fujifilm_QuickSnap_Flash.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Fujifilm QuickSnap (8374200504).jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_QuickSnap_(8374200504).jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Alfred from Germany"
+      },
+      {
+        "title": "Fujifilm QuickSnap Camera.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_QuickSnap_Camera.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "TaurusEmerald"
+      },
+      {
+        "title": "Fujifilm QuickSnap Flash.jpg",
+        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_QuickSnap_Flash.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Jud McCranie"
+      }
+    ],
+    "url": "",
+    "official_url": "https://instax.com/",
+    "summary": "富士QuickSnap一次性135彩卷胶片相机，ISO400，27张，内置闪光灯，无需调焦，冲洗后获得经典胶片质感，约¥168。",
+    "price_value": 168.0,
+    "currency": "CNY",
+    "tags": [
+      "胶卷",
+      "一次性",
+      "复古",
+      "银盐"
+    ],
+    "specs": {
+      "类型": "一次性胶卷相机",
+      "胶卷": "135彩卷，感光度ISO 400",
+      "张数": "27张",
+      "闪光": "内置闪光灯，有效3m",
+      "对焦": "固定焦距，无需调焦",
+      "机身尺寸": "120.23×65.6mm（不含挂耳）",
+      "上市时间": "2023-01-01"
+    },
+    "spec_sources": {
+      "类型": [
+        "富士官网"
+      ],
+      "胶卷": [
+        "富士官网"
+      ],
+      "张数": [
+        "富士官网"
+      ],
+      "闪光": [
+        "富士官网"
+      ],
+      "对焦": [
+        "富士官网"
+      ],
+      "机身尺寸": [
+        "富士官网"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20QuickSnap",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "胶片质感独特无可替代",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "操作极简无需设置",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格实惠约¥168",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "需送洗等待，无法即时看到照片",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "张数有限（27张）用完即弃",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "无法预览",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20QuickSnap",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "胶片质感独特无可替代",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "操作极简无需设置",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格实惠约¥168",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "需送洗等待，无法即时看到照片",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "张数有限（27张）用完即弃",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "无法预览",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20QuickSnap",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "胶片质感独特无可替代",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "操作极简无需设置",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格实惠约¥168",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "需送洗等待，无法即时看到照片",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "张数有限（27张）用完即弃",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "无法预览",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.5018,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 168.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/",
+        "fetched_at": "2026-06-08T10:57:12+00:00"
+      }
+    ],
+    "price_display": "¥168"
+  },
+  {
+    "id": "jiyin-dmp100",
+    "category": "instant-camera",
+    "name": "极印DMP100照片打印机",
+    "brand": "极印",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "",
+    "summary": "极印DMP100热升华便携照片打印机，NFC+蓝牙双连接，约237g超轻，约60秒出片，86×54mm标准尺寸，约¥499。",
+    "price_value": 499.0,
+    "currency": "CNY",
+    "tags": [
+      "热升华",
+      "NFC",
+      "蓝牙",
+      "便携"
+    ],
+    "specs": {
+      "打印方式": "热升华",
+      "打印分辨率": "291×294dpi",
+      "连接方式": "NFC + 蓝牙",
+      "打印尺寸": "86×54mm",
+      "打印速度": "约60秒/张",
+      "产品重量": "237g（不含纸盒）",
+      "机身尺寸": "133×80×27mm",
+      "电池容量": "650mAh",
+      "上市时间": "2023-01-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数"
+      ],
+      "打印分辨率": [
+        "京东参数"
+      ],
+      "连接方式": [
+        "京东参数"
+      ],
+      "打印尺寸": [
+        "京东参数"
+      ],
+      "打印速度": [
+        "京东参数"
+      ],
+      "产品重量": [
+        "京东参数"
+      ],
+      "机身尺寸": [
+        "京东参数"
+      ],
+      "电池容量": [
+        "京东参数"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9E%81%E5%8D%B0%20%E6%9E%81%E5%8D%B0DMP100%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "NFC一碰即连方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "超轻便携（约237g）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格¥499实惠",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "官网已下线，售后存疑",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印约60秒较慢",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E6%9E%81%E5%8D%B0%20%E6%9E%81%E5%8D%B0DMP100%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "NFC一碰即连方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "超轻便携（约237g）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格¥499实惠",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "官网已下线，售后存疑",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印约60秒较慢",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E6%9E%81%E5%8D%B0%20%E6%9E%81%E5%8D%B0DMP100%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "NFC一碰即连方便",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "超轻便携（约237g）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格¥499实惠",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "官网已下线，售后存疑",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印约60秒较慢",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      }
+    ],
+    "release_date": "2023-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.5018,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 499.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥499"
+  },
+  {
+    "id": "hprt-cp2100",
+    "category": "instant-camera",
+    "name": "汉印CP2100照片打印机",
+    "brand": "汉印",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.hprt.com/",
+    "summary": "汉印CP2100热升华便携照片打印机，300DPI，蓝牙连接，RFID读写+AR照片功能，自动全切，约280g，约¥699。",
+    "price_value": 699.0,
+    "currency": "CNY",
+    "tags": [
+      "热升华",
+      "蓝牙",
+      "RFID",
+      "AR照片"
+    ],
+    "specs": {
+      "打印方式": "热升华",
+      "打印分辨率": "300DPI",
+      "连接方式": "蓝牙",
+      "机身重量": "280g（不含配件）",
+      "机身尺寸": "146×83×34mm",
+      "电池容量": "800mAh，Type-C充电",
+      "特色": "RFID读写 + AR照片 + 自动全切",
+      "上市时间": "2024-01-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数"
+      ],
+      "打印分辨率": [
+        "京东参数"
+      ],
+      "连接方式": [
+        "京东参数"
+      ],
+      "机身重量": [
+        "京东参数"
+      ],
+      "机身尺寸": [
+        "京东参数"
+      ],
+      "电池容量": [
+        "京东参数"
+      ],
+      "特色": [
+        "京东参数"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0CP2100%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "RFID与AR功能有趣",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "300DPI打印清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连接简单",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "打印约94秒偏慢",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印有细小条纹",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "初始电量低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0CP2100%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "RFID与AR功能有趣",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "300DPI打印清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连接简单",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "打印约94秒偏慢",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印有细小条纹",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "初始电量低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E6%B1%89%E5%8D%B0%20%E6%B1%89%E5%8D%B0CP2100%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "RFID与AR功能有趣",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "300DPI打印清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连接简单",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "打印约94秒偏慢",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 83,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "打印有细小条纹",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "初始电量低",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "汉印 官网",
+        "url": "https://www.hprt.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-01-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.6448,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 699.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥699"
+  },
+  {
+    "id": "canon-selphy-qx20",
+    "category": "instant-camera",
+    "name": "Canon SELPHY QX20",
+    "brand": "Canon",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.canon.com.cn/",
+    "summary": "佳能SELPHY QX20热升华便携打印机，含保护膜，约40秒快速出片，防尘防水，Wi-Fi，85×54mm卡片/85×72mm方形，带背胶。",
+    "price_value": 899.0,
+    "currency": "CNY",
+    "tags": [
+      "热升华",
+      "防尘防水",
+      "Wi-Fi",
+      "贴纸相纸"
+    ],
+    "specs": {
+      "打印方式": "染料热升华转印（含保护膜）",
+      "打印分辨率": "287×287dpi",
+      "打印速度": "约40秒/张",
+      "纸张格式": "卡片：85×54mm / 方形：85×72mm",
+      "纸张容量": "10张",
+      "防护": "防尘防水滴",
+      "无线连接": "Wi-Fi（2.4GHz）",
+      "电池": "约850mAh，约20张/充，约80分钟充满",
+      "机身重量": "约455g",
+      "机身尺寸": "约102.2×145.8×32.9mm",
+      "上市时间": "2022-09-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "佳能官网"
+      ],
+      "打印分辨率": [
+        "佳能官网"
+      ],
+      "打印速度": [
+        "佳能官网"
+      ],
+      "纸张格式": [
+        "佳能官网"
+      ],
+      "纸张容量": [
+        "佳能官网"
+      ],
+      "防护": [
+        "佳能官网"
+      ],
+      "无线连接": [
+        "佳能官网"
+      ],
+      "电池": [
+        "佳能官网"
+      ],
+      "机身重量": [
+        "佳能官网"
+      ],
+      "机身尺寸": [
+        "佳能官网"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Canon%20Canon%20SELPHY%20QX20",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "约40秒快速打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带保护膜耐久",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "防尘防水适合户外",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带背胶相纸可DIY",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机身较重约455g",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "相纸容量仅10张",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Canon%20Canon%20SELPHY%20QX20",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "约40秒快速打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带保护膜耐久",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "防尘防水适合户外",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带背胶相纸可DIY",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机身较重约455g",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "相纸容量仅10张",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Canon%20Canon%20SELPHY%20QX20",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "约40秒快速打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带保护膜耐久",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "防尘防水适合户外",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "带背胶相纸可DIY",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "机身较重约455g",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "相纸容量仅10张",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Canon 官网",
+        "url": "https://www.canon.com.cn/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022-09-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.4539,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {
+      "jd": {
+        "currency": "CNY",
+        "price": 899.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "2026-06-08",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": "¥899"
+  },
+  {
+    "id": "kodak-c210",
+    "category": "instant-camera",
+    "name": "Kodak C210拍立得",
+    "brand": "Kodak",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.kodak.com/",
+    "summary": "柯达C210即拍即印相机，ZINK免墨，内置LCD取景器，蓝牙连手机打印，礼盒含20张相纸+相册+收纳包。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "ZINK免墨",
+      "2合1",
+      "蓝牙",
+      "LCD取景"
+    ],
+    "specs": {
+      "打印方式": "ZINK免墨打印",
+      "屏幕": "LCD取景器",
+      "连接": "蓝牙（连接手机打印）",
+      "套装内容": "相机+相纸20张+相册36位+收纳包+照片墙贴",
+      "特殊说明": "连蓝牙时相机拍照功能暂停，需断开蓝牙才能拍摄",
+      "上市时间": "2022-06-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数"
+      ],
+      "屏幕": [
+        "用研报告"
+      ],
+      "连接": [
+        "用研报告"
+      ],
+      "套装内容": [
+        "京东商品页"
+      ],
+      "特殊说明": [
+        "用研报告"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20Kodak%20C210%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "LCD取景器方便构图",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "礼盒套装送礼完整",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "连蓝牙时无法用相机拍照",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "APP在国内下载有问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20Kodak%20C210%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "LCD取景器方便构图",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "礼盒套装送礼完整",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "连蓝牙时无法用相机拍照",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "APP在国内下载有问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20Kodak%20C210%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "LCD取景器方便构图",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "礼盒套装送礼完整",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "蓝牙连手机打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "连蓝牙时无法用相机拍照",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "APP在国内下载有问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022-06-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.4179,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.com/",
+        "fetched_at": "2026-06-08T10:57:12+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-minishot2-era",
+    "category": "instant-camera",
+    "name": "Kodak Mini Shot 2 ERA拍立得",
+    "brand": "Kodak",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.kodak.com/",
+    "summary": "柯达Mini Shot 2 ERA即拍即印，1300万像素，1.77英寸LCD，3×3英寸方形相纸，ZINK免墨+自动覆膜，蓝牙，6滤镜7框架。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "ZINK免墨",
+      "2合1",
+      "1300万",
+      "自动覆膜",
+      "方形相纸"
+    ],
+    "specs": {
+      "打印方式": "ZINK免墨 + 一体式自动覆膜",
+      "打印分辨率": "300DPI",
+      "拍摄像素": "1300万",
+      "屏幕": "1.77英寸LCD取景器",
+      "打印尺寸": "3英寸×3英寸（76×76mm 方形）",
+      "连接": "蓝牙连手机，专属APP打印",
+      "滤镜/框架": "6种滤镜 + 7种框架",
+      "覆膜": "一体式自动覆膜，历久不褪色",
+      "上市时间": "2023-06-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "京东参数"
+      ],
+      "打印分辨率": [
+        "京东参数"
+      ],
+      "拍摄像素": [
+        "京东参数"
+      ],
+      "屏幕": [
+        "京东参数"
+      ],
+      "打印尺寸": [
+        "京东参数"
+      ],
+      "连接": [
+        "京东参数"
+      ],
+      "滤镜/框架": [
+        "京东参数"
+      ],
+      "覆膜": [
+        "京东参数"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20Kodak%20Mini%20Shot%202%20ERA%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "1300万像素画质好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "自动覆膜照片耐久",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "300DPI清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格实惠",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "连蓝牙时相机功能受限",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "APP在国内使用有问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20Kodak%20Mini%20Shot%202%20ERA%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "1300万像素画质好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "自动覆膜照片耐久",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "300DPI清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格实惠",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "连蓝牙时相机功能受限",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "APP在国内使用有问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20Kodak%20Mini%20Shot%202%20ERA%E6%8B%8D%E7%AB%8B%E5%BE%97",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "1300万像素画质好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 130,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "自动覆膜照片耐久",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "300DPI清晰",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "价格实惠",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "连蓝牙时相机功能受限",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "APP在国内使用有问题",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-06-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.561,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.com/",
+        "fetched_at": "2026-06-08T10:57:12+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "canon-inspic",
+    "category": "instant-camera",
+    "name": "佳能INSPIC照片打印机",
+    "brand": "Canon",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "https://www.canon.com.cn/",
+    "summary": "佳能INSPIC口袋手机照片打印机，ZINK免墨带背胶相纸，蓝牙连接，磁吸上盖可换色，Type-C充电，App支持拼图/模板/标签打印。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "ZINK免墨",
+      "手机打印",
+      "蓝牙",
+      "磁吸上盖"
+    ],
+    "specs": {
+      "打印方式": "ZINK免墨热敏打印（带背胶）",
+      "连接": "蓝牙（App连接）",
+      "充电": "Type-C USB",
+      "特色": "磁吸上盖可换色、校准卡自动检测",
+      "App功能": "拼图、模板打印、标签打印、贴纸素材",
+      "上市时间": "2022-10-01"
+    },
+    "spec_sources": {
+      "打印方式": [
+        "亚马逊商品页"
+      ],
+      "连接": [
+        "亚马逊商品页"
+      ],
+      "充电": [
+        "用研报告"
+      ],
+      "特色": [
+        "用研报告"
+      ],
+      "App功能": [
+        "用研报告"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Canon%20%E4%BD%B3%E8%83%BDINSPIC%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "磁吸上盖个性化可换",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "App功能丰富（拼图/模板/标签）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "打印质量好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "蓝牙匹配时间较长",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "京东（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "无法多选照片批量打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Canon%20%E4%BD%B3%E8%83%BDINSPIC%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "磁吸上盖个性化可换",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "App功能丰富（拼图/模板/标签）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "打印质量好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "蓝牙匹配时间较长",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "天猫（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "无法多选照片批量打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Canon%20%E4%BD%B3%E8%83%BDINSPIC%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "磁吸上盖个性化可换",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 100,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "App功能丰富（拼图/模板/标签）",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 70,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 5.0,
+            "text": "打印质量好",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "蓝牙匹配时间较长",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 58,
+            "source": "Amazon（示例）"
+          },
+          {
+            "rating": 2.0,
+            "text": "无法多选照片批量打印",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Canon 官网",
+        "url": "https://www.canon.com.cn/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022-10-01",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.4657,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "B0BBG2R1YK",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-06-08",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-08T10:54:03+00:00"
+      }
+    ],
+    "price_display": ""
   }
 ]

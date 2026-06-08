@@ -193,6 +193,106 @@
     "as_of": "2026-06-08",
     "source": "淘宝(四平台爬虫)"
    }
+  },
+  "fujifilm-x-e5": {
+   "jd": {
+    "currency": "CNY",
+    "price": 11490.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   },
+   "taobao": {
+    "currency": "CNY",
+    "price": 9999.0,
+    "as_of": "2026-06-08",
+    "source": "天猫(语雀竞品分析)"
+   }
+  },
+  "insta360-pocket-printer": {
+   "jd": {
+    "currency": "CNY",
+    "price": 4098.0,
+    "as_of": "2026-06-08",
+    "source": "京东/官网(语雀竞品分析)"
+   }
+  },
+  "jingmo-naike-printer": {
+   "jd": {
+    "currency": "CNY",
+    "price": 529.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
+  },
+  "aigo-d9-pro": {
+   "jd": {
+    "currency": "CNY",
+    "price": 399.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
+  },
+  "aimoer-c40": {
+   "jd": {
+    "currency": "CNY",
+    "price": 699.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
+  },
+  "hprt-cp6000": {
+   "jd": {
+    "currency": "CNY",
+    "price": 889.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   },
+   "taobao": {
+    "currency": "CNY",
+    "price": 657.72,
+    "as_of": "2026-06-08",
+    "source": "淘宝(国补后，语雀竞品分析)"
+   }
+  },
+  "fujifilm-quicksnap": {
+   "jd": {
+    "currency": "CNY",
+    "price": 168.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
+  },
+  "jiyin-dmp100": {
+   "jd": {
+    "currency": "CNY",
+    "price": 499.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
+  },
+  "hprt-cp2100": {
+   "jd": {
+    "currency": "CNY",
+    "price": 699.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
+  },
+  "canon-selphy-qx20": {
+   "jd": {
+    "currency": "CNY",
+    "price": 899.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
+  },
+  "kodak-smile-basic": {
+   "jd": {
+    "currency": "CNY",
+    "price": 899.0,
+    "as_of": "2026-06-08",
+    "source": "京东商品页"
+   }
   }
  }
 }
