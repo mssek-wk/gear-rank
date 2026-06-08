@@ -62,20 +62,20 @@
       "credit": {"source": "Wikimedia Commons (CC BY-SA)", "note": "真实产品图"}
     },
     "aigo-d9-pro": {
-      "images": ["https://cdn.nlark.com/yuque/0/2026/webp/46513062/1778055243136-feba0d84-5aa1-4542-ae1b-f9c53634b3b2.webp"],
-      "credit": {"source": "语雀竞品分析文档", "note": "真实产品图（已核实：aigo VISION 6400万翻转屏相机）"}
+      "images": ["images/aigo-d9-pro/1.webp"],
+      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：aigo VISION 6400万翻转屏相机）"}
     },
     "hprt-z2": {
-      "images": ["https://cdn.nlark.com/yuque/0/2025/png/286556/1764323591243-696a219a-4a5f-4788-ae21-a8321ec957d8.png"],
-      "credit": {"source": "语雀竞品分析文档", "note": "真实产品图（已核实：汉印拍立得Z2）"}
+      "images": ["images/hprt-z2/1.png"],
+      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：汉印拍立得Z2）"}
     },
     "hprt-cp6000": {
-      "images": ["https://cdn.nlark.com/yuque/0/2025/png/46513062/1755498581521-32f4326b-bc5a-4944-bcc2-d458566f1917.png"],
-      "credit": {"source": "语雀竞品分析文档", "note": "真实产品图（已核实：汉印CP6000）"}
+      "images": ["images/hprt-cp6000/1.png"],
+      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：汉印CP6000）"}
     },
     "canon-inspic": {
-      "images": ["https://cdn.nlark.com/yuque/0/2024/png/286556/1704270366782-81bfb0b8-3bc2-4200-b20e-9379e2a56f9b.png"],
-      "credit": {"source": "语雀竞品分析文档", "note": "真实产品图（已核实：Canon inspic PV-223）"}
+      "images": ["images/canon-inspic/1.png"],
+      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：Canon inspic PV-223）"}
     },
     "hprt-z1": {
       "images": ["images/hprt-z1/1.jpg"],
