@@ -716,6 +716,16 @@ class SampleAdapter(Adapter):
                                          reviews_pos=pos, reviews_neg=neg))
             if it.official_url:
                 it.sellers.append(Seller(name=f"{c['brand']} 官网", url=it.official_url, is_official=True))
+            # 公开市场热度/畅销信号（来自扩展产品表的「评价数/热度」列 + 公开市场认知，
+            # 非平台实时抓取）。仅用于「最火/最畅销」榜排序，不计入展示的评分/评价数。
+            mh, ms = c.get("hot"), c.get("sales")
+            if mh is not None or ms is not None:
+                man = {}
+                if mh is not None:
+                    man["hot"] = mh
+                if ms is not None:
+                    man["sales"] = ms
+                it.platforms["manual"] = man
             out.append(it)
         print(f"  · 目录: 品类 '{category_id}' 提供 {len(out)} 款机型（含官方上市日期/参数/渠道）")
         return out

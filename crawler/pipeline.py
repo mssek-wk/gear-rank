@@ -70,7 +70,7 @@ def _normalize(values: dict[str, float]) -> dict[str, float]:
     return out
 
 
-_PLATFORMS = ("amazon", "jd", "taobao")
+_PLATFORMS = ("amazon", "jd", "taobao", "manual")
 
 
 def _platform_signals(items: list[Item], kind: str) -> dict[str, list[float]]:
@@ -88,12 +88,12 @@ def _platform_signals(items: list[Item], kind: str) -> dict[str, list[float]]:
             if kind == "sales":           # 畅销：信号越大越畅销
                 if plat == "amazon":
                     v = d.get("bsr"); sig[it.id] = (-v) if v is not None else None   # 畅销榜，越小越好
-                elif plat == "taobao":
-                    sig[it.id] = d.get("sales")                                       # 月销量，越大越好
+                elif plat in ("taobao", "manual"):
+                    sig[it.id] = d.get("sales")                                       # 月销量/畅销代理，越大越好
                 else:  # 京东无公开销量 -> 用评价数作畅销代理(同平台内单位一致)；jd_rank 仅作展示徽章
                     sig[it.id] = d.get("reviews")
-            else:                          # 热度：各平台评价数
-                sig[it.id] = d.get("reviews")
+            else:                          # 热度：各平台评价数；manual 用公开市场热度指数
+                sig[it.id] = d.get("reviews") if d.get("reviews") is not None else d.get("hot")
         if not any(v is not None for v in sig.values()):
             continue                      # 该平台暂无数据，跳过
         norm = _normalize(sig)

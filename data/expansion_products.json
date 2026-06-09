@@ -45,7 +45,9 @@
         "京东/淘宝用户关注画质、防抖、续航与骑行潜水稳定性。"
       ],
       "cons": [],
-      "official_url": "https://www.dji.com/osmo-action-5-pro"
+      "official_url": "https://www.dji.com/osmo-action-5-pro",
+      "hot": 98,
+      "sales": 96
     },
     {
       "id": "dji-osmo-action-4",
@@ -92,7 +94,9 @@
         "公开评测多认为画质与低光相比前代提升，性价比高。"
       ],
       "cons": [],
-      "official_url": "https://www.dji.com/osmo-action-4"
+      "official_url": "https://www.dji.com/osmo-action-4",
+      "hot": 54.0,
+      "sales": 59.0
     },
     {
       "id": "dji-osmo-action-3",
@@ -139,7 +143,9 @@
         "用户常把它作为低价入门 Action 系列选择。"
       ],
       "cons": [],
-      "official_url": "https://www.dji.com/osmo-action-3"
+      "official_url": "https://www.dji.com/osmo-action-3",
+      "hot": 42.0,
+      "sales": 51.0
     },
     {
       "id": "dji-osmo-nano",
@@ -186,7 +192,9 @@
         "淘宝热度高，用户看重小体积、亲子和骑行随身。"
       ],
       "cons": [],
-      "official_url": "https://www.dji.com/osmo-nano"
+      "official_url": "https://www.dji.com/osmo-nano",
+      "hot": 79,
+      "sales": 74
     },
     {
       "id": "dji-osmo-360",
@@ -233,7 +241,9 @@
         "公开讨论集中在 DJI 进入全景相机后与 Insta360 的竞争。"
       ],
       "cons": [],
-      "official_url": "https://www.dji.com/osmo-360"
+      "official_url": "https://www.dji.com/osmo-360",
+      "hot": 68.0,
+      "sales": 59.0
     },
     {
       "id": "insta360-ace-pro-2",
@@ -280,7 +290,9 @@
         "淘宝评论提到画质、续航、防抖和上手；小红书有大量参数设置笔记。"
       ],
       "cons": [],
-      "official_url": "https://www.insta360.com/product/insta360-acepro2"
+      "official_url": "https://www.insta360.com/product/insta360-acepro2",
+      "hot": 69,
+      "sales": 68
     },
     {
       "id": "insta360-ace-pro",
@@ -327,7 +339,9 @@
         "公开评测认可弱光和翻转屏，升级用户会比较 Ace Pro 2。"
       ],
       "cons": [],
-      "official_url": "https://www.insta360.com/product/insta360-acepro"
+      "official_url": "https://www.insta360.com/product/insta360-acepro",
+      "hot": 42.0,
+      "sales": 51.0
     },
     {
       "id": "insta360-x5",
@@ -374,7 +388,9 @@
         "用户关注画质、耐用性、续航和后期裁切效率。"
       ],
       "cons": [],
-      "official_url": "https://www.insta360.com/product/insta360-x5"
+      "official_url": "https://www.insta360.com/product/insta360-x5",
+      "hot": 62.0,
+      "sales": 59.0
     },
     {
       "id": "insta360-x4",
@@ -421,7 +437,9 @@
         "用户评价常提到二次构图方便但文件/后期负担较大。"
       ],
       "cons": [],
-      "official_url": "https://www.insta360.com/product/insta360-x4"
+      "official_url": "https://www.insta360.com/product/insta360-x4",
+      "hot": 46.0,
+      "sales": 51.0
     },
     {
       "id": "insta360-go-ultra",
@@ -468,7 +486,9 @@
         "淘宝用户关注小体积、插卡版、近距离拍摄配件。"
       ],
       "cons": [],
-      "official_url": "https://www.insta360.com/product/insta360-go-ultra"
+      "official_url": "https://www.insta360.com/product/insta360-go-ultra",
+      "hot": 73,
+      "sales": 68
     },
     {
       "id": "insta360-go-3s",
@@ -517,7 +537,9 @@
       "cons": [
         "短板是小机身续航/散热。"
       ],
-      "official_url": "https://www.insta360.com/product/insta360-go3s"
+      "official_url": "https://www.insta360.com/product/insta360-go3s",
+      "hot": 58.0,
+      "sales": 59.0
     },
     {
       "id": "gopro-hero13-black",
@@ -564,7 +586,9 @@
         "公开用户认可生态和耐用性，也常比较低光/续航与 DJI/Insta360。"
       ],
       "cons": [],
-      "official_url": "https://gopro.com/en/us/shop/cameras/hero13-black/CHDHX-131-master.html"
+      "official_url": "https://gopro.com/en/us/shop/cameras/hero13-black/CHDHX-131-master.html",
+      "hot": 58.0,
+      "sales": 59.0
     },
     {
       "id": "gopro-hero12-black",
@@ -611,7 +635,9 @@
         "用户评价关注稳定性、生态配件和云服务。"
       ],
       "cons": [],
-      "official_url": "https://gopro.com/en/us/shop/cameras/hero12-black/CHDHX-121-master.html"
+      "official_url": "https://gopro.com/en/us/shop/cameras/hero12-black/CHDHX-121-master.html",
+      "hot": 42.0,
+      "sales": 51.0
     },
     {
       "id": "gopro-max2-360",
@@ -658,7 +684,9 @@
         "GoPro官网已展示 MAX2；市场关注其能否重新竞争 Insta360 X 系列。"
       ],
       "cons": [],
-      "official_url": "https://gopro.com/en/us/"
+      "official_url": "https://gopro.com/en/us/",
+      "hot": 62.0,
+      "sales": 59.0
     },
     {
       "id": "gopro-hero-4k",
@@ -705,7 +733,9 @@
         "用户关注易用、耐用和入门价格。"
       ],
       "cons": [],
-      "official_url": "https://gopro.com/en/us/"
+      "official_url": "https://gopro.com/en/us/",
+      "hot": 58.0,
+      "sales": 59.0
     },
     {
       "id": "akaso-brave-8-lite",
@@ -754,7 +784,9 @@
       "cons": [
         "短板通常是低光和防抖不及旗舰。"
       ],
-      "official_url": "https://www.akasotech.com/brave-8-lite"
+      "official_url": "https://www.akasotech.com/brave-8-lite",
+      "hot": 58.0,
+      "sales": 59.0
     },
     {
       "id": "akaso-brave-7-le",
@@ -801,7 +833,9 @@
         "Amazon/海外用户常作为 GoPro 平替入门。"
       ],
       "cons": [],
-      "official_url": "https://www.akasotech.com/brave-7-le"
+      "official_url": "https://www.akasotech.com/brave-7-le",
+      "hot": 50.0,
+      "sales": 59.0
     },
     {
       "id": "akaso-ek7000-pro",
@@ -850,7 +884,9 @@
       "cons": [
         "缺点是画质/稳定性有限。"
       ],
-      "official_url": "https://www.akasotech.com/ek7000-pro"
+      "official_url": "https://www.akasotech.com/ek7000-pro",
+      "hot": 54.0,
+      "sales": 59.0
     },
     {
       "id": "sjcam-c110-plus",
@@ -897,7 +933,9 @@
         "低价段用户关注便携和第一视角，需核实真实防抖画质。"
       ],
       "cons": [],
-      "official_url": "https://www.sjcam.com/cameras/portable-camera/c110/"
+      "official_url": "https://www.sjcam.com/cameras/portable-camera/c110/",
+      "hot": 58.0,
+      "sales": 59.0
     },
     {
       "id": "sjcam-c300",
@@ -944,7 +982,9 @@
         "用户关注价格、配件和续航。"
       ],
       "cons": [],
-      "official_url": "https://www.sjcam.com/cameras/action-camera/c300/"
+      "official_url": "https://www.sjcam.com/cameras/action-camera/c300/",
+      "hot": 54.0,
+      "sales": 59.0
     }
   ],
   "film-camera": [
@@ -993,7 +1033,9 @@
         "公开反馈显示需求超预期，适合入门但价格高于玩具胶片机。"
       ],
       "cons": [],
-      "official_url": "https://pentax.eu/de/products/pentax-17"
+      "official_url": "https://pentax.eu/de/products/pentax-17",
+      "hot": 67.0,
+      "sales": 53.0
     },
     {
       "id": "leica-m6-reissue",
@@ -1040,7 +1082,9 @@
         "用户重视机械质感、品牌和保值，价格门槛高。"
       ],
       "cons": [],
-      "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m6-black"
+      "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m6-black",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "leica-mp",
@@ -1087,7 +1131,9 @@
         "用户评价集中在可靠、纯机械体验和价格昂贵。"
       ],
       "cons": [],
-      "official_url": "https://leica-camera.com/en-US/photography/cameras/m/mp-black"
+      "official_url": "https://leica-camera.com/en-US/photography/cameras/m/mp-black",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "leica-m-a",
@@ -1134,7 +1180,9 @@
         "用户看重纯粹机械体验，不适合需要自动曝光的新手。"
       ],
       "cons": [],
-      "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m-a-black"
+      "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m-a-black",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "kodak-ektar-h35",
@@ -1181,7 +1229,9 @@
         "用户喜欢便宜、省胶卷、外观复古，画质取决于光线和胶卷。"
       ],
       "cons": [],
-      "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35-half-frame-film-camera"
+      "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35-half-frame-film-camera",
+      "hot": 60.0,
+      "sales": 59.0
     },
     {
       "id": "kodak-ektar-h35n",
@@ -1228,7 +1278,9 @@
         "相较H35增加新功能，用户关注夜拍/星芒和手感。"
       ],
       "cons": [],
-      "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera"
+      "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera",
+      "hot": 60.0,
+      "sales": 59.0
     },
     {
       "id": "kodak-ultra-f9",
@@ -1277,7 +1329,9 @@
       "cons": [
         "弱点是塑料感和固定焦点。"
       ],
-      "official_url": "https://www.kodak.retopro.co/products/kodak-ultra-f9-film-camera"
+      "official_url": "https://www.kodak.retopro.co/products/kodak-ultra-f9-film-camera",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "kodak-i60",
@@ -1324,7 +1378,9 @@
         "用户关注外观和轻便，适合入门玩具胶片。"
       ],
       "cons": [],
-      "official_url": "https://www.kodak.retopro.co/products/kodak-i60-reusable-film-camera"
+      "official_url": "https://www.kodak.retopro.co/products/kodak-i60-reusable-film-camera",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "kodak-m35",
@@ -1373,7 +1429,9 @@
       "cons": [
         "缺点是画质与机械可靠性有限。"
       ],
-      "official_url": "https://www.kodak.retopro.co/products/kodak-m35-film-camera"
+      "official_url": "https://www.kodak.retopro.co/products/kodak-m35-film-camera",
+      "hot": 48.0,
+      "sales": 51.0
     },
     {
       "id": "kodak-m38",
@@ -1420,7 +1478,9 @@
         "用户用于低成本胶片体验，需接受傻瓜机限制。"
       ],
       "cons": [],
-      "official_url": "https://www.kodak.retopro.co/products/kodak-m38-film-camera"
+      "official_url": "https://www.kodak.retopro.co/products/kodak-m38-film-camera",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "fujifilm-quicksnap",
@@ -1469,7 +1529,9 @@
       "cons": [
         "痛点是冲扫成本。"
       ],
-      "official_url": "https://www.fujifilm.com/us/en/consumer/films/quicksnap"
+      "official_url": "https://www.fujifilm.com/us/en/consumer/films/quicksnap",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "kodak-funsaver",
@@ -1516,7 +1578,9 @@
         "用户喜欢胶片随机感和易用性，关注冲扫服务。"
       ],
       "cons": [],
-      "official_url": "https://kodak.photosys.com/products/funsaver-35mm-single-use-film-camera"
+      "official_url": "https://kodak.photosys.com/products/funsaver-35mm-single-use-film-camera",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "lomography-lomoapparat-21mm",
@@ -1563,7 +1627,9 @@
         "用户看重创意玩法，非追求锐度/自动化。"
       ],
       "cons": [],
-      "official_url": "https://shop.lomography.com/jp/lomoapparat-black-wide-angle-camera"
+      "official_url": "https://shop.lomography.com/jp/lomoapparat-black-wide-angle-camera",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "lomography-sprocket-rocket",
@@ -1610,7 +1676,9 @@
         "2026新色带来新关注，用户喜欢非常规全景效果。"
       ],
       "cons": [],
-      "official_url": "https://shop.lomography.com/us/sprocket-rocket"
+      "official_url": "https://shop.lomography.com/us/sprocket-rocket",
+      "hot": 59.0,
+      "sales": 45.0
     },
     {
       "id": "lomography-diana-f-plus",
@@ -1657,7 +1725,9 @@
         "用户喜欢梦幻和不可控，成片稳定性不是卖点。"
       ],
       "cons": [],
-      "official_url": "https://shop.lomography.com/us/diana-f-plus-camera"
+      "official_url": "https://shop.lomography.com/us/diana-f-plus-camera",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "lomography-la-sardina",
@@ -1704,7 +1774,9 @@
         "造型强，适合礼物/玩具摄影。"
       ],
       "cons": [],
-      "official_url": "https://shop.lomography.com/us/la-sardina"
+      "official_url": "https://shop.lomography.com/us/la-sardina",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "harman-ez-35-motorised-camera",
@@ -1751,7 +1823,9 @@
         "用户看重操作更接近傻瓜机，适合不想手动过片的新手。"
       ],
       "cons": [],
-      "official_url": "https://www.harmanphoto.co.uk/harman-ez-35-35mm-motorised-camera"
+      "official_url": "https://www.harmanphoto.co.uk/harman-ez-35-35mm-motorised-camera",
+      "hot": 52.0,
+      "sales": 51.0
     },
     {
       "id": "harman-reusable-camera",
@@ -1798,7 +1872,9 @@
         "用户反馈多为低价入门，画质符合玩具相机预期。"
       ],
       "cons": [],
-      "official_url": "https://www.harmanphoto.co.uk/harman-reusable-camera"
+      "official_url": "https://www.harmanphoto.co.uk/harman-reusable-camera",
+      "hot": 48.0,
+      "sales": 51.0
     },
     {
       "id": "ilford-sprite-35-ii",
@@ -1845,7 +1921,9 @@
         "用户关注价格低和品牌胶片搭配，非高画质机。"
       ],
       "cons": [],
-      "official_url": "https://www.ilfordphoto.com/sprite-35-ii-camera/"
+      "official_url": "https://www.ilfordphoto.com/sprite-35-ii-camera/",
+      "hot": 48.0,
+      "sales": 51.0
     },
     {
       "id": "reto3d-35mm-3d-camera",
@@ -1892,7 +1970,9 @@
         "用户喜欢新奇社媒效果，冲扫后处理步骤更多。"
       ],
       "cons": [],
-      "official_url": "https://www.kodak.retopro.co/products/reto3d-35mm-3d-film-camera"
+      "official_url": "https://www.kodak.retopro.co/products/reto3d-35mm-3d-film-camera",
+      "hot": 51.0,
+      "sales": 45.0
     },
     {
       "id": "agfaphoto-reusable-photo-camera-35mm",
@@ -1939,7 +2019,9 @@
         "用户看重外观和简单操作，规格接近 Kodak M35/M38。"
       ],
       "cons": [],
-      "official_url": "https://www.agfaphoto-gtc.com/en/analog-cameras/"
+      "official_url": "https://www.agfaphoto-gtc.com/en/analog-cameras/",
+      "hot": 51.0,
+      "sales": 45.0
     }
   ],
   "retro-digital-camera": [
@@ -1990,7 +2072,9 @@
       "cons": [
         "缺货。"
       ],
-      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/"
+      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/",
+      "hot": 61.0,
+      "sales": 53.0
     },
     {
       "id": "fujifilm-x-t50",
@@ -2037,7 +2121,9 @@
         "用户喜欢胶片模拟转盘和轻量，但会比较X-T5价格。"
       ],
       "cons": [],
-      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/"
+      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/",
+      "hot": 49.0,
+      "sales": 45.0
     },
     {
       "id": "fujifilm-x-m5",
@@ -2084,7 +2170,9 @@
         "用户关注小体积、价格和富士色彩。"
       ],
       "cons": [],
-      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-m5/"
+      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-m5/",
+      "hot": 58.0,
+      "sales": 59.0
     },
     {
       "id": "fujifilm-x-half",
@@ -2131,7 +2219,9 @@
         "用户讨论集中在新奇体验和复古玩法。"
       ],
       "cons": [],
-      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-half/"
+      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-half/",
+      "hot": 59.0,
+      "sales": 45.0
     },
     {
       "id": "fujifilm-x-e5",
@@ -2178,7 +2268,9 @@
         "用户关注X100VI替代、可换镜头与富士色彩。"
       ],
       "cons": [],
-      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/"
+      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/",
+      "hot": 59.0,
+      "sales": 45.0
     },
     {
       "id": "fujifilm-x-t5",
@@ -2225,7 +2317,9 @@
         "用户认可照片体验和色彩，视频/握持按需求取舍。"
       ],
       "cons": [],
-      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/"
+      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/",
+      "hot": 45.0,
+      "sales": 45.0
     },
     {
       "id": "fujifilm-x-s20",
@@ -2274,7 +2368,9 @@
       "cons": [
         "不如X-T/X100复古。"
       ],
-      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-s20/"
+      "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-s20/",
+      "hot": 57.0,
+      "sales": 53.0
     },
     {
       "id": "ricoh-gr-iii-hdf",
@@ -2323,7 +2419,9 @@
       "cons": [
         "短板是无取景器/续航。"
       ],
-      "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/"
+      "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/",
+      "hot": 49.0,
+      "sales": 45.0
     },
     {
       "id": "ricoh-gr-iiix-hdf",
@@ -2370,7 +2468,9 @@
         "用户在28mm和40mm之间按视角偏好选择。"
       ],
       "cons": [],
-      "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3x/"
+      "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3x/",
+      "hot": 49.0,
+      "sales": 45.0
     },
     {
       "id": "leica-d-lux-8",
@@ -2417,7 +2517,9 @@
         "用户关注Leica色彩和便携，但价格较高。"
       ],
       "cons": [],
-      "official_url": "https://leica-camera.com/en-US/photography/cameras/d-lux/d-lux-8-black"
+      "official_url": "https://leica-camera.com/en-US/photography/cameras/d-lux/d-lux-8-black",
+      "hot": 49.0,
+      "sales": 45.0
     },
     {
       "id": "nikon-z-f",
@@ -2464,7 +2566,9 @@
         "用户喜欢复古外观和全画幅画质，胶片感需靠Picture Control/后期。"
       ],
       "cons": [],
-      "official_url": "https://www.nikonusa.com/p/z-f/1761"
+      "official_url": "https://www.nikonusa.com/p/z-f/1761",
+      "hot": 57.0,
+      "sales": 53.0
     },
     {
       "id": "nikon-z-fc",
@@ -2511,7 +2615,9 @@
         "用户看重颜值和轻便，机身性能偏入门。"
       ],
       "cons": [],
-      "official_url": "https://www.nikonusa.com/p/z-fc/1675"
+      "official_url": "https://www.nikonusa.com/p/z-fc/1675",
+      "hot": 38.0,
+      "sales": 51.0
     },
     {
       "id": "panasonic-lumix-s9",
@@ -2560,7 +2666,9 @@
       "cons": [
         "短板是EVF/热管理等取舍。"
       ],
-      "official_url": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera"
+      "official_url": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera",
+      "hot": 61.0,
+      "sales": 53.0
     },
     {
       "id": "kodak-charmera",
@@ -2607,7 +2715,9 @@
         "用户评价偏“好玩而非画质”，适合玩具/礼物。"
       ],
       "cons": [],
-      "official_url": "https://www.kodak.com/en/consumer/product/cameras/digital/charmera-keychain-digital-camera/"
+      "official_url": "https://www.kodak.com/en/consumer/product/cameras/digital/charmera-keychain-digital-camera/",
+      "hot": 65.0,
+      "sales": 53.0
     },
     {
       "id": "camp-snap-2",
@@ -2654,7 +2764,9 @@
         "用户喜欢无屏轻松体验，画质按玩具/生活记录预期。"
       ],
       "cons": [],
-      "official_url": "https://www.campsnapphoto.com/products/camp-snap-2"
+      "official_url": "https://www.campsnapphoto.com/products/camp-snap-2",
+      "hot": 71.0,
+      "sales": 53.0
     },
     {
       "id": "paper-shoot-20mp",
@@ -2701,7 +2813,9 @@
         "用户喜欢轻便和胶片感，也有人觉得性价比不高。"
       ],
       "cons": [],
-      "official_url": "https://www.papershoot.com/products/paper-shoot-camera"
+      "official_url": "https://www.papershoot.com/products/paper-shoot-camera",
+      "hot": 45.0,
+      "sales": 45.0
     },
     {
       "id": "flashback-one35-v2",
@@ -2748,7 +2862,9 @@
         "小红书/官网定位是一次性胶片体验数字化，适合氛围感。"
       ],
       "cons": [],
-      "official_url": "https://joinflashback.co/en-us/products/flashback-one35-v2-camera"
+      "official_url": "https://joinflashback.co/en-us/products/flashback-one35-v2-camera",
+      "hot": 65.0,
+      "sales": 53.0
     },
     {
       "id": "yashica-fx-d-s300-300",
@@ -2795,7 +2911,9 @@
         "公开评测谨慎，亮点是胶片模拟和复古外观。"
       ],
       "cons": [],
-      "official_url": "https://www.yashica.com/product-page/yashica-fx-d-300-digital-film-simulation-camera"
+      "official_url": "https://www.yashica.com/product-page/yashica-fx-d-300-digital-film-simulation-camera",
+      "hot": 59.0,
+      "sales": 45.0
     },
     {
       "id": "yashica-funtastic-keychain-camera",
@@ -2842,7 +2960,9 @@
         "公开报道视其为Charmera后续潮流产品。"
       ],
       "cons": [],
-      "official_url": "https://www.yashica.com/"
+      "official_url": "https://www.yashica.com/",
+      "hot": 53.0,
+      "sales": 45.0
     },
     {
       "id": "fujifilm-instax-mini-evo",
@@ -2889,7 +3009,9 @@
         "用户喜欢可预览再打印和复古效果，耗材成本需考虑。"
       ],
       "cons": [],
-      "official_url": "https://instax.com/mini_evo/en/"
+      "official_url": "https://instax.com/mini_evo/en/",
+      "hot": 53.0,
+      "sales": 53.0
     },
     {
       "id": "fujifilm-instax-wide-evo",
@@ -2936,7 +3058,9 @@
         "用户关注宽幅画面和复古操控，耗材体积/成本更高。"
       ],
       "cons": [],
-      "official_url": "https://instax.com/wide_evo/en/"
+      "official_url": "https://instax.com/wide_evo/en/",
+      "hot": 59.0,
+      "sales": 45.0
     },
     {
       "id": "kodak-mini-shot-3-retro",
@@ -2983,7 +3107,9 @@
         "用户喜欢复古外观和打印一体，关注耗材成本。"
       ],
       "cons": [],
-      "official_url": "https://www.kodakphotoprinter.com/products/kodak-mini-shot-3-retro"
+      "official_url": "https://www.kodakphotoprinter.com/products/kodak-mini-shot-3-retro",
+      "hot": 45.0,
+      "sales": 45.0
     }
   ]
 }

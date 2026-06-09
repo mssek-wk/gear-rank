@@ -160,10 +160,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.697,
+    "sales_score": 0.5714,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 61.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -175,7 +180,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -311,10 +316,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.3333,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 49.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -326,7 +336,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -462,10 +472,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.6061,
+    "sales_score": 1.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 58.0,
+        "sales": 59.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -477,7 +492,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -613,10 +628,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.6364,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 59.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -628,7 +648,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -764,10 +784,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.6364,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 59.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -779,7 +804,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -915,10 +940,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.2121,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 45.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -930,7 +960,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -1096,10 +1126,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.5758,
+    "sales_score": 0.5714,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 57.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -1111,7 +1146,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -1277,10 +1312,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.3333,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 49.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -1292,7 +1332,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -1428,10 +1468,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.3333,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 49.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -1443,7 +1488,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -1579,10 +1624,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.3333,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 49.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -1594,7 +1644,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -1730,10 +1780,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.5758,
+    "sales_score": 0.5714,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 57.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -1745,7 +1800,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -1882,9 +1937,14 @@
     "hot_index": null,
     "latest_score": 0.0,
     "hot_score": 0.0,
-    "sales_score": 0.0,
+    "sales_score": 0.4286,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 38.0,
+        "sales": 51.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -1896,7 +1956,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -2062,10 +2122,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.697,
+    "sales_score": 0.5714,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 61.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -2077,7 +2142,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -2213,10 +2278,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.8182,
+    "sales_score": 0.5714,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 65.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -2228,7 +2298,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -2364,10 +2434,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 1.0,
+    "sales_score": 0.5714,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 71.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -2379,7 +2454,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -2511,10 +2586,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.2121,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 45.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -2526,7 +2606,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -2662,10 +2742,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.8182,
+    "sales_score": 0.5714,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 65.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -2677,7 +2762,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -2813,10 +2898,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.6364,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 59.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -2828,7 +2918,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -2964,10 +3054,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.4545,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 53.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -2979,7 +3074,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -3115,10 +3210,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
-    "sales_score": 0.0,
+    "hot_score": 0.4545,
+    "sales_score": 0.5714,
     "asin": "B09M4DKBQ9",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 53.0,
+        "sales": 53.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -3130,7 +3230,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": "$199.95"
@@ -3266,10 +3366,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.6364,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 59.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -3281,7 +3386,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""
@@ -3413,10 +3518,15 @@
     "sales_rank": null,
     "hot_index": null,
     "latest_score": 0.0,
-    "hot_score": 0.0,
+    "hot_score": 0.2121,
     "sales_score": 0.0,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "manual": {
+        "hot": 45.0,
+        "sales": 45.0
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
@@ -3428,7 +3538,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T08:51:46+00:00"
+        "fetched_at": "2026-06-09T09:33:43+00:00"
       }
     ],
     "price_display": ""

@@ -1,14 +1,32 @@
 {
   "latest": [
+    "camp-snap-2",
+    "kodak-charmera",
+    "flashback-one35-v2",
     "fujifilm-x100vi",
-    "fujifilm-x-t50",
-    "fujifilm-x-m5",
+    "panasonic-lumix-s9",
     "fujifilm-x-half",
     "fujifilm-x-e5",
-    "fujifilm-x-t5",
-    "fujifilm-x-s20",
-    "ricoh-gr-iii-hdf"
+    "yashica-fx-d-s300-300"
   ],
-  "hottest": [],
-  "bestselling": []
+  "hottest": [
+    "camp-snap-2",
+    "kodak-charmera",
+    "flashback-one35-v2",
+    "fujifilm-x100vi",
+    "panasonic-lumix-s9",
+    "fujifilm-x-half",
+    "fujifilm-x-e5",
+    "yashica-fx-d-s300-300"
+  ],
+  "bestselling": [
+    "fujifilm-x-m5",
+    "camp-snap-2",
+    "kodak-charmera",
+    "flashback-one35-v2",
+    "fujifilm-x100vi",
+    "panasonic-lumix-s9",
+    "fujifilm-x-s20",
+    "nikon-z-f"
+  ]
 }

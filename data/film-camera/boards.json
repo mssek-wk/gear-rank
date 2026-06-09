@@ -1,14 +1,31 @@
 {
   "latest": [
     "pentax-17",
-    "leica-m6-reissue",
-    "leica-mp",
-    "leica-m-a",
     "kodak-ektar-h35",
     "kodak-ektar-h35n",
-    "kodak-ultra-f9",
-    "kodak-i60"
+    "lomography-sprocket-rocket",
+    "harman-ez-35-motorised-camera",
+    "leica-m6-reissue",
+    "leica-mp",
+    "leica-m-a"
   ],
-  "hottest": [],
-  "bestselling": []
+  "hottest": [
+    "pentax-17",
+    "kodak-ektar-h35",
+    "kodak-ektar-h35n",
+    "lomography-sprocket-rocket",
+    "harman-ez-35-motorised-camera",
+    "leica-m6-reissue",
+    "leica-mp",
+    "leica-m-a"
+  ],
+  "bestselling": [
+    "kodak-ektar-h35",
+    "kodak-ektar-h35n",
+    "pentax-17",
+    "harman-ez-35-motorised-camera",
+    "kodak-m35",
+    "harman-reusable-camera",
+    "ilford-sprite-35-ii"
+  ]
 }
