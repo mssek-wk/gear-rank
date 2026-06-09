@@ -9,13 +9,26 @@
 
 from __future__ import annotations
 
+import json as _json
 import urllib.parse
 from datetime import datetime, timezone
+from pathlib import Path as _Path
 
 from schema import Item, Source, Seller, Review
 from .base import Adapter
 
 _NOW = datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+# 扩展品类数据集（运动相机/胶片相机/模拟胶卷数码相机）—— 由扩展产品表生成，存于 data/expansion_products.json。
+# 结构与 _CAMERAS 一致：每条 {id,name,brand,release,tags,summary,specs:[[字段,值,[来源]]],pros,cons,official_url}
+def _load_expansion() -> dict:
+    f = _Path(__file__).resolve().parent.parent.parent / "data" / "expansion_products.json"
+    try:
+        return _json.loads(f.read_text(encoding="utf-8")) or {}
+    except Exception:
+        return {}
+
+_EXPANSION = _load_expansion()
 
 
 def _seller_search_urls(name: str, brand: str) -> list[tuple[str, str, bool]]:
@@ -673,7 +686,7 @@ _CAMERAS = [
 
 class SampleAdapter(Adapter):
     name = "示例数据"
-    _DATASETS = {"instant-camera": _CAMERAS}
+    _DATASETS = {"instant-camera": _CAMERAS, **_EXPANSION}
 
     def fetch(self, category_id: str) -> list[Item]:
         rows = self._DATASETS.get(category_id)

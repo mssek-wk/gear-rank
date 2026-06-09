@@ -1,0 +1,3436 @@
+[
+  {
+    "id": "fujifilm-x100vi",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm X100VI",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-x100vi/1.png",
+    "images": [
+      "images/fujifilm-x100vi/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm X100VI）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/",
+    "summary": "40MP APS-C；固定23mmF2；适合街拍、旅行、日常、胶片模拟直出。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "街拍",
+      "旅行",
+      "日常"
+    ],
+    "specs": {
+      "核心参数": "40MP APS-C；固定23mmF2；IBIS；混合取景；20种Film Simulation",
+      "使用场景": "街拍、旅行、日常、胶片模拟直出",
+      "上市/在售": "2024-02",
+      "市场热度": "2024-2026长期缺货/高热度",
+      "上市时间": "2024-02"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20X100VI",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价集中在直出色彩、便携和溢价",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺货。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20X100VI",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价集中在直出色彩、便携和溢价",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺货。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20X100VI",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价集中在直出色彩、便携和溢价",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺货。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-02",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-x-t50",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm X-T50",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-x-t50/1.jpg",
+    "images": [
+      "images/fujifilm-x-t50/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm X-T50）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/",
+    "summary": "40MP APS-C；IBIS；适合旅行、街拍、家庭、轻创作。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "街拍",
+      "家庭"
+    ],
+    "specs": {
+      "核心参数": "40MP APS-C；IBIS；Film Simulation专用转盘；6.2K视频",
+      "使用场景": "旅行、街拍、家庭、轻创作",
+      "上市/在售": "2024-05",
+      "市场热度": "胶片模拟转盘带来广泛关注",
+      "上市时间": "2024-05"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20X-T50",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢胶片模拟转盘和轻量，但会比较X-T5价格。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20X-T50",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢胶片模拟转盘和轻量，但会比较X-T5价格。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20X-T50",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢胶片模拟转盘和轻量，但会比较X-T5价格。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-05",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-x-m5",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm X-M5",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-x-m5/1.jpg",
+    "images": [
+      "images/fujifilm-x-m5/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm X-M5）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-m5/",
+    "summary": "26MP APS-C；Film Simulation；适合Vlog、旅行、日常、胶片直出。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "Vlog",
+      "旅行",
+      "日常"
+    ],
+    "specs": {
+      "核心参数": "26MP APS-C；Film Simulation；轻量机身；6.2K视频",
+      "使用场景": "Vlog、旅行、日常、胶片直出",
+      "上市/在售": "2024-10",
+      "市场热度": "入门视频/胶片模拟热度高",
+      "上市时间": "2024-10"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20X-M5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注小体积、价格和富士色彩。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20X-M5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注小体积、价格和富士色彩。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20X-M5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注小体积、价格和富士色彩。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-m5/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-10",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-x-half",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm X half",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-x-half/1.png",
+    "images": [
+      "images/fujifilm-x-half/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm X half）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-half/",
+    "summary": "数字半格概念；Film Camera Mode；适合半格体验、日常、旅行、竖拍分享。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "半格体验",
+      "日常",
+      "旅行"
+    ],
+    "specs": {
+      "核心参数": "数字半格概念；Film Camera Mode；胶片模拟；轻量复古",
+      "使用场景": "半格体验、日常、旅行、竖拍分享",
+      "上市/在售": "2025",
+      "市场热度": "社媒复古数码新品",
+      "上市时间": "2025"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20X%20half",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户讨论集中在新奇体验和复古玩法。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20X%20half",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户讨论集中在新奇体验和复古玩法。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20X%20half",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户讨论集中在新奇体验和复古玩法。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-half/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-x-e5",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm X-E5",
+    "brand": "Fujifilm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Fujifilm_X-E5_4_jul_2025a.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Fujifilm_X-E5_4_jul_2025a.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "Wikimedia Commons (CC BY-SA)",
+        "license": "真实产品图",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/",
+    "summary": "40MP APS-C；IBIS；适合街拍、旅行、日常胶片模拟。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "街拍",
+      "旅行",
+      "日常胶片模拟"
+    ],
+    "specs": {
+      "核心参数": "40MP APS-C；IBIS；Film Simulation；旁轴风格小机身",
+      "使用场景": "街拍、旅行、日常胶片模拟",
+      "上市/在售": "2025",
+      "市场热度": "旁轴风格富士新机",
+      "上市时间": "2025"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20X-E5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注X100VI替代、可换镜头与富士色彩。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20X-E5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注X100VI替代、可换镜头与富士色彩。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20X-E5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注X100VI替代、可换镜头与富士色彩。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-x-t5",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm X-T5",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-x-t5/1.png",
+    "images": [
+      "images/fujifilm-x-t5/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm X-T5）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/",
+    "summary": "40MP APS-C；IBIS；适合风光、街拍、人像、胶片模拟直出。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "风光",
+      "街拍",
+      "人像"
+    ],
+    "specs": {
+      "核心参数": "40MP APS-C；IBIS；Film Simulation；双拨盘复古操作",
+      "使用场景": "风光、街拍、人像、胶片模拟直出",
+      "上市/在售": "2022-11",
+      "市场热度": "富士高阶摄影机仍是主力",
+      "上市时间": "2022-11"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20X-T5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户认可照片体验和色彩，视频/握持按需求取舍。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20X-T5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户认可照片体验和色彩，视频/握持按需求取舍。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20X-T5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户认可照片体验和色彩，视频/握持按需求取舍。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022-11",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-x-s20",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm X-S20",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-x-s20/1.jpg",
+    "images": [
+      "images/fujifilm-x-s20/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm X-S20）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-s20/",
+    "summary": "26MP APS-C；IBIS；适合Vlog、旅行、家庭、胶片模拟。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "Vlog",
+      "旅行",
+      "家庭"
+    ],
+    "specs": {
+      "核心参数": "26MP APS-C；IBIS；Film Simulation；6.2K视频；大电池",
+      "使用场景": "Vlog、旅行、家庭、胶片模拟",
+      "上市/在售": "2023-05",
+      "市场热度": "混合创作者热门",
+      "上市时间": "2023-05"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20X-S20",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢一机照片视频兼顾，外观",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "不如X-T/X100复古。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20X-S20",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢一机照片视频兼顾，外观",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "不如X-T/X100复古。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20X-S20",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢一机照片视频兼顾，外观",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "不如X-T/X100复古。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-s20/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-05",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "ricoh-gr-iii-hdf",
+    "category": "retro-digital-camera",
+    "name": "Ricoh GR III HDF",
+    "brand": "Ricoh",
+    "image": "images/ricoh-gr-iii-hdf/1.png",
+    "images": [
+      "images/ricoh-gr-iii-hdf/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Ricoh GR III HDF）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/",
+    "summary": "APS-C；28mm等效；适合街拍、旅行、日常快拍、Positive Film风格。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "街拍",
+      "旅行",
+      "日常快拍"
+    ],
+    "specs": {
+      "核心参数": "APS-C；28mm等效；HDF柔光滤镜；Positive Film等色彩模式",
+      "使用场景": "街拍、旅行、日常快拍、Positive Film风格",
+      "上市/在售": "2024 HDF版",
+      "市场热度": "街拍口袋机热度稳定",
+      "上市时间": "2024"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Ricoh%20Ricoh%20GR%20III%20HDF",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注口袋便携和直出色彩",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是无取景器/续航。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Ricoh%20Ricoh%20GR%20III%20HDF",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注口袋便携和直出色彩",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是无取景器/续航。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Ricoh%20Ricoh%20GR%20III%20HDF",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注口袋便携和直出色彩",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是无取景器/续航。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Ricoh 官网",
+        "url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "ricoh-gr-iiix-hdf",
+    "category": "retro-digital-camera",
+    "name": "Ricoh GR IIIx HDF",
+    "brand": "Ricoh",
+    "image": "images/ricoh-gr-iiix-hdf/1.png",
+    "images": [
+      "images/ricoh-gr-iiix-hdf/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Ricoh GR IIIx HDF）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3x/",
+    "summary": "APS-C；40mm等效；适合街拍、人像日常、旅行、胶片感直出。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "街拍",
+      "人像日常",
+      "旅行"
+    ],
+    "specs": {
+      "核心参数": "APS-C；40mm等效；HDF柔光滤镜；Positive Film模式",
+      "使用场景": "街拍、人像日常、旅行、胶片感直出",
+      "上市/在售": "2024 HDF版",
+      "市场热度": "40mm街拍口袋机",
+      "上市时间": "2024"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Ricoh%20Ricoh%20GR%20IIIx%20HDF",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户在28mm和40mm之间按视角偏好选择。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Ricoh%20Ricoh%20GR%20IIIx%20HDF",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户在28mm和40mm之间按视角偏好选择。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Ricoh%20Ricoh%20GR%20IIIx%20HDF",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户在28mm和40mm之间按视角偏好选择。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Ricoh 官网",
+        "url": "https://www.ricoh-imaging.co.jp/english/products/gr-3x/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "leica-d-lux-8",
+    "category": "retro-digital-camera",
+    "name": "Leica D-Lux 8",
+    "brand": "Leica",
+    "image": "images/leica-d-lux-8/1.webp",
+    "images": [
+      "images/leica-d-lux-8/1.webp"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Leica D-Lux 8）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://leica-camera.com/en-US/photography/cameras/d-lux/d-lux-8-black",
+    "summary": "4/3传感器；24-75mm等效；适合旅行、日常、街拍、Leica Look。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "日常",
+      "街拍"
+    ],
+    "specs": {
+      "核心参数": "4/3传感器；24-75mm等效；Leica Looks；复古操控",
+      "使用场景": "旅行、日常、街拍、Leica Look",
+      "上市/在售": "2024-07",
+      "市场热度": "高端便携复古数码",
+      "上市时间": "2024-07"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Leica%20Leica%20D-Lux%208",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注Leica色彩和便携，但价格较高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Leica%20Leica%20D-Lux%208",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注Leica色彩和便携，但价格较高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Leica%20Leica%20D-Lux%208",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注Leica色彩和便携，但价格较高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Leica 官网",
+        "url": "https://leica-camera.com/en-US/photography/cameras/d-lux/d-lux-8-black",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-07",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "nikon-z-f",
+    "category": "retro-digital-camera",
+    "name": "Nikon Z f",
+    "brand": "Nikon",
+    "image": "images/nikon-z-f/1.png",
+    "images": [
+      "images/nikon-z-f/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Nikon Z f）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.nikonusa.com/p/z-f/1761",
+    "summary": "全画幅；复古拨盘；适合街拍、人像、旅行、视频创作。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "街拍",
+      "人像",
+      "旅行"
+    ],
+    "specs": {
+      "核心参数": "全画幅；复古拨盘；Picture Controls/色彩预设；IBIS",
+      "使用场景": "街拍、人像、旅行、视频创作",
+      "上市/在售": "2023-09",
+      "市场热度": "复古全画幅热度高",
+      "上市时间": "2023-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Nikon%20Nikon%20Z%20f",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢复古外观和全画幅画质，胶片感需靠Picture Control/后期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Nikon%20Nikon%20Z%20f",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢复古外观和全画幅画质，胶片感需靠Picture Control/后期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Nikon%20Nikon%20Z%20f",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢复古外观和全画幅画质，胶片感需靠Picture Control/后期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Nikon 官网",
+        "url": "https://www.nikonusa.com/p/z-f/1761",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "nikon-z-fc",
+    "category": "retro-digital-camera",
+    "name": "Nikon Z fc",
+    "brand": "Nikon",
+    "image": "images/nikon-z-fc/1.png",
+    "images": [
+      "images/nikon-z-fc/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Nikon Z fc）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.nikonusa.com/p/z-fc/1675",
+    "summary": "APS-C；复古拨盘；适合日常、旅行、街拍、入门复古数码。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "日常",
+      "旅行",
+      "街拍"
+    ],
+    "specs": {
+      "核心参数": "APS-C；复古拨盘；Creative Picture Controls；轻量",
+      "使用场景": "日常、旅行、街拍、入门复古数码",
+      "上市/在售": "2021",
+      "市场热度": "复古APS-C入门",
+      "上市时间": "2021"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Nikon%20Nikon%20Z%20fc",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重颜值和轻便，机身性能偏入门。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Nikon%20Nikon%20Z%20fc",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重颜值和轻便，机身性能偏入门。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Nikon%20Nikon%20Z%20fc",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重颜值和轻便，机身性能偏入门。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Nikon 官网",
+        "url": "https://www.nikonusa.com/p/z-fc/1675",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2021",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "panasonic-lumix-s9",
+    "category": "retro-digital-camera",
+    "name": "Panasonic Lumix S9",
+    "brand": "Panasonic",
+    "image": "images/panasonic-lumix-s9/1.jpg",
+    "images": [
+      "images/panasonic-lumix-s9/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Panasonic Lumix S9）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera",
+    "summary": "全画幅；Real Time LUT；适合旅行、Vlog、LUT直出、社媒创作。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "Vlog",
+      "LUT直出"
+    ],
+    "specs": {
+      "核心参数": "全画幅；Real Time LUT；小机身；6K/Open Gate视频",
+      "使用场景": "旅行、Vlog、LUT直出、社媒创作",
+      "上市/在售": "2024-05",
+      "市场热度": "Real Time LUT玩法热度高",
+      "上市时间": "2024-05"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Panasonic%20Panasonic%20Lumix%20S9",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注LUT直出和视频能力",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是EVF/热管理等取舍。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Panasonic%20Panasonic%20Lumix%20S9",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注LUT直出和视频能力",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是EVF/热管理等取舍。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Panasonic%20Panasonic%20Lumix%20S9",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注LUT直出和视频能力",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是EVF/热管理等取舍。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Panasonic 官网",
+        "url": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-05",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-charmera",
+    "category": "retro-digital-camera",
+    "name": "KODAK Charmera",
+    "brand": "Kodak",
+    "image": "images/kodak-charmera/1.jpg",
+    "images": [
+      "images/kodak-charmera/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（KODAK Charmera）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.com/en/consumer/product/cameras/digital/charmera-keychain-digital-camera/",
+    "summary": "1.6MP；1440x1080；适合钥匙扣随身、低保真、礼品、社媒玩具机。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "钥匙扣随身",
+      "低保真",
+      "礼品"
+    ],
+    "specs": {
+      "核心参数": "1.6MP；1440x1080；0.8英寸屏；滤镜/相框/日期戳；USB-C",
+      "使用场景": "钥匙扣随身、低保真、礼品、社媒玩具机",
+      "上市/在售": "2025-09",
+      "市场热度": "公开资料：发布后售罄/缺货",
+      "上市时间": "2025-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20Charmera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价偏“好玩而非画质”，适合玩具/礼物。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20Charmera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价偏“好玩而非画质”，适合玩具/礼物。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20Charmera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价偏“好玩而非画质”，适合玩具/礼物。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.com/en/consumer/product/cameras/digital/charmera-keychain-digital-camera/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "camp-snap-2",
+    "category": "retro-digital-camera",
+    "name": "Camp Snap 2",
+    "brand": "Camp Snap",
+    "image": "images/camp-snap-2/1.png",
+    "images": [
+      "images/camp-snap-2/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Camp Snap 2）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.campsnapphoto.com/products/camp-snap-2",
+    "summary": "8MP；无屏；适合儿童/旅行/低压力记录/数字一次性替代。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "儿童",
+      "旅行",
+      "低压力记录"
+    ],
+    "specs": {
+      "核心参数": "8MP；无屏；内置滤镜；二代更薄；可取存储卡",
+      "使用场景": "儿童/旅行/低压力记录/数字一次性替代",
+      "上市/在售": "2026-06",
+      "市场热度": "新款无屏复古数码热度上升",
+      "上市时间": "2026-06"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Camp%20Snap%20Camp%20Snap%202",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢无屏轻松体验，画质按玩具/生活记录预期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Camp%20Snap%20Camp%20Snap%202",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢无屏轻松体验，画质按玩具/生活记录预期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Camp%20Snap%20Camp%20Snap%202",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢无屏轻松体验，画质按玩具/生活记录预期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Camp Snap 官网",
+        "url": "https://www.campsnapphoto.com/products/camp-snap-2",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026-06",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "paper-shoot-20mp",
+    "category": "retro-digital-camera",
+    "name": "Paper Shoot 20MP",
+    "brand": "Paper Shoot",
+    "image": "images/paper-shoot-20mp/1.jpg",
+    "images": [
+      "images/paper-shoot-20mp/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Paper Shoot 20MP）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.papershoot.com/products/paper-shoot-camera",
+    "summary": "20MP；可换外壳；适合旅行、礼品、无屏/低干扰拍摄。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "礼品",
+      "无屏"
+    ],
+    "specs": {
+      "核心参数": "20MP；可换外壳；滤镜模式；轻薄纸片机身",
+      "使用场景": "旅行、礼品、无屏/低干扰拍摄",
+      "上市/在售": "长期在售；20MP新版",
+      "市场热度": "纸片相机复古数码代表"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Paper%20Shoot%20Paper%20Shoot%2020MP",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢轻便和胶片感，也有人觉得性价比不高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Paper%20Shoot%20Paper%20Shoot%2020MP",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢轻便和胶片感，也有人觉得性价比不高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Paper%20Shoot%20Paper%20Shoot%2020MP",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢轻便和胶片感，也有人觉得性价比不高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Paper Shoot 官网",
+        "url": "https://www.papershoot.com/products/paper-shoot-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "flashback-one35-v2",
+    "category": "retro-digital-camera",
+    "name": "Flashback ONE35 V2",
+    "brand": "Flashback",
+    "image": "images/flashback-one35-v2/1.jpg",
+    "images": [
+      "images/flashback-one35-v2/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+小红书爬虫",
+        "license": "扩展产品表真实图（Flashback ONE35 V2）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://joinflashback.co/en-us/products/flashback-one35-v2-camera",
+    "summary": "数字一次性体验；无即时预览/胶片模拟；适合旅行、朋友聚会、低保真社媒分享。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "朋友聚会",
+      "低保真社媒分享"
+    ],
+    "specs": {
+      "核心参数": "数字一次性体验；无即时预览/胶片模拟；复古外观",
+      "使用场景": "旅行、朋友聚会、低保真社媒分享",
+      "上市/在售": "2025/2026 V2",
+      "市场热度": "伪一次性胶片机社媒热度高",
+      "上市时间": "2025-20"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+小红书爬虫"
+      ],
+      "使用场景": [
+        "官网+小红书爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+小红书爬虫"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Flashback%20Flashback%20ONE35%20V2",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "小红书/官网定位是一次性胶片体验数字化，适合氛围感。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Flashback%20Flashback%20ONE35%20V2",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "小红书/官网定位是一次性胶片体验数字化，适合氛围感。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Flashback%20Flashback%20ONE35%20V2",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "小红书/官网定位是一次性胶片体验数字化，适合氛围感。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Flashback 官网",
+        "url": "https://joinflashback.co/en-us/products/flashback-one35-v2-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-20",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "yashica-fx-d-s300-300",
+    "category": "retro-digital-camera",
+    "name": "YASHICA FX-D S300 / 300",
+    "brand": "YASHICA",
+    "image": "images/yashica-fx-d-s300-300/1.jpg",
+    "images": [
+      "images/yashica-fx-d-s300-300/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+评测",
+        "license": "扩展产品表真实图（YASHICA FX-D S300 / 300）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.yashica.com/product-page/yashica-fx-d-300-digital-film-simulation-camera",
+    "summary": "1/1.56英寸CMOS；50MP；适合街拍、旅行、胶片模拟直出。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "街拍",
+      "旅行",
+      "胶片模拟直出"
+    ],
+    "specs": {
+      "核心参数": "1/1.56英寸CMOS；50MP；24mm等效F1.8；OIS；胶片模拟",
+      "使用场景": "街拍、旅行、胶片模拟直出",
+      "上市/在售": "2026前后评测/在售",
+      "市场热度": "复古数码新品",
+      "上市时间": "2026"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+评测"
+      ],
+      "使用场景": [
+        "官网+评测"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+评测"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=YASHICA%20YASHICA%20FX-D%20S300%20/%20300",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测谨慎，亮点是胶片模拟和复古外观。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=YASHICA%20YASHICA%20FX-D%20S300%20/%20300",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测谨慎，亮点是胶片模拟和复古外观。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=YASHICA%20YASHICA%20FX-D%20S300%20/%20300",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测谨慎，亮点是胶片模拟和复古外观。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "YASHICA 官网",
+        "url": "https://www.yashica.com/product-page/yashica-fx-d-300-digital-film-simulation-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "yashica-funtastic-keychain-camera",
+    "category": "retro-digital-camera",
+    "name": "YASHICA Funtastic Keychain Camera",
+    "brand": "YASHICA",
+    "image": "images/yashica-funtastic-keychain-camera/1.jpg",
+    "images": [
+      "images/yashica-funtastic-keychain-camera/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开报道",
+        "license": "扩展产品表真实图（YASHICA Funtastic Keychain Camera）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.yashica.com/",
+    "summary": "迷你钥匙扣数码相机；低像素；适合钥匙扣、玩具相机、低保真照片。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "钥匙扣",
+      "玩具相机",
+      "低保真照片"
+    ],
+    "specs": {
+      "核心参数": "迷你钥匙扣数码相机；低像素；复古玩具定位",
+      "使用场景": "钥匙扣、玩具相机、低保真照片",
+      "上市/在售": "2026-05",
+      "市场热度": "受 Kodak Charmera 带动的钥匙扣相机趋势",
+      "上市时间": "2026-05"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开报道"
+      ],
+      "使用场景": [
+        "官网+公开报道"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开报道"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=YASHICA%20YASHICA%20Funtastic%20Keychain%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开报道视其为Charmera后续潮流产品。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=YASHICA%20YASHICA%20Funtastic%20Keychain%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开报道视其为Charmera后续潮流产品。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=YASHICA%20YASHICA%20Funtastic%20Keychain%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开报道视其为Charmera后续潮流产品。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "YASHICA 官网",
+        "url": "https://www.yashica.com/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026-05",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-instax-mini-evo",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm instax mini Evo",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-instax-mini-evo/1.png",
+    "images": [
+      "images/fujifilm-instax-mini-evo/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm instax mini Evo）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://instax.com/mini_evo/en/",
+    "summary": "数码拍摄+instax mini打印；10镜头效果x10胶片效果；适合即时打印、旅行、派对、复古滤镜。",
+    "price_value": 199.95,
+    "currency": "USD",
+    "tags": [
+      "即时打印",
+      "旅行",
+      "派对"
+    ],
+    "specs": {
+      "核心参数": "数码拍摄+instax mini打印；10镜头效果x10胶片效果",
+      "使用场景": "即时打印、旅行、派对、复古滤镜",
+      "上市/在售": "2021；持续在售",
+      "市场热度": "混合拍立得/数码胶片效果热门",
+      "上市时间": "2021"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20instax%20mini%20Evo",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢可预览再打印和复古效果，耗材成本需考虑。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20instax%20mini%20Evo",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢可预览再打印和复古效果，耗材成本需考虑。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20instax%20mini%20Evo",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢可预览再打印和复古效果，耗材成本需考虑。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/mini_evo/en/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2021",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "B09M4DKBQ9",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": "$199.95"
+  },
+  {
+    "id": "fujifilm-instax-wide-evo",
+    "category": "retro-digital-camera",
+    "name": "Fujifilm instax WIDE Evo",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-instax-wide-evo/1.jpg",
+    "images": [
+      "images/fujifilm-instax-wide-evo/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm instax WIDE Evo）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://instax.com/wide_evo/en/",
+    "summary": "宽幅instax混合相机；胶片拨盘/镜头效果；适合宽幅即时打印、旅行、家庭、创意滤镜。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "宽幅即时打印",
+      "旅行",
+      "家庭"
+    ],
+    "specs": {
+      "核心参数": "宽幅instax混合相机；胶片拨盘/镜头效果；数码预览打印",
+      "使用场景": "宽幅即时打印、旅行、家庭、创意滤镜",
+      "上市/在售": "2025/2026",
+      "市场热度": "宽幅混合拍立得新品",
+      "上市时间": "2025-20"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20instax%20WIDE%20Evo",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注宽幅画面和复古操控，耗材体积/成本更高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20instax%20WIDE%20Evo",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注宽幅画面和复古操控，耗材体积/成本更高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20instax%20WIDE%20Evo",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注宽幅画面和复古操控，耗材体积/成本更高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://instax.com/wide_evo/en/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-20",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-mini-shot-3-retro",
+    "category": "retro-digital-camera",
+    "name": "Kodak Mini Shot 3 Retro",
+    "brand": "Kodak",
+    "image": "images/kodak-mini-shot-3-retro/1.png",
+    "images": [
+      "images/kodak-mini-shot-3-retro/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Kodak Mini Shot 3 Retro）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodakphotoprinter.com/products/kodak-mini-shot-3-retro",
+    "summary": "拍照+4PASS热升华打印；3x3英寸；适合派对、旅行、礼品、手机照片打印。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "派对",
+      "旅行",
+      "礼品"
+    ],
+    "specs": {
+      "核心参数": "拍照+4PASS热升华打印；3x3英寸；蓝牙连接",
+      "使用场景": "派对、旅行、礼品、手机照片打印",
+      "上市/在售": "长期在售",
+      "市场热度": "复古即时打印数码相机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20Kodak%20Mini%20Shot%203%20Retro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢复古外观和打印一体，关注耗材成本。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20Kodak%20Mini%20Shot%203%20Retro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢复古外观和打印一体，关注耗材成本。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20Kodak%20Mini%20Shot%203%20Retro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢复古外观和打印一体，关注耗材成本。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodakphotoprinter.com/products/kodak-mini-shot-3-retro",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  }
+]

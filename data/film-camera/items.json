@@ -1,0 +1,3207 @@
+[
+  {
+    "id": "pentax-17",
+    "category": "film-camera",
+    "name": "PENTAX 17",
+    "brand": "PENTAX",
+    "image": "images/pentax-17/1.jpg",
+    "images": [
+      "images/pentax-17/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（PENTAX 17）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://pentax.eu/de/products/pentax-17",
+    "summary": "35mm半格；25mm F3.5；适合半格街拍、旅行、胶片入门。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "半格街拍",
+      "旅行",
+      "胶片入门"
+    ],
+    "specs": {
+      "核心参数": "35mm半格；25mm F3.5；区段对焦；电子快门；内置闪光",
+      "使用场景": "半格街拍、旅行、胶片入门",
+      "上市/在售": "2024-06发布；2024-07开售",
+      "市场热度": "官方曾因订单超预期暂停/延迟接单",
+      "上市时间": "2024-06"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=PENTAX%20PENTAX%2017",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开反馈显示需求超预期，适合入门但价格高于玩具胶片机。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=PENTAX%20PENTAX%2017",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开反馈显示需求超预期，适合入门但价格高于玩具胶片机。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=PENTAX%20PENTAX%2017",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开反馈显示需求超预期，适合入门但价格高于玩具胶片机。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "PENTAX 官网",
+        "url": "https://pentax.eu/de/products/pentax-17",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-06",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "leica-m6-reissue",
+    "category": "film-camera",
+    "name": "Leica M6 Reissue",
+    "brand": "Leica",
+    "image": "images/leica-m6-reissue/1.webp",
+    "images": [
+      "images/leica-m6-reissue/1.webp"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Leica M6 Reissue）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m6-black",
+    "summary": "35mm机械旁轴；0.72x取景；适合高端街拍、收藏、胶片旁轴摄影。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "高端街拍",
+      "收藏",
+      "胶片旁轴摄影"
+    ],
+    "specs": {
+      "核心参数": "35mm机械旁轴；0.72x取景；内置测光；M卡口",
+      "使用场景": "高端街拍、收藏、胶片旁轴摄影",
+      "上市/在售": "2022复刻上市",
+      "市场热度": "高端胶片旁轴小众但稳定",
+      "上市时间": "2022"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Leica%20Leica%20M6%20Reissue",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户重视机械质感、品牌和保值，价格门槛高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Leica%20Leica%20M6%20Reissue",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户重视机械质感、品牌和保值，价格门槛高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Leica%20Leica%20M6%20Reissue",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户重视机械质感、品牌和保值，价格门槛高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Leica 官网",
+        "url": "https://leica-camera.com/en-US/photography/cameras/m/m6-black",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "leica-mp",
+    "category": "film-camera",
+    "name": "Leica MP",
+    "brand": "Leica",
+    "image": "images/leica-mp/1.png",
+    "images": [
+      "images/leica-mp/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Leica MP）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://leica-camera.com/en-US/photography/cameras/m/mp-black",
+    "summary": "全机械35mm旁轴；M卡口；适合专业街拍、纪实、收藏。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "专业街拍",
+      "纪实",
+      "收藏"
+    ],
+    "specs": {
+      "核心参数": "全机械35mm旁轴；M卡口；内置测光；手动过片",
+      "使用场景": "专业街拍、纪实、收藏",
+      "上市/在售": "长期在售",
+      "市场热度": "高端机械胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Leica%20Leica%20MP",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价集中在可靠、纯机械体验和价格昂贵。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Leica%20Leica%20MP",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价集中在可靠、纯机械体验和价格昂贵。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Leica%20Leica%20MP",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价集中在可靠、纯机械体验和价格昂贵。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Leica 官网",
+        "url": "https://leica-camera.com/en-US/photography/cameras/m/mp-black",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "leica-m-a",
+    "category": "film-camera",
+    "name": "Leica M-A",
+    "brand": "Leica",
+    "image": "images/leica-m-a/1.png",
+    "images": [
+      "images/leica-m-a/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Leica M-A）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m-a-black",
+    "summary": "35mm机械旁轴；无电池无测光；适合极简胶片、收藏、专业纪实。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "极简胶片",
+      "收藏",
+      "专业纪实"
+    ],
+    "specs": {
+      "核心参数": "35mm机械旁轴；无电池无测光；M卡口",
+      "使用场景": "极简胶片、收藏、专业纪实",
+      "上市/在售": "长期在售",
+      "市场热度": "无测光纯机械胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Leica%20Leica%20M-A",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重纯粹机械体验，不适合需要自动曝光的新手。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Leica%20Leica%20M-A",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重纯粹机械体验，不适合需要自动曝光的新手。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Leica%20Leica%20M-A",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重纯粹机械体验，不适合需要自动曝光的新手。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Leica 官网",
+        "url": "https://leica-camera.com/en-US/photography/cameras/m/m-a-black",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-ektar-h35",
+    "category": "film-camera",
+    "name": "KODAK EKTAR H35",
+    "brand": "Kodak",
+    "image": "images/kodak-ektar-h35/1.jpg",
+    "images": [
+      "images/kodak-ektar-h35/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（KODAK EKTAR H35）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35-half-frame-film-camera",
+    "summary": "35mm半格；内置闪光；适合旅行、日常、复古礼物、省胶卷。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "日常",
+      "复古礼物"
+    ],
+    "specs": {
+      "核心参数": "35mm半格；内置闪光；轻量塑料机身",
+      "使用场景": "旅行、日常、复古礼物、省胶卷",
+      "上市/在售": "2022",
+      "市场热度": "半格入门热卖产品线",
+      "上市时间": "2022"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20EKTAR%20H35",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢便宜、省胶卷、外观复古，画质取决于光线和胶卷。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20EKTAR%20H35",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢便宜、省胶卷、外观复古，画质取决于光线和胶卷。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20EKTAR%20H35",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢便宜、省胶卷、外观复古，画质取决于光线和胶卷。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.retopro.co/products/kodak-ektar-h35-half-frame-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-ektar-h35n",
+    "category": "film-camera",
+    "name": "KODAK EKTAR H35N",
+    "brand": "Kodak",
+    "image": "images/kodak-ektar-h35n/1.jpg",
+    "images": [
+      "images/kodak-ektar-h35n/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（KODAK EKTAR H35N）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera",
+    "summary": "35mm半格；改进镜头/滤镜；适合半格旅行、街拍、礼物。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "半格旅行",
+      "街拍",
+      "礼物"
+    ],
+    "specs": {
+      "核心参数": "35mm半格；改进镜头/滤镜；内置闪光；轻便",
+      "使用场景": "半格旅行、街拍、礼物",
+      "上市/在售": "2023/2024后续款",
+      "市场热度": "半格胶片入门热门",
+      "上市时间": "2023-20"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20EKTAR%20H35N",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "相较H35增加新功能，用户关注夜拍/星芒和手感。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20EKTAR%20H35N",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "相较H35增加新功能，用户关注夜拍/星芒和手感。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20EKTAR%20H35N",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "相较H35增加新功能，用户关注夜拍/星芒和手感。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-20",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-ultra-f9",
+    "category": "film-camera",
+    "name": "KODAK Ultra F9",
+    "brand": "Kodak",
+    "image": "images/kodak-ultra-f9/1.jpg",
+    "images": [
+      "images/kodak-ultra-f9/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（KODAK Ultra F9）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.retopro.co/products/kodak-ultra-f9-film-camera",
+    "summary": "35mm可复用；固定焦点；适合旅行、派对、初学胶片。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "派对",
+      "初学胶片"
+    ],
+    "specs": {
+      "核心参数": "35mm可复用；固定焦点；内置闪光；AAA电池",
+      "使用场景": "旅行、派对、初学胶片",
+      "上市/在售": "长期在售",
+      "市场热度": "可复用傻瓜胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20Ultra%20F9",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢可复用和低门槛",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "弱点是塑料感和固定焦点。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20Ultra%20F9",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢可复用和低门槛",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "弱点是塑料感和固定焦点。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20Ultra%20F9",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢可复用和低门槛",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "弱点是塑料感和固定焦点。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.retopro.co/products/kodak-ultra-f9-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-i60",
+    "category": "film-camera",
+    "name": "KODAK i60",
+    "brand": "Kodak",
+    "image": "images/kodak-i60/1.png",
+    "images": [
+      "images/kodak-i60/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（KODAK i60）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.retopro.co/products/kodak-i60-reusable-film-camera",
+    "summary": "35mm可复用；弹出式闪光；适合旅行、礼物、派对。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "礼物",
+      "派对"
+    ],
+    "specs": {
+      "核心参数": "35mm可复用；弹出式闪光；复古外观",
+      "使用场景": "旅行、礼物、派对",
+      "上市/在售": "长期在售",
+      "市场热度": "复古造型可复用胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20i60",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注外观和轻便，适合入门玩具胶片。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20i60",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注外观和轻便，适合入门玩具胶片。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20i60",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注外观和轻便，适合入门玩具胶片。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.retopro.co/products/kodak-i60-reusable-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-m35",
+    "category": "film-camera",
+    "name": "KODAK M35",
+    "brand": "Kodak",
+    "image": "images/kodak-m35/1.png",
+    "images": [
+      "images/kodak-m35/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（KODAK M35）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.retopro.co/products/kodak-m35-film-camera",
+    "summary": "35mm；固定焦点；适合学生/入门、旅行、礼物。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "学生",
+      "入门",
+      "旅行"
+    ],
+    "specs": {
+      "核心参数": "35mm；固定焦点；内置闪光；多色机身",
+      "使用场景": "学生/入门、旅行、礼物",
+      "上市/在售": "长期在售",
+      "市场热度": "低价可复用胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20M35",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "优点是便宜好看",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺点是画质与机械可靠性有限。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20M35",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "优点是便宜好看",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺点是画质与机械可靠性有限。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20M35",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "优点是便宜好看",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺点是画质与机械可靠性有限。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.retopro.co/products/kodak-m35-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-m38",
+    "category": "film-camera",
+    "name": "KODAK M38",
+    "brand": "Kodak",
+    "image": "images/kodak-m38/1.jpg",
+    "images": [
+      "images/kodak-m38/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（KODAK M38）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.retopro.co/products/kodak-m38-film-camera",
+    "summary": "35mm；固定焦点；适合入门胶片、礼物、旅行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "入门胶片",
+      "礼物",
+      "旅行"
+    ],
+    "specs": {
+      "核心参数": "35mm；固定焦点；内置闪光；比M35机身更重/闪光更强",
+      "使用场景": "入门胶片、礼物、旅行",
+      "上市/在售": "长期在售",
+      "市场热度": "M35增强款"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20M38",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户用于低成本胶片体验，需接受傻瓜机限制。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20M38",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户用于低成本胶片体验，需接受傻瓜机限制。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20M38",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户用于低成本胶片体验，需接受傻瓜机限制。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://www.kodak.retopro.co/products/kodak-m38-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "fujifilm-quicksnap",
+    "category": "film-camera",
+    "name": "Fujifilm QuickSnap",
+    "brand": "Fujifilm",
+    "image": "images/fujifilm-quicksnap/1.png",
+    "images": [
+      "images/fujifilm-quicksnap/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（Fujifilm QuickSnap）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.fujifilm.com/us/en/consumer/films/quicksnap",
+    "summary": "一次性35mm胶卷相机；27/36张版本；适合旅行、婚礼派对、一次性记录。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "婚礼派对",
+      "一次性记录"
+    ],
+    "specs": {
+      "核心参数": "一次性35mm胶卷相机；27/36张版本；闪光版",
+      "使用场景": "旅行、婚礼派对、一次性记录",
+      "上市/在售": "长期在售",
+      "市场热度": "爬虫：京东/淘宝有评价与在售"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+爬虫"
+      ],
+      "使用场景": [
+        "官网+爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+爬虫"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Fujifilm%20Fujifilm%20QuickSnap",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "渠道用户重视方便和氛围",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "痛点是冲扫成本。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Fujifilm%20Fujifilm%20QuickSnap",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "渠道用户重视方便和氛围",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "痛点是冲扫成本。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Fujifilm%20Fujifilm%20QuickSnap",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "渠道用户重视方便和氛围",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "痛点是冲扫成本。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Fujifilm 官网",
+        "url": "https://www.fujifilm.com/us/en/consumer/films/quicksnap",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "kodak-funsaver",
+    "category": "film-camera",
+    "name": "KODAK FunSaver",
+    "brand": "Kodak",
+    "image": "images/kodak-funsaver/1.jpg",
+    "images": [
+      "images/kodak-funsaver/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（KODAK FunSaver）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://kodak.photosys.com/products/funsaver-35mm-single-use-film-camera",
+    "summary": "一次性35mm；带闪光；适合旅行、婚礼桌拍、派对。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "旅行",
+      "婚礼桌拍",
+      "派对"
+    ],
+    "specs": {
+      "核心参数": "一次性35mm；带闪光；27/39张渠道版本",
+      "使用场景": "旅行、婚礼桌拍、派对",
+      "上市/在售": "长期在售",
+      "市场热度": "爬虫：京东5000+评价"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+爬虫"
+      ],
+      "使用场景": [
+        "官网+爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+爬虫"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Kodak%20KODAK%20FunSaver",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢胶片随机感和易用性，关注冲扫服务。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Kodak%20KODAK%20FunSaver",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢胶片随机感和易用性，关注冲扫服务。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Kodak%20KODAK%20FunSaver",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢胶片随机感和易用性，关注冲扫服务。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Kodak 官网",
+        "url": "https://kodak.photosys.com/products/funsaver-35mm-single-use-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "lomography-lomoapparat-21mm",
+    "category": "film-camera",
+    "name": "Lomography LomoApparat 21mm",
+    "brand": "Lomography",
+    "image": "images/lomography-lomoapparat-21mm/1.jpg",
+    "images": [
+      "images/lomography-lomoapparat-21mm/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Lomography LomoApparat 21mm）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://shop.lomography.com/jp/lomoapparat-black-wide-angle-camera",
+    "summary": "35mm；21mm超广角；适合广角街拍、派对、实验摄影。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "广角街拍",
+      "派对",
+      "实验摄影"
+    ],
+    "specs": {
+      "核心参数": "35mm；21mm超广角；内置闪光；多重曝光；彩色滤片",
+      "使用场景": "广角街拍、派对、实验摄影",
+      "上市/在售": "2022后在售",
+      "市场热度": "创意胶片用户常见选择",
+      "上市时间": "2022"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Lomography%20Lomography%20LomoApparat%2021mm",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重创意玩法，非追求锐度/自动化。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Lomography%20Lomography%20LomoApparat%2021mm",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重创意玩法，非追求锐度/自动化。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Lomography%20Lomography%20LomoApparat%2021mm",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重创意玩法，非追求锐度/自动化。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Lomography 官网",
+        "url": "https://shop.lomography.com/jp/lomoapparat-black-wide-angle-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "lomography-sprocket-rocket",
+    "category": "film-camera",
+    "name": "Lomography Sprocket Rocket",
+    "brand": "Lomography",
+    "image": "images/lomography-sprocket-rocket/1.jpg",
+    "images": [
+      "images/lomography-sprocket-rocket/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Lomography Sprocket Rocket）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://shop.lomography.com/us/sprocket-rocket",
+    "summary": "35mm全景；齿孔曝光；适合全景旅行、街拍、齿孔曝光、创意摄影。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "全景旅行",
+      "街拍",
+      "齿孔曝光"
+    ],
+    "specs": {
+      "核心参数": "35mm全景；齿孔曝光；可回卷多曝；1:3画幅",
+      "使用场景": "全景旅行、街拍、齿孔曝光、创意摄影",
+      "上市/在售": "2026新色发布",
+      "市场热度": "全景胶片创意机",
+      "上市时间": "2026"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Lomography%20Lomography%20Sprocket%20Rocket",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "2026新色带来新关注，用户喜欢非常规全景效果。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Lomography%20Lomography%20Sprocket%20Rocket",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "2026新色带来新关注，用户喜欢非常规全景效果。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Lomography%20Lomography%20Sprocket%20Rocket",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "2026新色带来新关注，用户喜欢非常规全景效果。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Lomography 官网",
+        "url": "https://shop.lomography.com/us/sprocket-rocket",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "lomography-diana-f-plus",
+    "category": "film-camera",
+    "name": "Lomography Diana F+",
+    "brand": "Lomography",
+    "image": "images/lomography-diana-f-plus/1.jpg",
+    "images": [
+      "images/lomography-diana-f-plus/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Lomography Diana F+）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://shop.lomography.com/us/diana-f-plus-camera",
+    "summary": "120胶卷；塑料镜头；适合梦幻漏光、艺术摄影、复古礼物。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "梦幻漏光",
+      "艺术摄影",
+      "复古礼物"
+    ],
+    "specs": {
+      "核心参数": "120胶卷；塑料镜头；可换附件；内置/外接闪光",
+      "使用场景": "梦幻漏光、艺术摄影、复古礼物",
+      "上市/在售": "长期在售",
+      "市场热度": "经典玩具中画幅胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Lomography%20Lomography%20Diana%20F%2B",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢梦幻和不可控，成片稳定性不是卖点。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Lomography%20Lomography%20Diana%20F%2B",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢梦幻和不可控，成片稳定性不是卖点。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Lomography%20Lomography%20Diana%20F%2B",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢梦幻和不可控，成片稳定性不是卖点。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Lomography 官网",
+        "url": "https://shop.lomography.com/us/diana-f-plus-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "lomography-la-sardina",
+    "category": "film-camera",
+    "name": "Lomography La Sardina",
+    "brand": "Lomography",
+    "image": "images/lomography-la-sardina/1.jpg",
+    "images": [
+      "images/lomography-la-sardina/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Lomography La Sardina）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://shop.lomography.com/us/la-sardina",
+    "summary": "35mm广角；B门；适合派对、街拍、创意礼品。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "派对",
+      "街拍",
+      "创意礼品"
+    ],
+    "specs": {
+      "核心参数": "35mm广角；B门；多重曝光；Fritz the Blitz闪光生态",
+      "使用场景": "派对、街拍、创意礼品",
+      "上市/在售": "长期在售",
+      "市场热度": "罐头造型35mm创意机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Lomography%20Lomography%20La%20Sardina",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "造型强，适合礼物/玩具摄影。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Lomography%20Lomography%20La%20Sardina",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "造型强，适合礼物/玩具摄影。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Lomography%20Lomography%20La%20Sardina",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "造型强，适合礼物/玩具摄影。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Lomography 官网",
+        "url": "https://shop.lomography.com/us/la-sardina",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "harman-ez-35-motorised-camera",
+    "category": "film-camera",
+    "name": "Harman EZ-35 Motorised Camera",
+    "brand": "Harman",
+    "image": "images/harman-ez-35-motorised-camera/1.jpg",
+    "images": [
+      "images/harman-ez-35-motorised-camera/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Harman EZ-35 Motorised Camera）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.harmanphoto.co.uk/harman-ez-35-35mm-motorised-camera",
+    "summary": "35mm；自动过片/倒片；适合入门、旅行、礼品。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "入门",
+      "旅行",
+      "礼品"
+    ],
+    "specs": {
+      "核心参数": "35mm；自动过片/倒片；内置闪光；可复用",
+      "使用场景": "入门、旅行、礼品",
+      "上市/在售": "2024/2025在售",
+      "市场热度": "带自动卷片的入门胶片机",
+      "上市时间": "2024-20"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Harman%20Harman%20EZ-35%20Motorised%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重操作更接近傻瓜机，适合不想手动过片的新手。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Harman%20Harman%20EZ-35%20Motorised%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重操作更接近傻瓜机，适合不想手动过片的新手。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Harman%20Harman%20EZ-35%20Motorised%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重操作更接近傻瓜机，适合不想手动过片的新手。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Harman 官网",
+        "url": "https://www.harmanphoto.co.uk/harman-ez-35-35mm-motorised-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-20",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "harman-reusable-camera",
+    "category": "film-camera",
+    "name": "Harman Reusable Camera",
+    "brand": "Harman",
+    "image": "images/harman-reusable-camera/1.jpg",
+    "images": [
+      "images/harman-reusable-camera/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Harman Reusable Camera）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.harmanphoto.co.uk/harman-reusable-camera",
+    "summary": "35mm；固定焦距；适合胶片入门、学生、旅行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "胶片入门",
+      "学生",
+      "旅行"
+    ],
+    "specs": {
+      "核心参数": "35mm；固定焦距；内置闪光；附胶卷套装常见",
+      "使用场景": "胶片入门、学生、旅行",
+      "上市/在售": "长期在售",
+      "市场热度": "低价可复用胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Harman%20Harman%20Reusable%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户反馈多为低价入门，画质符合玩具相机预期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Harman%20Harman%20Reusable%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户反馈多为低价入门，画质符合玩具相机预期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Harman%20Harman%20Reusable%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户反馈多为低价入门，画质符合玩具相机预期。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Harman 官网",
+        "url": "https://www.harmanphoto.co.uk/harman-reusable-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "ilford-sprite-35-ii",
+    "category": "film-camera",
+    "name": "ILFORD Sprite 35-II",
+    "brand": "ILFORD",
+    "image": "images/ilford-sprite-35-ii/1.jpg",
+    "images": [
+      "images/ilford-sprite-35-ii/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（ILFORD Sprite 35-II）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.ilfordphoto.com/sprite-35-ii-camera/",
+    "summary": "35mm；固定快门/光圈；适合黑白胶片入门、旅行、礼物。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "黑白胶片入门",
+      "旅行",
+      "礼物"
+    ],
+    "specs": {
+      "核心参数": "35mm；固定快门/光圈；内置闪光；可复用",
+      "使用场景": "黑白胶片入门、旅行、礼物",
+      "上市/在售": "长期在售",
+      "市场热度": "黑白胶片品牌入门机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=ILFORD%20ILFORD%20Sprite%2035-II",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注价格低和品牌胶片搭配，非高画质机。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=ILFORD%20ILFORD%20Sprite%2035-II",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注价格低和品牌胶片搭配，非高画质机。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=ILFORD%20ILFORD%20Sprite%2035-II",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注价格低和品牌胶片搭配，非高画质机。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "ILFORD 官网",
+        "url": "https://www.ilfordphoto.com/sprite-35-ii-camera/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "reto3d-35mm-3d-camera",
+    "category": "film-camera",
+    "name": "RETO3D 35mm 3D Camera",
+    "brand": "RETO3D",
+    "image": "images/reto3d-35mm-3d-camera/1.jpg",
+    "images": [
+      "images/reto3d-35mm-3d-camera/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（RETO3D 35mm 3D Camera）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.kodak.retopro.co/products/reto3d-35mm-3d-film-camera",
+    "summary": "35mm；三镜头；适合三联画/3D动图、创意旅行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "三联画",
+      "3D动图",
+      "创意旅行"
+    ],
+    "specs": {
+      "核心参数": "35mm；三镜头；一次拍三张用于3D/gif效果",
+      "使用场景": "三联画/3D动图、创意旅行",
+      "上市/在售": "长期在售",
+      "市场热度": "小众3D胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=RETO3D%20RETO3D%2035mm%203D%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢新奇社媒效果，冲扫后处理步骤更多。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=RETO3D%20RETO3D%2035mm%203D%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢新奇社媒效果，冲扫后处理步骤更多。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=RETO3D%20RETO3D%2035mm%203D%20Camera",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢新奇社媒效果，冲扫后处理步骤更多。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "RETO3D 官网",
+        "url": "https://www.kodak.retopro.co/products/reto3d-35mm-3d-film-camera",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "agfaphoto-reusable-photo-camera-35mm",
+    "category": "film-camera",
+    "name": "AgfaPhoto Reusable Photo Camera 35mm",
+    "brand": "AgfaPhoto",
+    "image": "images/agfaphoto-reusable-photo-camera-35mm/1.png",
+    "images": [
+      "images/agfaphoto-reusable-photo-camera-35mm/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（AgfaPhoto Reusable Photo Camera 35mm）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.agfaphoto-gtc.com/en/analog-cameras/",
+    "summary": "35mm；固定焦点；适合入门、旅行、礼物。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "入门",
+      "旅行",
+      "礼物"
+    ],
+    "specs": {
+      "核心参数": "35mm；固定焦点；内置闪光；多色机身",
+      "使用场景": "入门、旅行、礼物",
+      "上市/在售": "长期在售",
+      "市场热度": "欧洲渠道常见可复用胶片机"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=AgfaPhoto%20AgfaPhoto%20Reusable%20Photo%20Camera%2035mm",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重外观和简单操作，规格接近 Kodak M35/M38。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=AgfaPhoto%20AgfaPhoto%20Reusable%20Photo%20Camera%2035mm",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重外观和简单操作，规格接近 Kodak M35/M38。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=AgfaPhoto%20AgfaPhoto%20Reusable%20Photo%20Camera%2035mm",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户看重外观和简单操作，规格接近 Kodak M35/M38。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "AgfaPhoto 官网",
+        "url": "https://www.agfaphoto-gtc.com/en/analog-cameras/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  }
+]

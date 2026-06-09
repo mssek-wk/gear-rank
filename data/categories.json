@@ -12,6 +12,42 @@
       "scope": ["银盐", "ZINK 免墨", "热升华", "混合式"],
       "adapters": ["sample", "wikimedia", "official", "amazon", "jd", "taobao"],
       "currency": "CNY"
+    },
+    {
+      "id": "action-camera",
+      "name": "运动相机",
+      "name_en": "Action Camera",
+      "icon": "camera",
+      "enabled": true,
+      "order": 2,
+      "description": "2026 运动相机市场由 DJI、Insta360、GoPro 领跑，SJCAM/AKASO 等覆盖入门价位；需求集中在骑行、摩托、潜水、滑雪、Vlog、POV 和全景二次构图。",
+      "scope": ["运动防水", "全景", "穿戴/拇指机", "Vlog"],
+      "adapters": ["sample"],
+      "currency": "CNY"
+    },
+    {
+      "id": "film-camera",
+      "name": "胶片相机",
+      "name_en": "Film Camera",
+      "icon": "camera",
+      "enabled": true,
+      "order": 3,
+      "description": "胶片相机延续复古回潮，新品集中在半格、一次性/可复用傻瓜机和 Lomography 创意机；需求来自旅行、婚礼、派对、街拍与低门槛胶片体验。",
+      "scope": ["半格", "一次性", "可复用傻瓜机", "创意/玩具机", "高端旁轴"],
+      "adapters": ["sample"],
+      "currency": "CNY"
+    },
+    {
+      "id": "retro-digital-camera",
+      "name": "模拟胶卷数码相机",
+      "name_en": "Retro Digital Camera",
+      "icon": "camera",
+      "enabled": true,
+      "order": 4,
+      "description": "模拟胶卷数码相机/复古数码在社媒推动下增长，价值在低压力拍摄、滤镜直出、无屏/低保真体验和复古外观，而非纯画质参数。",
+      "scope": ["胶片模拟", "复古数码", "无屏/低保真", "钥匙扣玩具机", "混合拍立得"],
+      "adapters": ["sample"],
+      "currency": "CNY"
     }
   ],
   "_note": "新增品类只需在此追加一项并把 enabled 设为 true；前端品类标签与爬虫调度都由本文件驱动，无需改动其他代码。adapters 数组声明该品类启用哪些数据源适配器。"

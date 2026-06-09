@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T09:41:49+08:00",
+  "updated_at": "2026-06-09T16:54:11+08:00",
   "generator": "hardware-rank crawler",
   "board_size": 8,
   "platform_as_of": "2026-06-07",
@@ -15,6 +15,33 @@
       "description": "即拍即得相机 —— 拍完当场出片。不限成像技术：银盐(富士/宝丽来/徕卡)、ZINK 免墨(柯达/Insta360/佳能)、热升华(汉印/初照等) 均含在内。",
       "count": 38,
       "total": 38
+    },
+    {
+      "id": "action-camera",
+      "name": "运动相机",
+      "name_en": "Action Camera",
+      "icon": "camera",
+      "description": "2026 运动相机市场由 DJI、Insta360、GoPro 领跑，SJCAM/AKASO 等覆盖入门价位；需求集中在骑行、摩托、潜水、滑雪、Vlog、POV 和全景二次构图。",
+      "count": 20,
+      "total": 20
+    },
+    {
+      "id": "film-camera",
+      "name": "胶片相机",
+      "name_en": "Film Camera",
+      "icon": "camera",
+      "description": "胶片相机延续复古回潮，新品集中在半格、一次性/可复用傻瓜机和 Lomography 创意机；需求来自旅行、婚礼、派对、街拍与低门槛胶片体验。",
+      "count": 21,
+      "total": 21
+    },
+    {
+      "id": "retro-digital-camera",
+      "name": "模拟胶卷数码相机",
+      "name_en": "Retro Digital Camera",
+      "icon": "camera",
+      "description": "模拟胶卷数码相机/复古数码在社媒推动下增长，价值在低压力拍摄、滤镜直出、无屏/低保真体验和复古外观，而非纯画质参数。",
+      "count": 22,
+      "total": 22
     }
   ]
 }

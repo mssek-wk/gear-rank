@@ -318,12 +318,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$79.95"
@@ -640,12 +640,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$207.58"
@@ -900,12 +900,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$168"
@@ -915,37 +915,16 @@
     "category": "instant-camera",
     "name": "Instax Mini Evo",
     "brand": "Fujifilm",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg",
+    "image": "images/fujifilm-instax-mini-evo/1.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fujifilm_Instax_mini_Evo_Cinema_-_2.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fujifilm_Instax_mini_Evo_Cinema_-_3.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_3.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fujifilm_Instax_mini_Evo_Cinema_-_4.jpg/960px-Fujifilm_Instax_mini_Evo_Cinema_-_4.jpg"
+      "images/fujifilm-instax-mini-evo/1.png"
     ],
     "image_credits": [
       {
-        "title": "Fujifilm Instax mini Evo Cinema - 1.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_1.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kyu3a"
-      },
-      {
-        "title": "Fujifilm Instax mini Evo Cinema - 2.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_2.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kyu3a"
-      },
-      {
-        "title": "Fujifilm Instax mini Evo Cinema - 3.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_3.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kyu3a"
-      },
-      {
-        "title": "Fujifilm Instax mini Evo Cinema - 4.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_mini_Evo_Cinema_-_4.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Kyu3a"
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Fujifilm instax mini Evo）",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -1238,17 +1217,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -1497,12 +1476,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$269.94"
@@ -1805,17 +1784,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$38.25"
@@ -2090,17 +2069,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$159.95"
@@ -2381,17 +2360,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$179.99"
@@ -2638,17 +2617,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$101.99"
@@ -2945,17 +2924,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -3207,12 +3186,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$79.99"
@@ -3457,12 +3441,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$99.99"
@@ -3683,12 +3667,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$93.95"
@@ -3917,17 +3901,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo Cinema",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$409.95"
@@ -4144,17 +4128,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay+",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$227"
@@ -4385,12 +4369,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$100.92"
@@ -4669,17 +4653,17 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Flip",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -4949,7 +4933,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "$398.34"
@@ -5187,7 +5171,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -5440,7 +5424,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "$89"
@@ -5701,7 +5685,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥644"
@@ -5960,7 +5944,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥499"
@@ -6218,7 +6202,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "$149.99"
@@ -6556,7 +6540,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥11490"
@@ -6829,7 +6813,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥529"
@@ -7119,7 +7103,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": ""
@@ -7378,7 +7362,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": ""
@@ -7686,7 +7670,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥399"
@@ -7949,7 +7933,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥699"
@@ -8289,12 +8273,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "¥899"
@@ -8613,7 +8597,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥889"
@@ -8623,30 +8607,16 @@
     "category": "instant-camera",
     "name": "Fujifilm QuickSnap",
     "brand": "Fujifilm",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fujifilm_QuickSnap_%288374200504%29.jpg/960px-Fujifilm_QuickSnap_%288374200504%29.jpg",
+    "image": "images/fujifilm-quicksnap/1.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fujifilm_QuickSnap_%288374200504%29.jpg/960px-Fujifilm_QuickSnap_%288374200504%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fujifilm_QuickSnap_Camera.jpg/960px-Fujifilm_QuickSnap_Camera.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fujifilm_QuickSnap_Flash.jpg/960px-Fujifilm_QuickSnap_Flash.jpg"
+      "images/fujifilm-quicksnap/1.png"
     ],
     "image_credits": [
       {
-        "title": "Fujifilm QuickSnap (8374200504).jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_QuickSnap_(8374200504).jpg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Alfred from Germany"
-      },
-      {
-        "title": "Fujifilm QuickSnap Camera.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_QuickSnap_Camera.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "TaurusEmerald"
-      },
-      {
-        "title": "Fujifilm QuickSnap Flash.jpg",
-        "descurl": "https://commons.wikimedia.org/wiki/File:Fujifilm_QuickSnap_Flash.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Jud McCranie"
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（Fujifilm QuickSnap）",
+        "artist": "",
+        "descurl": ""
       }
     ],
     "url": "",
@@ -8932,17 +8902,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
-      },
-      {
-        "name": "Wikimedia",
-        "url": "https://commons.wikimedia.org/?search=Fujifilm+Fujifilm QuickSnap",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": "¥168"
@@ -9217,7 +9182,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥499"
@@ -9526,7 +9491,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥699"
@@ -9847,7 +9812,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": "¥899"
@@ -10114,12 +10079,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": ""
@@ -10417,12 +10382,12 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-09T01:41:43+00:00"
+        "fetched_at": "2026-06-09T08:54:05+00:00"
       }
     ],
     "price_display": ""
@@ -10689,7 +10654,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-09T01:39:05+00:00"
+        "fetched_at": "2026-06-09T08:51:46+00:00"
       }
     ],
     "price_display": ""

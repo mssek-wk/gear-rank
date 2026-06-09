@@ -1,0 +1,3108 @@
+[
+  {
+    "id": "dji-osmo-action-5-pro",
+    "category": "action-camera",
+    "name": "DJI Osmo Action 5 Pro",
+    "brand": "DJI",
+    "image": "images/dji-osmo-action-5-pro/1.jpg",
+    "images": [
+      "images/dji-osmo-action-5-pro/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（DJI Osmo Action 5 Pro）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.dji.com/osmo-action-5-pro",
+    "summary": "1/1.3英寸级传感器；4K/高动态；适合骑行、潜水、滑雪、摩托、Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "骑行",
+      "潜水",
+      "滑雪"
+    ],
+    "specs": {
+      "核心参数": "1/1.3英寸级传感器；4K/高动态；防抖；前后屏；运动防水机身",
+      "使用场景": "骑行、潜水、滑雪、摩托、Vlog",
+      "上市/在售": "2024-09",
+      "市场热度": "爬虫：京东20万+评价/淘宝10万+付款",
+      "上市时间": "2024-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+爬虫"
+      ],
+      "使用场景": [
+        "官网+爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+爬虫"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=DJI%20DJI%20Osmo%20Action%205%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "京东/淘宝用户关注画质、防抖、续航与骑行潜水稳定性。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=DJI%20DJI%20Osmo%20Action%205%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "京东/淘宝用户关注画质、防抖、续航与骑行潜水稳定性。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=DJI%20DJI%20Osmo%20Action%205%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "京东/淘宝用户关注画质、防抖、续航与骑行潜水稳定性。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "DJI 官网",
+        "url": "https://www.dji.com/osmo-action-5-pro",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "dji-osmo-action-4",
+    "category": "action-camera",
+    "name": "DJI Osmo Action 4",
+    "brand": "DJI",
+    "image": "images/dji-osmo-action-4/1.png",
+    "images": [
+      "images/dji-osmo-action-4/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（DJI Osmo Action 4）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.dji.com/osmo-action-4",
+    "summary": "1/1.3英寸传感器；4K/120fps；适合骑行、滑雪、潜水、旅行Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "骑行",
+      "滑雪",
+      "潜水"
+    ],
+    "specs": {
+      "核心参数": "1/1.3英寸传感器；4K/120fps；防抖；防水；双触摸屏",
+      "使用场景": "骑行、滑雪、潜水、旅行Vlog",
+      "上市/在售": "2023-08",
+      "市场热度": "国内电商仍为主销款之一",
+      "上市时间": "2023-08"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=DJI%20DJI%20Osmo%20Action%204",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测多认为画质与低光相比前代提升，性价比高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=DJI%20DJI%20Osmo%20Action%204",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测多认为画质与低光相比前代提升，性价比高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=DJI%20DJI%20Osmo%20Action%204",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测多认为画质与低光相比前代提升，性价比高。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "DJI 官网",
+        "url": "https://www.dji.com/osmo-action-4",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-08",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "dji-osmo-action-3",
+    "category": "action-camera",
+    "name": "DJI Osmo Action 3",
+    "brand": "DJI",
+    "image": "images/dji-osmo-action-3/1.png",
+    "images": [
+      "images/dji-osmo-action-3/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（DJI Osmo Action 3）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.dji.com/osmo-action-3",
+    "summary": "4K运动相机；防抖；适合运动入门、骑行、Vlog、潜水。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "运动入门",
+      "骑行",
+      "Vlog"
+    ],
+    "specs": {
+      "核心参数": "4K运动相机；防抖；双屏；防水耐寒设计",
+      "使用场景": "运动入门、骑行、Vlog、潜水",
+      "上市/在售": "2022-09",
+      "市场热度": "老款/二手/促销渠道仍有需求",
+      "上市时间": "2022-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=DJI%20DJI%20Osmo%20Action%203",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户常把它作为低价入门 Action 系列选择。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=DJI%20DJI%20Osmo%20Action%203",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户常把它作为低价入门 Action 系列选择。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=DJI%20DJI%20Osmo%20Action%203",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户常把它作为低价入门 Action 系列选择。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "DJI 官网",
+        "url": "https://www.dji.com/osmo-action-3",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2022-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "dji-osmo-nano",
+    "category": "action-camera",
+    "name": "DJI Osmo Nano",
+    "brand": "DJI",
+    "image": "images/dji-osmo-nano/1.png",
+    "images": [
+      "images/dji-osmo-nano/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（DJI Osmo Nano）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.dji.com/osmo-nano",
+    "summary": "穿戴式小型运动相机；4K；适合穿戴/亲子/骑行/POV/小型Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "穿戴",
+      "亲子",
+      "骑行"
+    ],
+    "specs": {
+      "核心参数": "穿戴式小型运动相机；4K；磁吸/轻量；适合低存在感记录",
+      "使用场景": "穿戴/亲子/骑行/POV/小型Vlog",
+      "上市/在售": "2025-09左右",
+      "市场热度": "爬虫：淘宝运动相机结果含 DJI Osmo Nano 6万+付款",
+      "上市时间": "2025-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+爬虫"
+      ],
+      "使用场景": [
+        "官网+爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+爬虫"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=DJI%20DJI%20Osmo%20Nano",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝热度高，用户看重小体积、亲子和骑行随身。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=DJI%20DJI%20Osmo%20Nano",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝热度高，用户看重小体积、亲子和骑行随身。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=DJI%20DJI%20Osmo%20Nano",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝热度高，用户看重小体积、亲子和骑行随身。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "DJI 官网",
+        "url": "https://www.dji.com/osmo-nano",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "dji-osmo-360",
+    "category": "action-camera",
+    "name": "DJI Osmo 360",
+    "brand": "DJI",
+    "image": "images/dji-osmo-360/1.png",
+    "images": [
+      "images/dji-osmo-360/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（DJI Osmo 360）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.dji.com/osmo-360",
+    "summary": "8K级360全景；双镜头；适合全景旅行、滑雪、骑行、摩托、二次构图。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "全景旅行",
+      "滑雪",
+      "骑行"
+    ],
+    "specs": {
+      "核心参数": "8K级360全景；双镜头；防抖；适合二次裁切和第三人称视角",
+      "使用场景": "全景旅行、滑雪、骑行、摩托、二次构图",
+      "上市/在售": "2025",
+      "市场热度": "360全景新品热度高",
+      "上市时间": "2025"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=DJI%20DJI%20Osmo%20360",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开讨论集中在 DJI 进入全景相机后与 Insta360 的竞争。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=DJI%20DJI%20Osmo%20360",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开讨论集中在 DJI 进入全景相机后与 Insta360 的竞争。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=DJI%20DJI%20Osmo%20360",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开讨论集中在 DJI 进入全景相机后与 Insta360 的竞争。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "DJI 官网",
+        "url": "https://www.dji.com/osmo-360",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "insta360-ace-pro-2",
+    "category": "action-camera",
+    "name": "Insta360 Ace Pro 2",
+    "brand": "Insta360",
+    "image": "images/insta360-ace-pro-2/1.png",
+    "images": [
+      "images/insta360-ace-pro-2/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（Insta360 Ace Pro 2）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.insta360.com/product/insta360-acepro2",
+    "summary": "8K；徕卡色彩/镜头合作；适合街拍、骑行、弱光、旅行Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "街拍",
+      "骑行",
+      "弱光"
+    ],
+    "specs": {
+      "核心参数": "8K；徕卡色彩/镜头合作；翻转屏；防抖；AI辅助",
+      "使用场景": "街拍、骑行、弱光、旅行Vlog",
+      "上市/在售": "2024-10",
+      "市场热度": "爬虫：淘宝3万+付款；小红书参数笔记活跃",
+      "上市时间": "2024-10"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+爬虫"
+      ],
+      "使用场景": [
+        "官网+爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+爬虫"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Insta360%20Insta360%20Ace%20Pro%202",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝评论提到画质、续航、防抖和上手；小红书有大量参数设置笔记。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Insta360%20Insta360%20Ace%20Pro%202",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝评论提到画质、续航、防抖和上手；小红书有大量参数设置笔记。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Insta360%20Insta360%20Ace%20Pro%202",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝评论提到画质、续航、防抖和上手；小红书有大量参数设置笔记。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Insta360 官网",
+        "url": "https://www.insta360.com/product/insta360-acepro2",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-10",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "insta360-ace-pro",
+    "category": "action-camera",
+    "name": "Insta360 Ace Pro",
+    "brand": "Insta360",
+    "image": "images/insta360-ace-pro/1.jpg",
+    "images": [
+      "images/insta360-ace-pro/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Insta360 Ace Pro）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.insta360.com/product/insta360-acepro",
+    "summary": "1/1.3英寸级传感器；8K；适合骑行、Vlog、弱光、旅行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "骑行",
+      "Vlog",
+      "弱光"
+    ],
+    "specs": {
+      "核心参数": "1/1.3英寸级传感器；8K；徕卡合作；翻转屏",
+      "使用场景": "骑行、Vlog、弱光、旅行",
+      "上市/在售": "2023-11",
+      "市场热度": "上一代高端运动相机仍在渠道流通",
+      "上市时间": "2023-11"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Insta360%20Insta360%20Ace%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测认可弱光和翻转屏，升级用户会比较 Ace Pro 2。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Insta360%20Insta360%20Ace%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测认可弱光和翻转屏，升级用户会比较 Ace Pro 2。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Insta360%20Insta360%20Ace%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开评测认可弱光和翻转屏，升级用户会比较 Ace Pro 2。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Insta360 官网",
+        "url": "https://www.insta360.com/product/insta360-acepro",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-11",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "insta360-x5",
+    "category": "action-camera",
+    "name": "Insta360 X5",
+    "brand": "Insta360",
+    "image": "images/insta360-x5/1.png",
+    "images": [
+      "images/insta360-x5/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Insta360 X5）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.insta360.com/product/insta360-x5",
+    "summary": "8K 360；双镜头；适合360全景、滑雪、骑行、旅行、二次构图。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "360全景",
+      "滑雪",
+      "骑行"
+    ],
+    "specs": {
+      "核心参数": "8K 360；双镜头；防抖；可换镜片/耐用升级；隐形自拍杆生态",
+      "使用场景": "360全景、滑雪、骑行、旅行、二次构图",
+      "上市/在售": "2025-04",
+      "市场热度": "2025/2026全景旗舰关注度高",
+      "上市时间": "2025-04"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Insta360%20Insta360%20X5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注画质、耐用性、续航和后期裁切效率。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Insta360%20Insta360%20X5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注画质、耐用性、续航和后期裁切效率。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Insta360%20Insta360%20X5",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注画质、耐用性、续航和后期裁切效率。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Insta360 官网",
+        "url": "https://www.insta360.com/product/insta360-x5",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025-04",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "insta360-x4",
+    "category": "action-camera",
+    "name": "Insta360 X4",
+    "brand": "Insta360",
+    "image": "images/insta360-x4/1.png",
+    "images": [
+      "images/insta360-x4/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Insta360 X4）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.insta360.com/product/insta360-x4",
+    "summary": "8K 360视频；防抖；适合360旅行、骑行、摩托、运动第三视角。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "360旅行",
+      "骑行",
+      "摩托"
+    ],
+    "specs": {
+      "核心参数": "8K 360视频；防抖；隐形自拍杆；大电池",
+      "使用场景": "360旅行、骑行、摩托、运动第三视角",
+      "上市/在售": "2024-04",
+      "市场热度": "全景主销前代，价格下探",
+      "上市时间": "2024-04"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Insta360%20Insta360%20X4",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价常提到二次构图方便但文件/后期负担较大。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Insta360%20Insta360%20X4",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价常提到二次构图方便但文件/后期负担较大。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Insta360%20Insta360%20X4",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价常提到二次构图方便但文件/后期负担较大。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Insta360 官网",
+        "url": "https://www.insta360.com/product/insta360-x4",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-04",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "insta360-go-ultra",
+    "category": "action-camera",
+    "name": "Insta360 GO Ultra",
+    "brand": "Insta360",
+    "image": "images/insta360-go-ultra/1.png",
+    "images": [
+      "images/insta360-go-ultra/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（Insta360 GO Ultra）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.insta360.com/product/insta360-go-ultra",
+    "summary": "小型口袋/穿戴相机；4K；适合亲子、胸前/帽檐穿戴、Vlog、骑行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "亲子",
+      "胸前",
+      "帽檐穿戴"
+    ],
+    "specs": {
+      "核心参数": "小型口袋/穿戴相机；4K；可插卡；轻量化",
+      "使用场景": "亲子、胸前/帽檐穿戴、Vlog、骑行",
+      "上市/在售": "2025",
+      "市场热度": "爬虫：淘宝3万+付款相关",
+      "上市时间": "2025"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+爬虫"
+      ],
+      "使用场景": [
+        "官网+爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+爬虫"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Insta360%20Insta360%20GO%20Ultra",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝用户关注小体积、插卡版、近距离拍摄配件。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Insta360%20Insta360%20GO%20Ultra",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝用户关注小体积、插卡版、近距离拍摄配件。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Insta360%20Insta360%20GO%20Ultra",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "淘宝用户关注小体积、插卡版、近距离拍摄配件。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Insta360 官网",
+        "url": "https://www.insta360.com/product/insta360-go-ultra",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2025",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "insta360-go-3s",
+    "category": "action-camera",
+    "name": "Insta360 GO 3S",
+    "brand": "Insta360",
+    "image": "images/insta360-go-3s/1.png",
+    "images": [
+      "images/insta360-go-3s/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（Insta360 GO 3S）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.insta360.com/product/insta360-go3s",
+    "summary": "拇指大小；4K；适合POV、宠物、亲子、骑行、Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "POV",
+      "宠物",
+      "亲子"
+    ],
+    "specs": {
+      "核心参数": "拇指大小；4K；磁吸穿戴；Action Pod取景/充电",
+      "使用场景": "POV、宠物、亲子、骑行、Vlog",
+      "上市/在售": "2024-06",
+      "市场热度": "小型穿戴相机代表",
+      "上市时间": "2024-06"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=Insta360%20Insta360%20GO%203S",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢低存在感和穿戴灵活",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是小机身续航/散热。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=Insta360%20Insta360%20GO%203S",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢低存在感和穿戴灵活",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是小机身续航/散热。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=Insta360%20Insta360%20GO%203S",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户喜欢低存在感和穿戴灵活",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板是小机身续航/散热。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Insta360 官网",
+        "url": "https://www.insta360.com/product/insta360-go3s",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-06",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "gopro-hero13-black",
+    "category": "action-camera",
+    "name": "GoPro HERO13 Black",
+    "brand": "GoPro",
+    "image": "images/gopro-hero13-black/1.png",
+    "images": [
+      "images/gopro-hero13-black/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（GoPro HERO13 Black）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://gopro.com/en/us/shop/cameras/hero13-black/CHDHX-131-master.html",
+    "summary": "5.3K；HyperSmooth；适合冲浪、滑雪、骑行、旅行、创作者Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "冲浪",
+      "滑雪",
+      "骑行"
+    ],
+    "specs": {
+      "核心参数": "5.3K；HyperSmooth；可更换HB系列镜头；耐用防水",
+      "使用场景": "冲浪、滑雪、骑行、旅行、创作者Vlog",
+      "上市/在售": "2024-09",
+      "市场热度": "GoPro高端主力机型",
+      "上市时间": "2024-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=GoPro%20GoPro%20HERO13%20Black",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开用户认可生态和耐用性，也常比较低光/续航与 DJI/Insta360。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=GoPro%20GoPro%20HERO13%20Black",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开用户认可生态和耐用性，也常比较低光/续航与 DJI/Insta360。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=GoPro%20GoPro%20HERO13%20Black",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "公开用户认可生态和耐用性，也常比较低光/续航与 DJI/Insta360。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "GoPro 官网",
+        "url": "https://gopro.com/en/us/shop/cameras/hero13-black/CHDHX-131-master.html",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "gopro-hero12-black",
+    "category": "action-camera",
+    "name": "GoPro HERO12 Black",
+    "brand": "GoPro",
+    "image": "images/gopro-hero12-black/1.jpg",
+    "images": [
+      "images/gopro-hero12-black/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（GoPro HERO12 Black）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://gopro.com/en/us/shop/cameras/hero12-black/CHDHX-121-master.html",
+    "summary": "5.3K；HyperSmooth 6.0；适合运动、旅行、骑行、创作者。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "运动",
+      "旅行",
+      "骑行"
+    ],
+    "specs": {
+      "核心参数": "5.3K；HyperSmooth 6.0；防水；长续航优化",
+      "使用场景": "运动、旅行、骑行、创作者",
+      "上市/在售": "2023-09",
+      "市场热度": "前代旗舰，折扣渠道活跃",
+      "上市时间": "2023-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=GoPro%20GoPro%20HERO12%20Black",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价关注稳定性、生态配件和云服务。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=GoPro%20GoPro%20HERO12%20Black",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价关注稳定性、生态配件和云服务。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=GoPro%20GoPro%20HERO12%20Black",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户评价关注稳定性、生态配件和云服务。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "GoPro 官网",
+        "url": "https://gopro.com/en/us/shop/cameras/hero12-black/CHDHX-121-master.html",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "gopro-max2-360",
+    "category": "action-camera",
+    "name": "GoPro MAX2 360",
+    "brand": "GoPro",
+    "image": "images/gopro-max2-360/1.png",
+    "images": [
+      "images/gopro-max2-360/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（GoPro MAX2 360）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://gopro.com/en/us/",
+    "summary": "新一代 GoPro 360 全景相机；具体规格以官网/渠道为准；适合360全景、极限运动、二次构图。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "360全景",
+      "极限运动",
+      "二次构图"
+    ],
+    "specs": {
+      "核心参数": "新一代 GoPro 360 全景相机；具体规格以官网/渠道为准",
+      "使用场景": "360全景、极限运动、二次构图",
+      "上市/在售": "2026",
+      "市场热度": "GoPro官网展示新 MAX2 360 系列",
+      "上市时间": "2026"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=GoPro%20GoPro%20MAX2%20360",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "GoPro官网已展示 MAX2；市场关注其能否重新竞争 Insta360 X 系列。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=GoPro%20GoPro%20MAX2%20360",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "GoPro官网已展示 MAX2；市场关注其能否重新竞争 Insta360 X 系列。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=GoPro%20GoPro%20MAX2%20360",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "GoPro官网已展示 MAX2；市场关注其能否重新竞争 Insta360 X 系列。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "GoPro 官网",
+        "url": "https://gopro.com/en/us/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "gopro-hero-4k",
+    "category": "action-camera",
+    "name": "GoPro HERO 4K 小型相机",
+    "brand": "GoPro",
+    "image": "images/gopro-hero-4k/1.png",
+    "images": [
+      "images/gopro-hero-4k/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（GoPro HERO 4K 小型相机）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://gopro.com/en/us/",
+    "summary": "小型4K；简化操作；适合家庭、旅行、轻运动、入门Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "家庭",
+      "旅行",
+      "轻运动"
+    ],
+    "specs": {
+      "核心参数": "小型4K；简化操作；GoPro生态入口款",
+      "使用场景": "家庭、旅行、轻运动、入门Vlog",
+      "上市/在售": "2024-09",
+      "市场热度": "GoPro小型入门线",
+      "上市时间": "2024-09"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=GoPro%20GoPro%20HERO%204K%20%E5%B0%8F%E5%9E%8B%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注易用、耐用和入门价格。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=GoPro%20GoPro%20HERO%204K%20%E5%B0%8F%E5%9E%8B%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注易用、耐用和入门价格。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=GoPro%20GoPro%20HERO%204K%20%E5%B0%8F%E5%9E%8B%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注易用、耐用和入门价格。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "GoPro 官网",
+        "url": "https://gopro.com/en/us/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-09",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "akaso-brave-8-lite",
+    "category": "action-camera",
+    "name": "AKASO Brave 8 Lite",
+    "brand": "AKASO",
+    "image": "images/akaso-brave-8-lite/1.jpg",
+    "images": [
+      "images/akaso-brave-8-lite/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（AKASO Brave 8 Lite）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.akasotech.com/brave-8-lite",
+    "summary": "4K；防抖；适合预算骑行、滑雪、水上运动、旅行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "预算骑行",
+      "滑雪",
+      "水上运动"
+    ],
+    "specs": {
+      "核心参数": "4K；防抖；双屏/触控；预算价位",
+      "使用场景": "预算骑行、滑雪、水上运动、旅行",
+      "上市/在售": "2024/2025",
+      "市场热度": "海外预算运动相机活跃",
+      "上市时间": "2024-20"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=AKASO%20AKASO%20Brave%208%20Lite",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "海外用户关注性价比",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板通常是低光和防抖不及旗舰。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=AKASO%20AKASO%20Brave%208%20Lite",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "海外用户关注性价比",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板通常是低光和防抖不及旗舰。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=AKASO%20AKASO%20Brave%208%20Lite",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "海外用户关注性价比",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "短板通常是低光和防抖不及旗舰。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "AKASO 官网",
+        "url": "https://www.akasotech.com/brave-8-lite",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024-20",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "akaso-brave-7-le",
+    "category": "action-camera",
+    "name": "AKASO Brave 7 LE",
+    "brand": "AKASO",
+    "image": "images/akaso-brave-7-le/1.jpg",
+    "images": [
+      "images/akaso-brave-7-le/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（AKASO Brave 7 LE）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.akasotech.com/brave-7-le",
+    "summary": "4K；双屏；适合骑行、浮潜、家庭旅行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "骑行",
+      "浮潜",
+      "家庭旅行"
+    ],
+    "specs": {
+      "核心参数": "4K；双屏；IPX7机身防水/防水壳；预算价位",
+      "使用场景": "骑行、浮潜、家庭旅行",
+      "上市/在售": "2020后长期在售",
+      "市场热度": "预算防水运动相机常见型号",
+      "上市时间": "2020"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=AKASO%20AKASO%20Brave%207%20LE",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "Amazon/海外用户常作为 GoPro 平替入门。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=AKASO%20AKASO%20Brave%207%20LE",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "Amazon/海外用户常作为 GoPro 平替入门。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=AKASO%20AKASO%20Brave%207%20LE",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "Amazon/海外用户常作为 GoPro 平替入门。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "AKASO 官网",
+        "url": "https://www.akasotech.com/brave-7-le",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2020",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "akaso-ek7000-pro",
+    "category": "action-camera",
+    "name": "AKASO EK7000 Pro",
+    "brand": "AKASO",
+    "image": "images/akaso-ek7000-pro/1.jpg",
+    "images": [
+      "images/akaso-ek7000-pro/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（AKASO EK7000 Pro）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.akasotech.com/ek7000-pro",
+    "summary": "4K；触屏；适合低预算运动记录、家庭、旅行。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "低预算运动记录",
+      "家庭",
+      "旅行"
+    ],
+    "specs": {
+      "核心参数": "4K；触屏；EIS；防水壳",
+      "使用场景": "低预算运动记录、家庭、旅行",
+      "上市/在售": "长期在售",
+      "市场热度": "低价入门运动相机常青款"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=AKASO%20AKASO%20EK7000%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "海外评价量大，优点是便宜",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺点是画质/稳定性有限。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "京东（示例）"
+          }
+        ]
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=AKASO%20AKASO%20EK7000%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "海外评价量大，优点是便宜",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺点是画质/稳定性有限。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "天猫（示例）"
+          }
+        ]
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=AKASO%20AKASO%20EK7000%20Pro",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "海外评价量大，优点是便宜",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": [
+          {
+            "rating": 2.0,
+            "text": "缺点是画质/稳定性有限。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 33,
+            "source": "Amazon（示例）"
+          }
+        ]
+      },
+      {
+        "name": "AKASO 官网",
+        "url": "https://www.akasotech.com/ek7000-pro",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "sjcam-c110-plus",
+    "category": "action-camera",
+    "name": "SJCAM C110 Plus",
+    "brand": "SJCAM",
+    "image": "images/sjcam-c110-plus/1.png",
+    "images": [
+      "images/sjcam-c110-plus/1.png"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+爬虫",
+        "license": "扩展产品表真实图（SJCAM C110 Plus）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.sjcam.com/cameras/portable-camera/c110/",
+    "summary": "小型拇指机；4K；适合拇指POV、骑行记录、随身Vlog。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "拇指POV",
+      "骑行记录",
+      "随身Vlog"
+    ],
+    "specs": {
+      "核心参数": "小型拇指机；4K；磁吸/夹具；适合低预算穿戴记录",
+      "使用场景": "拇指POV、骑行记录、随身Vlog",
+      "上市/在售": "2024前后",
+      "市场热度": "爬虫/官网：入门拇指相机线",
+      "上市时间": "2024"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+爬虫"
+      ],
+      "使用场景": [
+        "官网+爬虫"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+爬虫"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=SJCAM%20SJCAM%20C110%20Plus",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "低价段用户关注便携和第一视角，需核实真实防抖画质。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=SJCAM%20SJCAM%20C110%20Plus",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "低价段用户关注便携和第一视角，需核实真实防抖画质。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=SJCAM%20SJCAM%20C110%20Plus",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "低价段用户关注便携和第一视角，需核实真实防抖画质。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "SJCAM 官网",
+        "url": "https://www.sjcam.com/cameras/portable-camera/c110/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2024",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "sjcam-c300",
+    "category": "action-camera",
+    "name": "SJCAM C300",
+    "brand": "SJCAM",
+    "image": "images/sjcam-c300/1.jpg",
+    "images": [
+      "images/sjcam-c300/1.jpg"
+    ],
+    "image_credits": [
+      {
+        "title": "官网+公开资料",
+        "license": "扩展产品表真实图（SJCAM C300）",
+        "artist": "",
+        "descurl": ""
+      }
+    ],
+    "url": "",
+    "official_url": "https://www.sjcam.com/cameras/action-camera/c300/",
+    "summary": "4K；双屏/模块化手柄；适合骑行、旅行、Vlog、运动记录。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "骑行",
+      "旅行",
+      "Vlog"
+    ],
+    "specs": {
+      "核心参数": "4K；双屏/模块化手柄；防抖；预算中端",
+      "使用场景": "骑行、旅行、Vlog、运动记录",
+      "上市/在售": "2023后在售",
+      "市场热度": "SJCAM中端运动相机",
+      "上市时间": "2023"
+    },
+    "spec_sources": {
+      "核心参数": [
+        "官网+公开资料"
+      ],
+      "使用场景": [
+        "官网+公开资料"
+      ],
+      "上市/在售": [
+        "官方"
+      ],
+      "市场热度": [
+        "官网+公开资料"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=SJCAM%20SJCAM%20C300",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注价格、配件和续航。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "京东（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=SJCAM%20SJCAM%20C300",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注价格、配件和续航。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "天猫（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=SJCAM%20SJCAM%20C300",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [
+          {
+            "rating": 5.0,
+            "text": "用户关注价格、配件和续航。",
+            "title": "",
+            "author": "用户***",
+            "date": "",
+            "helpful": 40,
+            "source": "Amazon（示例）"
+          }
+        ],
+        "reviews_neg": []
+      },
+      {
+        "name": "SJCAM 官网",
+        "url": "https://www.sjcam.com/cameras/action-camera/c300/",
+        "is_official": true,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2023",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.0,
+    "hot_score": 0.0,
+    "sales_score": 0.0,
+    "asin": "",
+    "platforms": {},
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "data_as_of": "",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "active": true,
+    "sources": [
+      {
+        "name": "示例数据",
+        "url": "",
+        "fetched_at": "2026-06-09T08:51:46+00:00"
+      }
+    ],
+    "price_display": ""
+  }
+]

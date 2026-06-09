@@ -2,108 +2,817 @@
   "_note": "本地自托管产品图覆盖表。Commons 没有收录的机型（多为新/小众），从厂商官网/电商商品页取真实多视角产品图，下载存于 web/images/<id>/，在此登记。pipeline 会以此覆盖该机型的 images。新增/补图：把图片放进 web/images/<id>/ 再在这里登记路径即可。",
   "overrides": {
     "fujifilm-instax-mini-12": {
-      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg/960px-Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg"],
-      "credit": {"source": "Wikimedia Commons，Tony Webster (CC BY 2.0)", "note": "真实产品图"}
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg/960px-Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg"
+      ],
+      "credit": {
+        "source": "Wikimedia Commons，Tony Webster (CC BY 2.0)",
+        "note": "真实产品图"
+      }
     },
     "fujifilm-instax-mini-99": {
-      "images": ["images/fujifilm-instax-mini-99/1.png", "images/fujifilm-instax-mini-99/2.jpg", "images/fujifilm-instax-mini-99/3.png"],
-      "credit": {"source": "Fujifilm 官网 / Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/fujifilm-instax-mini-99/1.png",
+        "images/fujifilm-instax-mini-99/2.jpg",
+        "images/fujifilm-instax-mini-99/3.png"
+      ],
+      "credit": {
+        "source": "Fujifilm 官网 / Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "fujifilm-instax-wide-400": {
-      "images": ["images/fujifilm-instax-wide-400/1.jpg", "images/fujifilm-instax-wide-400/2.jpg", "images/fujifilm-instax-wide-400/3.jpg", "images/fujifilm-instax-wide-400/4.png"],
-      "credit": {"source": "Fujifilm 官网 / Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/fujifilm-instax-wide-400/1.jpg",
+        "images/fujifilm-instax-wide-400/2.jpg",
+        "images/fujifilm-instax-wide-400/3.jpg",
+        "images/fujifilm-instax-wide-400/4.png"
+      ],
+      "credit": {
+        "source": "Fujifilm 官网 / Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "fujifilm-instax-square-sq40": {
-      "images": ["images/fujifilm-instax-square-sq40/1.jpg", "images/fujifilm-instax-square-sq40/2.png", "images/fujifilm-instax-square-sq40/3.jpg"],
-      "credit": {"source": "Fujifilm 官网 / Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/fujifilm-instax-square-sq40/1.jpg",
+        "images/fujifilm-instax-square-sq40/2.png",
+        "images/fujifilm-instax-square-sq40/3.jpg"
+      ],
+      "credit": {
+        "source": "Fujifilm 官网 / Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "kodak-smile-plus": {
-      "images": ["images/kodak-smile-plus/1.jpg", "images/kodak-smile-plus/2.jpg"],
-      "credit": {"source": "Kodak 官方商店 (Shopify)", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/kodak-smile-plus/1.jpg",
+        "images/kodak-smile-plus/2.jpg"
+      ],
+      "credit": {
+        "source": "Kodak 官方商店 (Shopify)",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "polaroid-now-gen2": {
-      "images": ["images/polaroid-now-gen2/1.jpg", "images/polaroid-now-gen2/2.jpg", "images/polaroid-now-gen2/3.jpg", "images/polaroid-now-gen2/4.jpg"],
-      "credit": {"source": "Polaroid 官方 Amazon 商品页", "note": "厂商产品图（正面/3-4视角/侧面/顶部），仅供设计参考"}
+      "images": [
+        "images/polaroid-now-gen2/1.jpg",
+        "images/polaroid-now-gen2/2.jpg",
+        "images/polaroid-now-gen2/3.jpg",
+        "images/polaroid-now-gen2/4.jpg"
+      ],
+      "credit": {
+        "source": "Polaroid 官方 Amazon 商品页",
+        "note": "厂商产品图（正面/3-4视角/侧面/顶部），仅供设计参考"
+      }
     },
     "polaroid-go-gen2": {
-      "images": ["images/polaroid-go-gen2/1.jpg", "images/polaroid-go-gen2/2.jpg", "images/polaroid-go-gen2/3.jpg"],
-      "credit": {"source": "Polaroid 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/polaroid-go-gen2/1.jpg",
+        "images/polaroid-go-gen2/2.jpg",
+        "images/polaroid-go-gen2/3.jpg"
+      ],
+      "credit": {
+        "source": "Polaroid 官方 Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "polaroid-now-plus-gen3": {
-      "images": ["images/polaroid-now-plus-gen3/1.jpg", "images/polaroid-now-plus-gen3/2.jpg"],
-      "credit": {"source": "Polaroid 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/polaroid-now-plus-gen3/1.jpg",
+        "images/polaroid-now-plus-gen3/2.jpg"
+      ],
+      "credit": {
+        "source": "Polaroid 官方 Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "fujifilm-instax-mini-41": {
-      "images": ["images/fujifilm-instax-mini-41/1.jpg", "images/fujifilm-instax-mini-41/2.jpg"],
-      "credit": {"source": "Fujifilm 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/fujifilm-instax-mini-41/1.jpg",
+        "images/fujifilm-instax-mini-41/2.jpg"
+      ],
+      "credit": {
+        "source": "Fujifilm 官方 Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "fujifilm-instax-mini-13": {
-      "images": ["images/fujifilm-instax-mini-13/1.jpg", "images/fujifilm-instax-mini-13/2.jpg"],
-      "credit": {"source": "Fujifilm 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/fujifilm-instax-mini-13/1.jpg",
+        "images/fujifilm-instax-mini-13/2.jpg"
+      ],
+      "credit": {
+        "source": "Fujifilm 官方 Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "fujifilm-instax-mini-liplay-plus": {
-      "images": ["images/fujifilm-instax-mini-liplay-plus/1.jpg", "images/fujifilm-instax-mini-liplay-plus/2.jpg"],
-      "credit": {"source": "Fujifilm 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/fujifilm-instax-mini-liplay-plus/1.jpg",
+        "images/fujifilm-instax-mini-liplay-plus/2.jpg"
+      ],
+      "credit": {
+        "source": "Fujifilm 官方 Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "leica-sofort-2": {
-      "images": ["images/leica-sofort-2/1.jpg", "images/leica-sofort-2/2.jpg", "images/leica-sofort-2/3.jpg"],
-      "credit": {"source": "Leica 官方 Amazon 商品页", "note": "厂商产品图，仅供设计参考"}
+      "images": [
+        "images/leica-sofort-2/1.jpg",
+        "images/leica-sofort-2/2.jpg",
+        "images/leica-sofort-2/3.jpg"
+      ],
+      "credit": {
+        "source": "Leica 官方 Amazon 商品页",
+        "note": "厂商产品图，仅供设计参考"
+      }
     },
     "chuzhao-d1-pro": {
-      "images": ["images/chuzhao-d1-pro/1.jpg", "images/chuzhao-d1-pro/2.jpg"],
-      "credit": {"source": "初照京东自营商品页", "note": "京东商品图（含促销角标），仅供设计参考"}
+      "images": [
+        "images/chuzhao-d1-pro/1.jpg",
+        "images/chuzhao-d1-pro/2.jpg"
+      ],
+      "credit": {
+        "source": "初照京东自营商品页",
+        "note": "京东商品图（含促销角标），仅供设计参考"
+      }
     },
     "chuzhao-x1": {
-      "images": ["images/chuzhao-x1/1.jpg", "images/chuzhao-x1/2.jpg"],
-      "credit": {"source": "初照京东自营商品页", "note": "京东商品图（含促销角标），仅供设计参考"}
+      "images": [
+        "images/chuzhao-x1/1.jpg",
+        "images/chuzhao-x1/2.jpg"
+      ],
+      "credit": {
+        "source": "初照京东自营商品页",
+        "note": "京东商品图（含促销角标），仅供设计参考"
+      }
     },
     "fujifilm-x-e5": {
-      "images": ["https://upload.wikimedia.org/wikipedia/commons/1/19/Fujifilm_X-E5_4_jul_2025a.jpg"],
-      "credit": {"source": "Wikimedia Commons (CC BY-SA)", "note": "真实产品图"}
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Fujifilm_X-E5_4_jul_2025a.jpg"
+      ],
+      "credit": {
+        "source": "Wikimedia Commons (CC BY-SA)",
+        "note": "真实产品图"
+      }
     },
     "aigo-d9-pro": {
-      "images": ["images/aigo-d9-pro/1.webp"],
-      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：aigo VISION 6400万翻转屏相机）"}
+      "images": [
+        "images/aigo-d9-pro/1.webp"
+      ],
+      "credit": {
+        "source": "语雀竞品分析文档（自托管）",
+        "note": "真实产品图（已核实：aigo VISION 6400万翻转屏相机）"
+      }
     },
     "hprt-z2": {
-      "images": ["images/hprt-z2/1.png"],
-      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：汉印拍立得Z2）"}
+      "images": [
+        "images/hprt-z2/1.png"
+      ],
+      "credit": {
+        "source": "语雀竞品分析文档（自托管）",
+        "note": "真实产品图（已核实：汉印拍立得Z2）"
+      }
     },
     "hprt-cp6000": {
-      "images": ["images/hprt-cp6000/1.png"],
-      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：汉印CP6000）"}
+      "images": [
+        "images/hprt-cp6000/1.png"
+      ],
+      "credit": {
+        "source": "语雀竞品分析文档（自托管）",
+        "note": "真实产品图（已核实：汉印CP6000）"
+      }
     },
     "canon-inspic": {
-      "images": ["images/canon-inspic/1.png"],
-      "credit": {"source": "语雀竞品分析文档（自托管）", "note": "真实产品图（已核实：Canon inspic PV-223）"}
+      "images": [
+        "images/canon-inspic/1.png"
+      ],
+      "credit": {
+        "source": "语雀竞品分析文档（自托管）",
+        "note": "真实产品图（已核实：Canon inspic PV-223）"
+      }
     },
     "hprt-z1": {
-      "images": ["images/hprt-z1/1.jpg"],
-      "credit": {"source": "汉印京东自营商品页（四平台爬虫）", "note": "京东商品图（含促销角标），已核实：汉印Z1 3英寸照片打印机"}
+      "images": [
+        "images/hprt-z1/1.jpg"
+      ],
+      "credit": {
+        "source": "汉印京东自营商品页（四平台爬虫）",
+        "note": "京东商品图（含促销角标），已核实：汉印Z1 3英寸照片打印机"
+      }
     },
     "hprt-cp2100": {
-      "images": ["images/hprt-cp2100/1.jpg"],
-      "credit": {"source": "汉印京东自营商品页（四平台爬虫）", "note": "京东商品图（含促销角标），已核实：汉印CP2100 AR照片打印机"}
+      "images": [
+        "images/hprt-cp2100/1.jpg"
+      ],
+      "credit": {
+        "source": "汉印京东自营商品页（四平台爬虫）",
+        "note": "京东商品图（含促销角标），已核实：汉印CP2100 AR照片打印机"
+      }
     },
     "jiyin-dmp100": {
-      "images": ["images/jiyin-dmp100/1.jpg"],
-      "credit": {"source": "极印XPRINT京东商品页（四平台爬虫）", "note": "京东商品图，已核实：极印XPRINT DMP-100 口袋打印机"}
+      "images": [
+        "images/jiyin-dmp100/1.jpg"
+      ],
+      "credit": {
+        "source": "极印XPRINT京东商品页（四平台爬虫）",
+        "note": "京东商品图，已核实：极印XPRINT DMP-100 口袋打印机"
+      }
     },
     "canon-selphy-qx20": {
-      "images": ["images/canon-selphy-qx20/1.jpg"],
-      "credit": {"source": "佳能天猫商品页（四平台爬虫）", "note": "天猫商品图（含618角标），已核实：Canon SELPHY QX20"}
+      "images": [
+        "images/canon-selphy-qx20/1.jpg"
+      ],
+      "credit": {
+        "source": "佳能天猫商品页（四平台爬虫）",
+        "note": "天猫商品图（含618角标），已核实：Canon SELPHY QX20"
+      }
     },
     "kodak-smile-basic": {
-      "images": ["images/kodak-smile-basic/1.jpg"],
-      "credit": {"source": "柯达京东商品页（四平台爬虫）", "note": "京东商品图，已核实：Kodak Smile 滑盖拍立得"}
+      "images": [
+        "images/kodak-smile-basic/1.jpg"
+      ],
+      "credit": {
+        "source": "柯达京东商品页（四平台爬虫）",
+        "note": "京东商品图，已核实：Kodak Smile 滑盖拍立得"
+      }
     },
     "kodak-c210": {
-      "images": ["images/kodak-c210/1.jpg"],
-      "credit": {"source": "柯达京东商品页（四平台爬虫）", "note": "京东商品图，已核实：Kodak C210 Instant 2in1 礼盒"}
+      "images": [
+        "images/kodak-c210/1.jpg"
+      ],
+      "credit": {
+        "source": "柯达京东商品页（四平台爬虫）",
+        "note": "京东商品图，已核实：Kodak C210 Instant 2in1 礼盒"
+      }
     },
     "aimoer-c40": {
-      "images": ["images/aimoer-c40/1.jpg"],
-      "credit": {"source": "爱墨AIMO京东商品页（四平台爬虫）", "note": "京东商品图（含促销角标），已核实：爱墨AIMO C40 照片打印机"}
+      "images": [
+        "images/aimoer-c40/1.jpg"
+      ],
+      "credit": {
+        "source": "爱墨AIMO京东商品页（四平台爬虫）",
+        "note": "京东商品图（含促销角标），已核实：爱墨AIMO C40 照片打印机"
+      }
+    },
+    "dji-osmo-action-5-pro": {
+      "images": [
+        "images/dji-osmo-action-5-pro/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+爬虫",
+        "note": "扩展产品表真实图（DJI Osmo Action 5 Pro）"
+      }
+    },
+    "dji-osmo-action-4": {
+      "images": [
+        "images/dji-osmo-action-4/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（DJI Osmo Action 4）"
+      }
+    },
+    "dji-osmo-action-3": {
+      "images": [
+        "images/dji-osmo-action-3/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（DJI Osmo Action 3）"
+      }
+    },
+    "dji-osmo-nano": {
+      "images": [
+        "images/dji-osmo-nano/1.png"
+      ],
+      "credit": {
+        "source": "官网+爬虫",
+        "note": "扩展产品表真实图（DJI Osmo Nano）"
+      }
+    },
+    "dji-osmo-360": {
+      "images": [
+        "images/dji-osmo-360/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（DJI Osmo 360）"
+      }
+    },
+    "insta360-ace-pro-2": {
+      "images": [
+        "images/insta360-ace-pro-2/1.png"
+      ],
+      "credit": {
+        "source": "官网+爬虫",
+        "note": "扩展产品表真实图（Insta360 Ace Pro 2）"
+      }
+    },
+    "insta360-ace-pro": {
+      "images": [
+        "images/insta360-ace-pro/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Insta360 Ace Pro）"
+      }
+    },
+    "insta360-x5": {
+      "images": [
+        "images/insta360-x5/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Insta360 X5）"
+      }
+    },
+    "insta360-x4": {
+      "images": [
+        "images/insta360-x4/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Insta360 X4）"
+      }
+    },
+    "insta360-go-ultra": {
+      "images": [
+        "images/insta360-go-ultra/1.png"
+      ],
+      "credit": {
+        "source": "官网+爬虫",
+        "note": "扩展产品表真实图（Insta360 GO Ultra）"
+      }
+    },
+    "insta360-go-3s": {
+      "images": [
+        "images/insta360-go-3s/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Insta360 GO 3S）"
+      }
+    },
+    "gopro-hero13-black": {
+      "images": [
+        "images/gopro-hero13-black/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（GoPro HERO13 Black）"
+      }
+    },
+    "gopro-hero12-black": {
+      "images": [
+        "images/gopro-hero12-black/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（GoPro HERO12 Black）"
+      }
+    },
+    "gopro-max2-360": {
+      "images": [
+        "images/gopro-max2-360/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（GoPro MAX2 360）"
+      }
+    },
+    "gopro-hero-4k": {
+      "images": [
+        "images/gopro-hero-4k/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（GoPro HERO 4K 小型相机）"
+      }
+    },
+    "akaso-brave-8-lite": {
+      "images": [
+        "images/akaso-brave-8-lite/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（AKASO Brave 8 Lite）"
+      }
+    },
+    "akaso-brave-7-le": {
+      "images": [
+        "images/akaso-brave-7-le/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（AKASO Brave 7 LE）"
+      }
+    },
+    "akaso-ek7000-pro": {
+      "images": [
+        "images/akaso-ek7000-pro/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（AKASO EK7000 Pro）"
+      }
+    },
+    "sjcam-c110-plus": {
+      "images": [
+        "images/sjcam-c110-plus/1.png"
+      ],
+      "credit": {
+        "source": "官网+爬虫",
+        "note": "扩展产品表真实图（SJCAM C110 Plus）"
+      }
+    },
+    "sjcam-c300": {
+      "images": [
+        "images/sjcam-c300/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（SJCAM C300）"
+      }
+    },
+    "pentax-17": {
+      "images": [
+        "images/pentax-17/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（PENTAX 17）"
+      }
+    },
+    "leica-m6-reissue": {
+      "images": [
+        "images/leica-m6-reissue/1.webp"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Leica M6 Reissue）"
+      }
+    },
+    "leica-mp": {
+      "images": [
+        "images/leica-mp/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Leica MP）"
+      }
+    },
+    "leica-m-a": {
+      "images": [
+        "images/leica-m-a/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Leica M-A）"
+      }
+    },
+    "kodak-ektar-h35": {
+      "images": [
+        "images/kodak-ektar-h35/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（KODAK EKTAR H35）"
+      }
+    },
+    "kodak-ektar-h35n": {
+      "images": [
+        "images/kodak-ektar-h35n/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（KODAK EKTAR H35N）"
+      }
+    },
+    "kodak-ultra-f9": {
+      "images": [
+        "images/kodak-ultra-f9/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（KODAK Ultra F9）"
+      }
+    },
+    "kodak-i60": {
+      "images": [
+        "images/kodak-i60/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（KODAK i60）"
+      }
+    },
+    "kodak-m35": {
+      "images": [
+        "images/kodak-m35/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（KODAK M35）"
+      }
+    },
+    "kodak-m38": {
+      "images": [
+        "images/kodak-m38/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（KODAK M38）"
+      }
+    },
+    "fujifilm-quicksnap": {
+      "images": [
+        "images/fujifilm-quicksnap/1.png"
+      ],
+      "credit": {
+        "source": "官网+爬虫",
+        "note": "扩展产品表真实图（Fujifilm QuickSnap）"
+      }
+    },
+    "kodak-funsaver": {
+      "images": [
+        "images/kodak-funsaver/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+爬虫",
+        "note": "扩展产品表真实图（KODAK FunSaver）"
+      }
+    },
+    "lomography-lomoapparat-21mm": {
+      "images": [
+        "images/lomography-lomoapparat-21mm/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Lomography LomoApparat 21mm）"
+      }
+    },
+    "lomography-sprocket-rocket": {
+      "images": [
+        "images/lomography-sprocket-rocket/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Lomography Sprocket Rocket）"
+      }
+    },
+    "lomography-diana-f-plus": {
+      "images": [
+        "images/lomography-diana-f-plus/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Lomography Diana F+）"
+      }
+    },
+    "lomography-la-sardina": {
+      "images": [
+        "images/lomography-la-sardina/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Lomography La Sardina）"
+      }
+    },
+    "harman-ez-35-motorised-camera": {
+      "images": [
+        "images/harman-ez-35-motorised-camera/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Harman EZ-35 Motorised Camera）"
+      }
+    },
+    "harman-reusable-camera": {
+      "images": [
+        "images/harman-reusable-camera/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Harman Reusable Camera）"
+      }
+    },
+    "ilford-sprite-35-ii": {
+      "images": [
+        "images/ilford-sprite-35-ii/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（ILFORD Sprite 35-II）"
+      }
+    },
+    "reto3d-35mm-3d-camera": {
+      "images": [
+        "images/reto3d-35mm-3d-camera/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（RETO3D 35mm 3D Camera）"
+      }
+    },
+    "agfaphoto-reusable-photo-camera-35mm": {
+      "images": [
+        "images/agfaphoto-reusable-photo-camera-35mm/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（AgfaPhoto Reusable Photo Camera 35mm）"
+      }
+    },
+    "fujifilm-x100vi": {
+      "images": [
+        "images/fujifilm-x100vi/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm X100VI）"
+      }
+    },
+    "fujifilm-x-t50": {
+      "images": [
+        "images/fujifilm-x-t50/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm X-T50）"
+      }
+    },
+    "fujifilm-x-m5": {
+      "images": [
+        "images/fujifilm-x-m5/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm X-M5）"
+      }
+    },
+    "fujifilm-x-half": {
+      "images": [
+        "images/fujifilm-x-half/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm X half）"
+      }
+    },
+    "fujifilm-x-t5": {
+      "images": [
+        "images/fujifilm-x-t5/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm X-T5）"
+      }
+    },
+    "fujifilm-x-s20": {
+      "images": [
+        "images/fujifilm-x-s20/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm X-S20）"
+      }
+    },
+    "ricoh-gr-iii-hdf": {
+      "images": [
+        "images/ricoh-gr-iii-hdf/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Ricoh GR III HDF）"
+      }
+    },
+    "ricoh-gr-iiix-hdf": {
+      "images": [
+        "images/ricoh-gr-iiix-hdf/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Ricoh GR IIIx HDF）"
+      }
+    },
+    "leica-d-lux-8": {
+      "images": [
+        "images/leica-d-lux-8/1.webp"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Leica D-Lux 8）"
+      }
+    },
+    "nikon-z-f": {
+      "images": [
+        "images/nikon-z-f/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Nikon Z f）"
+      }
+    },
+    "nikon-z-fc": {
+      "images": [
+        "images/nikon-z-fc/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Nikon Z fc）"
+      }
+    },
+    "panasonic-lumix-s9": {
+      "images": [
+        "images/panasonic-lumix-s9/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Panasonic Lumix S9）"
+      }
+    },
+    "kodak-charmera": {
+      "images": [
+        "images/kodak-charmera/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（KODAK Charmera）"
+      }
+    },
+    "camp-snap-2": {
+      "images": [
+        "images/camp-snap-2/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Camp Snap 2）"
+      }
+    },
+    "paper-shoot-20mp": {
+      "images": [
+        "images/paper-shoot-20mp/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Paper Shoot 20MP）"
+      }
+    },
+    "flashback-one35-v2": {
+      "images": [
+        "images/flashback-one35-v2/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+小红书爬虫",
+        "note": "扩展产品表真实图（Flashback ONE35 V2）"
+      }
+    },
+    "yashica-fx-d-s300-300": {
+      "images": [
+        "images/yashica-fx-d-s300-300/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+评测",
+        "note": "扩展产品表真实图（YASHICA FX-D S300 / 300）"
+      }
+    },
+    "yashica-funtastic-keychain-camera": {
+      "images": [
+        "images/yashica-funtastic-keychain-camera/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开报道",
+        "note": "扩展产品表真实图（YASHICA Funtastic Keychain Camera）"
+      }
+    },
+    "fujifilm-instax-mini-evo": {
+      "images": [
+        "images/fujifilm-instax-mini-evo/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm instax mini Evo）"
+      }
+    },
+    "fujifilm-instax-wide-evo": {
+      "images": [
+        "images/fujifilm-instax-wide-evo/1.jpg"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Fujifilm instax WIDE Evo）"
+      }
+    },
+    "kodak-mini-shot-3-retro": {
+      "images": [
+        "images/kodak-mini-shot-3-retro/1.png"
+      ],
+      "credit": {
+        "source": "官网+公开资料",
+        "note": "扩展产品表真实图（Kodak Mini Shot 3 Retro）"
+      }
     }
   }
 }
