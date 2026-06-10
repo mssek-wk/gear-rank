@@ -1,13 +1,13 @@
 {
   "latest": [
-    "dji-osmo-action-5-pro",
-    "dji-osmo-nano",
-    "insta360-go-ultra",
-    "insta360-ace-pro-2",
-    "dji-osmo-360",
-    "insta360-x5",
     "gopro-max2-360",
-    "insta360-go-3s"
+    "dji-osmo-nano",
+    "insta360-x5",
+    "insta360-go-ultra",
+    "dji-osmo-360",
+    "insta360-ace-pro-2",
+    "dji-osmo-action-5-pro",
+    "gopro-hero13-black"
   ],
   "hottest": [
     "dji-osmo-action-5-pro",

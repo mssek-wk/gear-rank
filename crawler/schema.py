@@ -131,10 +131,14 @@ class Item:
 
 
 def days_since(iso_date: str) -> int | None:
+    """距今天数。兼容残缺日期：YYYY-MM-DD / YYYY-MM（按当月1日）/ YYYY（按当年1月1日）。"""
     if not iso_date:
         return None
-    try:
-        d = datetime.strptime(iso_date[:10], "%Y-%m-%d").date()
-    except ValueError:
-        return None
-    return (date.today() - d).days
+    s = iso_date.strip()
+    for fmt, ln in (("%Y-%m-%d", 10), ("%Y-%m", 7), ("%Y", 4)):
+        try:
+            d = datetime.strptime(s[:ln], fmt).date()
+            return (date.today() - d).days
+        except ValueError:
+            continue
+    return None
