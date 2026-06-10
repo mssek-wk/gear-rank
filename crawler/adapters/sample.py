@@ -21,14 +21,29 @@ _NOW = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 # 扩展品类数据集（运动相机/胶片相机/模拟胶卷数码相机）—— 由扩展产品表生成，存于 data/expansion_products.json。
 # 结构与 _CAMERAS 一致：每条 {id,name,brand,release,tags,summary,specs:[[字段,值,[来源]]],pros,cons,official_url}
-def _load_expansion() -> dict:
-    f = _Path(__file__).resolve().parent.parent.parent / "data" / "expansion_products.json"
+def _load_json(name: str) -> dict:
+    f = _Path(__file__).resolve().parent.parent.parent / "data" / name
     try:
         return _json.loads(f.read_text(encoding="utf-8")) or {}
     except Exception:
         return {}
 
-_EXPANSION = _load_expansion()
+_EXPANSION = _load_json("expansion_products.json")
+# 京东联盟官方 API 真实数据快照（由 crawler/jd_union_fetch.py 生成；缺失则为空，自动回退估算）。
+_JD_UNION = _load_json("jd_union_snapshot.json")
+
+
+def _wan(n) -> str:
+    """把数字格式化为「X万+」/「N+」展示。"""
+    try:
+        n = int(n)
+    except (TypeError, ValueError):
+        return ""
+    if n >= 10000:
+        return f"{n // 10000}万+"
+    if n >= 1000:
+        return f"{n // 1000}千+"
+    return f"{n}+" if n > 0 else ""
 
 
 def _seller_search_urls(name: str, brand: str) -> list[tuple[str, str, bool]]:
@@ -729,6 +744,27 @@ class SampleAdapter(Adapter):
             # 「数据支撑」展示文案（真实评价数/销量证据或定性依据）
             if c.get("note"):
                 it.pop_note = c["note"]
+            # 京东联盟真实数据优先：有则覆盖估算信号 + 文案（真实评价数/销量/到手价）
+            ju = (_JD_UNION.get(c["id"]) or {}).get("jd") or {}
+            if ju.get("reviews") is not None or ju.get("sales") is not None:
+                jd = {}
+                if ju.get("reviews") is not None:
+                    jd["reviews"] = ju["reviews"]
+                if ju.get("sales") is not None:
+                    jd["sales"] = ju["sales"]
+                it.platforms["jd"] = jd
+                it.platforms.pop("manual", None)   # 有真实数据就不用估算
+                if ju.get("price") is not None:
+                    it.price_value = ju["price"]; it.currency = "CNY"
+                parts = []
+                if ju.get("reviews"):
+                    parts.append(f"京东{_wan(ju['reviews'])}评价")
+                if ju.get("sales"):
+                    parts.append(f"30天售{_wan(ju['sales'])}")
+                if ju.get("good_rate"):
+                    parts.append(f"好评{ju['good_rate']}%")
+                if parts:
+                    it.pop_note = " · ".join(parts) + "（京东联盟）"
             out.append(it)
         print(f"  · 目录: 品类 '{category_id}' 提供 {len(out)} 款机型（含官方上市日期/参数/渠道）")
         return out

@@ -5,3 +5,6 @@ __pycache__/
 # 京东/淘宝登录会话（含登录 cookie，等同账号凭证，绝不入库）
 crawler/.cn_session/
 
+
+# 京东联盟开发者凭证（绝不入库）
+crawler/.jd_union.json
