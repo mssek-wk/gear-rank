@@ -84,13 +84,23 @@
 
   /* ---------- 渲染：三榜（真实数据驱动）---------- */
   // metric(it) 返回该榜单这一行要展示的「真实依据值」
+  // pop_note 是「数据支撑」文案（真实评价数/销量证据或定性依据）。按关键词挑出与该榜相关的片段，
+  // 拿不到平台数字时作为可见依据回退展示，让最火/最畅销不再空白。
+  const pickNote = (note, kind) => {
+    if (!note) return '';
+    const parts = note.split(' · ');
+    const wants = kind === 'hot' ? ['评价', '热度', '关注', '缺货', '新品', '口碑']
+                                 : ['付款', '销量', '畅销', '主销', '在售', '走量', '热卖'];
+    const hit = parts.find(p => wants.some(w => p.includes(w)));
+    return hit || note;
+  };
   const BOARD_DEFS = [
     { key: 'latest', cls: 'latest', title: '最新', sub: '官方上市日期',
       metric: it => (it.release_date || '').slice(0, 7) },
-    { key: 'hottest', cls: 'hot', title: '最火', sub: '综合·按评价数',
-      metric: it => it.reviews != null ? it.reviews.toLocaleString() + ' 评价' : '' },
-    { key: 'bestselling', cls: 'sales', title: '最畅销', sub: '综合·按畅销榜排名',
-      metric: it => it.bsr != null ? '榜 #' + it.bsr.toLocaleString() : '' },
+    { key: 'hottest', cls: 'hot', title: '最火', sub: '综合·按评价数/热度',
+      metric: it => it.reviews != null ? it.reviews.toLocaleString() + ' 评价' : pickNote(it.pop_note, 'hot') },
+    { key: 'bestselling', cls: 'sales', title: '最畅销', sub: '综合·按销量/畅销',
+      metric: it => it.bsr != null ? '榜 #' + it.bsr.toLocaleString() : pickNote(it.pop_note, 'sales') },
   ];
   function renderBoards() {
     const b = bucket(activeCat);

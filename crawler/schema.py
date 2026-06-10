@@ -96,6 +96,7 @@ class Item:
     rating: float | None = None                          # 综合评分（展示用）
     reviews: int | None = None                           # 综合评价数（展示用）
     bsr: int | None = None                               # 最佳畅销榜排名（展示用，越小越畅销）
+    pop_note: str = ""                                   # 热度/畅销「数据支撑」展示文案（真实评价数/销量或定性依据，带来源）
     data_as_of: str = ""                                 # 平台数据截至日期
 
     # ---- 历史留存（pipeline 维护）----

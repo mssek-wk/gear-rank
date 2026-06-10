@@ -142,6 +142,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "京东20万+评价 · 淘宝10万+付款（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -150,7 +151,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -298,6 +299,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "国内电商仍为主销款之一",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -306,7 +308,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -454,6 +456,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "老款 · 二手 · 促销渠道仍有需求",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -462,7 +465,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -610,6 +613,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "淘宝运动相机结果含 DJI Osmo Nano 6万+付款（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -618,7 +622,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -766,6 +770,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "360全景新品热度高（官网+公开资料）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -774,7 +779,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -922,6 +927,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "淘宝3万+付款 · 小红书参数笔记活跃（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -930,7 +936,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1078,6 +1084,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "上一代高端运动相机仍在渠道流通",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1086,7 +1093,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1234,6 +1241,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "2025 · 2026全景旗舰关注度高（官网+公开资料）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1242,7 +1250,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1390,6 +1398,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "全景主销前代，价格下探",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1398,7 +1407,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1546,6 +1555,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "淘宝3万+付款相关（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1554,7 +1564,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1732,6 +1742,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "小型穿戴相机代表",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1740,7 +1751,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1888,6 +1899,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "GoPro高端主力机型",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1896,7 +1908,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2044,6 +2056,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "前代旗舰，折扣渠道活跃",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2052,7 +2065,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2200,6 +2213,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "GoPro官网展示新 MAX2 360 系列（官网+公开资料）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2208,7 +2222,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2356,6 +2370,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "GoPro小型入门线",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2364,7 +2379,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2542,6 +2557,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "海外预算运动相机活跃",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2550,7 +2566,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2698,6 +2714,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "预算防水运动相机常见型号",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2706,7 +2723,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2880,6 +2897,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "低价入门运动相机常青款",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2888,7 +2906,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -3036,6 +3054,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "爬虫 · 官网：入门拇指相机线",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -3044,7 +3063,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -3192,6 +3211,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "SJCAM中端运动相机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -3200,7 +3220,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""

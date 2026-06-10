@@ -726,6 +726,9 @@ class SampleAdapter(Adapter):
                 if ms is not None:
                     man["sales"] = ms
                 it.platforms["manual"] = man
+            # 「数据支撑」展示文案（真实评价数/销量证据或定性依据）
+            if c.get("note"):
+                it.pop_note = c["note"]
             out.append(it)
         print(f"  · 目录: 品类 '{category_id}' 提供 {len(out)} 款机型（含官方上市日期/参数/渠道）")
         return out

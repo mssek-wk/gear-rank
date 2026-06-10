@@ -47,7 +47,8 @@
       "cons": [],
       "official_url": "https://www.dji.com/osmo-action-5-pro",
       "hot": 98,
-      "sales": 96
+      "sales": 96,
+      "note": "京东20万+评价 · 淘宝10万+付款（官网+爬虫）"
     },
     {
       "id": "dji-osmo-action-4",
@@ -96,7 +97,8 @@
       "cons": [],
       "official_url": "https://www.dji.com/osmo-action-4",
       "hot": 54.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "国内电商仍为主销款之一"
     },
     {
       "id": "dji-osmo-action-3",
@@ -145,7 +147,8 @@
       "cons": [],
       "official_url": "https://www.dji.com/osmo-action-3",
       "hot": 42.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "老款 · 二手 · 促销渠道仍有需求"
     },
     {
       "id": "dji-osmo-nano",
@@ -194,7 +197,8 @@
       "cons": [],
       "official_url": "https://www.dji.com/osmo-nano",
       "hot": 79,
-      "sales": 74
+      "sales": 74,
+      "note": "淘宝运动相机结果含 DJI Osmo Nano 6万+付款（官网+爬虫）"
     },
     {
       "id": "dji-osmo-360",
@@ -243,7 +247,8 @@
       "cons": [],
       "official_url": "https://www.dji.com/osmo-360",
       "hot": 68.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "360全景新品热度高（官网+公开资料）"
     },
     {
       "id": "insta360-ace-pro-2",
@@ -292,7 +297,8 @@
       "cons": [],
       "official_url": "https://www.insta360.com/product/insta360-acepro2",
       "hot": 69,
-      "sales": 68
+      "sales": 68,
+      "note": "淘宝3万+付款 · 小红书参数笔记活跃（官网+爬虫）"
     },
     {
       "id": "insta360-ace-pro",
@@ -341,7 +347,8 @@
       "cons": [],
       "official_url": "https://www.insta360.com/product/insta360-acepro",
       "hot": 42.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "上一代高端运动相机仍在渠道流通"
     },
     {
       "id": "insta360-x5",
@@ -390,7 +397,8 @@
       "cons": [],
       "official_url": "https://www.insta360.com/product/insta360-x5",
       "hot": 62.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "2025 · 2026全景旗舰关注度高（官网+公开资料）"
     },
     {
       "id": "insta360-x4",
@@ -439,7 +447,8 @@
       "cons": [],
       "official_url": "https://www.insta360.com/product/insta360-x4",
       "hot": 46.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "全景主销前代，价格下探"
     },
     {
       "id": "insta360-go-ultra",
@@ -488,7 +497,8 @@
       "cons": [],
       "official_url": "https://www.insta360.com/product/insta360-go-ultra",
       "hot": 73,
-      "sales": 68
+      "sales": 68,
+      "note": "淘宝3万+付款相关（官网+爬虫）"
     },
     {
       "id": "insta360-go-3s",
@@ -539,7 +549,8 @@
       ],
       "official_url": "https://www.insta360.com/product/insta360-go3s",
       "hot": 58.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "小型穿戴相机代表"
     },
     {
       "id": "gopro-hero13-black",
@@ -588,7 +599,8 @@
       "cons": [],
       "official_url": "https://gopro.com/en/us/shop/cameras/hero13-black/CHDHX-131-master.html",
       "hot": 58.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "GoPro高端主力机型"
     },
     {
       "id": "gopro-hero12-black",
@@ -637,7 +649,8 @@
       "cons": [],
       "official_url": "https://gopro.com/en/us/shop/cameras/hero12-black/CHDHX-121-master.html",
       "hot": 42.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "前代旗舰，折扣渠道活跃"
     },
     {
       "id": "gopro-max2-360",
@@ -686,7 +699,8 @@
       "cons": [],
       "official_url": "https://gopro.com/en/us/",
       "hot": 62.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "GoPro官网展示新 MAX2 360 系列（官网+公开资料）"
     },
     {
       "id": "gopro-hero-4k",
@@ -735,7 +749,8 @@
       "cons": [],
       "official_url": "https://gopro.com/en/us/",
       "hot": 58.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "GoPro小型入门线"
     },
     {
       "id": "akaso-brave-8-lite",
@@ -786,7 +801,8 @@
       ],
       "official_url": "https://www.akasotech.com/brave-8-lite",
       "hot": 58.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "海外预算运动相机活跃"
     },
     {
       "id": "akaso-brave-7-le",
@@ -835,7 +851,8 @@
       "cons": [],
       "official_url": "https://www.akasotech.com/brave-7-le",
       "hot": 50.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "预算防水运动相机常见型号"
     },
     {
       "id": "akaso-ek7000-pro",
@@ -886,7 +903,8 @@
       ],
       "official_url": "https://www.akasotech.com/ek7000-pro",
       "hot": 54.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "低价入门运动相机常青款"
     },
     {
       "id": "sjcam-c110-plus",
@@ -935,7 +953,8 @@
       "cons": [],
       "official_url": "https://www.sjcam.com/cameras/portable-camera/c110/",
       "hot": 58.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "爬虫 · 官网：入门拇指相机线"
     },
     {
       "id": "sjcam-c300",
@@ -984,7 +1003,8 @@
       "cons": [],
       "official_url": "https://www.sjcam.com/cameras/action-camera/c300/",
       "hot": 54.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "SJCAM中端运动相机"
     }
   ],
   "film-camera": [
@@ -1035,7 +1055,8 @@
       "cons": [],
       "official_url": "https://pentax.eu/de/products/pentax-17",
       "hot": 67.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "官方曾因订单超预期暂停 · 延迟接单"
     },
     {
       "id": "leica-m6-reissue",
@@ -1084,7 +1105,8 @@
       "cons": [],
       "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m6-black",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "高端胶片旁轴小众但稳定"
     },
     {
       "id": "leica-mp",
@@ -1133,7 +1155,8 @@
       "cons": [],
       "official_url": "https://leica-camera.com/en-US/photography/cameras/m/mp-black",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "高端机械胶片机"
     },
     {
       "id": "leica-m-a",
@@ -1182,7 +1205,8 @@
       "cons": [],
       "official_url": "https://leica-camera.com/en-US/photography/cameras/m/m-a-black",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "无测光纯机械胶片机"
     },
     {
       "id": "kodak-ektar-h35",
@@ -1231,7 +1255,8 @@
       "cons": [],
       "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35-half-frame-film-camera",
       "hot": 60.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "半格入门热卖产品线"
     },
     {
       "id": "kodak-ektar-h35n",
@@ -1280,7 +1305,8 @@
       "cons": [],
       "official_url": "https://www.kodak.retopro.co/products/kodak-ektar-h35n-half-frame-film-camera",
       "hot": 60.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "半格胶片入门热门"
     },
     {
       "id": "kodak-ultra-f9",
@@ -1331,7 +1357,8 @@
       ],
       "official_url": "https://www.kodak.retopro.co/products/kodak-ultra-f9-film-camera",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "可复用傻瓜胶片机"
     },
     {
       "id": "kodak-i60",
@@ -1380,7 +1407,8 @@
       "cons": [],
       "official_url": "https://www.kodak.retopro.co/products/kodak-i60-reusable-film-camera",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "复古造型可复用胶片机"
     },
     {
       "id": "kodak-m35",
@@ -1431,7 +1459,8 @@
       ],
       "official_url": "https://www.kodak.retopro.co/products/kodak-m35-film-camera",
       "hot": 48.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "低价可复用胶片机"
     },
     {
       "id": "kodak-m38",
@@ -1480,7 +1509,8 @@
       "cons": [],
       "official_url": "https://www.kodak.retopro.co/products/kodak-m38-film-camera",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "M35增强款"
     },
     {
       "id": "fujifilm-quicksnap",
@@ -1531,7 +1561,8 @@
       ],
       "official_url": "https://www.fujifilm.com/us/en/consumer/films/quicksnap",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "京东 · 淘宝有评价与在售"
     },
     {
       "id": "kodak-funsaver",
@@ -1580,7 +1611,8 @@
       "cons": [],
       "official_url": "https://kodak.photosys.com/products/funsaver-35mm-single-use-film-camera",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "京东5000+评价（官网+爬虫）"
     },
     {
       "id": "lomography-lomoapparat-21mm",
@@ -1629,7 +1661,8 @@
       "cons": [],
       "official_url": "https://shop.lomography.com/jp/lomoapparat-black-wide-angle-camera",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "创意胶片用户常见选择"
     },
     {
       "id": "lomography-sprocket-rocket",
@@ -1678,7 +1711,8 @@
       "cons": [],
       "official_url": "https://shop.lomography.com/us/sprocket-rocket",
       "hot": 59.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "全景胶片创意机"
     },
     {
       "id": "lomography-diana-f-plus",
@@ -1727,7 +1761,8 @@
       "cons": [],
       "official_url": "https://shop.lomography.com/us/diana-f-plus-camera",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "经典玩具中画幅胶片机"
     },
     {
       "id": "lomography-la-sardina",
@@ -1776,7 +1811,8 @@
       "cons": [],
       "official_url": "https://shop.lomography.com/us/la-sardina",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "罐头造型35mm创意机"
     },
     {
       "id": "harman-ez-35-motorised-camera",
@@ -1825,7 +1861,8 @@
       "cons": [],
       "official_url": "https://www.harmanphoto.co.uk/harman-ez-35-35mm-motorised-camera",
       "hot": 52.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "带自动卷片的入门胶片机"
     },
     {
       "id": "harman-reusable-camera",
@@ -1874,7 +1911,8 @@
       "cons": [],
       "official_url": "https://www.harmanphoto.co.uk/harman-reusable-camera",
       "hot": 48.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "低价可复用胶片机"
     },
     {
       "id": "ilford-sprite-35-ii",
@@ -1923,7 +1961,8 @@
       "cons": [],
       "official_url": "https://www.ilfordphoto.com/sprite-35-ii-camera/",
       "hot": 48.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "黑白胶片品牌入门机"
     },
     {
       "id": "reto3d-35mm-3d-camera",
@@ -1972,7 +2011,8 @@
       "cons": [],
       "official_url": "https://www.kodak.retopro.co/products/reto3d-35mm-3d-film-camera",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "小众3D胶片机"
     },
     {
       "id": "agfaphoto-reusable-photo-camera-35mm",
@@ -2021,7 +2061,8 @@
       "cons": [],
       "official_url": "https://www.agfaphoto-gtc.com/en/analog-cameras/",
       "hot": 51.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "欧洲渠道常见可复用胶片机"
     }
   ],
   "retro-digital-camera": [
@@ -2074,7 +2115,8 @@
       ],
       "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/",
       "hot": 61.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "2024-2026长期缺货 · 高热度（官网+公开资料）"
     },
     {
       "id": "fujifilm-x-t50",
@@ -2123,7 +2165,8 @@
       "cons": [],
       "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/",
       "hot": 49.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "胶片模拟转盘带来广泛关注"
     },
     {
       "id": "fujifilm-x-m5",
@@ -2172,7 +2215,8 @@
       "cons": [],
       "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-m5/",
       "hot": 58.0,
-      "sales": 59.0
+      "sales": 59.0,
+      "note": "入门视频 · 胶片模拟热度高"
     },
     {
       "id": "fujifilm-x-half",
@@ -2221,7 +2265,8 @@
       "cons": [],
       "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-half/",
       "hot": 59.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "社媒复古数码新品"
     },
     {
       "id": "fujifilm-x-e5",
@@ -2270,7 +2315,8 @@
       "cons": [],
       "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/",
       "hot": 59.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "旁轴风格富士新机"
     },
     {
       "id": "fujifilm-x-t5",
@@ -2319,7 +2365,8 @@
       "cons": [],
       "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/",
       "hot": 45.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "富士高阶摄影机仍是主力"
     },
     {
       "id": "fujifilm-x-s20",
@@ -2370,7 +2417,8 @@
       ],
       "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-s20/",
       "hot": 57.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "混合创作者热门"
     },
     {
       "id": "ricoh-gr-iii-hdf",
@@ -2421,7 +2469,8 @@
       ],
       "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/",
       "hot": 49.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "街拍口袋机热度稳定"
     },
     {
       "id": "ricoh-gr-iiix-hdf",
@@ -2470,7 +2519,8 @@
       "cons": [],
       "official_url": "https://www.ricoh-imaging.co.jp/english/products/gr-3x/",
       "hot": 49.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "40mm街拍口袋机"
     },
     {
       "id": "leica-d-lux-8",
@@ -2519,7 +2569,8 @@
       "cons": [],
       "official_url": "https://leica-camera.com/en-US/photography/cameras/d-lux/d-lux-8-black",
       "hot": 49.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "高端便携复古数码"
     },
     {
       "id": "nikon-z-f",
@@ -2568,7 +2619,8 @@
       "cons": [],
       "official_url": "https://www.nikonusa.com/p/z-f/1761",
       "hot": 57.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "复古全画幅热度高"
     },
     {
       "id": "nikon-z-fc",
@@ -2617,7 +2669,8 @@
       "cons": [],
       "official_url": "https://www.nikonusa.com/p/z-fc/1675",
       "hot": 38.0,
-      "sales": 51.0
+      "sales": 51.0,
+      "note": "复古APS-C入门"
     },
     {
       "id": "panasonic-lumix-s9",
@@ -2668,7 +2721,8 @@
       ],
       "official_url": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera",
       "hot": 61.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "Real Time LUT玩法热度高"
     },
     {
       "id": "kodak-charmera",
@@ -2717,7 +2771,8 @@
       "cons": [],
       "official_url": "https://www.kodak.com/en/consumer/product/cameras/digital/charmera-keychain-digital-camera/",
       "hot": 65.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "公开资料：发布后售罄 · 缺货"
     },
     {
       "id": "camp-snap-2",
@@ -2766,7 +2821,8 @@
       "cons": [],
       "official_url": "https://www.campsnapphoto.com/products/camp-snap-2",
       "hot": 71.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "新款无屏复古数码热度上升"
     },
     {
       "id": "paper-shoot-20mp",
@@ -2815,7 +2871,8 @@
       "cons": [],
       "official_url": "https://www.papershoot.com/products/paper-shoot-camera",
       "hot": 45.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "纸片相机复古数码代表"
     },
     {
       "id": "flashback-one35-v2",
@@ -2864,7 +2921,8 @@
       "cons": [],
       "official_url": "https://joinflashback.co/en-us/products/flashback-one35-v2-camera",
       "hot": 65.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "伪一次性胶片机社媒热度高"
     },
     {
       "id": "yashica-fx-d-s300-300",
@@ -2913,7 +2971,8 @@
       "cons": [],
       "official_url": "https://www.yashica.com/product-page/yashica-fx-d-300-digital-film-simulation-camera",
       "hot": 59.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "复古数码新品"
     },
     {
       "id": "yashica-funtastic-keychain-camera",
@@ -2962,7 +3021,8 @@
       "cons": [],
       "official_url": "https://www.yashica.com/",
       "hot": 53.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "受 Kodak Charmera 带动的钥匙扣相机趋势"
     },
     {
       "id": "fujifilm-instax-mini-evo",
@@ -3011,7 +3071,8 @@
       "cons": [],
       "official_url": "https://instax.com/mini_evo/en/",
       "hot": 53.0,
-      "sales": 53.0
+      "sales": 53.0,
+      "note": "混合拍立得 · 数码胶片效果热门"
     },
     {
       "id": "fujifilm-instax-wide-evo",
@@ -3060,7 +3121,8 @@
       "cons": [],
       "official_url": "https://instax.com/wide_evo/en/",
       "hot": 59.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "宽幅混合拍立得新品"
     },
     {
       "id": "kodak-mini-shot-3-retro",
@@ -3109,7 +3171,8 @@
       "cons": [],
       "official_url": "https://www.kodakphotoprinter.com/products/kodak-mini-shot-3-retro",
       "hot": 45.0,
-      "sales": 45.0
+      "sales": 45.0,
+      "note": "复古即时打印数码相机"
     }
   ]
 }

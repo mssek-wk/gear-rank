@@ -142,6 +142,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "官方曾因订单超预期暂停 · 延迟接单",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -150,7 +151,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -298,6 +299,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "高端胶片旁轴小众但稳定",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -306,7 +308,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -450,6 +452,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "高端机械胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -458,7 +461,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -602,6 +605,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "无测光纯机械胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -610,7 +614,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -758,6 +762,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "半格入门热卖产品线",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -766,7 +771,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -914,6 +919,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "半格胶片入门热门",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -922,7 +928,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1096,6 +1102,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "可复用傻瓜胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1104,7 +1111,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1248,6 +1255,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "复古造型可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1256,7 +1264,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1430,6 +1438,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "低价可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1438,7 +1447,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1582,6 +1591,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "M35增强款",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1590,7 +1600,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1764,6 +1774,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "京东 · 淘宝有评价与在售",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1772,7 +1783,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -1916,6 +1927,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "京东5000+评价（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -1924,7 +1936,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2072,6 +2084,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "创意胶片用户常见选择",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2080,7 +2093,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2228,6 +2241,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "全景胶片创意机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2236,7 +2250,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2380,6 +2394,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "经典玩具中画幅胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2388,7 +2403,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2532,6 +2547,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "罐头造型35mm创意机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2540,7 +2556,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2688,6 +2704,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "带自动卷片的入门胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2696,7 +2713,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2840,6 +2857,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "低价可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -2848,7 +2866,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -2992,6 +3010,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "黑白胶片品牌入门机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -3000,7 +3019,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -3144,6 +3163,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "小众3D胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -3152,7 +3172,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
@@ -3296,6 +3316,7 @@
     "rating": null,
     "reviews": null,
     "bsr": null,
+    "pop_note": "欧洲渠道常见可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-10",
@@ -3304,7 +3325,7 @@
       {
         "name": "示例数据",
         "url": "",
-        "fetched_at": "2026-06-10T00:16:17+00:00"
+        "fetched_at": "2026-06-10T00:31:03+00:00"
       }
     ],
     "price_display": ""
