@@ -10,8 +10,8 @@
 # 所以 CN 数据是「偶尔有会话时刷新」，Amazon 才是真·每天自动。登录失效就重跑 login_export.py。
 
 set -e
-SPIDER_DIR="$HOME/Desktop/四平台综合爬虫"
 REPO="$HOME/Desktop/gear-rank"
+SPIDER_DIR="$REPO/四平台综合爬虫"
 KEYWORD="${1:-拍立得}"
 
 echo "▶ 1/3 跑四平台爬虫（关键词：$KEYWORD）…"

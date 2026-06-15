@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """把「四平台综合爬虫」产出的 CSV 真实数据并入 gear-rank 的 platform_snapshot.json。
 
-来源：~/Desktop/四平台综合爬虫/采集数据/全平台汇总_<关键词>.csv（淘宝/京东/抖音/小红书）。
+来源：~/Desktop/gear-rank/四平台综合爬虫/采集数据/全平台汇总_<关键词>.csv（淘宝/京东/抖音/小红书）。
 做的事：
   - 解析 淘宝/京东 的「价格 + 付款数(真实销量)」→ 写入 snapshot items[id].taobao / .jd
   - 统计 抖音/小红书 出现该机型的笔记/视频条数 → buzz（讨论热度）
