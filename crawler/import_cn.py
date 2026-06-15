@@ -23,7 +23,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 SNAPSHOT = REPO / "data" / "platform_snapshot.json"
-DEFAULT_CSV = Path.home() / "Desktop" / "四平台综合爬虫" / "采集数据" / "全平台汇总_拍立得.csv"
+DEFAULT_CSV = REPO / "四平台综合爬虫" / "采集数据" / "全平台汇总_拍立得.csv"
 
 # 机型匹配：id -> 若干「关键词组」，任一组内关键词全部命中即算匹配（小写、去空格）。保守，命中才认。
 MATCH = {

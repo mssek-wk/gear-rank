@@ -8,3 +8,6 @@ crawler/.cn_session/
 
 # 京东联盟开发者凭证（绝不入库）
 crawler/.jd_union.json
+
+# 四平台综合爬虫：数据采集工具，含登录cookie(storage_state.json)+224MB采集图片，绝不入库
+四平台综合爬虫/
