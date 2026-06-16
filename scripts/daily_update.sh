@@ -4,7 +4,7 @@
 # launchd 环境的 PATH 很精简，这里显式补齐并全部用绝对路径。
 
 export PATH="$HOME/.local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
-REPO="$HOME/Desktop/gear-rank"
+REPO="$HOME/Desktop/photo web/gear-rank"
 LOG="$REPO/update.log"
 
 cd "$REPO" || exit 1
