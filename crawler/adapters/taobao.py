@@ -49,8 +49,9 @@ class TaobaoAdapter(Adapter):
             tb = blk.get("taobao")
             if tb:
                 it.platforms["taobao"] = tb
-                if not it.data_as_of:
-                    it.data_as_of = tb.get("as_of", "")
+                _as_of = tb.get("as_of", "")
+                if _as_of and _as_of > (it.data_as_of or ""):
+                    it.data_as_of = _as_of  # 取各平台最新日期，避免被先跑的平台占住
                 n += 1
             # 顺带载入社媒讨论热度 + 广告嫌疑标记（供前端展示/交叉验证）
             if blk.get("buzz"):
@@ -58,10 +59,10 @@ class TaobaoAdapter(Adapter):
         return n
 
     def enrich(self, category_id: str, items: list[Item]) -> None:
-        # 1) 先载入快照里的真实淘宝数据（由「四平台爬虫」抓取 + import_cn.py 导入）
+        # 1) 载入快照里的真实淘宝数据（手动浏览/截屏整理写入 platform_snapshot.json，见 WRITING.md）
         snap_n = self._load_snapshot(items)
         if snap_n:
-            print(f"  · 淘宝: {snap_n} 款用真实数据（四平台爬虫，截至快照日期）")
+            print(f"  · 淘宝: {snap_n} 款用真实数据（手动整理，截至快照日期）")
 
         # 2) 可选：有登录会话再用 Playwright 实时刷新（最佳努力，失败保留快照）
         if not SESSION.exists():

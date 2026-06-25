@@ -1,10 +1,12 @@
 {
-  "updated_at": "2026-06-15T17:58:20+08:00",
+  "updated_at": "2026-06-25T13:02:11+08:00",
   "generator": "hardware-rank crawler",
   "board_size": 8,
-  "platform_as_of": "2026-06-07",
+  "platform_as_of": "2026-06-25",
   "platform_sources": [
-    "Amazon US"
+    "Amazon US",
+    "淘宝",
+    "京东"
   ],
   "categories": [
     {
@@ -40,8 +42,8 @@
       "name_en": "Retro Digital Camera",
       "icon": "camera",
       "description": "模拟胶卷数码相机/复古数码在社媒推动下增长，价值在低压力拍摄、滤镜直出、无屏/低保真体验和复古外观，而非纯画质参数。",
-      "count": 22,
-      "total": 22
+      "count": 23,
+      "total": 23
     }
   ]
 }

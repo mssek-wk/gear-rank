@@ -1,297 +1,373 @@
 {
- "as_of": "2026-06-07",
- "source": "Amazon US",
- "items": {
-  "fujifilm-instax-mini-12": {
-   "amazon": {
-    "asin": "B0BWNYBRNL",
-    "rating": 4.6,
-    "reviews": 6068,
-    "price": 79.95,
-    "bsr": 219
-   },
-   "taobao": {
-    "currency": "CNY",
-    "price": 389.0,
-    "sales": 10000,
-    "as_of": "2026-06-08",
-    "source": "淘宝(四平台爬虫)"
-   }
-  },
-  "fujifilm-instax-wide-400": {
-   "amazon": {
-    "asin": "B0D6WXV3MF",
-    "rating": 3.8,
-    "reviews": 308,
-    "price": 168.0,
-    "bsr": 5311
-   }
-  },
-  "fujifilm-instax-mini-99": {
-   "amazon": {
-    "asin": "B0CXZQGL2D",
-    "rating": 4.6,
-    "reviews": 158,
-    "price": 207.58,
-    "bsr": 27200
-   }
-  },
-  "fujifilm-instax-square-sq40": {
-   "amazon": {
-    "asin": "B0C7KFDKCJ",
-    "rating": 4.4,
-    "reviews": 175,
-    "price": 269.94,
-    "bsr": 30011
-   }
-  },
-  "fujifilm-instax-mini-evo": {
-   "amazon": {
-    "asin": "B09M4DKBQ9",
-    "rating": 4.7,
-    "reviews": 1963,
-    "price": 219.99,
-    "bsr": 3438
-   }
-  },
-  "fujifilm-instax-pal": {
-   "amazon": {
-    "asin": "B0DGYZFXML",
-    "rating": 4.5,
-    "reviews": 32,
-    "price": 38.25,
-    "bsr": 36970
-   }
-  },
-  "fujifilm-instax-mini-41": {
-   "amazon": {
-    "asin": "B0F2V7RKXH",
-    "rating": 4.6,
-    "reviews": 254,
-    "price": 100.92,
-    "bsr": 4618
-   },
-   "taobao": {
-    "currency": "CNY",
-    "price": 999.0,
-    "sales": 9000,
-    "as_of": "2026-06-08",
-    "source": "淘宝(四平台爬虫)"
-   }
-  },
-  "polaroid-now-gen2": {
-   "amazon": {
-    "asin": "B0BVNMQ2XL",
-    "rating": 4.4,
-    "reviews": 1446,
-    "price": 101.99,
-    "bsr": 9316
-   }
-  },
-  "polaroid-go-gen2": {
-   "amazon": {
-    "asin": "B0CG7P9KTH",
-    "rating": 4.4,
-    "reviews": 1178,
-    "price": 79.99,
-    "bsr": 623
-   },
-   "taobao": {
-    "currency": "CNY",
-    "price": 615.0,
-    "sales": 10000,
-    "as_of": "2026-06-08",
-    "source": "淘宝(四平台爬虫)"
-   }
-  },
-  "polaroid-i-2": {
-   "amazon": {
-    "asin": "B0D4RC69HB",
-    "rating": 3.6,
-    "reviews": 3,
-    "price": null,
-    "bsr": 541918
-   }
-  },
-  "polaroid-now-plus-gen3": {
-   "amazon": {
-    "asin": "B0DTTPR5T3",
-    "rating": 4.4,
-    "reviews": 494,
-    "price": 179.99,
-    "bsr": 6935
-   }
-  },
-  "polaroid-flip": {
-   "amazon": {
-    "asin": "B0F993TYR9",
-    "rating": 4.6,
-    "reviews": 6,
-    "price": 219.99,
-    "bsr": 118349
-   }
-  },
-  "kodak-smile-plus": {
-   "amazon": {
-    "asin": "B0CQMNDL59",
-    "rating": 4.2,
-    "reviews": 244,
-    "price": 99.99,
-    "bsr": 12315
-   }
-  },
-  "leica-sofort-2": {
-   "amazon": {
-    "asin": "B0CNDBT3NX",
-    "rating": 4.3,
-    "reviews": 17,
-    "price": 398.34,
-    "bsr": 150468
-   }
-  },
-  "fujifilm-instax-mini-13": {
-   "amazon": {
-    "asin": "B0GRHR77S3",
-    "rating": 4.1,
-    "reviews": 10,
-    "price": 93.95,
-    "bsr": 36995
-   }
-  },
-  "fujifilm-instax-mini-liplay-plus": {
-   "amazon": {
-    "asin": "B0FT92QK3L",
-    "rating": 4.2,
-    "reviews": 9,
-    "price": 227.0,
-    "bsr": 41975
-   }
-  },
-  "chuzhao-d1-pro": {
-   "jd": {
-    "currency": "CNY",
-    "price": 644.0,
-    "reviews": 5000,
-    "good_rate": 98.0,
-    "as_of": "2026-06-08",
-    "source": "京东搜索结果(四平台综合爬虫)"
-   }
-  },
-  "chuzhao-x1": {
-   "jd": {
-    "currency": "CNY",
-    "price": 499.0,
-    "reviews": 2000,
-    "good_rate": 97.0,
-    "as_of": "2026-06-07"
-   },
-   "taobao": {
-    "currency": "CNY",
-    "price": 449.0,
-    "sales": 3000,
-    "as_of": "2026-06-08",
-    "source": "淘宝(四平台爬虫)"
-   }
-  },
-  "fujifilm-x-e5": {
-   "jd": {
-    "currency": "CNY",
-    "price": 11490.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   },
-   "taobao": {
-    "currency": "CNY",
-    "price": 9999.0,
-    "as_of": "2026-06-08",
-    "source": "天猫(语雀竞品分析)"
-   }
-  },
-  "insta360-pocket-printer": {
-   "jd": {
-    "currency": "CNY",
-    "price": 4098.0,
-    "as_of": "2026-06-08",
-    "source": "京东/官网(语雀竞品分析)"
-   }
-  },
-  "jingmo-naike-printer": {
-   "jd": {
-    "currency": "CNY",
-    "price": 529.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
-  },
-  "aigo-d9-pro": {
-   "jd": {
-    "currency": "CNY",
-    "price": 399.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
-  },
-  "aimoer-c40": {
-   "jd": {
-    "currency": "CNY",
-    "price": 699.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
-  },
-  "hprt-cp6000": {
-   "jd": {
-    "currency": "CNY",
-    "price": 889.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   },
-   "taobao": {
-    "currency": "CNY",
-    "price": 657.72,
-    "as_of": "2026-06-08",
-    "source": "淘宝(国补后，语雀竞品分析)"
-   }
-  },
-  "fujifilm-quicksnap": {
-   "jd": {
-    "currency": "CNY",
-    "price": 168.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
-  },
-  "jiyin-dmp100": {
-   "jd": {
-    "currency": "CNY",
-    "price": 499.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
-  },
-  "hprt-cp2100": {
-   "jd": {
-    "currency": "CNY",
-    "price": 699.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
-  },
-  "canon-selphy-qx20": {
-   "jd": {
-    "currency": "CNY",
-    "price": 899.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
-  },
-  "kodak-smile-basic": {
-   "jd": {
-    "currency": "CNY",
-    "price": 899.0,
-    "as_of": "2026-06-08",
-    "source": "京东商品页"
-   }
+  "as_of": "2026-06-07",
+  "source": "Amazon US",
+  "items": {
+    "fujifilm-instax-mini-12": {
+      "amazon": {
+        "asin": "B0BWNYBRNL",
+        "rating": 4.6,
+        "reviews": 6068,
+        "price": 79.95,
+        "bsr": 219
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 389.0,
+        "sales": 10000,
+        "as_of": "2026-06-08",
+        "source": "淘宝(四平台爬虫)"
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 668.0,
+        "as_of": "2026-06-25",
+        "source": "京东(手动·截屏读页 2026-06-25)"
+      }
+    },
+    "fujifilm-instax-wide-400": {
+      "amazon": {
+        "asin": "B0D6WXV3MF",
+        "rating": 3.8,
+        "reviews": 308,
+        "price": 168.0,
+        "bsr": 5311
+      }
+    },
+    "fujifilm-instax-mini-99": {
+      "amazon": {
+        "asin": "B0CXZQGL2D",
+        "rating": 4.6,
+        "reviews": 158,
+        "price": 207.58,
+        "bsr": 27200
+      }
+    },
+    "fujifilm-instax-square-sq40": {
+      "amazon": {
+        "asin": "B0C7KFDKCJ",
+        "rating": 4.4,
+        "reviews": 175,
+        "price": 269.94,
+        "bsr": 30011
+      }
+    },
+    "fujifilm-instax-mini-evo": {
+      "amazon": {
+        "asin": "B09M4DKBQ9",
+        "rating": 4.7,
+        "reviews": 1963,
+        "price": 219.99,
+        "bsr": 3438
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 1347.0,
+        "as_of": "2026-06-25",
+        "source": "京东(手动·截屏读页 2026-06-25)"
+      }
+    },
+    "fujifilm-instax-pal": {
+      "amazon": {
+        "asin": "B0DGYZFXML",
+        "rating": 4.5,
+        "reviews": 32,
+        "price": 38.25,
+        "bsr": 36970
+      }
+    },
+    "fujifilm-instax-mini-41": {
+      "amazon": {
+        "asin": "B0F2V7RKXH",
+        "rating": 4.6,
+        "reviews": 254,
+        "price": 100.92,
+        "bsr": 4618
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 999.0,
+        "sales": 9000,
+        "as_of": "2026-06-08",
+        "source": "淘宝(四平台爬虫)"
+      }
+    },
+    "polaroid-now-gen2": {
+      "amazon": {
+        "asin": "B0BVNMQ2XL",
+        "rating": 4.4,
+        "reviews": 1446,
+        "price": 101.99,
+        "bsr": 9316
+      }
+    },
+    "polaroid-go-gen2": {
+      "amazon": {
+        "asin": "B0CG7P9KTH",
+        "rating": 4.4,
+        "reviews": 1178,
+        "price": 79.99,
+        "bsr": 623
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 615.0,
+        "sales": 10000,
+        "as_of": "2026-06-08",
+        "source": "淘宝(四平台爬虫)"
+      }
+    },
+    "polaroid-i-2": {
+      "amazon": {
+        "asin": "B0D4RC69HB",
+        "rating": 3.6,
+        "reviews": 3,
+        "price": null,
+        "bsr": 541918
+      }
+    },
+    "polaroid-now-plus-gen3": {
+      "amazon": {
+        "asin": "B0DTTPR5T3",
+        "rating": 4.4,
+        "reviews": 494,
+        "price": 179.99,
+        "bsr": 6935
+      }
+    },
+    "polaroid-flip": {
+      "amazon": {
+        "asin": "B0F993TYR9",
+        "rating": 4.6,
+        "reviews": 6,
+        "price": 219.99,
+        "bsr": 118349
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 1699.0,
+        "sales": 22,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
+    "kodak-smile-plus": {
+      "amazon": {
+        "asin": "B0CQMNDL59",
+        "rating": 4.2,
+        "reviews": 244,
+        "price": 99.99,
+        "bsr": 12315
+      }
+    },
+    "leica-sofort-2": {
+      "amazon": {
+        "asin": "B0CNDBT3NX",
+        "rating": 4.3,
+        "reviews": 17,
+        "price": 398.34,
+        "bsr": 150468
+      }
+    },
+    "fujifilm-instax-mini-13": {
+      "amazon": {
+        "asin": "B0GRHR77S3",
+        "rating": 4.1,
+        "reviews": 10,
+        "price": 93.95,
+        "bsr": 36995
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 758.0,
+        "as_of": "2026-06-25",
+        "source": "京东(手动·截屏读页 2026-06-25)"
+      }
+    },
+    "fujifilm-instax-mini-liplay-plus": {
+      "amazon": {
+        "asin": "B0FT92QK3L",
+        "rating": 4.2,
+        "reviews": 9,
+        "price": 227.0,
+        "bsr": 41975
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 1599.0,
+        "sales": 500,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
+    "chuzhao-d1-pro": {
+      "jd": {
+        "currency": "CNY",
+        "price": 644.0,
+        "reviews": 5000,
+        "good_rate": 98.0,
+        "as_of": "2026-06-08",
+        "source": "京东搜索结果(四平台综合爬虫)"
+      }
+    },
+    "chuzhao-x1": {
+      "jd": {
+        "currency": "CNY",
+        "price": 499.0,
+        "reviews": 2000,
+        "good_rate": 97.0,
+        "as_of": "2026-06-07"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 449.0,
+        "sales": 3000,
+        "as_of": "2026-06-08",
+        "source": "淘宝(四平台爬虫)"
+      }
+    },
+    "fujifilm-x-e5": {
+      "jd": {
+        "currency": "CNY",
+        "price": 11490.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 9999.0,
+        "as_of": "2026-06-08",
+        "source": "天猫(语雀竞品分析)"
+      }
+    },
+    "insta360-pocket-printer": {
+      "jd": {
+        "currency": "CNY",
+        "price": 4098.0,
+        "as_of": "2026-06-08",
+        "source": "京东/官网(语雀竞品分析)"
+      }
+    },
+    "jingmo-naike-printer": {
+      "jd": {
+        "currency": "CNY",
+        "price": 529.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 474.05,
+        "sales": 200,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
+    "aigo-d9-pro": {
+      "jd": {
+        "currency": "CNY",
+        "price": 399.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "aimoer-c40": {
+      "jd": {
+        "currency": "CNY",
+        "price": 699.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "hprt-cp6000": {
+      "jd": {
+        "currency": "CNY",
+        "price": 889.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 657.72,
+        "as_of": "2026-06-08",
+        "source": "淘宝(国补后，语雀竞品分析)"
+      }
+    },
+    "fujifilm-quicksnap": {
+      "jd": {
+        "currency": "CNY",
+        "price": 168.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "jiyin-dmp100": {
+      "jd": {
+        "currency": "CNY",
+        "price": 499.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "hprt-cp2100": {
+      "jd": {
+        "currency": "CNY",
+        "price": 699.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "canon-selphy-qx20": {
+      "jd": {
+        "currency": "CNY",
+        "price": 899.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "kodak-smile-basic": {
+      "jd": {
+        "currency": "CNY",
+        "price": 899.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      }
+    },
+    "fujifilm-instax-mini-liplay": {
+      "taobao": {
+        "currency": "CNY",
+        "price": 1299.0,
+        "sales": 600,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
+    "fujifilm-instax-evo-cinema": {
+      "taobao": {
+        "currency": "CNY",
+        "price": 2799.0,
+        "sales": 43,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
+    "hprt-z1": {
+      "taobao": {
+        "currency": "CNY",
+        "price": 699.0,
+        "sales": 500,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
+    "chuzhao-m1": {
+      "taobao": {
+        "currency": "CNY",
+        "price": 209.0,
+        "sales": 10000,
+        "good_rate": 98.9,
+        "as_of": "2026-06-25",
+        "source": "天猫商品页(手动·截屏 2026-06-25)"
+      }
+    }
   }
- }
 }

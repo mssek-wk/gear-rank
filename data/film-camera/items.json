@@ -59,17 +59,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开反馈显示需求超预期，适合入门但价格高于玩具胶片机。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -80,17 +70,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开反馈显示需求超预期，适合入门但价格高于玩具胶片机。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -101,17 +81,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开反馈显示需求超预期，适合入门但价格高于玩具胶片机。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -145,13 +115,13 @@
     "pop_note": "官方曾因订单超预期暂停 · 延迟接单",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -216,17 +186,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户重视机械质感、品牌和保值，价格门槛高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -237,17 +197,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户重视机械质感、品牌和保值，价格门槛高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -258,17 +208,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户重视机械质感、品牌和保值，价格门槛高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -302,13 +242,13 @@
     "pop_note": "高端胶片旁轴小众但稳定",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -369,17 +309,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价集中在可靠、纯机械体验和价格昂贵。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -390,17 +320,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价集中在可靠、纯机械体验和价格昂贵。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -411,17 +331,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价集中在可靠、纯机械体验和价格昂贵。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -455,13 +365,13 @@
     "pop_note": "高端机械胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -522,17 +432,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重纯粹机械体验，不适合需要自动曝光的新手。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -543,17 +443,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重纯粹机械体验，不适合需要自动曝光的新手。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -564,17 +454,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重纯粹机械体验，不适合需要自动曝光的新手。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -608,13 +488,13 @@
     "pop_note": "无测光纯机械胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -679,17 +559,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢便宜、省胶卷、外观复古，画质取决于光线和胶卷。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -700,17 +570,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢便宜、省胶卷、外观复古，画质取决于光线和胶卷。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -721,17 +581,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢便宜、省胶卷、外观复古，画质取决于光线和胶卷。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -765,13 +615,13 @@
     "pop_note": "半格入门热卖产品线",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -836,17 +686,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "相较H35增加新功能，用户关注夜拍/星芒和手感。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -857,17 +697,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "相较H35增加新功能，用户关注夜拍/星芒和手感。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -878,17 +708,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "相较H35增加新功能，用户关注夜拍/星芒和手感。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -922,13 +742,13 @@
     "pop_note": "半格胶片入门热门",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -989,28 +809,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢可复用和低门槛",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "弱点是塑料感和固定焦点。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1020,28 +820,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢可复用和低门槛",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "弱点是塑料感和固定焦点。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1051,28 +831,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢可复用和低门槛",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "弱点是塑料感和固定焦点。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Kodak 官网",
@@ -1105,13 +865,13 @@
     "pop_note": "可复用傻瓜胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1172,17 +932,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注外观和轻便，适合入门玩具胶片。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1193,17 +943,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注外观和轻便，适合入门玩具胶片。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1214,17 +954,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注外观和轻便，适合入门玩具胶片。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1258,13 +988,13 @@
     "pop_note": "复古造型可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1325,28 +1055,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "优点是便宜好看",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺点是画质与机械可靠性有限。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1356,28 +1066,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "优点是便宜好看",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺点是画质与机械可靠性有限。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1387,28 +1077,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "优点是便宜好看",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺点是画质与机械可靠性有限。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Kodak 官网",
@@ -1441,13 +1111,13 @@
     "pop_note": "低价可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1508,17 +1178,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户用于低成本胶片体验，需接受傻瓜机限制。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1529,17 +1189,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户用于低成本胶片体验，需接受傻瓜机限制。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1550,17 +1200,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户用于低成本胶片体验，需接受傻瓜机限制。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1594,13 +1234,13 @@
     "pop_note": "M35增强款",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1625,8 +1265,8 @@
     "url": "",
     "official_url": "https://www.fujifilm.com/us/en/consumer/films/quicksnap",
     "summary": "一次性35mm胶卷相机；27/36张版本；适合旅行、婚礼派对、一次性记录。",
-    "price_value": null,
-    "currency": "USD",
+    "price_value": 168.0,
+    "currency": "CNY",
     "tags": [
       "旅行",
       "婚礼派对",
@@ -1661,28 +1301,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "渠道用户重视方便和氛围",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "痛点是冲扫成本。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1692,28 +1312,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "渠道用户重视方便和氛围",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "痛点是冲扫成本。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1723,28 +1323,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "渠道用户重视方便和氛围",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "痛点是冲扫成本。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -1769,24 +1349,30 @@
       "manual": {
         "hot": 51.0,
         "sales": 45.0
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 168.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
       }
     },
     "rating": null,
     "reviews": null,
     "bsr": null,
     "pop_note": "京东 · 淘宝有评价与在售",
-    "data_as_of": "",
+    "data_as_of": "2026-06-08",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
-    "price_display": ""
+    "price_display": "¥168"
   },
   {
     "id": "kodak-funsaver",
@@ -1844,17 +1430,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢胶片随机感和易用性，关注冲扫服务。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1865,17 +1441,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢胶片随机感和易用性，关注冲扫服务。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1886,17 +1452,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢胶片随机感和易用性，关注冲扫服务。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1930,13 +1486,13 @@
     "pop_note": "京东5000+评价（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2001,17 +1557,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重创意玩法，非追求锐度/自动化。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2022,17 +1568,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重创意玩法，非追求锐度/自动化。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2043,17 +1579,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重创意玩法，非追求锐度/自动化。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2087,13 +1613,13 @@
     "pop_note": "创意胶片用户常见选择",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2158,17 +1684,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "2026新色带来新关注，用户喜欢非常规全景效果。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2179,17 +1695,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "2026新色带来新关注，用户喜欢非常规全景效果。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2200,17 +1706,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "2026新色带来新关注，用户喜欢非常规全景效果。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2244,13 +1740,13 @@
     "pop_note": "全景胶片创意机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2311,17 +1807,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢梦幻和不可控，成片稳定性不是卖点。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2332,17 +1818,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢梦幻和不可控，成片稳定性不是卖点。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2353,17 +1829,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢梦幻和不可控，成片稳定性不是卖点。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2397,13 +1863,13 @@
     "pop_note": "经典玩具中画幅胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2464,17 +1930,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "造型强，适合礼物/玩具摄影。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2485,17 +1941,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "造型强，适合礼物/玩具摄影。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2506,17 +1952,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "造型强，适合礼物/玩具摄影。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2550,13 +1986,13 @@
     "pop_note": "罐头造型35mm创意机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2621,17 +2057,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重操作更接近傻瓜机，适合不想手动过片的新手。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2642,17 +2068,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重操作更接近傻瓜机，适合不想手动过片的新手。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2663,17 +2079,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重操作更接近傻瓜机，适合不想手动过片的新手。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2707,13 +2113,13 @@
     "pop_note": "带自动卷片的入门胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2774,17 +2180,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户反馈多为低价入门，画质符合玩具相机预期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2795,17 +2191,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户反馈多为低价入门，画质符合玩具相机预期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2816,17 +2202,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户反馈多为低价入门，画质符合玩具相机预期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2860,13 +2236,13 @@
     "pop_note": "低价可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2927,17 +2303,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注价格低和品牌胶片搭配，非高画质机。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2948,17 +2314,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注价格低和品牌胶片搭配，非高画质机。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2969,17 +2325,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注价格低和品牌胶片搭配，非高画质机。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3013,13 +2359,13 @@
     "pop_note": "黑白胶片品牌入门机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -3080,17 +2426,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢新奇社媒效果，冲扫后处理步骤更多。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3101,17 +2437,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢新奇社媒效果，冲扫后处理步骤更多。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3122,17 +2448,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢新奇社媒效果，冲扫后处理步骤更多。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3166,13 +2482,13 @@
     "pop_note": "小众3D胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -3233,17 +2549,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重外观和简单操作，规格接近 Kodak M35/M38。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3254,17 +2560,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重外观和简单操作，规格接近 Kodak M35/M38。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3275,17 +2571,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重外观和简单操作，规格接近 Kodak M35/M38。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3319,13 +2605,13 @@
     "pop_note": "欧洲渠道常见可复用胶片机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""

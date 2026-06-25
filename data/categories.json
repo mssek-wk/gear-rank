@@ -9,8 +9,20 @@
       "enabled": true,
       "order": 1,
       "description": "即拍即得相机 —— 拍完当场出片。不限成像技术：银盐(富士/宝丽来/徕卡)、ZINK 免墨(柯达/Insta360/佳能)、热升华(汉印/初照等) 均含在内。",
-      "scope": ["银盐", "ZINK 免墨", "热升华", "混合式"],
-      "adapters": ["sample", "wikimedia", "official", "amazon", "jd", "taobao"],
+      "scope": [
+        "银盐",
+        "ZINK 免墨",
+        "热升华",
+        "混合式"
+      ],
+      "adapters": [
+        "sample",
+        "wikimedia",
+        "official",
+        "amazon",
+        "jd",
+        "taobao"
+      ],
       "currency": "CNY"
     },
     {
@@ -21,8 +33,17 @@
       "enabled": true,
       "order": 2,
       "description": "2026 运动相机市场由 DJI、Insta360、GoPro 领跑，SJCAM/AKASO 等覆盖入门价位；需求集中在骑行、摩托、潜水、滑雪、Vlog、POV 和全景二次构图。",
-      "scope": ["运动防水", "全景", "穿戴/拇指机", "Vlog"],
-      "adapters": ["sample"],
+      "scope": [
+        "运动防水",
+        "全景",
+        "穿戴/拇指机",
+        "Vlog"
+      ],
+      "adapters": [
+        "sample",
+        "jd",
+        "taobao"
+      ],
       "currency": "CNY"
     },
     {
@@ -33,8 +54,18 @@
       "enabled": true,
       "order": 3,
       "description": "胶片相机延续复古回潮，新品集中在半格、一次性/可复用傻瓜机和 Lomography 创意机；需求来自旅行、婚礼、派对、街拍与低门槛胶片体验。",
-      "scope": ["半格", "一次性", "可复用傻瓜机", "创意/玩具机", "高端旁轴"],
-      "adapters": ["sample"],
+      "scope": [
+        "半格",
+        "一次性",
+        "可复用傻瓜机",
+        "创意/玩具机",
+        "高端旁轴"
+      ],
+      "adapters": [
+        "sample",
+        "jd",
+        "taobao"
+      ],
       "currency": "CNY"
     },
     {
@@ -45,8 +76,18 @@
       "enabled": true,
       "order": 4,
       "description": "模拟胶卷数码相机/复古数码在社媒推动下增长，价值在低压力拍摄、滤镜直出、无屏/低保真体验和复古外观，而非纯画质参数。",
-      "scope": ["胶片模拟", "复古数码", "无屏/低保真", "钥匙扣玩具机", "混合拍立得"],
-      "adapters": ["sample"],
+      "scope": [
+        "胶片模拟",
+        "复古数码",
+        "无屏/低保真",
+        "钥匙扣玩具机",
+        "混合拍立得"
+      ],
+      "adapters": [
+        "sample",
+        "jd",
+        "taobao"
+      ],
       "currency": "CNY"
     }
   ],

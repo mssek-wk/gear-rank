@@ -2,31 +2,31 @@
   "latest": [
     "camp-snap-2",
     "yashica-funtastic-keychain-camera",
+    "chuzhao-m1",
     "yashica-fx-d-s300-300",
     "kodak-charmera",
     "flashback-one35-v2",
     "fujifilm-x-half",
-    "fujifilm-x-e5",
-    "fujifilm-instax-wide-evo"
+    "fujifilm-x-e5"
   ],
   "hottest": [
     "camp-snap-2",
+    "chuzhao-m1",
     "kodak-charmera",
     "flashback-one35-v2",
     "fujifilm-x100vi",
     "panasonic-lumix-s9",
     "fujifilm-x-half",
-    "fujifilm-x-e5",
-    "yashica-fx-d-s300-300"
+    "fujifilm-x-e5"
   ],
   "bestselling": [
+    "chuzhao-m1",
     "fujifilm-x-m5",
     "camp-snap-2",
     "kodak-charmera",
     "flashback-one35-v2",
     "fujifilm-x100vi",
     "panasonic-lumix-s9",
-    "fujifilm-x-s20",
-    "nikon-z-f"
+    "fujifilm-x-s20"
   ]
 }

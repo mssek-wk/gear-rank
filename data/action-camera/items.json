@@ -59,17 +59,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "京东/淘宝用户关注画质、防抖、续航与骑行潜水稳定性。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -80,17 +70,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "京东/淘宝用户关注画质、防抖、续航与骑行潜水稳定性。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -101,17 +81,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "京东/淘宝用户关注画质、防抖、续航与骑行潜水稳定性。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -145,13 +115,13 @@
     "pop_note": "京东20万+评价 · 淘宝10万+付款（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -216,17 +186,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测多认为画质与低光相比前代提升，性价比高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -237,17 +197,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测多认为画质与低光相比前代提升，性价比高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -258,17 +208,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测多认为画质与低光相比前代提升，性价比高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -302,13 +242,13 @@
     "pop_note": "国内电商仍为主销款之一",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -373,17 +313,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户常把它作为低价入门 Action 系列选择。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -394,17 +324,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户常把它作为低价入门 Action 系列选择。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -415,17 +335,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户常把它作为低价入门 Action 系列选择。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -459,13 +369,13 @@
     "pop_note": "老款 · 二手 · 促销渠道仍有需求",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -530,17 +440,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝热度高，用户看重小体积、亲子和骑行随身。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -551,17 +451,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝热度高，用户看重小体积、亲子和骑行随身。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -572,17 +462,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝热度高，用户看重小体积、亲子和骑行随身。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -616,13 +496,13 @@
     "pop_note": "淘宝运动相机结果含 DJI Osmo Nano 6万+付款（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -687,17 +567,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开讨论集中在 DJI 进入全景相机后与 Insta360 的竞争。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -708,17 +578,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开讨论集中在 DJI 进入全景相机后与 Insta360 的竞争。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -729,17 +589,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开讨论集中在 DJI 进入全景相机后与 Insta360 的竞争。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -773,13 +623,13 @@
     "pop_note": "360全景新品热度高（官网+公开资料）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -844,17 +694,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝评论提到画质、续航、防抖和上手；小红书有大量参数设置笔记。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -865,17 +705,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝评论提到画质、续航、防抖和上手；小红书有大量参数设置笔记。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -886,17 +716,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝评论提到画质、续航、防抖和上手；小红书有大量参数设置笔记。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -930,13 +750,13 @@
     "pop_note": "淘宝3万+付款 · 小红书参数笔记活跃（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1001,17 +821,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测认可弱光和翻转屏，升级用户会比较 Ace Pro 2。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1022,17 +832,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测认可弱光和翻转屏，升级用户会比较 Ace Pro 2。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1043,17 +843,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测认可弱光和翻转屏，升级用户会比较 Ace Pro 2。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1087,13 +877,13 @@
     "pop_note": "上一代高端运动相机仍在渠道流通",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1158,17 +948,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注画质、耐用性、续航和后期裁切效率。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1179,17 +959,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注画质、耐用性、续航和后期裁切效率。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1200,17 +970,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注画质、耐用性、续航和后期裁切效率。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1244,13 +1004,13 @@
     "pop_note": "2025 · 2026全景旗舰关注度高（官网+公开资料）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1315,17 +1075,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价常提到二次构图方便但文件/后期负担较大。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1336,17 +1086,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价常提到二次构图方便但文件/后期负担较大。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1357,17 +1097,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价常提到二次构图方便但文件/后期负担较大。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1401,13 +1131,13 @@
     "pop_note": "全景主销前代，价格下探",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1472,17 +1202,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝用户关注小体积、插卡版、近距离拍摄配件。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1493,17 +1213,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝用户关注小体积、插卡版、近距离拍摄配件。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1514,17 +1224,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "淘宝用户关注小体积、插卡版、近距离拍摄配件。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1558,13 +1258,13 @@
     "pop_note": "淘宝3万+付款相关（官网+爬虫）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1629,28 +1329,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢低存在感和穿戴灵活",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是小机身续航/散热。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1660,28 +1340,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢低存在感和穿戴灵活",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是小机身续航/散热。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1691,28 +1351,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢低存在感和穿戴灵活",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是小机身续航/散热。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Insta360 官网",
@@ -1745,13 +1385,13 @@
     "pop_note": "小型穿戴相机代表",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1816,17 +1456,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开用户认可生态和耐用性，也常比较低光/续航与 DJI/Insta360。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1837,17 +1467,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开用户认可生态和耐用性，也常比较低光/续航与 DJI/Insta360。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1858,17 +1478,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开用户认可生态和耐用性，也常比较低光/续航与 DJI/Insta360。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1902,13 +1512,13 @@
     "pop_note": "GoPro高端主力机型",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1973,17 +1583,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价关注稳定性、生态配件和云服务。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1994,17 +1594,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价关注稳定性、生态配件和云服务。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2015,17 +1605,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价关注稳定性、生态配件和云服务。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2059,13 +1639,13 @@
     "pop_note": "前代旗舰，折扣渠道活跃",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2130,17 +1710,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "GoPro官网已展示 MAX2；市场关注其能否重新竞争 Insta360 X 系列。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2151,17 +1721,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "GoPro官网已展示 MAX2；市场关注其能否重新竞争 Insta360 X 系列。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2172,17 +1732,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "GoPro官网已展示 MAX2；市场关注其能否重新竞争 Insta360 X 系列。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2216,13 +1766,13 @@
     "pop_note": "GoPro官网展示新 MAX2 360 系列（官网+公开资料）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2287,17 +1837,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注易用、耐用和入门价格。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2308,17 +1848,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注易用、耐用和入门价格。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2329,17 +1859,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注易用、耐用和入门价格。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2373,13 +1893,13 @@
     "pop_note": "GoPro小型入门线",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2444,28 +1964,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "海外用户关注性价比",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板通常是低光和防抖不及旗舰。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -2475,28 +1975,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "海外用户关注性价比",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板通常是低光和防抖不及旗舰。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -2506,28 +1986,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "海外用户关注性价比",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板通常是低光和防抖不及旗舰。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "AKASO 官网",
@@ -2560,13 +2020,13 @@
     "pop_note": "海外预算运动相机活跃",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2631,17 +2091,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "Amazon/海外用户常作为 GoPro 平替入门。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2652,17 +2102,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "Amazon/海外用户常作为 GoPro 平替入门。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2673,17 +2113,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "Amazon/海外用户常作为 GoPro 平替入门。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2717,13 +2147,13 @@
     "pop_note": "预算防水运动相机常见型号",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2784,28 +2214,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "海外评价量大，优点是便宜",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺点是画质/稳定性有限。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -2815,28 +2225,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "海外评价量大，优点是便宜",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺点是画质/稳定性有限。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -2846,28 +2236,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "海外评价量大，优点是便宜",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺点是画质/稳定性有限。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "AKASO 官网",
@@ -2900,13 +2270,13 @@
     "pop_note": "低价入门运动相机常青款",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2971,17 +2341,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "低价段用户关注便携和第一视角，需核实真实防抖画质。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2992,17 +2352,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "低价段用户关注便携和第一视角，需核实真实防抖画质。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3013,17 +2363,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "低价段用户关注便携和第一视角，需核实真实防抖画质。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3057,13 +2397,13 @@
     "pop_note": "爬虫 · 官网：入门拇指相机线",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -3128,17 +2468,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注价格、配件和续航。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3149,17 +2479,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注价格、配件和续航。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3170,17 +2490,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注价格、配件和续航。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3214,13 +2524,13 @@
     "pop_note": "SJCAM中端运动相机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""

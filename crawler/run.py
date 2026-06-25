@@ -106,22 +106,35 @@ def main() -> int:
                 "boards": json.loads((cdir / "boards.json").read_text(encoding="utf-8")),
             }
 
-    # 平台数据截至日期（来自快照），用于前端透明标注
+    # 平台数据截至日期 + 实际参与平台（来自快照），用于前端透明标注。
+    # 来源/日期均按快照里真实存在的平台动态生成：哪个平台有数据就列哪个，
+    # 截至日期取所有平台中最新的一个。淘宝/京东接入后自动出现，无需改代码。
     platform_as_of = ""
+    _PLAT_LABEL = {"amazon": "Amazon US", "taobao": "淘宝", "jd": "京东", "manual": "手动"}
+    present = set()
     snap = pipeline.DATA_DIR / "platform_snapshot.json"
     if snap.exists():
         try:
             import json as _j
-            platform_as_of = _j.loads(snap.read_text(encoding="utf-8")).get("as_of", "")
+            _snap = _j.loads(snap.read_text(encoding="utf-8"))
+            dates = [_snap.get("as_of", "")]
+            for _mid, _plats in (_snap.get("items") or {}).items():
+                for _p, _d in (_plats or {}).items():
+                    present.add(_p)
+                    if isinstance(_d, dict) and _d.get("as_of"):
+                        dates.append(_d["as_of"])
+            platform_as_of = max(d for d in dates if d) if any(dates) else ""
         except Exception:
             pass
+    platform_sources = [_PLAT_LABEL[p] for p in ("amazon", "taobao", "jd", "manual") if p in present] \
+        or ["Amazon US"]
 
     meta = {
         "updated_at": pipeline.now_iso(),
         "generator": "hardware-rank crawler",
         "board_size": pipeline.BOARD_SIZE,
         "platform_as_of": platform_as_of,
-        "platform_sources": ["Amazon US"],   # JD/淘宝接入后追加
+        "platform_sources": platform_sources,
         "categories": summaries,
     }
     pipeline.write_meta(meta)

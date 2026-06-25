@@ -1,369 +1,312 @@
 # DESIGN.md
 
-> 像美术馆白墙上的一张产品标签 —— 让硬件本身成为主角，榜单是安静而精确的排布。
+> 像一场高端相机的暗房发布会 —— 深色幕布上，产品在流动的极光里被聚光灯逐一点亮，数据精确跳动。
 
 ## 1. Visual Theme & Atmosphere
 
-**Style**: 极简产品橱窗（Minimal Pure / Product Showcase）
-**Keywords**: 干净、留白、精确、安静、高级、产品为主角、克制
-**Tone**: 冷静中性、画廊感、值得信赖 — NOT 花哨、堆砌、廉价、促销感
-**Feel**: 像高端相机品牌官网的展示页，又像一本排版克制的器材年鉴；产品图浮在大量白底之上，文字像标签一样精确。
+**Style**: 暗色高级发布会感（Dark Editorial / Product Keynote）
+**Keywords**: 深邃、高级、冷静、科技感、流光、聚光、精确、产品为主角
+**Tone**: 像高端相机品牌的新品发布页 + 排版克制的器材年鉴 —— NOT 花哨、廉价、促销、喧闹
+**Feel**: 深色底幕上浮动柔和极光，产品卡是磨砂玻璃，鼠标划过卡片轻微 3D 倾斜并亮起聚光；榜单数字滚动跳到位。冷静但有「卧槽」时刻。
 
-**Interaction Tier**: L2 流畅交互
-**Dependencies**: CSS + 原生 JS（IntersectionObserver / rAF）。不引入 GSAP / Lenis —— 极简调性下用最轻的实现达成 reveal、视差、聚光灯、磁吸。
+**Interaction Tier**: **L3 沉浸体验**
+**Dependencies**: **纯 CSS + 原生 JS，零外部库**（不引 Three.js / OGL / GSAP / Lenis）。极光背景用 Canvas-2D 自实现（离屏 IntersectionObserver 暂停）。
+> **有意不用 WebGL**：本站是静态产物，需同时支持 GitHub Pages 与「双击 index.html 离线打开」，且无构建步骤。故用 Canvas-2D 极光 + CSS 3D 倾斜达成 L3 签名时刻，规避 Three.js/OGL 的体积与离线加载问题。性能更可控。
 
 ## 2. Color Palette & Roles
 
 ```css
 :root {
-  /* Backgrounds */
-  --bg: #FAFAFA;                 /* 页面背景，近白冷调 */
-  --surface: #FFFFFF;            /* 卡片 / 容器 */
-  --surface-alt: #F4F4F3;        /* 交替 section / 次级面 */
-  --surface-hover: #F0F0EE;      /* 悬停态表面 */
+  /* Backgrounds — 深色幕布 */
+  --bg: #0A0A0F;                 /* 页面底，近黑冷蓝 */
+  --bg-2: #0E0E16;               /* 交替 section */
+  --surface: rgba(255,255,255,.045);   /* 玻璃卡面（叠在极光上） */
+  --surface-solid: #14141C;      /* 不透明面（详情/表格底） */
+  --surface-hover: rgba(255,255,255,.07);
 
   /* Borders */
-  --border: #E8E8E8;             /* 默认边框 */
-  --border-hover: #D2D2D2;       /* 悬停边框 */
-  --border-strong: #1A1A1A;      /* 强调实线（按钮、分隔） */
+  --border: rgba(255,255,255,.10);
+  --border-hover: rgba(255,255,255,.20);
+  --border-strong: rgba(255,255,255,.85);
 
-  /* Text */
-  --text: #1A1A1A;               /* 标题、重要文字 */
-  --text-secondary: #5E5E5E;     /* 正文、描述 */
-  --text-tertiary: #9A9A9A;      /* 标签、辅助信息 */
+  /* Text — 暗底高对比 */
+  --text: #F4F5F7;               /* 标题、重要 */
+  --text-secondary: #AEB0BA;     /* 正文 */
+  --text-tertiary: #6E7080;      /* 标签、辅助 */
 
-  /* Accent (克制：仅交互元素与极小色点) */
-  --accent: #0066FF;             /* 链接、活跃态、CTA */
-  --accent-hover: #0052CC;
+  /* Accent */
+  --accent: #5B8CFF;             /* 链接、活跃、CTA */
+  --accent-hover: #7AA2FF;
 
-  /* Rank accents（仅用于小徽章 / eyebrow 色点，禁止大面积填充） */
-  --rank-latest: #1FA37A;        /* 最新 = 清新绿 */
-  --rank-hot:    #E5533C;        /* 最火 = 暖珊瑚 */
-  --rank-sales:  #2B6CFF;        /* 最畅销 = 蓝 */
+  /* Rank accents（榜单 + 流光点缀） */
+  --rank-latest: #38E0A6;        /* 最新 = 极光绿 */
+  --rank-hot:    #FF6B57;        /* 最火 = 暖珊瑚 */
+  --rank-sales:  #5B8CFF;        /* 最畅销 = 蓝 */
+
+  /* 极光/流光渐变停靠色 */
+  --aurora-1: #5B8CFF;
+  --aurora-2: #38E0A6;
+  --aurora-3: #A66BFF;
+  --aurora-4: #FF6B57;
 
   /* RGB variants for rgba() */
-  --bg-rgb: 250,250,250;
+  --bg-rgb: 10,10,15;
   --surface-rgb: 255,255,255;
-  --accent-rgb: 0,102,255;
-  --text-rgb: 26,26,26;
-  --rank-latest-rgb: 31,163,122;
-  --rank-hot-rgb: 229,83,60;
-  --rank-sales-rgb: 43,108,255;
+  --text-rgb: 244,245,247;
+  --accent-rgb: 91,140,255;
+  --rank-latest-rgb: 56,224,166;
+  --rank-hot-rgb: 255,107,87;
+  --rank-sales-rgb: 91,140,255;
 
   /* Semantic */
-  --success: #1FA37A;
-  --error:   #E5533C;
-  --warning: #E0A100;
+  --success: #38E0A6;
+  --error:   #FF6B57;
+  --warning: #F2C14E;
 }
 ```
 
 **Color Rules:**
-- 所有颜色通过 CSS 变量引用，**禁止硬编码 hex**。
-- 大面积只用中性色（bg / surface / text）；彩色仅出现在「小徽章、eyebrow 色点、链接、焦点环」，单个屏幕彩色占比 < 5%。
-- 三个榜单（最新/最火/最畅销）只用对应 rank 色做**小色点和细描边**区分，不做大色块，保持画廊克制。
+- 所有颜色走 CSS 变量，**禁止硬编码 hex**（极光渐变停靠色也用变量）。
+- 大面积是深色底 + 极光氛围；彩色集中在「关键词流光、徽章、链接、聚光、焦点环」。
+- 三榜只用对应 rank 色做小色点 / 细描边 / 流光，不做大色块。
+- 玻璃卡面用 `rgba(255,255,255,.045)` + `backdrop-filter: blur(12px)`（≤14px 红线）。
 
 ## 3. Typography Rules
 
-**Font Stack:**
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&family=DM+Mono:wght@400;500&display=swap');
 ```
 
 | Role | Font | Size | Weight | Line Height | Letter Spacing |
 |------|------|------|--------|-------------|----------------|
-| Hero H1 | Instrument Serif → Noto Serif SC | clamp(2.8rem, 6vw, 4.5rem) | 400/600 | 1.08 | -0.01em |
-| Section H2 | Instrument Serif → Noto Serif SC | clamp(1.6rem, 3vw, 2.2rem) | 400/600 | 1.15 | 0 |
+| Hero H1 | Instrument Serif → Noto Serif SC | clamp(2.8rem, 6.5vw, 5rem) | 400/600 | 1.06 | -0.01em |
+| Section H2 | Instrument Serif → Noto Serif SC | clamp(1.7rem, 3.2vw, 2.4rem) | 400/600 | 1.14 | 0 |
 | H3 / 卡片标题 | Inter → Noto Sans SC | 1.0625rem | 600 | 1.3 | 0 |
-| Body | Inter → Noto Sans SC | 1rem (≥15px) | 400 | 1.7 | 0.01em |
+| Body | Inter → Noto Sans SC | 1rem (≥15px) | 400 | 1.75 | 0.01em |
 | Label / eyebrow | Inter | 0.72rem | 600 | 1.4 | 0.16em (uppercase) |
 | 数字 / 价格 / 排名 | DM Mono | 按场景 | 500 | 1 | 0 (tabular) |
 
 **Typography Rules:**
-- 大字号对比建立层次（Hero 衬线 vs 正文无衬线），不靠装饰。
-- 中文正文行高 ≥ 1.7、字距 0.02em、正文 ≥ 15px；中英混排时英文字族在前、中文字族 fallback。
-- 价格、排名、统计数字一律用 DM Mono + `font-variant-numeric: tabular-nums`，保证对齐与可信感。
-- **NEVER use**: Comic Sans、系统默认无 fallback 的纯英文字体（中文会回退到丑陋系统字）、任何手写 / 装饰花体。
+- 层次靠字号 + 衬线/无衬线对比；中文正文行高 ≥ 1.7、字距 0.02em、≥15px；中英混排英文字族在前、中文字族 fallback。
+- 价格/排名/统计数字一律 DM Mono + `font-variant-numeric: tabular-nums`。
+- **NEVER**: Comic Sans、无中文 fallback 的纯英文字体、手写/花体。
 
-**Text Decoration:**
-- Hero H1：**无渐变、无投影**（极简克制风格，决策表判定为 “--”）。靠字号与衬线建立冲击。
-- Section H2：无渐变、无投影。
-- eyebrow 小标签：`letter-spacing: 0.16em` + 前置 rank 色点，不加 text-shadow。
-- 正文 p：任何装饰一律禁止。
+**Text Decoration（暗色风格允许关键词流光）:**
+- Hero H1：整句不加投影；**仅 1-2 个关键词**用流动渐变（`--aurora-*` 线性渐变 + `background-position` 动画）。
+- Section H2：无渐变无投影，靠 ScrollFloat 入场。
+- eyebrow：`letter-spacing:.16em` + 前置 rank 色点。
+- 正文：禁止任何文字装饰。
 
 ## 4. Component Stylings
 
 ### Buttons
 ```css
-.btn {
-  font: 600 0.9rem/1 'Inter', 'Noto Sans SC', sans-serif;
-  padding: 0.75rem 1.4rem;
-  border-radius: 8px;
-  border: 1px solid var(--border-strong);
-  background: var(--text);
-  color: #fff;
-  cursor: pointer;
-  transition: transform .25s cubic-bezier(.2,.7,.2,1), background .2s, box-shadow .25s;
-  will-change: transform;
+.btn{
+  font:600 .9rem/1 'Inter','Noto Sans SC',sans-serif;
+  padding:.78rem 1.5rem; border-radius:10px;
+  border:1px solid var(--border-strong); background:var(--text); color:var(--bg);
+  cursor:pointer; will-change:transform;
+  transition:transform .25s cubic-bezier(.2,.7,.2,1), background .2s, box-shadow .25s, opacity .2s;
 }
-.btn:hover  { background: #000; transform: translateY(-2px); box-shadow: 0 8px 24px rgba(var(--text-rgb),.16); }
-.btn:active { transform: translateY(0); box-shadow: none; }
-.btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
-.btn:disabled { opacity: .4; cursor: not-allowed; transform: none; box-shadow: none; }
-
-.btn--ghost { background: transparent; color: var(--text); }
-.btn--ghost:hover { background: var(--surface-hover); }
+.btn:hover{ transform:translateY(-2px); box-shadow:0 10px 30px rgba(var(--accent-rgb),.28); }
+.btn:active{ transform:translateY(0); box-shadow:none; }
+.btn:focus-visible{ outline:2px solid var(--accent); outline-offset:3px; }
+.btn:disabled{ opacity:.4; cursor:not-allowed; transform:none; box-shadow:none; }
+.btn--ghost{ background:transparent; color:var(--text); border-color:var(--border); }
+.btn--ghost:hover{ background:var(--surface-hover); box-shadow:none; }
 ```
 
-### Cards (产品卡 / SpotlightCard)
+### Cards（玻璃 + SpotlightCard + TiltedCard + GlareHover）
 ```css
-.card {
-  position: relative;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 14px;
-  padding: 1.1rem;
-  overflow: hidden;
-  transition: transform .35s cubic-bezier(.2,.7,.2,1), border-color .25s, box-shadow .35s;
+.card{
+  position:relative; background:var(--surface); border:1px solid var(--border);
+  border-radius:16px; padding:1.1rem; overflow:hidden;
+  backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px);
+  transform-style:preserve-3d; transition:transform .35s cubic-bezier(.2,.7,.2,1), border-color .25s, box-shadow .35s;
 }
-/* 鼠标跟随聚光灯（SpotlightCard，--mx/--my 由 JS rAF 写入） */
-.card::before {
+/* SpotlightCard：鼠标跟随聚光（--mx/--my 由 JS rAF 写入） */
+.card::before{
   content:''; position:absolute; inset:0; pointer-events:none; opacity:0;
-  background: radial-gradient(220px circle at var(--mx,50%) var(--my,50%),
-              rgba(var(--accent-rgb),.07), transparent 60%);
-  transition: opacity .3s;
+  background:radial-gradient(240px circle at var(--mx,50%) var(--my,50%),
+            rgba(var(--accent-rgb),.16), transparent 60%);
+  transition:opacity .3s;
 }
-.card:hover { transform: translateY(-4px); border-color: var(--border-hover); box-shadow: 0 14px 36px rgba(var(--text-rgb),.08); }
-.card:hover::before { opacity: 1; }
-.card:focus-within { border-color: var(--accent); }
+/* GlareHover：高光斜扫 */
+.card::after{
+  content:''; position:absolute; inset:0; pointer-events:none; opacity:0;
+  background:linear-gradient(115deg, transparent 30%, rgba(var(--surface-rgb),.10) 48%, transparent 60%);
+  transform:translateX(-60%); transition:opacity .4s;
+}
+.card:hover{ border-color:var(--border-hover); box-shadow:0 18px 50px rgba(0,0,0,.5); }
+.card:hover::before{ opacity:1; }
+.card:hover::after{ opacity:1; animation:glare .8s ease; }
+@keyframes glare{ from{transform:translateX(-60%)} to{transform:translateX(60%)} }
+.card:focus-within{ border-color:var(--accent); }
+/* TiltedCard：JS 写入 --rx/--ry 旋转（仅 hover 设备，rAF 节流） */
+.tilt{ transform:perspective(800px) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg)); }
 ```
 
 ### Navigation
 ```css
-.nav {
-  position: sticky; top: 0; z-index: 50;
-  display: flex; align-items: center; justify-content: space-between;
-  padding: 1rem clamp(1rem, 4vw, 3rem);
-  background: rgba(var(--bg-rgb), .72);
-  border-bottom: 1px solid transparent;
-  transition: background .3s, border-color .3s, backdrop-filter .3s;
+.nav{
+  position:sticky; top:0; z-index:50; display:flex; align-items:center; justify-content:space-between;
+  padding:1rem clamp(1rem,4vw,3rem);
+  background:rgba(var(--bg-rgb),.55); border-bottom:1px solid transparent;
+  transition:background .3s, border-color .3s, backdrop-filter .3s;
 }
-.nav.is-scrolled {
-  background: rgba(var(--bg-rgb), .85);
-  backdrop-filter: blur(12px);          /* ≤14px，符合性能红线 */
-  border-bottom: 1px solid var(--border);
-}
+.nav.is-scrolled{ background:rgba(var(--bg-rgb),.78); backdrop-filter:blur(12px); border-bottom:1px solid var(--border); }
 ```
 
-### Category Tabs / Pills（品类切换 —— 扩展性入口）
+### Pills / Links / Badges
 ```css
-.pill {
-  font: 600 0.85rem/1 'Inter','Noto Sans SC',sans-serif;
-  padding: .5rem 1rem; border-radius: 999px;
-  border: 1px solid var(--border); background: var(--surface);
-  color: var(--text-secondary); cursor: pointer;
-  transition: color .2s, border-color .2s, background .2s, transform .2s;
-}
-.pill:hover { border-color: var(--border-hover); color: var(--text); }
-.pill[aria-selected="true"] { background: var(--text); color:#fff; border-color: var(--text); }
-.pill:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.pill{ font:600 .85rem/1 'Inter','Noto Sans SC',sans-serif; padding:.5rem 1rem; border-radius:999px;
+  border:1px solid var(--border); background:var(--surface); color:var(--text-secondary); cursor:pointer;
+  transition:color .2s,border-color .2s,background .2s,transform .2s; }
+.pill:hover{ border-color:var(--border-hover); color:var(--text); }
+.pill[aria-selected="true"]{ background:var(--text); color:var(--bg); border-color:var(--text); }
+.pill:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+
+.link{ color:var(--accent); text-decoration:none; position:relative; }
+.link::after{ content:''; position:absolute; left:0; bottom:-2px; width:100%; height:1px; background:var(--accent);
+  transform:scaleX(0); transform-origin:left; transition:transform .3s cubic-bezier(.2,.7,.2,1); }
+.link:hover::after{ transform:scaleX(1); }
+.link:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+
+.badge{ display:inline-flex; align-items:center; gap:.35rem; font:600 .68rem/1 'Inter','Noto Sans SC',sans-serif;
+  letter-spacing:.04em; padding:.3rem .55rem; border-radius:999px; border:1px solid var(--border);
+  color:var(--text-secondary); background:var(--surface); }
+.badge .dot{ width:6px; height:6px; border-radius:50%; }
+.badge--latest .dot{ background:var(--rank-latest); }
+.badge--hot .dot{ background:var(--rank-hot); }
+.badge--sales .dot{ background:var(--rank-sales); }
 ```
 
-### Links
+### Empty State（缺图 / 缺评 —— 不用纯色块占位）
 ```css
-.link { color: var(--accent); text-decoration: none; position: relative; }
-.link::after {
-  content:''; position:absolute; left:0; bottom:-2px; width:100%; height:1px;
-  background: var(--accent); transform: scaleX(0); transform-origin: left;
-  transition: transform .3s cubic-bezier(.2,.7,.2,1);
-}
-.link:hover::after { transform: scaleX(1); }
-.link:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-```
-
-### Tags / Badges
-```css
-.badge {
-  display:inline-flex; align-items:center; gap:.35rem;
-  font: 600 .68rem/1 'Inter','Noto Sans SC',sans-serif;
-  letter-spacing:.04em; padding:.3rem .55rem; border-radius:999px;
-  border:1px solid var(--border); color: var(--text-secondary); background: var(--surface);
-}
-.badge .dot { width:6px; height:6px; border-radius:50%; }
-.badge--latest .dot { background: var(--rank-latest); }
-.badge--hot    .dot { background: var(--rank-hot); }
-.badge--sales  .dot { background: var(--rank-sales); }
-
-/* 排名序号 */
-.rank-no { font: 500 .8rem/1 'DM Mono',monospace; color: var(--text-tertiary); font-variant-numeric: tabular-nums; }
-.rank-no--top { color: var(--text); font-weight:600; }
+.empty{ display:flex; flex-direction:column; align-items:center; justify-content:center; gap:.6rem;
+  padding:1.5rem; text-align:center; color:var(--text-tertiary);
+  border:1px dashed var(--border); border-radius:14px; background:var(--surface); }
+.empty svg{ width:34px; height:34px; opacity:.5; }
+.empty .link{ font-size:.85rem; }
 ```
 
 ## 5. Layout Principles
 
-**Container:**
-- Max width: 1200px，居中
-- Padding: clamp(1rem, 4vw, 3rem)
-- Narrow variant（说明文字）: 720px
-
-**Spacing Scale:** 4 / 8 / 12 / 16 / 24 / 40 / 64 / 96（px）
-- Section padding: 80–96px（移动端 56px）
-- Component gap: 16–24px
-- Card internal padding: 16–20px
-
-**Grid:**
+- **Container**: max 1200px 居中；padding `clamp(1rem,4vw,3rem)`；窄变体 720px。
+- **Spacing Scale**: 4 / 8 / 12 / 16 / 24 / 40 / 64 / 96。Section padding 80–96px（移动 56px）。
+- **Grid / MagicBento**:
 ```css
-.grid { display:grid; gap:20px; }
-.grid--cards { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
-/* Bento：首屏榜单不等大，打破等大 grid 的呆板（首页爆点 #3） */
-.bento { display:grid; gap:16px; grid-template-columns: repeat(4, 1fr); grid-auto-rows: 1fr; }
-.bento .feature { grid-column: span 2; grid-row: span 2; }
+.grid--cards{ display:grid; gap:20px; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); }
+.bento{ display:grid; gap:16px; grid-template-columns:repeat(4,1fr); grid-auto-rows:1fr; }
+.bento .feature{ grid-column:span 2; grid-row:span 2; }   /* 焦点机型不等大，打破呆板 */
 ```
 
 ## 6. Depth & Elevation
 
 | Level | Treatment | Use |
-|-------|-----------|-----|
-| Flat | `box-shadow: none` | 默认表面、section 背景 |
-| Subtle | `0 1px 2px rgba(var(--text-rgb),.04)` | 静态卡片（可选） |
-| Elevated | `0 14px 36px rgba(var(--text-rgb),.08)` | 卡片 hover |
-| Floating | `0 8px 24px rgba(var(--text-rgb),.16)` | 主按钮 hover |
+|------|-----------|-----|
+| Flat | none | section 背景 |
+| Glass | `backdrop-filter:blur(12px)` + 1px 白描边 | 玻璃卡默认 |
+| Elevated | `0 18px 50px rgba(0,0,0,.5)` | 卡片 hover |
+| Floating | `0 10px 30px rgba(var(--accent-rgb),.28)` | 主按钮 hover |
 
-阴影一律低饱和、冷调、近黑透明；禁止彩色阴影（违反极简克制）。
+暗色下用「深黑投影 + 白色细描边 + 玻璃模糊」造层次；禁止彩色硬阴影。
 
 ## 7. Animation & Interaction
 
-**Motion Philosophy**: 克制优雅，只用 `opacity` + `transform`；动效服务于「让产品浮现」而非炫技。
-**Tier**: L2
+**Philosophy**: 只用 `opacity` / `transform` / `background-position`；动效服务「让产品在暗场里浮现、被点亮」。**Tier: L3**。
 
 ### Dependencies
 ```html
-<!-- 无外部动效库；全部原生 CSS + IntersectionObserver + rAF -->
+<!-- 零外部库：CSS + 原生 JS（IntersectionObserver / rAF / Canvas-2D） -->
 ```
 
-### Base Setup（滚动 reveal + 导航态 + 聚光灯，原生实现）
+### 签名动效（覆盖 L3 强制 6 类，累计 signature moments ≥ 6）
+1. **Background·氛围** — Canvas-2D **极光**（Aurora 思路）：3-4 团 `--aurora-*` 径向光斑缓慢漂移 + 轻噪点；`IntersectionObserver` 离屏暂停；移动端/reduced-motion → 静态 CSS 渐变。
+2. **Text·Hero H1** — **SplitText** 词级 stagger 入场 + 关键词 **GradientText/ShinyText** 流光（`background-position` 动画）。
+3. **Text·Section H2** — **ScrollFloat** 进视口浮入。
+4. **Text·Body/Label** — eyebrow **ScrollReveal** + 统计/榜单数字 **CountUp**（IntersectionObserver 触发，rAF 递增）。
+5. **Animation·元素** — CTA **Magnet** 磁吸（≤6px，rAF）+ 卡片 **GlareHover** 高光扫过。
+6. **Component·构件** — 产品卡 **SpotlightCard** 聚光 + **TiltedCard** 3D 倾斜 + 品类 Pill 切换 + 焦点 **MagicBento**。
+
+### L3 scroll-story（覆盖 ≥3 模式）
+- **汇聚/散开转场**：Hero 焦点卡片从散落 translate/scale 汇聚到位（load 一次性）。
+- **轻 pin-scrub**：三榜 section 标题随滚动浮现、卡片 stagger reveal（IntersectionObserver，不劫持滚动）。
+- **3D 签名时刻**：焦点卡 / 产品卡 CSS 3D 倾斜（TiltedCard）+ 详情页画廊主图微视差。
+
+### Base Setup（原生实现要点）
 ```js
-// 1) Scroll reveal（ScrollFloat / ScrollReveal 思路的轻量原生版）
-const io = new IntersectionObserver((entries) => {
-  for (const e of entries) if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
-}, { threshold: .14 });
-document.querySelectorAll('[data-reveal]').forEach((el,i) => {
-  el.style.setProperty('--d', (i % 8) * 60 + 'ms');   // stagger
-  io.observe(el);
-});
-
-// 2) Nav scrolled state
-const nav = document.querySelector('.nav');
-addEventListener('scroll', () => nav.classList.toggle('is-scrolled', scrollY > 12), { passive:true });
-
-// 3) SpotlightCard：rAF 节流写入 --mx/--my（仅 hover 设备）
-if (matchMedia('(hover: hover)').matches) {
-  let raf = 0;
-  document.addEventListener('pointermove', (ev) => {
-    const card = ev.target.closest('.card'); if (!card) return;
-    if (raf) return; raf = requestAnimationFrame(() => {
-      const r = card.getBoundingClientRect();
-      card.style.setProperty('--mx', (ev.clientX - r.left) + 'px');
-      card.style.setProperty('--my', (ev.clientY - r.top)  + 'px');
-      raf = 0;
-    });
-  }, { passive:true });
-}
+// reveal：IntersectionObserver 加 .in（stagger 用 --d）
+// nav.is-scrolled：scrollY>12 切换
+// SpotlightCard + TiltedCard：单个 pointermove 监听 + rAF 节流，写 --mx/--my/--rx/--ry，仅 matchMedia('(hover:hover)')
+// CountUp：元素进视口后 rAF 从 0 递增到 data-count
+// Magnet：CTA hover 时按鼠标偏移 transform，离开复位
+// Aurora：canvas requestAnimationFrame，IntersectionObserver 不可见时 cancelAnimationFrame
 ```
 
-### Entrance Animation
+### Entrance / Scroll / Hover
 ```css
-[data-reveal]{ opacity:0; transform: translateY(20px); }
-[data-reveal].in{
-  opacity:1; transform:none;
-  transition: opacity .7s ease, transform .7s cubic-bezier(.2,.7,.2,1);
-  transition-delay: var(--d, 0ms);
-}
-/* Hero H1 词级 stagger（SplitText 思路）：每个 .word 由 JS 拆分 */
-.hero h1 .word{ display:inline-block; opacity:0; transform: translateY(28px);
-  animation: wordIn .8s cubic-bezier(.2,.7,.2,1) forwards; animation-delay: calc(var(--i) * 70ms); }
-@keyframes wordIn{ to{ opacity:1; transform:none; } }
+[data-reveal]{ opacity:0; transform:translateY(22px); }
+[data-reveal].in{ opacity:1; transform:none; transition:opacity .7s ease, transform .7s cubic-bezier(.2,.7,.2,1); transition-delay:var(--d,0ms); }
+.hero h1 .word{ display:inline-block; opacity:0; transform:translateY(28px);
+  animation:wordIn .8s cubic-bezier(.2,.7,.2,1) forwards; animation-delay:calc(var(--i)*70ms); }
+@keyframes wordIn{ to{opacity:1; transform:none} }
+.flow{ background:linear-gradient(90deg,var(--aurora-1),var(--aurora-3),var(--aurora-2),var(--aurora-1));
+  background-size:300% 100%; -webkit-background-clip:text; background-clip:text; color:transparent; animation:flow 8s linear infinite; }
+@keyframes flow{ to{ background-position:300% 0 } }
+html{ scroll-behavior:smooth; }
 ```
 
-### Scroll Behavior
-- `html{ scroll-behavior:smooth }`（原生平滑，不用 Lenis）
-- Hero 背景 DotGrid 极轻视差：`transform: translateY(scrollY * .15)`，rAF 节流。
-- Section H2 进入视口浮入（ScrollFloat）。
-
-### Hover & Focus States
-- 所有可交互元素（按钮 / pill / 卡片 / 链接）均有 hover + `:focus-visible` 焦点环（见 §4）。
-- 卡片 hover：lift + 聚光灯；产品图 hover 轻微 `scale(1.04)`。
-- CTA 磁吸（Magnet）：hover 设备下按钮向鼠标偏移 ≤ 6px，rAF 节流。
-
-### Special Effects（签名动效，覆盖 L2 强制 6 类）
-1. **Text · Hero H1** — SplitText 词级 stagger 入场。
-2. **Text · Section H2** — ScrollFloat 滚动浮入。
-3. **Text · Body/Label** — eyebrow ScrollReveal + 统计数字 CountUp（IntersectionObserver 触发）。
-4. **Animation · 元素级** — CTA Magnet 磁吸 + 卡片 hover lift。
-5. **Component · 交互构件** — SpotlightCard 聚光灯产品卡 + 品牌 logo InfiniteScroll 横滚带 + 品类 Pill 切换。
-6. **Background · 氛围层** — DotGrid 点阵背景（Hero，CSS radial-gradient，零 WebGL）。
-
-### Reduced Motion
+### Reduced Motion（完整降级，不可缺）
 ```css
-@media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { animation: none !important; transition: none !important; }
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{ animation:none !important; transition:none !important; }
   [data-reveal]{ opacity:1 !important; transform:none !important; }
   .hero h1 .word{ opacity:1 !important; transform:none !important; }
+  .flow{ animation:none !important; }
   html{ scroll-behavior:auto; }
+  /* canvas 极光 JS 端检测此项 → 不启动，改静态渐变 */
 }
 ```
 
 ## 8. Do's and Don'ts
 
 ### Do
-- 让产品图和留白主导版面，文字像标签一样精确克制。
-- 三个榜单用「小色点 + 细描边 + 序号」区分，颜色克制。
-- 价格 / 排名 / 统计数字统一用 DM Mono tabular-nums，对齐可信。
-- 品类用数据驱动的 Pill 渲染 —— 加品类只改 `categories.json`，前端零改动。
-- 所有彩色集中在徽章、链接、焦点环；中性色承载 95% 画面。
+- 深色幕布 + 柔和极光承载氛围，产品玻璃卡是主角，文字像标签精确克制。
+- 三榜用「小色点 + 细描边 + 流光」区分，颜色克制。
+- 价格/排名/统计统一 DM Mono tabular-nums。
+- 品类数据驱动 Pill 渲染（加品类只改 `categories.json`）。
+- 缺图/缺评一律走**空状态 + 来源链接**，绝不编造。
 - 每个可交互元素都有 hover + 键盘焦点态。
+- 重背景离屏暂停、移动端降级、`prefers-reduced-motion` 全降级。
 
 ### Don't
-- ❌ 硬编码任何 hex 颜色（一律走 CSS 变量）。
-- ❌ 给 Hero / Section 标题加渐变或投影（破坏极简克制）。
+- ❌ 硬编码任何 hex（走 CSS 变量）。
+- ❌ Hero/Section 整句加投影或满屏渐变（仅 Hero 关键词流光）。
 - ❌ 用大色块填充榜单分区或卡片背景。
-- ❌ 用 Emoji 当功能图标（非 Playful 调性，统一用内联 SVG / 极简线性图标）。
-- ❌ 产品图缺失时用纯色块占位（用统一占位图 / 来源 URL）。
-- ❌ 引入 GSAP / Lenis / WebGL —— 极简 L2 用原生即可，避免性能与体积负担。
-- ❌ 在移动滚动区大面积叠 `backdrop-filter`（仅导航条用，blur ≤14px）。
-- ❌ 给正文段落加任何文字装饰。
-- ❌ 把品类写死在 HTML 里（必须从数据渲染，保留扩展性）。
+- ❌ 用 Emoji 当功能图标（统一内联 SVG 线性图标）。
+- ❌ **产品图缺失用纯色块占位**（用空状态卡 + 来源链接）。
+- ❌ 展示**编造/示例**评价（无真实评价 → 空状态 + 电商链接）。
+- ❌ 引入 Three.js / OGL / GSAP / Lenis（纯 CSS+JS，保离线 + Pages）。
+- ❌ 移动滚动区大面积叠 `backdrop-filter`（仅导航 + 卡片，blur ≤14px）。
+- ❌ 同页超过 1 个重背景 / Canvas 不离屏暂停。
+- ❌ 把品类写死在 HTML（必须数据渲染）。
 
 ## 9. Responsive Behavior
 
-**Breakpoints:**
 | Name | Width | Key Changes |
 |------|-------|-------------|
-| Desktop | > 1024px | Bento 4 列、榜单三栏并排、完整导航 |
-| Tablet | 640–1024px | Bento 2 列、榜单单列堆叠、导航保留 |
-| Mobile | < 640px | 单列、Pill 横向滚动、统计 2×2、section padding 56px |
+| Desktop | > 1024px | Bento 4 列、三榜并排、完整导航、极光 + 3D 倾斜全开 |
+| Tablet | 640–1024px | Bento 2 列、三榜堆叠、保留导航、极光降帧 |
+| Mobile | < 640px | 单列、Pill 横滚、统计 2×2、section 56px、**极光→静态渐变**、关闭 3D 倾斜/聚光 |
 
-**Touch Targets:** 最小 44×44px（pill、按钮、卡片点击区）。
-**Collapsing Strategy:** 导航在移动端收为 Logo + 「数据更新时间」+ 汉堡/锚点；Bento 退化为单列卡片流；横滚 logo 带保留但加 `-webkit-overflow-scrolling`。
-
+**Touch Targets**: ≥ 44×44px。
 ```css
-@media (max-width: 1024px){
-  .bento{ grid-template-columns: repeat(2,1fr); }
-  .bento .feature{ grid-column: span 2; grid-row: span 1; }
-  .boards{ grid-template-columns: 1fr; }
-}
-@media (max-width: 640px){
-  .bento{ grid-template-columns: 1fr; }
-  .grid--cards{ grid-template-columns: repeat(auto-fill, minmax(150px,1fr)); }
-  .stats{ grid-template-columns: repeat(2,1fr); }
-  section{ padding-block: 56px; }
-  .pills{ overflow-x:auto; flex-wrap:nowrap; -webkit-overflow-scrolling:touch; }
-}
-/* 移动端关闭聚光灯 / 磁吸（无 hover），保留 reveal */
-@media (hover: none){
-  .card::before{ display:none; }
-}
+@media (max-width:1024px){ .bento{grid-template-columns:repeat(2,1fr)} .bento .feature{grid-column:span 2;grid-row:span 1} .boards{grid-template-columns:1fr} }
+@media (max-width:640px){ .bento,.grid--cards{grid-template-columns:1fr} .stats{grid-template-columns:repeat(2,1fr)} section{padding-block:56px} .pills{overflow-x:auto;flex-wrap:nowrap;-webkit-overflow-scrolling:touch} }
+@media (hover:none){ .card::before,.card::after{display:none} .tilt{transform:none} }   /* 无 hover 设备关聚光/3D */
 ```
 
 ---
 
-**致谢**：动效思路（SplitText / ScrollFloat / ScrollReveal / SpotlightCard / Magnet / InfiniteScroll / DotGrid）derived from [vue-bits / react-bits](https://github.com/DavidHDev/vue-bits) by DavidHDev (MIT)，本项目以原生 CSS/JS 重写。
+**致谢**：动效思路（SplitText / ScrollFloat / ScrollReveal / SpotlightCard / TiltedCard / GlareHover / Magnet / MagicBento / CountUp / Aurora）derived from [vue-bits / react-bits](https://github.com/DavidHDev/vue-bits) by DavidHDev (MIT)，本项目以原生 CSS/JS/Canvas 重写，零运行时依赖。

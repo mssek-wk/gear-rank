@@ -88,8 +88,9 @@ class JdAdapter(Adapter):
             jd = (si.get(it.id) or {}).get("jd")
             if jd:
                 it.platforms["jd"] = jd
-                if not it.data_as_of:
-                    it.data_as_of = jd.get("as_of", "")
+                _as_of = jd.get("as_of", "")
+                if _as_of and _as_of > (it.data_as_of or ""):
+                    it.data_as_of = _as_of  # 取各平台最新日期
                 # 无 Amazon 价时用京东价(¥)展示
                 if it.price_value is None and jd.get("price") is not None:
                     it.price_value, it.currency = jd["price"], jd.get("currency", "CNY")

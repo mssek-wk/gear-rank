@@ -59,28 +59,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价集中在直出色彩、便携和溢价",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺货。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -90,28 +70,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价集中在直出色彩、便携和溢价",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺货。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -121,28 +81,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价集中在直出色彩、便携和溢价",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "缺货。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -161,7 +101,7 @@
     "hot_index": null,
     "latest_score": 0.5695,
     "hot_score": 0.697,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "",
     "platforms": {
       "manual": {
@@ -175,13 +115,13 @@
     "pop_note": "2024-2026长期缺货 · 高热度（官网+公开资料）",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -246,17 +186,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢胶片模拟转盘和轻量，但会比较X-T5价格。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -267,17 +197,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢胶片模拟转盘和轻量，但会比较X-T5价格。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -288,17 +208,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢胶片模拟转盘和轻量，但会比较X-T5价格。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -332,13 +242,13 @@
     "pop_note": "胶片模拟转盘带来广泛关注",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -403,17 +313,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注小体积、价格和富士色彩。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -424,17 +324,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注小体积、价格和富士色彩。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -445,17 +335,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注小体积、价格和富士色彩。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -475,7 +355,7 @@
     "hot_index": null,
     "latest_score": 0.6925,
     "hot_score": 0.6061,
-    "sales_score": 1.0,
+    "sales_score": 0.4,
     "asin": "",
     "platforms": {
       "manual": {
@@ -489,13 +369,13 @@
     "pop_note": "入门视频 · 胶片模拟热度高",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -560,17 +440,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户讨论集中在新奇体验和复古玩法。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -581,17 +451,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户讨论集中在新奇体验和复古玩法。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -602,17 +462,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户讨论集中在新奇体验和复古玩法。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -646,13 +496,13 @@
     "pop_note": "社媒复古数码新品",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -677,8 +527,8 @@
     "url": "",
     "official_url": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/",
     "summary": "40MP APS-C；IBIS；适合街拍、旅行、日常胶片模拟。",
-    "price_value": null,
-    "currency": "USD",
+    "price_value": 11490.0,
+    "currency": "CNY",
     "tags": [
       "街拍",
       "旅行",
@@ -717,17 +567,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注X100VI替代、可换镜头与富士色彩。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -738,17 +578,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注X100VI替代、可换镜头与富士色彩。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -759,17 +589,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注X100VI替代、可换镜头与富士色彩。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -795,24 +615,36 @@
       "manual": {
         "hot": 59.0,
         "sales": 45.0
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 11490.0,
+        "as_of": "2026-06-08",
+        "source": "京东商品页"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 9999.0,
+        "as_of": "2026-06-08",
+        "source": "天猫(语雀竞品分析)"
       }
     },
     "rating": null,
     "reviews": null,
     "bsr": null,
     "pop_note": "旁轴风格富士新机",
-    "data_as_of": "",
+    "data_as_of": "2026-06-08",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
-    "price_display": ""
+    "price_display": "¥11490"
   },
   {
     "id": "fujifilm-x-t5",
@@ -874,17 +706,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户认可照片体验和色彩，视频/握持按需求取舍。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -895,17 +717,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户认可照片体验和色彩，视频/握持按需求取舍。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -916,17 +728,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户认可照片体验和色彩，视频/握持按需求取舍。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -960,13 +762,13 @@
     "pop_note": "富士高阶摄影机仍是主力",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1031,28 +833,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢一机照片视频兼顾，外观",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "不如X-T/X100复古。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1062,28 +844,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢一机照片视频兼顾，外观",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "不如X-T/X100复古。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1093,28 +855,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢一机照片视频兼顾，外观",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "不如X-T/X100复古。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -1133,7 +875,7 @@
     "hot_index": null,
     "latest_score": 0.4299,
     "hot_score": 0.5758,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "",
     "platforms": {
       "manual": {
@@ -1147,13 +889,13 @@
     "pop_note": "混合创作者热门",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1218,28 +960,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注口袋便携和直出色彩",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是无取景器/续航。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1249,28 +971,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注口袋便携和直出色彩",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是无取景器/续航。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1280,28 +982,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注口袋便携和直出色彩",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是无取景器/续航。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Ricoh 官网",
@@ -1334,13 +1016,13 @@
     "pop_note": "街拍口袋机热度稳定",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1405,17 +1087,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户在28mm和40mm之间按视角偏好选择。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1426,17 +1098,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户在28mm和40mm之间按视角偏好选择。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1447,17 +1109,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户在28mm和40mm之间按视角偏好选择。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1491,13 +1143,13 @@
     "pop_note": "40mm街拍口袋机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1562,17 +1214,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注Leica色彩和便携，但价格较高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1583,17 +1225,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注Leica色彩和便携，但价格较高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1604,17 +1236,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注Leica色彩和便携，但价格较高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1648,13 +1270,13 @@
     "pop_note": "高端便携复古数码",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1719,17 +1341,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢复古外观和全画幅画质，胶片感需靠Picture Control/后期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1740,17 +1352,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢复古外观和全画幅画质，胶片感需靠Picture Control/后期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1761,17 +1363,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢复古外观和全画幅画质，胶片感需靠Picture Control/后期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1791,7 +1383,7 @@
     "hot_index": null,
     "latest_score": 0.4922,
     "hot_score": 0.5758,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "",
     "platforms": {
       "manual": {
@@ -1805,13 +1397,13 @@
     "pop_note": "复古全画幅热度高",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -1876,17 +1468,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重颜值和轻便，机身性能偏入门。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1897,17 +1479,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重颜值和轻便，机身性能偏入门。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1918,17 +1490,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户看重颜值和轻便，机身性能偏入门。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -1948,7 +1510,7 @@
     "hot_index": null,
     "latest_score": 0.0,
     "hot_score": 0.0,
-    "sales_score": 0.4286,
+    "sales_score": 0.1714,
     "asin": "",
     "platforms": {
       "manual": {
@@ -1962,13 +1524,13 @@
     "pop_note": "复古APS-C入门",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2033,28 +1595,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注LUT直出和视频能力",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是EVF/热管理等取舍。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -2064,28 +1606,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注LUT直出和视频能力",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是EVF/热管理等取舍。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -2095,28 +1617,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注LUT直出和视频能力",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "短板是EVF/热管理等取舍。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Panasonic 官网",
@@ -2135,7 +1637,7 @@
     "hot_index": null,
     "latest_score": 0.6151,
     "hot_score": 0.697,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "",
     "platforms": {
       "manual": {
@@ -2149,13 +1651,13 @@
     "pop_note": "Real Time LUT玩法热度高",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2220,17 +1722,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价偏“好玩而非画质”，适合玩具/礼物。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2241,17 +1733,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价偏“好玩而非画质”，适合玩具/礼物。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2262,17 +1744,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户评价偏“好玩而非画质”，适合玩具/礼物。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2292,7 +1764,7 @@
     "hot_index": null,
     "latest_score": 0.8619,
     "hot_score": 0.8182,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "",
     "platforms": {
       "manual": {
@@ -2306,13 +1778,13 @@
     "pop_note": "公开资料：发布后售罄 · 缺货",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2377,17 +1849,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢无屏轻松体验，画质按玩具/生活记录预期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2398,17 +1860,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢无屏轻松体验，画质按玩具/生活记录预期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2419,17 +1871,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢无屏轻松体验，画质按玩具/生活记录预期。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2449,7 +1891,7 @@
     "hot_index": null,
     "latest_score": 1.0,
     "hot_score": 1.0,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "",
     "platforms": {
       "manual": {
@@ -2463,13 +1905,13 @@
     "pop_note": "新款无屏复古数码热度上升",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2530,17 +1972,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢轻便和胶片感，也有人觉得性价比不高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2551,17 +1983,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢轻便和胶片感，也有人觉得性价比不高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2572,17 +1994,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢轻便和胶片感，也有人觉得性价比不高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2616,13 +2028,13 @@
     "pop_note": "纸片相机复古数码代表",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2687,17 +2099,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "小红书/官网定位是一次性胶片体验数字化，适合氛围感。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2708,17 +2110,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "小红书/官网定位是一次性胶片体验数字化，适合氛围感。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2729,17 +2121,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "小红书/官网定位是一次性胶片体验数字化，适合氛围感。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2759,7 +2141,7 @@
     "hot_index": null,
     "latest_score": 0.739,
     "hot_score": 0.8182,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "",
     "platforms": {
       "manual": {
@@ -2773,13 +2155,13 @@
     "pop_note": "伪一次性胶片机社媒热度高",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -2844,17 +2226,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测谨慎，亮点是胶片模拟和复古外观。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2865,17 +2237,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测谨慎，亮点是胶片模拟和复古外观。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2886,17 +2248,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开评测谨慎，亮点是胶片模拟和复古外观。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -2930,13 +2282,13 @@
     "pop_note": "复古数码新品",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -3001,17 +2353,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开报道视其为Charmera后续潮流产品。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3022,17 +2364,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开报道视其为Charmera后续潮流产品。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3043,17 +2375,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "公开报道视其为Charmera后续潮流产品。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3087,13 +2409,13 @@
     "pop_note": "受 Kodak Charmera 带动的钥匙扣相机趋势",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -3158,17 +2480,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢可预览再打印和复古效果，耗材成本需考虑。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3179,17 +2491,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢可预览再打印和复古效果，耗材成本需考虑。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3200,17 +2502,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢可预览再打印和复古效果，耗材成本需考虑。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3230,27 +2522,33 @@
     "hot_index": null,
     "latest_score": 0.0,
     "hot_score": 0.4545,
-    "sales_score": 0.5714,
+    "sales_score": 0.2286,
     "asin": "B09M4DKBQ9",
     "platforms": {
       "manual": {
         "hot": 53.0,
         "sales": 53.0
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 1347.0,
+        "as_of": "2026-06-25",
+        "source": "京东(手动·截屏读页 2026-06-25)"
       }
     },
     "rating": null,
     "reviews": null,
     "bsr": null,
     "pop_note": "混合拍立得 · 数码胶片效果热门",
-    "data_as_of": "",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "$199.95"
@@ -3315,17 +2613,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注宽幅画面和复古操控，耗材体积/成本更高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3336,17 +2624,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注宽幅画面和复古操控，耗材体积/成本更高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3357,17 +2635,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户关注宽幅画面和复古操控，耗材体积/成本更高。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3401,13 +2669,13 @@
     "pop_note": "宽幅混合拍立得新品",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -3468,17 +2736,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢复古外观和打印一体，关注耗材成本。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3489,17 +2747,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢复古外观和打印一体，关注耗材成本。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3510,17 +2758,7 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "用户喜欢复古外观和打印一体，关注耗材成本。",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
+        "reviews_pos": [],
         "reviews_neg": []
       },
       {
@@ -3554,13 +2792,128 @@
     "pop_note": "复古即时打印数码相机",
     "data_as_of": "",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
+      }
+    ],
+    "price_display": ""
+  },
+  {
+    "id": "chuzhao-m1",
+    "category": "retro-digital-camera",
+    "name": "初照 M1 双反复古相机",
+    "brand": "初照",
+    "image": "",
+    "images": [],
+    "image_credits": [],
+    "url": "",
+    "official_url": "",
+    "summary": "百元价位双反造型复古CCD数码相机；磨砂机身，低饱和滤镜直出，学生/日常/旅游随身。",
+    "price_value": null,
+    "currency": "USD",
+    "tags": [
+      "复古CCD",
+      "双反造型",
+      "学生入门"
+    ],
+    "specs": {
+      "类型": "双反造型复古CCD数码相机（拍照存卡，非即时成像）",
+      "使用场景": "学生入门、日常、旅游随身、自拍",
+      "特点": "磨砂机身手感；自带低饱和滤镜直出；颜色：黑/红",
+      "在售": "2026 在售（天猫）",
+      "上市时间": "2026"
+    },
+    "spec_sources": {
+      "类型": [
+        "淘宝/天猫商品页(手动·截屏 2026-06-25)"
+      ],
+      "使用场景": [
+        "淘宝/天猫商品页(手动·截屏 2026-06-25)"
+      ],
+      "特点": [
+        "淘宝/天猫商品页(手动·截屏 2026-06-25)"
+      ],
+      "在售": [
+        "淘宝/天猫商品页(手动·截屏 2026-06-25)"
+      ],
+      "上市时间": [
+        "官方"
+      ]
+    },
+    "sellers": [
+      {
+        "name": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%88%9D%E7%85%A7%20%E5%88%9D%E7%85%A7%20M1%20%E5%8F%8C%E5%8F%8D%E5%A4%8D%E5%8F%A4%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      },
+      {
+        "name": "天猫",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%88%9D%E7%85%A7%20%E5%88%9D%E7%85%A7%20M1%20%E5%8F%8C%E5%8F%8D%E5%A4%8D%E5%8F%A4%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/s?k=%E5%88%9D%E7%85%A7%20%E5%88%9D%E7%85%A7%20M1%20%E5%8F%8C%E5%8F%8D%E5%A4%8D%E5%8F%A4%E7%9B%B8%E6%9C%BA",
+        "is_official": false,
+        "price_value": null,
+        "currency": "CNY",
+        "rating": null,
+        "review_count": null,
+        "reviews_pos": [],
+        "reviews_neg": []
+      }
+    ],
+    "release_date": "2026",
+    "sales_rank": null,
+    "hot_index": null,
+    "latest_score": 0.9236,
+    "hot_score": 0.9697,
+    "sales_score": 0.75,
+    "asin": "",
+    "platforms": {
+      "manual": {
+        "hot": 70.0,
+        "sales": 80.0
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 209.0,
+        "sales": 10000,
+        "good_rate": 98.9,
+        "as_of": "2026-06-25",
+        "source": "天猫商品页(手动·截屏 2026-06-25)"
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "bsr": null,
+    "pop_note": "天猫商品页 ¥209（优惠前309）· 已售1万+ · 近3月好评率98.9% · 回头客291 · 超2万加购 · 截至2026-06-25",
+    "data_as_of": "2026-06-25",
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "active": true,
+    "sources": [
+      {
+        "name": "器材榜目录",
+        "url": "",
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""

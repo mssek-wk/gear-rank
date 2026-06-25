@@ -17,22 +17,29 @@
   const cats = meta.categories.filter(c => c.count > 0);
   let activeCat = cats.length ? cats[0].id : null;
 
-  /* ---------- 内联 SVG 相机插画（产品图兜底，非纯色块） ---------- */
+  /* ---------- 内联 SVG 相机线框图标（产品图兜底，currentColor 适配暗色，非纯色块） ---------- */
   const BRAND_TINT = {
-    Fujifilm: '#1FA37A', Polaroid: '#E5533C', Kodak: '#E0A100', default: '#1A1A1A'
+    Fujifilm: 'var(--rank-latest)', Polaroid: 'var(--rank-hot)', Kodak: 'var(--warning)', default: 'var(--accent)'
   };
   function cameraSVG(brand) {
     const tint = BRAND_TINT[brand] || BRAND_TINT.default;
-    return `<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${brand} 拍立得">
-      <rect x="18" y="34" width="84" height="62" rx="12" stroke="#1A1A1A" stroke-width="3"/>
-      <rect x="18" y="86" width="84" height="10" rx="5" fill="#F4F4F3" stroke="#1A1A1A" stroke-width="3"/>
-      <circle cx="60" cy="62" r="20" stroke="#1A1A1A" stroke-width="3"/>
-      <circle cx="60" cy="62" r="10" fill="${tint}" opacity=".18"/>
-      <circle cx="60" cy="62" r="10" stroke="#1A1A1A" stroke-width="2.5"/>
+    return `<svg class="camsvg" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${brand} 相机">
+      <rect x="18" y="34" width="84" height="62" rx="12" stroke="currentColor" stroke-width="3"/>
+      <circle cx="60" cy="62" r="20" stroke="currentColor" stroke-width="3"/>
+      <circle cx="60" cy="62" r="10" fill="${tint}" opacity=".28"/>
+      <circle cx="60" cy="62" r="10" stroke="currentColor" stroke-width="2.5"/>
       <rect x="30" y="42" width="14" height="8" rx="2" fill="${tint}"/>
-      <rect x="78" y="40" width="14" height="10" rx="3" stroke="#1A1A1A" stroke-width="2.5"/>
-      <rect x="40" y="92" width="40" height="20" rx="3" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2.5"/>
+      <rect x="78" y="40" width="14" height="10" rx="3" stroke="currentColor" stroke-width="2.5"/>
     </svg>`;
+  }
+  // 该机型最佳「来源链接」：官网 > 京东搜索 > 淘宝搜索 > 任意 seller（供缺图/缺评空状态）
+  function bestSourceLink(it) {
+    if (it.official_url) return { url: it.official_url, label: '官网' };
+    const ss = it.sellers || [];
+    const jd = ss.find(s => (s.name || '').includes('京东'));
+    const tb = ss.find(s => (s.name || '').includes('淘宝') || (s.name || '').includes('天猫'));
+    const any = jd || tb || ss[0];
+    return any ? { url: any.url, label: any.name } : null;
   }
   function mediaHTML(item) {
     if (item.image) {
@@ -200,8 +207,11 @@
     if (prov) {
       const srcs = (meta.platform_sources || ['Amazon US']).join(' / ');
       const asof = meta.platform_as_of || dstr;
-      prov.innerHTML = `数据来源：官方上市日期（厂商）＋ <strong>${srcs}</strong> 真实评分/评价数/畅销榜排名 · 截至 ${asof}`
-        + ` ｜ 综合多平台框架，<span class="prov-pending">京东 / 淘宝待接入</span>`;
+      // 待接入平台：综合框架里还没有数据的平台才标「待接入」（有数据后自动消失）
+      const ALL_PLATS = ['Amazon US', '淘宝', '京东'];
+      const pending = ALL_PLATS.filter(p => !(meta.platform_sources || []).includes(p));
+      prov.innerHTML = `数据来源：官方上市日期（厂商）＋ <strong>${srcs}</strong> 真实价格/评分/评价数/销量/畅销榜 · 截至 ${asof}`
+        + (pending.length ? ` ｜ 综合多平台框架，<span class="prov-pending">${pending.join(' / ')}待接入</span>` : ' ｜ 综合多平台真实价格');
     }
   }
 
@@ -228,9 +238,18 @@
   /* ---------- Hero SplitText（词级 stagger） ---------- */
   function splitHero() {
     const h = $('#heroTitle'); if (!h) return;
-    const text = h.textContent.trim();
-    h.innerHTML = text.split('').map((ch, i) =>
-      `<span class="word" style="--i:${i}">${ch === ' ' ? ' ' : ch}</span>`).join('');
+    const nodes = [...h.childNodes];
+    let i = 0; const out = [];
+    for (const n of nodes) {
+      if (n.nodeType === 3) {
+        for (const ch of n.textContent) {
+          out.push(`<span class="word" style="--i:${i++}">${ch === ' ' ? ' ' : esc(ch)}</span>`);
+        }
+      } else if (n.nodeType === 1) {
+        out.push(`<span class="word ${n.className}" style="--i:${i++}">${esc(n.textContent)}</span>`);
+      }
+    }
+    h.innerHTML = out.join('');
   }
 
   /* ---------- reveal + scroll-float ---------- */
@@ -263,7 +282,7 @@
   /* ---------- SpotlightCard + Magnet（仅 hover 设备） ---------- */
   function pointerFx() {
     if (!matchMedia('(hover: hover)').matches || reduce) return;
-    let raf = 0;
+    let raf = 0, lastCard = null;
     document.addEventListener('pointermove', (ev) => {
       const card = ev.target.closest('.card');
       const mag = ev.target.closest('.magnet');
@@ -271,9 +290,16 @@
       raf = requestAnimationFrame(() => {
         if (card) {
           const r = card.getBoundingClientRect();
+          const px = (ev.clientX - r.left) / r.width;   // 0..1
+          const py = (ev.clientY - r.top) / r.height;
           card.style.setProperty('--mx', (ev.clientX - r.left) + 'px');
           card.style.setProperty('--my', (ev.clientY - r.top) + 'px');
-        }
+          // TiltedCard：随鼠标位置 3D 倾斜（≤6°）
+          card.style.setProperty('--ry', ((px - .5) * 12).toFixed(2) + 'deg');
+          card.style.setProperty('--rx', ((.5 - py) * 12).toFixed(2) + 'deg');
+          if (lastCard && lastCard !== card) resetTilt(lastCard);
+          lastCard = card;
+        } else if (lastCard) { resetTilt(lastCard); lastCard = null; }
         if (mag) {
           const r = mag.getBoundingClientRect();
           const dx = (ev.clientX - (r.left + r.width / 2)) / r.width;
@@ -283,8 +309,53 @@
         raf = 0;
       });
     }, { passive: true });
+    const resetTilt = (c) => { c.style.setProperty('--rx', '0deg'); c.style.setProperty('--ry', '0deg'); };
     document.querySelectorAll('.magnet').forEach(m =>
       m.addEventListener('pointerleave', () => { m.style.transform = ''; }));
+  }
+
+  /* ---------- Hero Aurora 背景（Canvas-2D，离屏暂停；移动/reduced-motion 用静态渐变） ---------- */
+  function aurora() {
+    const cv = $('#aurora'); if (!cv) return;
+    if (reduce || matchMedia('(max-width: 640px)').matches) { cv.classList.add('aurora--static'); return; }
+    const ctx = cv.getContext('2d');
+    const css = getComputedStyle(document.documentElement);
+    const cols = ['--aurora-1', '--aurora-2', '--aurora-3', '--aurora-4']
+      .map(v => css.getPropertyValue(v).trim() || '#5B8CFF');
+    let W, H, dpr, blobs = [], raf = 0, running = false;
+    function resize() {
+      dpr = Math.min(devicePixelRatio || 1, 2);
+      W = cv.clientWidth; H = cv.clientHeight;
+      cv.width = W * dpr; cv.height = H * dpr; ctx.scale(dpr, dpr);
+    }
+    function init() {
+      blobs = cols.map((c, i) => ({
+        c, x: Math.random() * 1, y: Math.random() * 1,
+        r: 0.34 + Math.random() * 0.18,
+        ax: (Math.random() * 2 - 1) * 0.00006, ay: (Math.random() * 2 - 1) * 0.00006,
+        ph: Math.random() * 6.28
+      }));
+    }
+    function draw(t) {
+      ctx.clearRect(0, 0, W, H);
+      ctx.globalCompositeOperation = 'lighter';
+      blobs.forEach(b => {
+        const x = (b.x + Math.sin(t * b.ax + b.ph) * 0.12) * W;
+        const y = (b.y + Math.cos(t * b.ay + b.ph) * 0.12) * H;
+        const rad = b.r * Math.min(W, H);
+        const g = ctx.createRadialGradient(x, y, 0, x, y, rad);
+        g.addColorStop(0, b.c + '66'); g.addColorStop(1, b.c + '00');
+        ctx.fillStyle = g; ctx.beginPath(); ctx.arc(x, y, rad, 0, 6.2832); ctx.fill();
+      });
+      ctx.globalCompositeOperation = 'source-over';
+      raf = requestAnimationFrame(draw);
+    }
+    function start() { if (running) return; running = true; raf = requestAnimationFrame(draw); }
+    function stop() { running = false; cancelAnimationFrame(raf); }
+    resize(); init(); addEventListener('resize', () => { resize(); }, { passive: true });
+    // 离屏暂停：Hero 不可见时停渲染，省电省 FPS
+    new IntersectionObserver((es) => es.forEach(e => e.isIntersecting ? start() : stop()),
+      { threshold: .01 }).observe(cv);
   }
 
   /* ---------- 巧思：滚动到底致谢彩蛋 ---------- */
@@ -328,7 +399,13 @@
 
   function galleryHTML(it) {
     const imgs = it.images || [];
-    if (!imgs.length) return `<div class="gallery"><div class="gallery__main">${cameraSVG(it.brand)}</div></div>`;
+    if (!imgs.length) {
+      const src = bestSourceLink(it);
+      const link = src ? `<a class="link" href="${esc(src.url)}" target="_blank" rel="noopener">查看 ${esc(src.label)} 实拍 →</a>` : '';
+      return `<div class="gallery"><div class="gallery__main"><div class="empty">
+        ${cameraSVG(it.brand)}<span>产品图待补 · 真实图整理中</span>${link}
+      </div></div></div>`;
+    }
     const main = `<img src="${esc(imgs[0])}" alt="${esc(it.name)}"
       onerror="this.outerHTML=window.__camSVG(${JSON.stringify(it.brand)})">`;
     const thumbs = imgs.map((u, i) => `
@@ -379,30 +456,42 @@
 
   function reviewListHTML(reviews, kind) {
     const top = [...(reviews || [])].sort((a, b) => (b.helpful || 0) - (a.helpful || 0)).slice(0, 10);
-    if (!top.length) return `<p class="reviews__empty">暂无${kind === 'pos' ? '好评' : '差评'}</p>`;
+    if (!top.length) return '';
     return top.map(r => `<li class="review review--${kind}">
       <p class="review__text">${esc(r.text)}</p>
-      <span class="review__meta">${esc(r.source || '')} · 👍 ${r.helpful || 0}</span>
+      <span class="review__meta">${esc(r.source || '')}${r.helpful ? ` · 👍 ${r.helpful}` : ''}</span>
     </li>`).join('');
   }
 
+  // 用户评价：只展示「真实」评价；无真实评价 → 空状态 + 去电商看评价的链接（杜绝示例/编造）
   function reviewsHTML(it) {
     const withReviews = (it.sellers || []).filter(s => (s.reviews_pos || []).length || (s.reviews_neg || []).length);
-    if (!withReviews.length) return '';
-    const sample = withReviews.some(s => (s.reviews_pos[0] || s.reviews_neg[0] || {}).source?.includes('示例'));
+    const head = `<h3 class="dsection__title">用户评价 <span class="dsection__note">仅展示真实评价 · 无则给电商链接</span></h3>`;
+    if (!withReviews.length) {
+      const links = (it.sellers || [])
+        .filter(s => /京东|淘宝|天猫/.test(s.name || ''))
+        .map(s => `<a class="link" href="${esc(s.url)}" target="_blank" rel="noopener">去 ${esc(s.name)} 看真实评价 →</a>`)
+        .join('');
+      return `<div class="dsection">${head}
+        <div class="empty empty--wide">
+          ${reviewIcon()}<span>暂无已核验的真实用户评价</span>
+          <div class="empty__links">${links || '<span class="reviews__empty">可在各电商商品页查看买家评价</span>'}</div>
+        </div></div>`;
+    }
     const blocks = withReviews.map(s => `
       <div class="reviews__site">
         <h4 class="reviews__sitename">${esc(s.name)}</h4>
         <div class="reviews__cols">
-          <div><div class="reviews__head reviews__head--pos">好评 Top</div><ul>${reviewListHTML(s.reviews_pos, 'pos')}</ul></div>
-          <div><div class="reviews__head reviews__head--neg">差评 Top</div><ul>${reviewListHTML(s.reviews_neg, 'neg')}</ul></div>
+          <div><div class="reviews__head reviews__head--pos">好评</div><ul>${reviewListHTML(s.reviews_pos, 'pos') || '<li class="reviews__empty">暂无</li>'}</ul></div>
+          <div><div class="reviews__head reviews__head--neg">差评</div><ul>${reviewListHTML(s.reviews_neg, 'neg') || '<li class="reviews__empty">暂无</li>'}</ul></div>
         </div>
       </div>`).join('');
-    return `<div class="dsection">
-      <h3 class="dsection__title">用户评价 <span class="dsection__note">各售卖网站好评/差评 Top10</span></h3>
-      ${sample ? '<p class="reviews__note">⚠ 当前评价为代表性示例，接入电商真实抓取后自动替换（见 README）。</p>' : ''}
-      ${blocks}
-    </div>`;
+    return `<div class="dsection">${head}${blocks}</div>`;
+  }
+  function reviewIcon() {
+    return `<svg class="camsvg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z" stroke="currentColor" stroke-width="1.6"/>
+    </svg>`;
   }
 
   function creditsHTML(it) {
@@ -419,11 +508,13 @@
   // 市场数据面板：真实评分/评价/畅销榜 + 参与平台 + 截至日期
   const PLAT_LABEL = { amazon: 'Amazon', jd: '京东', taobao: '淘宝' };
   function marketHTML(it) {
-    const plats = Object.keys(it.platforms || {});
+    // 只展示真实购物平台；'manual'/'buzz' 是内部打分/热度构造，不在面板显示
+    const plats = Object.keys(it.platforms || {}).filter(p => p !== 'manual' && p !== 'buzz');
     if (!plats.length) {
-      return `<div class="market market--new">📅 ${esc((it.release_date || '').slice(0,7))} 新上市 · 暂无电商热度/销量数据（太新）</div>`;
+      return `<div class="market market--new"><span class="market__newdot"></span>${esc((it.release_date || '').slice(0,7))} 新上市 · 暂无电商热度/销量数据（太新）</div>`;
     }
     const cur = p => (p.currency === 'CNY' ? '¥' : '$');
+    const shown = [];   // 实际有可展示数据的平台（跳过空的 manual 等）
     const groups = plats.map(p => {
       const d = it.platforms[p] || {}, c = [];
       if (d.price != null) c.push(`<span class="market__chip market__chip--price">${cur(d)}${d.price}</span>`);
@@ -433,9 +524,14 @@
       if (d.sales != null) c.push(`<span class="market__chip">月销 ${(+d.sales).toLocaleString()}</span>`);
       if (d.bsr != null) c.push(`<span class="market__chip">Amazon 畅销榜 #${(+d.bsr).toLocaleString()}</span>`);
       if (d.jd_rank != null) c.push(`<span class="market__chip market__chip--hot">京东拍立得榜 #${d.jd_rank}</span>`);
+      if (!c.length) return '';   // 该平台没有任何可展示数据 → 不渲染空行
+      shown.push(p);
       return `<div class="market__plat"><span class="market__platname">${PLAT_LABEL[p] || p}</span>${c.join('')}</div>`;
     }).join('');
-    const src = plats.map(p => PLAT_LABEL[p] || p).join(' / ');
+    if (!shown.length) {
+      return `<div class="market market--new"><span class="market__newdot"></span>${esc((it.release_date || '').slice(0,7))} 新上市 · 暂无电商热度/销量数据（太新）</div>`;
+    }
+    const src = shown.map(p => PLAT_LABEL[p] || p).join(' / ');
     return `<div class="market">
       <div class="market__title">真实市场数据</div>
       ${groups}
@@ -505,6 +601,7 @@
   observeReveals();
   scrollFx();
   pointerFx();
+  aurora();
   easterEgg();
   addEventListener('hashchange', route);
   route();

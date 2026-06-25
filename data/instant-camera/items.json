@@ -79,64 +79,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "拧一下镜头就能开机，操作太简单了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动曝光很准，废片率低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "颜色多，外形可爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "出片快，聚会很受欢迎",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸偏贵，长期成本高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "没有手动控制，可玩性一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -146,64 +90,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "拧一下镜头就能开机，操作太简单了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动曝光很准，废片率低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "颜色多，外形可爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "出片快，聚会很受欢迎",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸偏贵，长期成本高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "没有手动控制，可玩性一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -213,64 +101,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "拧一下镜头就能开机，操作太简单了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动曝光很准，废片率低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "颜色多，外形可爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "出片快，聚会很受欢迎",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸偏贵，长期成本高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "没有手动控制，可玩性一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -302,6 +134,12 @@
         "price": 79.95,
         "bsr": 219
       },
+      "jd": {
+        "currency": "CNY",
+        "price": 668.0,
+        "as_of": "2026-06-25",
+        "source": "京东(手动·截屏读页 2026-06-25)"
+      },
       "taobao": {
         "currency": "CNY",
         "price": 389.0,
@@ -314,20 +152,20 @@
     "reviews": 6068,
     "bsr": 219,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$79.95"
@@ -412,64 +250,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "氛围感拉满，色温滤镜很出片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "终于能手动控光了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "做工和质感比 Mini 12 高级",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "价格偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "上手需要一点学习成本",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身偏重",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -479,64 +261,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "氛围感拉满，色温滤镜很出片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "终于能手动控光了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "做工和质感比 Mini 12 高级",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "价格偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "上手需要一点学习成本",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身偏重",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -546,64 +272,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "氛围感拉满，色温滤镜很出片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "终于能手动控光了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "做工和质感比 Mini 12 高级",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "价格偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "上手需要一点学习成本",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身偏重",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -642,18 +312,18 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$207.58"
@@ -730,46 +400,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "宽幅出片大气，合影神器",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动曝光省心",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身大且重，不便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "相纸更贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -779,46 +411,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "宽幅出片大气，合影神器",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动曝光省心",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身大且重，不便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "相纸更贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -828,46 +422,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "宽幅出片大气，合影神器",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动曝光省心",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身大且重，不便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "相纸更贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -906,18 +462,18 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$168"
@@ -997,64 +553,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "先看后印太省相纸了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古造型颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "滤镜组合多，玩法丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可以连手机当打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印分辨率一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "充电口还是 micro-USB",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1064,64 +564,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "先看后印太省相纸了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古造型颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "滤镜组合多，玩法丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可以连手机当打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印分辨率一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "充电口还是 micro-USB",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1131,64 +575,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "先看后印太省相纸了",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古造型颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "滤镜组合多，玩法丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可以连手机当打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印分辨率一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "充电口还是 micro-USB",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -1219,31 +607,37 @@
         "reviews": 1963,
         "price": 219.99,
         "bsr": 3438
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 1347.0,
+        "as_of": "2026-06-25",
+        "source": "京东(手动·截屏读页 2026-06-25)"
       }
     },
     "rating": 4.7,
     "reviews": 1963,
     "bsr": 3438,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -1314,46 +708,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "方画幅构图好看",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古外观有质感",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "体积偏大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "功能比较基础",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1363,46 +719,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "方画幅构图好看",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古外观有质感",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "体积偏大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "功能比较基础",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1412,46 +730,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "方画幅构图好看",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古外观有质感",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "体积偏大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "功能比较基础",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -1490,18 +770,18 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$269.94"
@@ -1599,55 +879,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "超小巧，可以挂着拍",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可远程遥控拍合影",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "配 App 选片再打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "本身不能直接出片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需要另配打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1657,55 +890,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "超小巧，可以挂着拍",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可远程遥控拍合影",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "配 App 选片再打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "本身不能直接出片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需要另配打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -1715,55 +901,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "超小巧，可以挂着拍",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可远程遥控拍合影",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "配 App 选片再打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "本身不能直接出片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需要另配打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -1802,23 +941,23 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Pal",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$38.25"
@@ -1896,55 +1035,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "声音二维码很有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "轻便好携带",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可当打印机用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "屏幕较小",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "上市时间久了，接口偏旧",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -1954,55 +1046,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "声音二维码很有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "轻便好携带",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可当打印机用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "屏幕较小",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "上市时间久了，接口偏旧",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -2012,55 +1057,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "声音二维码很有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "轻便好携带",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可当打印机用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "屏幕较小",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "上市时间久了，接口偏旧",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -2079,36 +1077,43 @@
     "hot_index": null,
     "latest_score": 0.0,
     "hot_score": 0.2703,
-    "sales_score": 0.0,
+    "sales_score": 0.0579,
     "asin": "",
     "platforms": {
       "manual": {
         "hot": 65
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 1299.0,
+        "sales": 600,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
       }
     },
     "rating": null,
     "reviews": null,
     "bsr": null,
     "pop_note": "",
-    "data_as_of": "",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$159.95"
@@ -2184,55 +1189,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "经典白边氛围感无敌",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "App 玩法丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "送的滤镜很好玩",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸最贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "成片色彩随机性大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -2242,55 +1200,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "经典白边氛围感无敌",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "App 玩法丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "送的滤镜很好玩",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸最贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "成片色彩随机性大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -2300,55 +1211,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "经典白边氛围感无敌",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "App 玩法丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "送的滤镜很好玩",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸最贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "成片色彩随机性大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Polaroid 官网",
@@ -2387,23 +1251,23 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now+ Gen 3",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$179.99"
@@ -2472,46 +1336,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "白边方画幅很经典",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动对焦实用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "暗光成片一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -2521,46 +1347,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "白边方画幅很经典",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动对焦实用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "暗光成片一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -2570,46 +1358,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "白边方画幅很经典",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动对焦实用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "暗光成片一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Polaroid 官网",
@@ -2648,23 +1398,23 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Now Gen 2",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$101.99"
@@ -2756,55 +1506,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "画质是拍立得里最好的",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "全手动可玩性极高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "内置取景器专业",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "非常贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "偏重，门槛高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -2814,55 +1517,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "画质是拍立得里最好的",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "全手动可玩性极高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "内置取景器专业",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "非常贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "偏重，门槛高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -2872,55 +1528,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "画质是拍立得里最好的",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "全手动可玩性极高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "内置取景器专业",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "非常贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "偏重，门槛高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Polaroid 官网",
@@ -2959,23 +1568,23 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid I-2",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -3042,46 +1651,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "真的很小，随身带",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "迷你白边很可爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "专用相纸选择少",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "成片偏小",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -3091,46 +1662,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "真的很小，随身带",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "迷你白边很可爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "专用相纸选择少",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "成片偏小",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -3140,46 +1673,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "真的很小，随身带",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "迷你白边很可爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "专用相纸选择少",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "成片偏小",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Polaroid 官网",
@@ -3223,20 +1718,25 @@
     "reviews": 1178,
     "bsr": 623,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-08",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
+      },
+      {
+        "name": "Wikimedia",
+        "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Go Gen 2",
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$79.99"
@@ -3303,46 +1803,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "免墨贴纸很方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "AR 滤镜小朋友喜欢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印质量一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "塑料感强",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -3352,46 +1814,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "免墨贴纸很方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "AR 滤镜小朋友喜欢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印质量一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "塑料感强",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -3401,46 +1825,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "免墨贴纸很方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "AR 滤镜小朋友喜欢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印质量一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "塑料感强",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Kodak 官网",
@@ -3479,18 +1865,18 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$99.99"
@@ -3560,37 +1946,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "造型更精致",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "延续 Mini 12 的易用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "刚上市，渠道与评价还少",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -3600,37 +1957,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "造型更精致",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "延续 Mini 12 的易用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "刚上市，渠道与评价还少",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -3640,37 +1968,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "造型更精致",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "延续 Mini 12 的易用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "刚上市，渠道与评价还少",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -3698,26 +1997,32 @@
         "reviews": 10,
         "price": 93.95,
         "bsr": 36995
+      },
+      "jd": {
+        "currency": "CNY",
+        "price": 758.0,
+        "as_of": "2026-06-25",
+        "source": "京东(手动·截屏读页 2026-06-25)"
       }
     },
     "rating": 4.1,
     "reviews": 10,
     "bsr": 36995,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$93.95"
@@ -3803,37 +2108,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "年代效果很有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "延续 Evo 的高颜值",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "价格偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -3843,37 +2119,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "年代效果很有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "延续 Evo 的高颜值",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "价格偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -3883,37 +2130,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "年代效果很有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "延续 Evo 的高颜值",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "价格偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -3932,32 +2150,40 @@
     "hot_index": null,
     "latest_score": 0.9451,
     "hot_score": 0.0,
-    "sales_score": 0.0,
+    "sales_score": 0.0021,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "taobao": {
+        "currency": "CNY",
+        "price": 2799.0,
+        "sales": 43,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
     "pop_note": "",
-    "data_as_of": "",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini Evo Cinema",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$409.95"
@@ -4023,37 +2249,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "双摄自拍更方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "声音二维码有记忆点",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸成本仍在",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -4063,37 +2260,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "双摄自拍更方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "声音二维码有记忆点",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸成本仍在",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -4103,37 +2271,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "双摄自拍更方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "声音二维码有记忆点",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "相纸成本仍在",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -4152,7 +2291,7 @@
     "hot_index": null,
     "latest_score": 0.9044,
     "hot_score": 0.001,
-    "sales_score": 0.9229,
+    "sales_score": 0.4854,
     "asin": "B0FT92QK3L",
     "platforms": {
       "amazon": {
@@ -4161,31 +2300,38 @@
         "reviews": 9,
         "price": 227.0,
         "bsr": 41975
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 1599.0,
+        "sales": 500,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
       }
     },
     "rating": 4.2,
     "reviews": 9,
     "bsr": 41975,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Instax Mini LiPlay+",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$227"
@@ -4258,37 +2404,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "自动曝光省心",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "经典商务造型",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "功能基础，可玩性一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -4298,37 +2415,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "自动曝光省心",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "经典商务造型",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "功能基础，可玩性一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -4338,37 +2426,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "自动曝光省心",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "经典商务造型",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "功能基础，可玩性一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -4387,7 +2446,7 @@
     "hot_index": null,
     "latest_score": 0.833,
     "hot_score": 0.0414,
-    "sales_score": 0.9245,
+    "sales_score": 0.9459,
     "asin": "B0F2V7RKXH",
     "platforms": {
       "amazon": {
@@ -4409,20 +2468,20 @@
     "reviews": 254,
     "bsr": 4618,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-08",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$100.92"
@@ -4496,55 +2555,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "四镜头自动对焦很准",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "暗光/强光都稳",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "做工质感好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "比 Now 系列贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身偏大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -4554,55 +2566,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "四镜头自动对焦很准",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "暗光/强光都稳",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "做工质感好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "比 Now 系列贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身偏大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -4612,55 +2577,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "四镜头自动对焦很准",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "暗光/强光都稳",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "做工质感好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "比 Now 系列贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身偏大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Polaroid 官网",
@@ -4679,7 +2597,7 @@
     "hot_index": null,
     "latest_score": 0.8346,
     "hot_score": 0.0005,
-    "sales_score": 0.7819,
+    "sales_score": 0.391,
     "asin": "B0F993TYR9",
     "platforms": {
       "amazon": {
@@ -4688,31 +2606,38 @@
         "reviews": 6,
         "price": 219.99,
         "bsr": 118349
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 1699.0,
+        "sales": 22,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
       }
     },
     "rating": 4.6,
     "reviews": 6,
     "bsr": 118349,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Polaroid+Polaroid Flip",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Polaroid 官网",
         "url": "https://www.polaroid.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "$219.99"
@@ -4788,55 +2713,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "徕卡质感与调色",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "先看后印不浪费相纸",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "能印其它徕卡机的片子",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "很贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "本质仍是低像素数码",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -4846,55 +2724,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "徕卡质感与调色",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "先看后印不浪费相纸",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "能印其它徕卡机的片子",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "很贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "本质仍是低像素数码",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -4904,55 +2735,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "徕卡质感与调色",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "先看后印不浪费相纸",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "能印其它徕卡机的片子",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "很贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "本质仍是低像素数码",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "2023-11-10",
@@ -4977,13 +2761,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-07",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "$398.34"
@@ -5044,46 +2828,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "运动相机也能即拍即打",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "ZINK 免墨、出片干燥防蹭",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "要先有 Ace Pro 2",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "套装较贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -5093,46 +2839,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "运动相机也能即拍即打",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "ZINK 免墨、出片干燥防蹭",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "要先有 Ace Pro 2",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "套装较贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -5142,46 +2850,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "运动相机也能即拍即打",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "ZINK 免墨、出片干燥防蹭",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "要先有 Ace Pro 2",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "套装较贵",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Insta360 官网",
@@ -5216,13 +2886,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "$599.99"
@@ -5278,55 +2948,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "热升华画质细腻、色彩还原好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "一体式耗材好换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "国产价格友好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "品牌海外认知度低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "耗材生态不如富士",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -5336,55 +2959,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "热升华画质细腻、色彩还原好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "一体式耗材好换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "国产价格友好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "品牌海外认知度低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "耗材生态不如富士",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -5394,55 +2970,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "热升华画质细腻、色彩还原好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "一体式耗材好换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "国产价格友好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "品牌海外认知度低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "耗材生态不如富士",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "汉印 官网",
@@ -5470,13 +2999,13 @@
     "pop_note": "",
     "data_as_of": "",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "$89"
@@ -5542,55 +3071,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "先存后选打印不浪费相纸",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "耗材便宜性价比高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "品牌新、海外认知低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "像素属入门",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -5600,55 +3082,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "先存后选打印不浪费相纸",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "耗材便宜性价比高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "品牌新、海外认知低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "像素属入门",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -5658,55 +3093,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "先存后选打印不浪费相纸",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "耗材便宜性价比高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "品牌新、海外认知低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "像素属入门",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "",
@@ -5732,13 +3120,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥644"
@@ -5796,55 +3184,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "颜值高、送礼合适",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "能打手机照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "相纸性价比高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "像素入门",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需补耗材",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -5854,55 +3195,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "颜值高、送礼合适",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "能打手机照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "相纸性价比高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "像素入门",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需补耗材",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -5912,55 +3206,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "颜值高、送礼合适",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "能打手机照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "相纸性价比高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "像素入门",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需补耗材",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "",
@@ -5968,7 +3215,7 @@
     "hot_index": null,
     "latest_score": 0.0,
     "hot_score": 0.0,
-    "sales_score": 0.0,
+    "sales_score": 0.1492,
     "asin": "",
     "platforms": {
       "jd": {
@@ -5990,15 +3237,15 @@
     "reviews": 2000,
     "bsr": null,
     "pop_note": "",
-    "data_as_of": "2026-06-07",
+    "data_as_of": "2026-06-08",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥499"
@@ -6059,55 +3306,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "自带补光环自拍友好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "圆形相纸有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "口袋便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "ZINK 画质一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "已属旧款",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -6117,55 +3317,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "自带补光环自拍友好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "圆形相纸有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "口袋便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "ZINK 画质一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "已属旧款",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -6175,55 +3328,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "自带补光环自拍友好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "圆形相纸有创意",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "口袋便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "ZINK 画质一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "已属旧款",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Canon 官网",
@@ -6251,13 +3357,13 @@
     "pop_note": "",
     "data_as_of": "",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "$149.99"
@@ -6331,73 +3437,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "4020万高分辨率，细节丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "6K视频能力强悍",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "经典旁轴造型颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可换镜头系统可扩展",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "售价偏高（京东¥11490）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需额外配镜头",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身比紧凑机大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -6407,73 +3448,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "4020万高分辨率，细节丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "6K视频能力强悍",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "经典旁轴造型颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可换镜头系统可扩展",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "售价偏高（京东¥11490）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需额外配镜头",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身比紧凑机大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -6483,73 +3459,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "4020万高分辨率，细节丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "6K视频能力强悍",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "经典旁轴造型颜值高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "可换镜头系统可扩展",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "售价偏高（京东¥11490）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "需额外配镜头",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "机身比紧凑机大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm X 官网",
@@ -6590,13 +3501,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥11490"
@@ -6676,55 +3587,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "600dpi分辨率清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连接方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格适中",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "喷墨耗材成本较高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "不支持网络打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -6734,55 +3598,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "600dpi分辨率清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连接方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格适中",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "喷墨耗材成本较高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "不支持网络打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -6792,55 +3609,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "600dpi分辨率清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连接方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格适中",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "喷墨耗材成本较高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "不支持网络打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "2024-01-01",
@@ -6848,7 +3618,7 @@
     "hot_index": null,
     "latest_score": 0.6448,
     "hot_score": 0.0,
-    "sales_score": 0.0,
+    "sales_score": 0.0178,
     "asin": "",
     "platforms": {
       "jd": {
@@ -6856,21 +3626,28 @@
         "price": 529.0,
         "as_of": "2026-06-08",
         "source": "京东商品页"
+      },
+      "taobao": {
+        "currency": "CNY",
+        "price": 474.05,
+        "sales": 200,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
       }
     },
     "rating": null,
     "reviews": null,
     "bsr": null,
     "pop_note": "",
-    "data_as_of": "2026-06-08",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥529"
@@ -6963,55 +3740,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "ZINK免墨无耗材焦虑",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "2.8英寸大屏预览",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机印照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "500万像素偏低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "ZINK画质不如热升华细腻",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -7021,55 +3751,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "ZINK免墨无耗材焦虑",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "2.8英寸大屏预览",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机印照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "500万像素偏低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "ZINK画质不如热升华细腻",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -7079,55 +3762,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "ZINK免墨无耗材焦虑",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "2.8英寸大屏预览",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机印照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "500万像素偏低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "ZINK画质不如热升华细腻",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "汉印 官网",
@@ -7146,22 +3782,30 @@
     "hot_index": null,
     "latest_score": 0.6448,
     "hot_score": 0.0,
-    "sales_score": 0.0,
+    "sales_score": 0.0479,
     "asin": "",
-    "platforms": {},
+    "platforms": {
+      "taobao": {
+        "currency": "CNY",
+        "price": 699.0,
+        "sales": 500,
+        "as_of": "2026-06-25",
+        "source": "淘宝(手动·Chrome插件读页 2026-06-25)"
+      }
+    },
     "rating": null,
     "reviews": null,
     "bsr": null,
     "pop_note": "",
-    "data_as_of": "",
+    "data_as_of": "2026-06-25",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -7223,55 +3867,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "复古造型吸引眼球",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "热升华色彩细腻",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "固件升级后出现卡死问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "操作复杂度偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -7281,55 +3878,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "复古造型吸引眼球",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "热升华色彩细腻",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "固件升级后出现卡死问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "操作复杂度偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -7339,55 +3889,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "复古造型吸引眼球",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "热升华色彩细腻",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "固件升级后出现卡死问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "操作复杂度偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "汉印 官网",
@@ -7415,13 +3918,13 @@
     "pop_note": "",
     "data_as_of": "",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""
@@ -7498,64 +4001,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6400万像素细节丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "4K视频能力",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古造型受年轻人喜爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格亲民约¥399",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "固定镜头无法更换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "非即时出片，需配打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -7565,64 +4012,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6400万像素细节丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "4K视频能力",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古造型受年轻人喜爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格亲民约¥399",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "固定镜头无法更换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "非即时出片，需配打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -7632,64 +4023,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6400万像素细节丰富",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "4K视频能力",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "复古造型受年轻人喜爱",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格亲民约¥399",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "固定镜头无法更换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "非即时出片，需配打印机",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "爱国者 官网",
@@ -7724,13 +4059,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥399"
@@ -7800,55 +4135,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6英寸打印尺寸大更精美",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动覆膜防水防刮",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "Wi-Fi+蓝牙双连接灵活",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机器体积相对较大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "热升华纸带耗材成本较高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -7858,55 +4146,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6英寸打印尺寸大更精美",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动覆膜防水防刮",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "Wi-Fi+蓝牙双连接灵活",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机器体积相对较大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "热升华纸带耗材成本较高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -7916,55 +4157,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6英寸打印尺寸大更精美",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动覆膜防水防刮",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "Wi-Fi+蓝牙双连接灵活",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机器体积相对较大",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "热升华纸带耗材成本较高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "2024-01-01",
@@ -7988,13 +4182,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥699"
@@ -8076,73 +4270,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "ZINK免墨免换耗材",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带背胶相纸可贴",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "操作简单",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "无蓝牙，不支持连手机打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 108,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印画质一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "Micro USB接口旧",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "1000万像素偏低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -8152,73 +4281,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "ZINK免墨免换耗材",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带背胶相纸可贴",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "操作简单",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "无蓝牙，不支持连手机打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 108,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印画质一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "Micro USB接口旧",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "1000万像素偏低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -8228,73 +4292,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "ZINK免墨免换耗材",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带背胶相纸可贴",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "操作简单",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "无蓝牙，不支持连手机打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 108,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印画质一般",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "Micro USB接口旧",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "1000万像素偏低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Kodak 官网",
@@ -8329,18 +4328,18 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "¥899"
@@ -8422,64 +4421,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6英寸大幅打印精美",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "AR留声功能有记忆点",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "证件照功能实用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身重（1400g）不便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印速度较慢（约58秒）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "售价偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -8489,64 +4432,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6英寸大幅打印精美",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "AR留声功能有记忆点",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "证件照功能实用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身重（1400g）不便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印速度较慢（约58秒）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "售价偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -8556,64 +4443,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "6英寸大幅打印精美",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "AR留声功能有记忆点",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "证件照功能实用",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身重（1400g）不便携",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印速度较慢（约58秒）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "售价偏高",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "汉印 官网",
@@ -8654,13 +4485,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥889"
@@ -8734,64 +4565,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "胶片质感独特无可替代",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "操作极简无需设置",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格实惠约¥168",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "需送洗等待，无法即时看到照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "张数有限（27张）用完即弃",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "无法预览",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -8801,64 +4576,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "胶片质感独特无可替代",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "操作极简无需设置",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格实惠约¥168",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "需送洗等待，无法即时看到照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "张数有限（27张）用完即弃",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "无法预览",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -8868,64 +4587,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "胶片质感独特无可替代",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "操作极简无需设置",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格实惠约¥168",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "需送洗等待，无法即时看到照片",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "张数有限（27张）用完即弃",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "无法预览",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Fujifilm 官网",
@@ -8960,23 +4623,23 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Wikimedia",
         "url": "https://commons.wikimedia.org/?search=Fujifilm+Fujifilm QuickSnap",
-        "fetched_at": "2026-06-15T09:55:13+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Fujifilm 官网",
         "url": "https://instax.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": "¥168"
@@ -9058,55 +4721,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "NFC一碰即连方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "超轻便携（约237g）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格¥499实惠",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "官网已下线，售后存疑",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印约60秒较慢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -9116,55 +4732,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "NFC一碰即连方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "超轻便携（约237g）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格¥499实惠",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "官网已下线，售后存疑",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印约60秒较慢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -9174,55 +4743,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "NFC一碰即连方便",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "超轻便携（约237g）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格¥499实惠",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "官网已下线，售后存疑",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印约60秒较慢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       }
     ],
     "release_date": "2023-01-01",
@@ -9246,13 +4768,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥499"
@@ -9330,64 +4852,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "RFID与AR功能有趣",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "300DPI打印清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连接简单",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印约94秒偏慢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印有细小条纹",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "初始电量低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -9397,64 +4863,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "RFID与AR功能有趣",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "300DPI打印清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连接简单",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印约94秒偏慢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印有细小条纹",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "初始电量低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -9464,64 +4874,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "RFID与AR功能有趣",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "300DPI打印清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连接简单",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "打印约94秒偏慢",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 83,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "打印有细小条纹",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "初始电量低",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "汉印 官网",
@@ -9556,13 +4910,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥699"
@@ -9652,64 +5006,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "约40秒快速打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带保护膜耐久",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "防尘防水适合户外",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带背胶相纸可DIY",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身较重约455g",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "相纸容量仅10张",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -9719,64 +5017,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "约40秒快速打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带保护膜耐久",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "防尘防水适合户外",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带背胶相纸可DIY",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身较重约455g",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "相纸容量仅10张",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -9786,64 +5028,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "约40秒快速打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带保护膜耐久",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "防尘防水适合户外",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "带背胶相纸可DIY",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "机身较重约455g",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "相纸容量仅10张",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Canon 官网",
@@ -9878,13 +5064,13 @@
     "pop_note": "",
     "data_as_of": "2026-06-08",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": "¥899"
@@ -9954,55 +5140,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "LCD取景器方便构图",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "礼盒套装送礼完整",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "连蓝牙时无法用相机拍照",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "APP在国内下载有问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -10012,55 +5151,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "LCD取景器方便构图",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "礼盒套装送礼完整",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "连蓝牙时无法用相机拍照",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "APP在国内下载有问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -10070,55 +5162,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "LCD取景器方便构图",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "礼盒套装送礼完整",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "蓝牙连手机打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "连蓝牙时无法用相机拍照",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "APP在国内下载有问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Kodak 官网",
@@ -10146,18 +5191,18 @@
     "pop_note": "",
     "data_as_of": "",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": ""
@@ -10231,64 +5276,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "1300万像素画质好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动覆膜照片耐久",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "300DPI清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格实惠",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "连蓝牙时相机功能受限",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "APP在国内使用有问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -10298,64 +5287,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "1300万像素画质好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动覆膜照片耐久",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "300DPI清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格实惠",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "连蓝牙时相机功能受限",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "APP在国内使用有问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -10365,64 +5298,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "1300万像素画质好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 130,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "自动覆膜照片耐久",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "300DPI清晰",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "价格实惠",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "连蓝牙时相机功能受限",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "APP在国内使用有问题",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Kodak 官网",
@@ -10450,18 +5327,18 @@
     "pop_note": "",
     "data_as_of": "",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       },
       {
         "name": "Kodak 官网",
         "url": "https://www.kodak.com/",
-        "fetched_at": "2026-06-15T09:58:11+00:00"
+        "fetched_at": "2026-06-25T05:02:04+00:00"
       }
     ],
     "price_display": ""
@@ -10531,55 +5408,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "磁吸上盖个性化可换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "App功能丰富（拼图/模板/标签）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "打印质量好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "京东（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "蓝牙匹配时间较长",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "京东（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "无法多选照片批量打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "京东（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "天猫",
@@ -10589,55 +5419,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "磁吸上盖个性化可换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "App功能丰富（拼图/模板/标签）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "打印质量好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "天猫（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "蓝牙匹配时间较长",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "天猫（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "无法多选照片批量打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "天猫（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Amazon",
@@ -10647,55 +5430,8 @@
         "currency": "CNY",
         "rating": null,
         "review_count": null,
-        "reviews_pos": [
-          {
-            "rating": 5.0,
-            "text": "磁吸上盖个性化可换",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 100,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "App功能丰富（拼图/模板/标签）",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 70,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 5.0,
-            "text": "打印质量好",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 40,
-            "source": "Amazon（示例）"
-          }
-        ],
-        "reviews_neg": [
-          {
-            "rating": 2.0,
-            "text": "蓝牙匹配时间较长",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 58,
-            "source": "Amazon（示例）"
-          },
-          {
-            "rating": 2.0,
-            "text": "无法多选照片批量打印",
-            "title": "",
-            "author": "用户***",
-            "date": "",
-            "helpful": 33,
-            "source": "Amazon（示例）"
-          }
-        ]
+        "reviews_pos": [],
+        "reviews_neg": []
       },
       {
         "name": "Canon 官网",
@@ -10723,13 +5459,13 @@
     "pop_note": "",
     "data_as_of": "",
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-15",
+    "last_seen": "2026-06-25",
     "active": true,
     "sources": [
       {
-        "name": "示例数据",
+        "name": "器材榜目录",
         "url": "",
-        "fetched_at": "2026-06-15T09:55:12+00:00"
+        "fetched_at": "2026-06-25T04:59:46+00:00"
       }
     ],
     "price_display": ""

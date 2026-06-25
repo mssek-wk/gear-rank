@@ -98,17 +98,6 @@ MSRP_USD = {
 }
 
 
-def _reviews(seller: str, pros: list[str], cons: list[str]) -> tuple[list[Review], list[Review]]:
-    """把 pros/cons 短语合成「代表性」评价对象（标注来源为示例）。
-    helpful 递减以演示 Top 排序；真实抓取接入后整体替换。"""
-    src = f"{seller}（示例）"
-    pos = [Review(rating=5.0, text=t, author="用户***", helpful=h, source=src)
-           for t, h in zip(pros, range(len(pros) * 30 + 10, 0, -30))]
-    neg = [Review(rating=2.0, text=t, author="用户***", helpful=h, source=src)
-           for t, h in zip(cons, range(len(cons) * 25 + 8, 0, -25))]
-    return pos, neg
-
-
 # 每件商品：完整字段。specs 为 (字段, 值, [来源]) 列表，体现多源交叉确认。
 _CAMERAS = [
     {
@@ -700,7 +689,7 @@ _CAMERAS = [
 
 
 class SampleAdapter(Adapter):
-    name = "示例数据"
+    name = "器材榜目录"
     _DATASETS = {"instant-camera": _CAMERAS, **_EXPANSION}
 
     def fetch(self, category_id: str) -> list[Item]:
@@ -724,11 +713,10 @@ class SampleAdapter(Adapter):
                 for s in srcs:
                     it.add_spec(fld, val, s)
             it.add_spec("上市时间", c["release"], "官方")
-            # 购买渠道：真实搜索/官网链接（评分/评价数由各平台适配器填真实值）
+            # 购买渠道：真实搜索/官网链接（评分/评价数由各平台适配器填真实值）。
+            # 不再合成「代表性示例」评价——无真实评价时前端走空状态+链接，杜绝假内容。
             for sname, url, off in _seller_search_urls(c["name"], c["brand"]):
-                pos, neg = _reviews(sname, c.get("pros", []), c.get("cons", []))
-                it.sellers.append(Seller(name=sname, url=url, is_official=off,
-                                         reviews_pos=pos, reviews_neg=neg))
+                it.sellers.append(Seller(name=sname, url=url, is_official=off))
             if it.official_url:
                 it.sellers.append(Seller(name=f"{c['brand']} 官网", url=it.official_url, is_official=True))
             # 公开市场热度/畅销信号（来自扩展产品表的「评价数/热度」列 + 公开市场认知，
