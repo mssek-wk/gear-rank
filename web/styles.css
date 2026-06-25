@@ -121,7 +121,7 @@ a { color: inherit; }
 .btn--ghost:hover { background: var(--surface-hover); box-shadow: none; }
 
 /* ---------- hero ---------- */
-.hero { position: relative; padding: clamp(72px, 13vw, 140px) 0 clamp(48px, 7vw, 84px); overflow: hidden; }
+.hero { position: relative; padding: clamp(48px, 8vw, 92px) 0 clamp(40px, 6vw, 72px); overflow: hidden; }
 .aurora {
   position: absolute; inset: 0; width: 100%; height: 100%;
   z-index: 0; opacity: .9; pointer-events: none;
@@ -169,19 +169,40 @@ a { color: inherit; }
 .stat__num { font: 500 2rem/1 var(--mono); font-variant-numeric: tabular-nums; letter-spacing: -.02em; color: var(--text); }
 .stat__label { font-size: .8rem; color: var(--text-secondary); margin-top: .35rem; }
 
-/* ---------- pills (品类) ---------- */
-.pills { display: flex; gap: .6rem; flex-wrap: wrap; margin-bottom: clamp(1.5rem, 3vw, 2.4rem); }
-.pill {
-  font: 600 .85rem/1 var(--sans);
-  padding: .6rem 1.05rem; border-radius: 999px; min-height: 40px;
-  border: 1px solid var(--border); background: var(--surface);
-  color: var(--text-secondary); cursor: pointer;
-  display: inline-flex; align-items: center; gap: .45rem;
-  transition: color .2s, border-color .2s, background .2s, transform .2s;
+/* ---------- 品类切换（主导航轴：首屏 + 醒目分段控件） ---------- */
+.catbar { margin: clamp(1.6rem, 3.5vw, 2.4rem) 0 0; }
+.catbar__label {
+  display: inline-flex; align-items: center; gap: .5rem;
+  font: 600 .72rem/1 var(--sans); letter-spacing: .16em; text-transform: uppercase;
+  color: var(--text-secondary); margin-bottom: .75rem;
 }
-.pill:hover { border-color: var(--border-hover); color: var(--text); transform: translateY(-1px); }
-.pill[aria-selected="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
-.pill__count { font: 500 .72rem/1 var(--mono); opacity: .7; }
+.pills {
+  display: inline-flex; gap: .35rem; flex-wrap: wrap; vertical-align: middle;
+  padding: .4rem; border-radius: 999px;
+  background: var(--surface); border: 1px solid var(--border);
+  backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 8px 30px rgba(0,0,0,.35);
+}
+.pill {
+  font: 600 .92rem/1 var(--sans);
+  padding: .68rem 1.25rem; border-radius: 999px; min-height: 44px;
+  border: 1px solid transparent; background: transparent;
+  color: var(--text-secondary); cursor: pointer;
+  display: inline-flex; align-items: center; gap: .5rem;
+  transition: color .2s, background .2s, box-shadow .25s, transform .2s;
+}
+.pill:hover { color: var(--text); background: var(--surface-hover); }
+.pill[aria-selected="true"] {
+  color: var(--text);
+  background: linear-gradient(135deg, var(--aurora-1), var(--aurora-3));
+  box-shadow: 0 8px 26px rgba(var(--accent-rgb), .5);
+  transform: translateY(-1px);
+}
+.pill__count {
+  font: 600 .72rem/1 var(--mono); padding: .16rem .42rem; border-radius: 999px;
+  background: rgba(var(--surface-rgb), .12); color: var(--text-secondary);
+}
+.pill[aria-selected="true"] .pill__count { background: rgba(var(--surface-rgb), .25); color: var(--text); }
 
 /* ---------- focus card (本周焦点 / hottest #1) ---------- */
 .focus {
