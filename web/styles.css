@@ -71,16 +71,22 @@ a { color: inherit; }
 .nav {
   position: sticky; top: 0; z-index: 50;
   display: flex; align-items: center; justify-content: space-between;
-  padding: .9rem clamp(1rem, 4vw, 3rem);
-  background: rgba(var(--bg-rgb), .55);
+  gap: clamp(.6rem, 1.6vw, 1.4rem);
+  padding: .55rem clamp(1rem, 4vw, 3rem);
+  background: rgba(var(--bg-rgb), .6);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid transparent;
-  transition: background .3s, border-color .3s, backdrop-filter .3s;
+  transition: background .3s, border-color .3s, box-shadow .3s;
 }
 .nav.is-scrolled {
-  background: rgba(var(--bg-rgb), .78);
-  backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  background: rgba(var(--bg-rgb), .82);
   border-bottom: 1px solid var(--border);
+  box-shadow: 0 8px 30px rgba(0,0,0,.35);
 }
+/* 品类条在导航里：紧凑分段控件 */
+.nav .pills { padding: .3rem; flex: 0 1 auto; }
+.nav .pill { padding: .52rem 1.05rem; min-height: 38px; font: 600 .88rem/1 var(--sans); }
+.nav__links { flex: none; }
 .brand { display: inline-flex; align-items: center; gap: .6rem; text-decoration: none; }
 .brand__mark {
   width: 22px; height: 22px; border-radius: 6px; flex: none; position: relative;
@@ -169,13 +175,7 @@ a { color: inherit; }
 .stat__num { font: 500 2rem/1 var(--mono); font-variant-numeric: tabular-nums; letter-spacing: -.02em; color: var(--text); }
 .stat__label { font-size: .8rem; color: var(--text-secondary); margin-top: .35rem; }
 
-/* ---------- 品类切换（主导航轴：首屏 + 醒目分段控件） ---------- */
-.catbar { margin: clamp(1.6rem, 3.5vw, 2.4rem) 0 0; }
-.catbar__label {
-  display: inline-flex; align-items: center; gap: .5rem;
-  font: 600 .72rem/1 var(--sans); letter-spacing: .16em; text-transform: uppercase;
-  color: var(--text-secondary); margin-bottom: .75rem;
-}
+/* ---------- 品类切换（常驻顶部导航：醒目分段控件） ---------- */
 .pills {
   display: inline-flex; gap: .35rem; flex-wrap: wrap; vertical-align: middle;
   padding: .4rem; border-radius: 999px;
@@ -253,7 +253,8 @@ a { color: inherit; }
 .board--sales .board__dot { background: var(--rank-sales); box-shadow: 0 0 12px rgba(var(--rank-sales-rgb), .7); }
 
 .row {
-  display: grid; grid-template-columns: 28px 46px 1fr auto; align-items: center; gap: .7rem;
+  display: grid; grid-template-columns: 28px 46px minmax(0, 1fr) minmax(0, 6.2rem);
+  align-items: center; gap: .7rem;
   padding: .6rem .35rem; border-radius: 10px; text-decoration: none; transition: background .2s;
 }
 .row:hover { background: var(--surface-hover); }
@@ -261,8 +262,9 @@ a { color: inherit; }
 .row__no--top { color: var(--text); font-weight: 600; }
 .row__thumb { width: 46px; height: 46px; border-radius: 8px; background: var(--surface-alt); display: grid; place-items: center; padding: 5px; overflow: hidden; color: var(--text-tertiary); }
 .row__thumb svg, .row__thumb img { width: 100%; height: 100%; object-fit: contain; }
-.row__name { font: 600 .9rem/1.25 var(--sans); }
-.row__brand { font-size: .74rem; color: var(--text-tertiary); }
+.row > span:nth-child(3) { min-width: 0; }   /* 名字列可收缩，防止被指标挤成竖排 */
+.row__name { font: 600 .9rem/1.25 var(--sans); display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row__brand { font-size: .74rem; color: var(--text-tertiary); display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 /* ---------- product grid + SpotlightCard + TiltedCard + GlareHover ---------- */
 .grid { display: grid; gap: 20px; }
@@ -362,8 +364,10 @@ a { color: inherit; }
 @media (max-width: 640px) {
   .grid--cards { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
   .stats { grid-template-columns: repeat(2, 1fr); }
+  .nav { flex-wrap: wrap; gap: .5rem 1rem; }
   .nav__links { gap: 1rem; }
   .nav__links .link { display: none; }
+  .nav .pills { order: 3; width: 100%; }
   .pills { overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
   .pill { flex: none; }
 }
@@ -481,7 +485,7 @@ body.viewing-detail #all { display: none; }
 }
 
 /* ================= 真实数据：榜单指标 / 评分 / 来源 ================= */
-.row__metric { font: 500 .76rem/1.2 var(--mono); color: var(--text-secondary); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+.row__metric { font: 500 .74rem/1.2 var(--mono); color: var(--text-secondary); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .board--latest .row__metric { color: var(--rank-latest); }
 .board--hot .row__metric { color: var(--rank-hot); }
 .board--sales .row__metric { color: var(--rank-sales); }

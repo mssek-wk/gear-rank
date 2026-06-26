@@ -10,14 +10,14 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <!-- 导航 -->
+  <!-- 导航：品类切换常驻顶部（主导航轴，一直可点） -->
   <header class="nav" id="nav">
     <a class="brand" href="#top" aria-label="器材榜首页">
       <span class="brand__mark" aria-hidden="true"></span>
       <span class="brand__name">器材榜 <em>Gear&nbsp;Rank</em></span>
     </a>
+    <div class="pills" id="pills" role="tablist" aria-label="硬件品类"></div>
     <nav class="nav__links" aria-label="主导航">
-      <a class="link" href="#boards">榜单</a>
       <a class="link" href="#all">全部机型</a>
       <span class="nav__meta" id="navUpdated" title="数据最近更新时间"></span>
     </nav>
@@ -38,12 +38,6 @@
         <div class="hero__cta" data-reveal>
           <a class="btn magnet" href="#boards">看本周的榜单</a>
           <a class="btn btn--ghost" href="#all">浏览全部机型</a>
-        </div>
-
-        <!-- 品类切换：主导航轴，提到首屏并突出 -->
-        <div class="catbar" data-reveal>
-          <span class="catbar__label"><span class="eyebrow__dot"></span>选择品类</span>
-          <div class="pills" id="pills" role="tablist" aria-label="硬件品类"></div>
         </div>
 
         <div class="stats" id="stats" data-reveal aria-label="数据概览"></div>

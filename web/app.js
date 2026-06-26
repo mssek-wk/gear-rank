@@ -54,16 +54,17 @@
   const bucket = (cid) => DATA.byCategory[cid] || { items: [], boards: {} };
   const itemMap = (cid) => Object.fromEntries(bucket(cid).items.map(i => [i.id, i]));
 
-  /* ---------- 渲染：品类 pills ---------- */
+  /* ---------- 渲染：品类 pills（首屏 + 吸顶双容器，委托点击联动） ---------- */
   function renderPills() {
-    const el = $('#pills');
-    el.innerHTML = cats.map(c => `
-      <button class="pill" role="tab" data-cat="${c.id}"
-        aria-selected="${c.id === activeCat}">
-        ${c.name} <span class="pill__count">${c.count}</span>
-      </button>`).join('');
-    el.querySelectorAll('.pill').forEach(p =>
-      p.addEventListener('click', () => { activeCat = p.dataset.cat; renderCategory(); }));
+    const html = cats.map(c =>
+      `<button class="pill" role="tab" data-cat="${c.id}" aria-selected="${c.id === activeCat}">${c.name} <span class="pill__count">${c.count}</span></button>`).join('');
+    $('#pills').innerHTML = html;
+    // 委托：两条品类条任意 pill 点击都切换品类并同步
+    document.addEventListener('click', (ev) => {
+      const p = ev.target.closest('.pill[data-cat]'); if (!p) return;
+      if (p.dataset.cat === activeCat) return;
+      activeCat = p.dataset.cat; renderCategory();
+    });
   }
 
   /* ---------- 渲染：本周焦点（当前品类最火第一名） ---------- */
@@ -93,13 +94,21 @@
   // metric(it) 返回该榜单这一行要展示的「真实依据值」
   // pop_note 是「数据支撑」文案（真实评价数/销量证据或定性依据）。按关键词挑出与该榜相关的片段，
   // 拿不到平台数字时作为可见依据回退展示，让最火/最畅销不再空白。
+  const clipNote = (s, n = 9) => {
+    s = String(s || '').replace(/（[^）]*）/g, '').replace(/\([^)]*\)/g, '').trim();
+    return s.length > n ? s.slice(0, n) + '…' : s;
+  };
+  // 从长片段里抽「数字+单位」信号（如 6万+付款 / 20万+评价 / 98.9%好评）
+  const SIG = /[\d.]+\s*[万千亿]?\+?\s*(?:人?付款|条?评价|加购|售出|好评率?\s*[\d.]*%?)|[\d.]+%\s*好评/;
   const pickNote = (note, kind) => {
     if (!note) return '';
-    const parts = note.split(' · ');
-    const wants = kind === 'hot' ? ['评价', '热度', '关注', '缺货', '新品', '口碑']
-                                 : ['付款', '销量', '畅销', '主销', '在售', '走量', '热卖'];
-    const hit = parts.find(p => wants.some(w => p.includes(w)));
-    return hit || note;
+    const parts = note.split(/\s*·\s*/).map(s => s.trim()).filter(Boolean);   // 分隔符宽松
+    const wants = kind === 'hot' ? ['好评', '评价', '热度', '关注', '缺货', '新品', '口碑', '人气']
+                                 : ['已售', '付款', '销量', '畅销', '加购', '万+', '售出'];
+    const hit = parts.find(p => wants.some(w => p.includes(w))) || parts[0] || note;
+    if (hit.replace(/（[^）]*）/g, '').trim().length <= 13) return clipNote(hit);
+    const m = hit.match(SIG);                      // 长片段：优先抽出数字信号
+    return m ? clipNote(m[0]) : clipNote(hit);
   };
   const BOARD_DEFS = [
     { key: 'latest', cls: 'latest', title: '最新', sub: '官方上市日期',
@@ -181,7 +190,7 @@
 
   /* ---------- 切换品类时重渲染依赖品类的区块 ---------- */
   function renderCategory() {
-    $('#pills').querySelectorAll('.pill').forEach(p =>
+    document.querySelectorAll('.pill[data-cat]').forEach(p =>
       p.setAttribute('aria-selected', String(p.dataset.cat === activeCat)));
     renderFocus(); renderBoards(); renderAll();
     observeReveals();
@@ -586,7 +595,7 @@
       renderDetail(decodeURIComponent(m[1]));
       scrollTo(0, 0);
     } else {
-      document.title = '器材榜 · 拍立得 — 最新 / 最火 / 最畅销';
+      document.title = '器材榜 — 最新 / 最火 / 最畅销';
     }
   }
 
